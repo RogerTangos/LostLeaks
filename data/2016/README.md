@@ -1,6 +1,16 @@
-This folder contains records of leaks and repairs from Massachusetts utility companies in 2016. Because the data is released yearly, it is data _from_ 2016, but released in _2017_.
+# This is the folder for data from 2016.
+Because of the Massachusetts [Department of Public Utilities](http://www.mass.gov/eea/grants-and-tech-assistance/guidance-technical-assistance/agencies-and-divisions/dpu/) release schedule, this data would have been released in early 2017.
 
-Filenames are structured as follows:
-YYYY_UTILITY_NAME[(SUB_COMPANY)]_leaks/repairs.csv
+----
+## How is this Directory Structured?
+### 0. Origin
+This folder contains data that was downloaded from the department of public utilities. No editing (aside from changing filenames, where necessary) has been done.
 
-The 2016_raw_files_from_HEETMA are what we received from the [HEETMA](http://www.heetma.org/) nonprofit. They get the data from the [Massachusetts Department of Public Utilities](http://www.mass.gov/eea/grants-and-tech-assistance/guidance-technical-assistance/agencies-and-divisions/dpu/), and do some manual cleanup of the PDF's, CSV's, etc.
+### 1. HEETMA Extract
+These are the .`xls`, `.xlxs`, and `.csv` files that [HEETMA](http://www.heetma.org/) prepared for the project. Data was extracted from the `0. Origin` folder.
+
+### 2. Pre-Process
+These are `.csv` files being prepared for upload to a geocoding API. They are edited versions of those files in `1. HEETMA Extract`
+
+### 3. JSON
+This contains `.json` responses from the geocoding api, and scripts for using the gecoding api. Subdirectories and files are named according to the utility company and ID's of leaks and repairs.
