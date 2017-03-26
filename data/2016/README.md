@@ -9,6 +9,10 @@ This folder contains data that was downloaded from the department of public util
 ### 1. HEETMA Extract
 These are the .`xls`, `.xlxs`, and `.csv` files that [HEETMA](http://www.heetma.org/) prepared for the project. Data was extracted from the `0. Origin` folder.
 
+*Do not edit these files.* Instead, copy them into Pre-Process and edit them (as necessary) there.
+
+The naming scheme for CSV's is `YYYY_UTILITYCOMPANY(SUBUTILITYCOMPANY)_LEAKS/REPAIRS`
+
 ### 2. Pre-Process
 These are `.csv` files being prepared for upload to a geocoding API. They are edited versions of those files in `1. HEETMA Extract`
 
