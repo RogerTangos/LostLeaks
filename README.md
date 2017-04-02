@@ -19,4 +19,4 @@ Between 2014 and 2015, a suspiciously large number of leaks disappeared from the
 Please make sure to keep the requirements.txt file up to date, and keep the existing folder structure in place, or at least consistent across years. If you need to move files around, use `git mv`, so that it doesn't look that moved files were deleted and then added.
 
 ## Where can I reach you?
-[Submit an issue](https://github.com/RogerTangos/LostLeaks/issues). You can also find me on the [Progressive Coder's Network](http://progcode.co/) slack at arcarter.
+[Submit an issue](https://github.com/RogerTangos/LostLeaks/issues). You can also find us on the [Progressive Coder's Network](http://progcode.co/) slack at @al_carter and @countzero.
