@@ -108,7 +108,7 @@ class Geolocator(object):
         elif (status == 'ZERO_RESULTS') or (status == 'INVALID_REQUEST'):
             print('%s is invalid. Skipping' % sanit)
         elif status == 'OK' and len(content.get('results', [])) > 0:
-            # extract some variables
+            result = content['results'][0]
             print(result)
         
 
