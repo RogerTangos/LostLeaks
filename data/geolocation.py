@@ -47,7 +47,7 @@ class EversourcePreprocessor(HEETMAPreprocessor):
             with open(self.preprocessed_leak_filename_path,"w+",newline='') as fw:
 
                 w = csv.writer(fw,delimiter=",")
-                w.writerow(["ID","COMPOUND ADDRESS","ADDRESS","TOWN","INTERSECTION","CLASSIFIED,GRADE"])
+                w.writerow(["ID","COMPOUND ADDRESS","ADDRESS","TOWN","INTERSECTION","DATE_RECORDED","GRADE"])
 
                 eversource_data = csv.reader(fr,delimiter=",")
 
