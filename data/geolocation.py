@@ -17,6 +17,7 @@ class HEETMAPreprocessor(object):
     def __init__(self, year, company, subcompany=""):
         self.year = str(year)
         self.company = company
+
         if len(subcompany) > 0:
             self.subcompany = "(" + subcompany + ")"
         else:
@@ -150,7 +151,6 @@ class Geolocator(object):
         elif (status == 'ZERO_RESULTS') or (status == 'INVALID_REQUEST'):
             print('%s is invalid. Skipping' % address)
         elif status == 'OK' and len(content.get('results', [])) > 0:
-            # extract some variables
             print(res)
 
 
@@ -165,11 +165,12 @@ def main():
     ng_cg.parse()
 
     # test_address = "ACUSHNET AND BROOKLAWN CT NEW BEDFORD MA"
+    # gl = Geolocator()
+    # gl.get_latitude_and_longitude(test_address)
 
     # gl = Geolocator()
 
     # gl.get_latitude_and_longitude(test_address)
-
 
 if __name__ == '__main__':
     main()
