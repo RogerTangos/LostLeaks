@@ -2,7 +2,7 @@ import csv
 import os
 from urllib import parse as urllib_parse
 import requests
-from abc import ABCMeta, abstractclassmethod
+import hashlib
 
 
 class HEETMAPreprocessor(object):
@@ -13,7 +13,6 @@ class HEETMAPreprocessor(object):
     :param company: company name
     :param subcompany: subcompany name (ngrid owns colonial gas for instance)
     """
-    __metaclass__ = ABCMeta
 
     def __init__(self, year, company, subcompany=""):
         self.year = str(year)
@@ -27,39 +26,24 @@ class HEETMAPreprocessor(object):
         self.leak_filename_path = os.path.join(
             self.year, "1. HEETMA Extract", self.year + "_" +
             self.company + self.subcompany + "_leaks.csv")
-
         self.preprocessed_leak_filename_path = os.path.join(
-            self.year, "2. Pre-Process", "preprocessed_" + self.year + "_" +
-            self.company + self.subcompany + "_leaks.csv")
-
-    @abstractclassmethod
-    def parse(self):
-        """return data from company
-        """
-        return
-
-
-class EversourcePreprocessor(HEETMAPreprocessor):
-    def __init__(self, year):
-        super().__init__(year, "eversource")
-        # dictionary matching header to index in a row
-        self.headers = {"town": 0, "address": 1, "intersecting_street": 2,
-                        "leak_grade": 3, "date_reported": 4, "note": 5}
+            self.year, "2. Pre-Process", "preprocessed_" + self.year +
+            "_" + self.company + self.subcompany + "_leaks.csv")
 
     def parse(self):
-
-        with open(self.leak_filename_path, "r") as fr:
-            with open(self.preprocessed_leak_filename_path, "w+") as fw:
+        with open(self.leak_filename_path, "r", newline='') as fr:
+            with open(self.preprocessed_leak_filename_path, "w+",
+                      newline='') as fw:
 
                 w = csv.writer(fw, delimiter=",")
                 w.writerow(["ID", "COMPOUND ADDRESS", "ADDRESS",
                             "TOWN", "INTERSECTION", "DATE RECORDED", "GRADE"])
 
-                eversource_data = csv.reader(fr, delimiter=",")
+                raw_data = csv.reader(fr, delimiter=",")
 
                 first_row = True
-                primary_key = 1
-                for row in eversource_data:
+                for row in raw_data:
+
                     if first_row:
                         first_row = False
                         continue
@@ -69,25 +53,73 @@ class EversourcePreprocessor(HEETMAPreprocessor):
                     else:
                         # the 1: slice is to ignore the @ symbol
                         intersecting_address = " AND " + \
-                            row[self.headers["intersecting_street"]][2:]
+                            row[self.headers["intersecting_street"]][2:] \
+                            .strip()
 
-                    address = row[self.headers["address"]]
-                    + intersecting_address
-                    + " " + (row[self.headers["town"]] + " MA")
+                    address = row[self.headers["address"]].strip() + \
+                        intersecting_address + " " \
+                        + row[self.headers["town"]].strip() + " MA"
 
-                    w.writerow([str(primary_key), str(address),
+                    primary_key = "%s%s%s%s%s%s" % (address,
+                                                    row[self.headers[
+                                                        "address"]],
+                                                    row[self.headers["town"]],
+                                                    row[self.headers[
+                                                        "intersecting_street"]
+                                                        ],
+                                                    row[
+                                                        self.headers
+                                                        ["date_reported"]],
+                                                    row[self.headers
+                                                        ["leak_grade"]])
+
+                    md5 = hashlib.md5()
+
+                    md5.update(bytes(primary_key, 'utf-8'))
+
+                    w.writerow([str(md5.hexdigest()),
+                                str(address),
                                 row[self.headers["address"]],
-                                row[self.headers["town"]], row[
-                                    self.headers["intersecting_street"]],
+                                row[self.headers["town"]],
+                                row[self.headers["intersecting_street"]],
                                 row[self.headers["date_reported"]],
                                 row[self.headers["leak_grade"]]])
 
-                    primary_key += 1
 
-                    # print(address)
+class NationalGridPreprocessor(HEETMAPreprocessor):
+    def __init__(self, year, subcompany):
+        super().__init__(year, "ngrid", subcompany)
+
+        keys = ["address", "intersecting_street", "town",
+                "date_reported",
+                "leak_grade",
+                "note"]
+
+        if subcompany is "boston_gas":
+            header_locations = [1, 2, 3, 4, 6, 7]
+        elif subcompany is "colonial_gas":
+            # town doesn't exist in colonial gas data
+            header_locations = [1, 2, 0, 4, 3, 5]
+        else:
+            print("Please enter a valid subcompany for National Grid!")
+            raise ValueError
+
+        # this maps from the data we want to the unique header for each company
+        self.headers = dict(zip(keys, header_locations))
+
+
+class EversourcePreprocessor(HEETMAPreprocessor):
+    def __init__(self, year):
+        super().__init__(year, "eversource")
+        # dictionary matching header to index in a row
+        self.headers = {"town": 0, "address": 1, "intersecting_street": 2,
+                        "leak_grade": 3, "date_reported": 4, "note": 5}
 
 
 class Geolocator(object):
+    """More or less a stub used for testing our preprocessors for now.
+        This will change in the future
+    """
 
     def __init__(self):
         # This api key is just for testing at the moment
@@ -118,19 +150,26 @@ class Geolocator(object):
         elif (status == 'ZERO_RESULTS') or (status == 'INVALID_REQUEST'):
             print('%s is invalid. Skipping' % address)
         elif status == 'OK' and len(content.get('results', [])) > 0:
-            result = content['results'][0]
-            print(result)
+            print(res)
 
 
 def main():
-    pass
-    # es =EversourcePreprocessor(2016)
-    # es.parse()
+    es = EversourcePreprocessor(2016)
+    es.parse()
+
+    ng_bg = NationalGridPreprocessor(2016, "boston_gas")
+    ng_bg.parse()
+
+    ng_cg = NationalGridPreprocessor(2016, "colonial_gas")
+    ng_cg.parse()
 
     # test_address = "ACUSHNET AND BROOKLAWN CT NEW BEDFORD MA"
     # gl = Geolocator()
     # gl.get_latitude_and_longitude(test_address, state)
 
+    # gl = Geolocator()
+
+    # gl.get_latitude_and_longitude(test_address)
 
 if __name__ == '__main__':
     main()
