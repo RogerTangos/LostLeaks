@@ -126,7 +126,7 @@ class Geolocator(object):
         self.api_key = ""
         self.region = "us"
 
-    def get_latitude_and_longitude(self, address):
+    def get_latitude_and_longitude(self, address, state):
 
         if self.api_key == "":
             print("Please enter an api key!")
@@ -136,9 +136,8 @@ class Geolocator(object):
 
         URI = (
             'https://maps.googleapis.com/maps/api/geocode/json?'
-            'address=%s&region=%s&key=%s' %
-            (percent_encoded_address,
-                self.region, self.api_key))
+            'address=%s&region=%s&components=administrative_area:%s&key=%s'
+            % (percent_encoded_address, self.region, state, self.api_key))
 
         res = requests.get(URI)
 
@@ -166,7 +165,7 @@ def main():
 
     # test_address = "ACUSHNET AND BROOKLAWN CT NEW BEDFORD MA"
     # gl = Geolocator()
-    # gl.get_latitude_and_longitude(test_address)
+    # gl.get_latitude_and_longitude(test_address, state)
 
     # gl = Geolocator()
 
