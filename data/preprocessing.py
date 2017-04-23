@@ -85,6 +85,7 @@ class HEETMAPreprocessor(object):
 
 
 class NationalGridPreprocessor(HEETMAPreprocessor):
+
     def __init__(self, year, subcompany):
         super().__init__(year, "ngrid", subcompany)
 
@@ -107,8 +108,25 @@ class NationalGridPreprocessor(HEETMAPreprocessor):
 
 
 class EversourcePreprocessor(HEETMAPreprocessor):
+
     def __init__(self, year):
         super().__init__(year, "eversource")
         # dictionary matching header to index in a row
         self.headers = {"town": 0, "address": 1, "intersecting_street": 2,
                         "leak_grade": 3, "date_reported": 4, "note": 5}
+
+
+def main():
+    # es = EversourcePreprocessor(2016)
+    # es.parse()
+
+    # ng_bg = NationalGridPreprocessor(2016, "boston_gas")
+    # ng_bg.parse()
+
+    # ng_cg = NationalGridPreprocessor(2016, "colonial_gas")
+    # ng_cg.parse()
+    pass
+
+
+if __name__ == '__main__':
+    main()

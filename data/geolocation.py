@@ -41,18 +41,18 @@ class Geolocator(object):
 
 
 def main():
-    es = EversourcePreprocessor(2016)
-    es.parse()
+    # es = EversourcePreprocessor(2016)
+    # es.parse()
 
-    ng_bg = NationalGridPreprocessor(2016, "boston_gas")
-    ng_bg.parse()
+    # ng_bg = NationalGridPreprocessor(2016, "boston_gas")
+    # ng_bg.parse()
 
-    ng_cg = NationalGridPreprocessor(2016, "colonial_gas")
-    ng_cg.parse()
+    # ng_cg = NationalGridPreprocessor(2016, "colonial_gas")
+    # ng_cg.parse()
 
     # test_address = "ACUSHNET AND BROOKLAWN CT NEW BEDFORD MA"
-    # gl = Geolocator()
-    # gl.get_latitude_and_longitude(test_address, state)
+    gl = Geolocator()
+    gl.get_latitude_and_longitude(test_address, state)
 
     # gl = Geolocator()
 
