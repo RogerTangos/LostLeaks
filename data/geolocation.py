@@ -1,5 +1,6 @@
 import csv
 import os
+from secret import GOOGLE_API_KEY
 from urllib import parse as urllib_parse
 import requests
 import hashlib
@@ -156,7 +157,7 @@ class GeolocationWorker(Thread):
         Thread.__init__(self)
         self.queue = queue
         # This api key is just for testing at the moment
-        self.api_key = "AIzaSyCG9f7fDn2OHPc4XR9t7cs7h9eKwGjtfJE"
+        self.api_key = GOOGLE_API_KEY
         self.region = "us"
 
     def get_location_data(self, address):
