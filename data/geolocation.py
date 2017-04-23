@@ -3,6 +3,8 @@ import os
 from urllib import parse as urllib_parse
 import requests
 import hashlib
+from threading import Thread
+from queue import Queue
 
 
 class HEETMAPreprocessor(object):
@@ -30,7 +32,7 @@ class HEETMAPreprocessor(object):
             self.year, "2. Pre-Process", "preprocessed_" + self.year +
             "_" + self.company + self.subcompany + "_leaks.csv")
 
-    def parse(self):
+    def preprocess(self):
         with open(self.leak_filename_path, "r", newline='') as fr:
             with open(self.preprocessed_leak_filename_path, "w+",
                       newline='') as fw:
@@ -117,16 +119,47 @@ class EversourcePreprocessor(HEETMAPreprocessor):
 
 
 class Geolocator(object):
-    """More or less a stub used for testing our preprocessors for now.
-        This will change in the future
-    """
 
-    def __init__(self):
+    def __init__(self, preprocessed_file_location):
+        self.preprocessed_file_location = preprocessed_file_location
+
+    def start(self):
+        with open(self.preprocessed_file_location, "r", newline='') as fr:
+            preprocessed_data = csv.reader(fr, delimiter=",")
+
+            # create a multi-producers/worker aware queue
+            q = Queue()
+
+            # put addresses in queue
+
+            # row[1] = "COMPOUND ADDRESS"
+            first_row = True
+            for row in preprocessed_data:
+                if first_row:
+                    first_row = False
+                    continue
+
+                compound_address = row[1]
+                # print(compound_address)
+                q.put(compound_address)
+
+            # setup consumers and start
+            for i in range(4):
+                worker = GeolocationWorker(q)
+                worker.daemon = False
+                worker.start()
+
+
+class GeolocationWorker(Thread):
+
+    def __init__(self, queue):
+        Thread.__init__(self)
+        self.queue = queue
         # This api key is just for testing at the moment
-        self.api_key = ""
+        self.api_key = "AIzaSyCG9f7fDn2OHPc4XR9t7cs7h9eKwGjtfJE"
         self.region = "us"
 
-    def get_latitude_and_longitude(self, address, state):
+    def get_location_data(self, address):
 
         if self.api_key == "":
             print("Please enter an api key!")
@@ -136,8 +169,8 @@ class Geolocator(object):
 
         URI = (
             'https://maps.googleapis.com/maps/api/geocode/json?'
-            'address=%s&region=%s&components=administrative_area:%s&key=%s'
-            % (percent_encoded_address, self.region, state, self.api_key))
+            'address=%s&region=%s&key=%s'
+            % (percent_encoded_address, self.region, self.api_key))
 
         res = requests.get(URI)
 
@@ -148,28 +181,51 @@ class Geolocator(object):
         if status == 'OVER_QUERY_LIMIT':
             raise Exception('API is over query limit')
         elif (status == 'ZERO_RESULTS') or (status == 'INVALID_REQUEST'):
-            print('%s is invalid. Skipping' % address)
+            print('%s is invalid. Skipping' % percent_encoded_address)
         elif status == 'OK' and len(content.get('results', [])) > 0:
-            print(res)
+            # extract some variables
+            result = content['results'][0]
+
+            lat = result['geometry']['location']['lat']
+            lng = result['geometry']['location']['lng']
+            location_type = result['geometry']['location_type']
+            return (lat, lng, location_type)
+
+    def run(self):
+        data_to_consume = True
+        while data_to_consume:
+            # get work from queue
+            compound_address = self.queue.get()
+
+            print(self.get_location_data(compound_address))
+
+            # signal you're done
+            self.queue.task_done()
+
+            # this is fine since, the queue size is
+            # of a finite size when we start our threads
+            if self.queue.qsize() == 0:
+                data_to_consume = False
 
 
 def main():
-    es = EversourcePreprocessor(2016)
-    es.parse()
+    # es = EversourcePreprocessor(2016)
+    # es.preprocess()
 
-    ng_bg = NationalGridPreprocessor(2016, "boston_gas")
-    ng_bg.parse()
+    # ng_bg = NationalGridPreprocessor(2016, "boston_gas")
+    # ng_bg.preprocess()
 
-    ng_cg = NationalGridPreprocessor(2016, "colonial_gas")
-    ng_cg.parse()
+    # ng_cg = NationalGridPreprocessor(2016, "colonial_gas")
+    # ng_cg.preprocess()
 
-    # test_address = "ACUSHNET AND BROOKLAWN CT NEW BEDFORD MA"
-    # gl = Geolocator()
-    # gl.get_latitude_and_longitude(test_address, state)
+    gl = Geolocator(os.path.join(
+        "2016", "2. Pre-Process", "PREPROCESS_FILENAME"))
+    gl.start()
 
     # gl = Geolocator()
 
     # gl.get_latitude_and_longitude(test_address)
+
 
 if __name__ == '__main__':
     main()
