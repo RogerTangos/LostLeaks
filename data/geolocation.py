@@ -160,7 +160,7 @@ class GeolocationWorker(Thread):
         self.api_key = GOOGLE_API_KEY
         self.region = "us"
 
-    def get_location_data(self, address):
+    def get_location_data(self, address, state):
 
         if self.api_key == "":
             print("Please enter an api key!")
@@ -170,8 +170,8 @@ class GeolocationWorker(Thread):
 
         URI = (
             'https://maps.googleapis.com/maps/api/geocode/json?'
-            'address=%s&region=%s&key=%s'
-            % (percent_encoded_address, self.region, self.api_key))
+            'address=%s&region=%s&components=administrative_area:%s&key=%s'
+            % (percent_encoded_address, self.region, state, self.api_key))
 
         res = requests.get(URI)
 
@@ -198,7 +198,7 @@ class GeolocationWorker(Thread):
             # get work from queue
             compound_address = self.queue.get()
 
-            print(self.get_location_data(compound_address))
+            print(self.get_location_data(compound_address, 'MA'))
 
             # signal you're done
             self.queue.task_done()
