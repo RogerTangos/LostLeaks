@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_906a25fddea98159406be50fc169a5ca.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "46",
+                    "short_name": "46",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harvard Drive",
+                    "short_name": "Harvard Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1208",
+                    "short_name": "1208",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "46 Harvard Dr, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.149332,
+                        "lng": -71.546793
+                    },
+                    "southwest": {
+                        "lat": 42.1493207,
+                        "lng": -71.546804
+                    }
+                },
+                "location": {
+                    "lat": 42.1493207,
+                    "lng": -71.546793
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1506753302915,
+                        "lng": -71.5454495197085
+                    },
+                    "southwest": {
+                        "lat": 42.1479773697085,
+                        "lng": -71.5481474802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiU0NiBIYXJ2YXJkIERyLCBNaWxmb3JkLCBNQSAwMTc1NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "906a25fddea98159406be50fc169a5ca",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:29.065404",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

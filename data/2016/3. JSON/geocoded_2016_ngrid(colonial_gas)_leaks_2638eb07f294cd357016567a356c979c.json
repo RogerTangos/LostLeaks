@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_2638eb07f294cd357016567a356c979c.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "495",
+                    "short_name": "495",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Winter Street",
+                    "short_name": "Winter St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01702",
+                    "short_name": "01702",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "495 Winter St, Framingham, MA 01702, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2859864,
+                        "lng": -71.4428772
+                    },
+                    "southwest": {
+                        "lat": 42.2859848,
+                        "lng": -71.4428958
+                    }
+                },
+                "location": {
+                    "lat": 42.2859848,
+                    "lng": -71.4428958
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.28733458029151,
+                        "lng": -71.44153751970849
+                    },
+                    "southwest": {
+                        "lat": 42.28463661970851,
+                        "lng": -71.4442354802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig0OTUgV2ludGVyIFN0LCBGcmFtaW5naGFtLCBNQSAwMTcwMiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2638eb07f294cd357016567a356c979c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:40.386856",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_dc1b87282b35ba51f291727d69d78e08.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Spellman Road",
+                    "short_name": "Spellman Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Westwood",
+                    "short_name": "Westwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02090",
+                    "short_name": "02090",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Spellman Rd & Glandore Rd, Westwood, MA 02090, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2115008,
+                    "lng": -71.1693288
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2128497802915,
+                        "lng": -71.16797981970849
+                    },
+                    "southwest": {
+                        "lat": 42.2101518197085,
+                        "lng": -71.1706777802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjJTcGVsbG1hbiBSZCAmIEdsYW5kb3JlIFJkLCBXZXN0d29vZCwgTUEgMDIwOTAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "dc1b87282b35ba51f291727d69d78e08",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:26.604918",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

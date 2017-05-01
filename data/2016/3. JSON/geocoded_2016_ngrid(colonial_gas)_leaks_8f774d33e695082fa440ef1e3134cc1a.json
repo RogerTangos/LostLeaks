@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_8f774d33e695082fa440ef1e3134cc1a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Eames Avenue",
+                    "short_name": "Eames Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01603",
+                    "short_name": "01603",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Eames Ave, Worcester, MA 01603, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2276206,
+                        "lng": -71.8491719
+                    },
+                    "southwest": {
+                        "lat": 42.22751359999999,
+                        "lng": -71.8492749
+                    }
+                },
+                "location": {
+                    "lat": 42.22756709999999,
+                    "lng": -71.84922340000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2289160802915,
+                        "lng": -71.8478744197085
+                    },
+                    "southwest": {
+                        "lat": 42.22621811970851,
+                        "lng": -71.85057238029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJPVa6m3AE5IkRIP3Q7c-qwPw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8f774d33e695082fa440ef1e3134cc1a",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:02:46.935295",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_33b76dd7e727e97e96f0b306589491e1.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bowdoin Drive",
+                    "short_name": "Bowdoin Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1255",
+                    "short_name": "1255",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Bowdoin Dr, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1616288,
+                        "lng": -71.54703839999999
+                    },
+                    "southwest": {
+                        "lat": 42.1616191,
+                        "lng": -71.547052
+                    }
+                },
+                "location": {
+                    "lat": 42.1616191,
+                    "lng": -71.54703839999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1629729302915,
+                        "lng": -71.54569621970849
+                    },
+                    "southwest": {
+                        "lat": 42.1602749697085,
+                        "lng": -71.5483941802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQyIEJvd2RvaW4gRHIsIE1pbGZvcmQsIE1BIDAxNzU3LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "33b76dd7e727e97e96f0b306589491e1",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:04:52.724964",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

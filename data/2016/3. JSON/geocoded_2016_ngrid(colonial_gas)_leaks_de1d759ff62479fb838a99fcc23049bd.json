@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_de1d759ff62479fb838a99fcc23049bd.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "199",
+                    "short_name": "199",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Speen Street",
+                    "short_name": "Speen St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Natick",
+                    "short_name": "Natick",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01760",
+                    "short_name": "01760",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "199 Speen St, Natick, MA 01760, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2897257,
+                        "lng": -71.3758544
+                    },
+                    "southwest": {
+                        "lat": 42.2897223,
+                        "lng": -71.3758726
+                    }
+                },
+                "location": {
+                    "lat": 42.2897257,
+                    "lng": -71.3758544
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2910729802915,
+                        "lng": -71.3745145197085
+                    },
+                    "southwest": {
+                        "lat": 42.2883750197085,
+                        "lng": -71.3772124802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMxOTkgU3BlZW4gU3QsIE5hdGljaywgTUEgMDE3NjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "de1d759ff62479fb838a99fcc23049bd",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:04:52.223723",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

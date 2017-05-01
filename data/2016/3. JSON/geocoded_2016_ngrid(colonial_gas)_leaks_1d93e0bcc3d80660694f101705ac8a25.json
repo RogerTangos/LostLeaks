@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_1d93e0bcc3d80660694f101705ac8a25.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "102",
+                    "short_name": "102",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mount Pleasant Street",
+                    "short_name": "Mt Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5609",
+                    "short_name": "5609",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "102 Mt Pleasant St, New Bedford, MA 02740, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6516668,
+                        "lng": -70.9361649
+                    },
+                    "southwest": {
+                        "lat": 41.6515343,
+                        "lng": -70.93640529999999
+                    }
+                },
+                "location": {
+                    "lat": 41.65160059999999,
+                    "lng": -70.93628509999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6529495302915,
+                        "lng": -70.93493611970848
+                    },
+                    "southwest": {
+                        "lat": 41.6502515697085,
+                        "lng": -70.9376340802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJPQyAGXLk5IkR9IFCvD844ys",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1d93e0bcc3d80660694f101705ac8a25",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:02:57.586734",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

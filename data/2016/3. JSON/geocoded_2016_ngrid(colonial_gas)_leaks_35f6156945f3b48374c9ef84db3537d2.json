@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_35f6156945f3b48374c9ef84db3537d2.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "878",
+                    "short_name": "878",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Belleville Avenue",
+                    "short_name": "Belleville Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02745",
+                    "short_name": "02745",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "878 Belleville Ave, New Bedford, MA 02745, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.679728,
+                        "lng": -70.9203191
+                    },
+                    "southwest": {
+                        "lat": 41.6796527,
+                        "lng": -70.9204401
+                    }
+                },
+                "location": {
+                    "lat": 41.6796903,
+                    "lng": -70.92037959999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6810393302915,
+                        "lng": -70.9190306197085
+                    },
+                    "southwest": {
+                        "lat": 41.6783413697085,
+                        "lng": -70.9217285802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJf5VfQM3l5IkRijMJcPrmAJw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "35f6156945f3b48374c9ef84db3537d2",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:09:30.009457",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

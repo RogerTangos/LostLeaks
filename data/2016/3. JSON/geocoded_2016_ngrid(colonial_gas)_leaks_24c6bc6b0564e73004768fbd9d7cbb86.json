@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_24c6bc6b0564e73004768fbd9d7cbb86.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Millbury",
+                    "short_name": "Millbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01527",
+                    "short_name": "01527",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Elm St & River St, Millbury, MA 01527, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.189265,
+                    "lng": -71.7640332
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1906139802915,
+                        "lng": -71.7626842197085
+                    },
+                    "southwest": {
+                        "lat": 42.1879160197085,
+                        "lng": -71.76538218029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EipFbG0gU3QgJiBSaXZlciBTdCwgTWlsbGJ1cnksIE1BIDAxNTI3LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "24c6bc6b0564e73004768fbd9d7cbb86",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:20.232201",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_c8273ffe74cac1908a06391626b79f97.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "102",
+                    "short_name": "102",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oxford Street North",
+                    "short_name": "Oxford St N",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburn",
+                    "short_name": "Auburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01501",
+                    "short_name": "01501",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "102 Oxford St N, Auburn, MA 01501, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.220385,
+                        "lng": -71.8450908
+                    },
+                    "southwest": {
+                        "lat": 42.2203822,
+                        "lng": -71.84510920000001
+                    }
+                },
+                "location": {
+                    "lat": 42.220385,
+                    "lng": -71.84510920000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2217325802915,
+                        "lng": -71.84375101970849
+                    },
+                    "southwest": {
+                        "lat": 42.2190346197085,
+                        "lng": -71.8464489802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiYxMDIgT3hmb3JkIFN0IE4sIEF1YnVybiwgTUEgMDE1MDEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c8273ffe74cac1908a06391626b79f97",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:02:57.548759",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

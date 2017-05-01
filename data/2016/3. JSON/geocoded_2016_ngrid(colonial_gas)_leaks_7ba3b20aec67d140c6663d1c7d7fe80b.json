@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_7ba3b20aec67d140c6663d1c7d7fe80b.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "89",
+                    "short_name": "89",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fort Street",
+                    "short_name": "Fort St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "89 Fort St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6327944,
+                        "lng": -70.9024003
+                    },
+                    "southwest": {
+                        "lat": 41.6326965,
+                        "lng": -70.9026138
+                    }
+                },
+                "location": {
+                    "lat": 41.6327454,
+                    "lng": -70.902507
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6340944302915,
+                        "lng": -70.9011580697085
+                    },
+                    "southwest": {
+                        "lat": 41.6313964697085,
+                        "lng": -70.90385603029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJb6mrGVTh5IkRNztbxRPvrpc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7ba3b20aec67d140c6663d1c7d7fe80b",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:09:32.647652",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

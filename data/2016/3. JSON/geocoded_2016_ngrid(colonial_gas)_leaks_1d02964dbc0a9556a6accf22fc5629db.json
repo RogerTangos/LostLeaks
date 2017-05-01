@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_1d02964dbc0a9556a6accf22fc5629db.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Homestead Street",
+                    "short_name": "Homestead St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02745",
+                    "short_name": "02745",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Homestead St & Ball St, New Bedford, MA 02745, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.686923,
+                    "lng": -70.925082
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6882719802915,
+                        "lng": -70.92373301970851
+                    },
+                    "southwest": {
+                        "lat": 41.6855740197085,
+                        "lng": -70.92643098029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjJIb21lc3RlYWQgU3QgJiBCYWxsIFN0LCBOZXcgQmVkZm9yZCwgTUEgMDI3NDUsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "1d02964dbc0a9556a6accf22fc5629db",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:34.849911",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

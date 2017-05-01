@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_1106eb4e23b4ad79315d61d0a1706861.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "253",
+                    "short_name": "253",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Westwood",
+                    "short_name": "Westwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02090",
+                    "short_name": "02090",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "253 Washington St, Westwood, MA 02090, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.220234,
+                        "lng": -71.18787739999999
+                    },
+                    "southwest": {
+                        "lat": 42.22023189999999,
+                        "lng": -71.1878959
+                    }
+                },
+                "location": {
+                    "lat": 42.220234,
+                    "lng": -71.1878959
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2215819302915,
+                        "lng": -71.18653766970849
+                    },
+                    "southwest": {
+                        "lat": 42.2188839697085,
+                        "lng": -71.1892356302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EioyNTMgV2FzaGluZ3RvbiBTdCwgV2VzdHdvb2QsIE1BIDAyMDkwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1106eb4e23b4ad79315d61d0a1706861",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:05:43.001088",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

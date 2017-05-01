@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_b523406f4bc7050d698cb627417437b6.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "87",
+                    "short_name": "87",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Kingston",
+                    "short_name": "Kingston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kingston",
+                    "short_name": "Kingston",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02364",
+                    "short_name": "02364",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "87 Main St, Kingston, MA 02364, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.9873322,
+                        "lng": -70.70719249999999
+                    },
+                    "southwest": {
+                        "lat": 41.9873199,
+                        "lng": -70.7072013
+                    }
+                },
+                "location": {
+                    "lat": 41.9873322,
+                    "lng": -70.70719249999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.9886750302915,
+                        "lng": -70.70584791970849
+                    },
+                    "southwest": {
+                        "lat": 41.9859770697085,
+                        "lng": -70.7085458802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiM4NyBNYWluIFN0LCBLaW5nc3RvbiwgTUEgMDIzNjQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b523406f4bc7050d698cb627417437b6",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:09:29.212352",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

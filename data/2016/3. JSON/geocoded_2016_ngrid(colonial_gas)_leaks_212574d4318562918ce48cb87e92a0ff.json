@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_212574d4318562918ce48cb87e92a0ff.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "43",
+                    "short_name": "43",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nickerson Road",
+                    "short_name": "Nickerson Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ashland",
+                    "short_name": "Ashland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01721",
+                    "short_name": "01721",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "43 Nickerson Rd, Ashland, MA 01721, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.244545,
+                        "lng": -71.4346266
+                    },
+                    "southwest": {
+                        "lat": 42.24453190000001,
+                        "lng": -71.4346329
+                    }
+                },
+                "location": {
+                    "lat": 42.244545,
+                    "lng": -71.4346329
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2458874302915,
+                        "lng": -71.4332807697085
+                    },
+                    "southwest": {
+                        "lat": 42.2431894697085,
+                        "lng": -71.43597873029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eic0MyBOaWNrZXJzb24gUmQsIEFzaGxhbmQsIE1BIDAxNzIxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "212574d4318562918ce48cb87e92a0ff",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:18.402398",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

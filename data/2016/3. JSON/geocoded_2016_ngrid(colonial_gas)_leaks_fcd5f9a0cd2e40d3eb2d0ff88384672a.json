@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_fcd5f9a0cd2e40d3eb2d0ff88384672a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "295",
+                    "short_name": "295",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "295 Main St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6536053,
+                        "lng": -70.9085016
+                    },
+                    "southwest": {
+                        "lat": 41.6534741,
+                        "lng": -70.9086951
+                    }
+                },
+                "location": {
+                    "lat": 41.6535397,
+                    "lng": -70.9085984
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6548886802915,
+                        "lng": -70.9072493697085
+                    },
+                    "southwest": {
+                        "lat": 41.6521907197085,
+                        "lng": -70.9099473302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJZavKFB7k5IkRUnEByAyA5i4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fcd5f9a0cd2e40d3eb2d0ff88384672a",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:06:06.396411",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

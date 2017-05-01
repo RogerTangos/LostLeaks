@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_42f88d5c7c5f71f7cb1e04f52324e5cc.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "100",
+                    "short_name": "100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grace Circle",
+                    "short_name": "Grace Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "100 Grace Cir, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3656842,
+                        "lng": -71.5294203
+                    },
+                    "southwest": {
+                        "lat": 42.3656723,
+                        "lng": -71.52942999999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3656723,
+                    "lng": -71.52942999999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3670272302915,
+                        "lng": -71.52807616970848
+                    },
+                    "southwest": {
+                        "lat": 42.36432926970851,
+                        "lng": -71.53077413029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EikxMDAgR3JhY2UgQ2lyLCBNYXJsYm9yb3VnaCwgTUEgMDE3NTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "42f88d5c7c5f71f7cb1e04f52324e5cc",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:02:54.549819",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

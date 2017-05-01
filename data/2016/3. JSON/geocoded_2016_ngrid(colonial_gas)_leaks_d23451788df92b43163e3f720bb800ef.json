@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_d23451788df92b43163e3f720bb800ef.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1511",
+                    "short_name": "1511",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster Square",
+                    "short_name": "Webster Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01603",
+                    "short_name": "01603",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1511 Main St, Worcester, MA 01603, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2402519,
+                        "lng": -71.8606113
+                    },
+                    "southwest": {
+                        "lat": 42.2392951,
+                        "lng": -71.8619664
+                    }
+                },
+                "location": {
+                    "lat": 42.2397735,
+                    "lng": -71.86128889999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2411224802915,
+                        "lng": -71.85993986970848
+                    },
+                    "southwest": {
+                        "lat": 42.2384245197085,
+                        "lng": -71.8626378302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJp5LW6fQD5IkR1oVrOrsvdwQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d23451788df92b43163e3f720bb800ef",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:04:07.950437",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

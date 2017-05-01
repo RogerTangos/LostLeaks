@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_4303b0829f825358631af8f13b9fb4ec.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hartford Avenue East",
+                    "short_name": "Hartford Ave E",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Uxbridge",
+                    "short_name": "Uxbridge",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01569",
+                    "short_name": "01569",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Hartford Ave E, Uxbridge, MA 01569, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0916702,
+                        "lng": -71.6404173
+                    },
+                    "southwest": {
+                        "lat": 42.0916576,
+                        "lng": -71.6404254
+                    }
+                },
+                "location": {
+                    "lat": 42.0916576,
+                    "lng": -71.6404173
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0930128802915,
+                        "lng": -71.6390723697085
+                    },
+                    "southwest": {
+                        "lat": 42.0903149197085,
+                        "lng": -71.64177033029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiozMyBIYXJ0Zm9yZCBBdmUgRSwgVXhicmlkZ2UsIE1BIDAxNTY5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4303b0829f825358631af8f13b9fb4ec",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:06:26.445433",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

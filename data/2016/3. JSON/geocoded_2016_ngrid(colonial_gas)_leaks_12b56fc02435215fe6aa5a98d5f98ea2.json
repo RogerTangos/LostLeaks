@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_12b56fc02435215fe6aa5a98d5f98ea2.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gilbert Street",
+                    "short_name": "Gilbert St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1403",
+                    "short_name": "1403",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Gilbert St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6223033,
+                        "lng": -70.8664941
+                    },
+                    "southwest": {
+                        "lat": 41.6222898,
+                        "lng": -70.86649919999999
+                    }
+                },
+                "location": {
+                    "lat": 41.6222898,
+                    "lng": -70.8664941
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6236455302915,
+                        "lng": -70.86514766970849
+                    },
+                    "southwest": {
+                        "lat": 41.62094756970851,
+                        "lng": -70.8678456302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicxOSBHaWxiZXJ0IFN0LCBGYWlyaGF2ZW4sIE1BIDAyNzE5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "12b56fc02435215fe6aa5a98d5f98ea2",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:04:44.409754",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

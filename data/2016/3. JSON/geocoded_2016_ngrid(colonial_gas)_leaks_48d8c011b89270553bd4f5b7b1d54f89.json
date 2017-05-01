@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_48d8c011b89270553bd4f5b7b1d54f89.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "37",
+                    "short_name": "37",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hilltop Street",
+                    "short_name": "Hilltop St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North Grafton",
+                    "short_name": "North Grafton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01536",
+                    "short_name": "01536",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1226",
+                    "short_name": "1226",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "37 Hilltop St, North Grafton, MA 01536, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2274721,
+                        "lng": -71.7308929
+                    },
+                    "southwest": {
+                        "lat": 42.2273022,
+                        "lng": -71.7311052
+                    }
+                },
+                "location": {
+                    "lat": 42.2273872,
+                    "lng": -71.73099909999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2287361302915,
+                        "lng": -71.72965006970848
+                    },
+                    "southwest": {
+                        "lat": 42.2260381697085,
+                        "lng": -71.7323480302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJvd5amDAP5IkRgHmIs_0A0iE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "48d8c011b89270553bd4f5b7b1d54f89",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:06:49.196120",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

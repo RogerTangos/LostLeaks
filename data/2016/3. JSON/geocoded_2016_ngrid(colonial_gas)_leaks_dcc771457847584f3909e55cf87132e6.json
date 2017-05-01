@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_dcc771457847584f3909e55cf87132e6.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1406",
+                    "short_name": "1406",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1406 Pleasant St, New Bedford, MA 02740, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.65044049999999,
+                        "lng": -70.9296074
+                    },
+                    "southwest": {
+                        "lat": 41.6503462,
+                        "lng": -70.9297819
+                    }
+                },
+                "location": {
+                    "lat": 41.6503934,
+                    "lng": -70.92969459999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6517423302915,
+                        "lng": -70.92834566970848
+                    },
+                    "southwest": {
+                        "lat": 41.6490443697085,
+                        "lng": -70.9310436302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJcY8_QQ3k5IkRHR2KEalETfU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dcc771457847584f3909e55cf87132e6",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:03:56.104626",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

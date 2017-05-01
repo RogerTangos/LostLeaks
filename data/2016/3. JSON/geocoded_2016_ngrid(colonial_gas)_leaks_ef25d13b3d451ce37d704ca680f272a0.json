@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_ef25d13b3d451ce37d704ca680f272a0.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Holden",
+                    "short_name": "Holden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01520",
+                    "short_name": "01520",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & Zottoli Rd, Holden, MA 01520, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3356231,
+                    "lng": -71.8366221
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3369720802915,
+                        "lng": -71.83527311970849
+                    },
+                    "southwest": {
+                        "lat": 42.3342741197085,
+                        "lng": -71.8379710802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EitNYWluIFN0ICYgWm90dG9saSBSZCwgSG9sZGVuLCBNQSAwMTUyMCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "ef25d13b3d451ce37d704ca680f272a0",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:45.896245",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

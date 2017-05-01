@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_557b4ff162c347317b01b76ff930aa42.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3502",
+                    "short_name": "3502",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Forest Park Drive",
+                    "short_name": "Forest Park Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburn",
+                    "short_name": "Auburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01501",
+                    "short_name": "01501",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "3502 Forest Park Dr, Auburn, MA 01501, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2142523,
+                        "lng": -71.82607349999999
+                    },
+                    "southwest": {
+                        "lat": 42.2142411,
+                        "lng": -71.8260847
+                    }
+                },
+                "location": {
+                    "lat": 42.2142523,
+                    "lng": -71.8260847
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2155956802915,
+                        "lng": -71.82473011970849
+                    },
+                    "southwest": {
+                        "lat": 42.2128977197085,
+                        "lng": -71.82742808029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiozNTAyIEZvcmVzdCBQYXJrIERyLCBBdWJ1cm4sIE1BIDAxNTAxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "557b4ff162c347317b01b76ff930aa42",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:06:40.957682",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

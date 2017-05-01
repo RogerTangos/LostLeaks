@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_a7b4c9ea7ca80762de14c92d442eebaa.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oxford Street",
+                    "short_name": "Oxford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Natick",
+                    "short_name": "Natick",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01760",
+                    "short_name": "01760",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Oxford St, Natick, MA 01760, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3074039,
+                        "lng": -71.33081039999999
+                    },
+                    "southwest": {
+                        "lat": 42.3073108,
+                        "lng": -71.3309677
+                    }
+                },
+                "location": {
+                    "lat": 42.3073574,
+                    "lng": -71.3308891
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3087063302915,
+                        "lng": -71.32954006970849
+                    },
+                    "southwest": {
+                        "lat": 42.3060083697085,
+                        "lng": -71.33223803029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJbe8FxIuG44kRsP9U4r6CgQ4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a7b4c9ea7ca80762de14c92d442eebaa",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:05:01.099276",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

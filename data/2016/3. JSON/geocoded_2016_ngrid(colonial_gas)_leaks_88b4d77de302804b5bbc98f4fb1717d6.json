@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_88b4d77de302804b5bbc98f4fb1717d6.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "42",
+                    "short_name": "42",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Helen Drive",
+                    "short_name": "Helen Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2704",
+                    "short_name": "2704",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "42 Helen Dr, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3446404,
+                        "lng": -71.5186939
+                    },
+                    "southwest": {
+                        "lat": 42.3446266,
+                        "lng": -71.5186958
+                    }
+                },
+                "location": {
+                    "lat": 42.3446404,
+                    "lng": -71.5186958
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3459824802915,
+                        "lng": -71.5173458697085
+                    },
+                    "southwest": {
+                        "lat": 42.3432845197085,
+                        "lng": -71.52004383029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eic0MiBIZWxlbiBEciwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "88b4d77de302804b5bbc98f4fb1717d6",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:15.075015",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

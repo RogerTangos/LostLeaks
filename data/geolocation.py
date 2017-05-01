@@ -129,11 +129,11 @@ def main():
     # test_address = "ACUSHNET AND BROOKLAWN CT NEW BEDFORD MA"
     # gl.get_latitude_and_longitude(test_address, state)
 
-    path = os.path.join("2016", "2. Pre-Process", "preprocessed_2016_ngrid(boston_gas)_repairs.csv")
+    path = os.path.join("2016", "2. Pre-Process", "preprocessed_2016_ngrid(colonial_gas)_leaks.csv")
     gl = Geolocator(preprocessed_file_location=path,
                     year=2016,
-                    utility='ngrid(boston_gas)',
-                    leaks_or_repairs='repairs')
+                    utility='ngrid(colonial_gas)',
+                    leaks_or_repairs='leaks')
     gl.start()
 
 

@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_38dc12f98a6fa0e417df7b8733409652.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "University Park",
+                    "short_name": "University Park",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01610",
+                    "short_name": "01610",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & May St, Worcester, MA 01610, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.254583,
+                    "lng": -71.8143599
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2559319802915,
+                        "lng": -71.8130109197085
+                    },
+                    "southwest": {
+                        "lat": 42.2532340197085,
+                        "lng": -71.81570888029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EipNYWluIFN0ICYgTWF5IFN0LCBXb3JjZXN0ZXIsIE1BIDAxNjEwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "38dc12f98a6fa0e417df7b8733409652",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:44.560540",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

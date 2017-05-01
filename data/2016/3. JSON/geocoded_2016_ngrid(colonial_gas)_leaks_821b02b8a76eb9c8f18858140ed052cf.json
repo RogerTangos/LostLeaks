@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_821b02b8a76eb9c8f18858140ed052cf.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "555",
+                    "short_name": "555",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Winter Street",
+                    "short_name": "Winter St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01702",
+                    "short_name": "01702",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5632",
+                    "short_name": "5632",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "555 Winter St, Framingham, MA 01702, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2842311,
+                        "lng": -71.44191670000001
+                    },
+                    "southwest": {
+                        "lat": 42.2842244,
+                        "lng": -71.4419332
+                    }
+                },
+                "location": {
+                    "lat": 42.2842244,
+                    "lng": -71.4419332
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2855767302915,
+                        "lng": -71.44057596970849
+                    },
+                    "southwest": {
+                        "lat": 42.2828787697085,
+                        "lng": -71.44327393029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig1NTUgV2ludGVyIFN0LCBGcmFtaW5naGFtLCBNQSAwMTcwMiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "821b02b8a76eb9c8f18858140ed052cf",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:08:01.956455",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

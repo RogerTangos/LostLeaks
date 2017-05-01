@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_77eb2ef4cab64d885ce804884dfc9a52.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hayes Memorial Drive",
+                    "short_name": "Hayes Memorial Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Hayes Memorial Dr, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3290322,
+                        "lng": -71.599521
+                    },
+                    "southwest": {
+                        "lat": 42.3290284,
+                        "lng": -71.5995391
+                    }
+                },
+                "location": {
+                    "lat": 42.3290322,
+                    "lng": -71.599521
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3303792802915,
+                        "lng": -71.59818106970849
+                    },
+                    "southwest": {
+                        "lat": 42.3276813197085,
+                        "lng": -71.60087903029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjAzMyBIYXllcyBNZW1vcmlhbCBEciwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "77eb2ef4cab64d885ce804884dfc9a52",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:06:27.059524",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

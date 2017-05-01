@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_dd7527442013dde811e9eaf5974fdd81.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "458",
+                    "short_name": "458",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mill Street",
+                    "short_name": "Mill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marion",
+                    "short_name": "Marion",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02738",
+                    "short_name": "02738",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "458 Mill St, Marion, MA 02738, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.7110347,
+                        "lng": -70.7714805
+                    },
+                    "southwest": {
+                        "lat": 41.7110328,
+                        "lng": -70.7714991
+                    }
+                },
+                "location": {
+                    "lat": 41.7110347,
+                    "lng": -70.7714805
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.71238273029149,
+                        "lng": -70.77014081970849
+                    },
+                    "southwest": {
+                        "lat": 41.7096847697085,
+                        "lng": -70.7728387802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiI0NTggTWlsbCBTdCwgTWFyaW9uLCBNQSAwMjczOCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dd7527442013dde811e9eaf5974fdd81",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:28.056791",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

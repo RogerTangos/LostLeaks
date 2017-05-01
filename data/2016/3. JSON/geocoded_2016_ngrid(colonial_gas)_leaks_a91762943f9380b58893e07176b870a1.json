@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_a91762943f9380b58893e07176b870a1.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Morton Street",
+                    "short_name": "Morton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01702",
+                    "short_name": "01702",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7125",
+                    "short_name": "7125",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Morton St, Framingham, MA 01702, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2783839,
+                        "lng": -71.40497739999999
+                    },
+                    "southwest": {
+                        "lat": 42.2783707,
+                        "lng": -71.404983
+                    }
+                },
+                "location": {
+                    "lat": 42.2783707,
+                    "lng": -71.40497739999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27972628029151,
+                        "lng": -71.4036312197085
+                    },
+                    "southwest": {
+                        "lat": 42.27702831970851,
+                        "lng": -71.40632918029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicxMSBNb3J0b24gU3QsIEZyYW1pbmdoYW0sIE1BIDAxNzAyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a91762943f9380b58893e07176b870a1",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:03:10.888272",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_3cff8d779bfa9f3a6031fd0a806e1dbb.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "90",
+                    "short_name": "90",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Woodridge Road",
+                    "short_name": "Woodridge Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Holden",
+                    "short_name": "Holden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01520",
+                    "short_name": "01520",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "90 Woodridge Rd, Holden, MA 01520, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3359,
+                        "lng": -71.80772859999999
+                    },
+                    "southwest": {
+                        "lat": 42.3358943,
+                        "lng": -71.8077457
+                    }
+                },
+                "location": {
+                    "lat": 42.3359,
+                    "lng": -71.80772859999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33724613029149,
+                        "lng": -71.80638816970848
+                    },
+                    "southwest": {
+                        "lat": 42.3345481697085,
+                        "lng": -71.80908613029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiY5MCBXb29kcmlkZ2UgUmQsIEhvbGRlbiwgTUEgMDE1MjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3cff8d779bfa9f3a6031fd0a806e1dbb",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:09:41.667153",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

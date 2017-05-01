@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_eb865263b31a74b3140b46bbac9269e7.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Downing Street",
+                    "short_name": "Downing St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "University Park",
+                    "short_name": "University Park",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01610",
+                    "short_name": "01610",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Downing St, Worcester, MA 01610, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.251672,
+                        "lng": -71.8219603
+                    },
+                    "southwest": {
+                        "lat": 42.2516639,
+                        "lng": -71.8219756
+                    }
+                },
+                "location": {
+                    "lat": 42.2516639,
+                    "lng": -71.8219756
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2530169302915,
+                        "lng": -71.8206189697085
+                    },
+                    "southwest": {
+                        "lat": 42.2503189697085,
+                        "lng": -71.82331693029151
+                    }
+                }
+            },
+            "place_id": "EiczMSBEb3duaW5nIFN0LCBXb3JjZXN0ZXIsIE1BIDAxNjEwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "eb865263b31a74b3140b46bbac9269e7",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:06:18.172139",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

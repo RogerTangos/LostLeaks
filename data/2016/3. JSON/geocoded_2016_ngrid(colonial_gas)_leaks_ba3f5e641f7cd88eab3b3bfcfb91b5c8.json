@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_ba3f5e641f7cd88eab3b3bfcfb91b5c8.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1200",
+                    "short_name": "1200",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "State Road",
+                    "short_name": "State Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Greendale",
+                    "short_name": "Greendale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01606",
+                    "short_name": "01606",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1200 State Rd, Worcester, MA 01606, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.33752,
+                        "lng": -71.7888284
+                    },
+                    "southwest": {
+                        "lat": 42.3375198,
+                        "lng": -71.78884719999999
+                    }
+                },
+                "location": {
+                    "lat": 42.33752,
+                    "lng": -71.7888284
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33886888029149,
+                        "lng": -71.7874888197085
+                    },
+                    "southwest": {
+                        "lat": 42.33617091970849,
+                        "lng": -71.7901867802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicxMjAwIFN0YXRlIFJkLCBXb3JjZXN0ZXIsIE1BIDAxNjA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ba3f5e641f7cd88eab3b3bfcfb91b5c8",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:03:31.562662",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

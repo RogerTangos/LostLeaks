@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_03f68852373cb50d41449efc38290341.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Bedford Street",
+                    "short_name": "Bedford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Bedford St & Anthony St, New Bedford, MA 02740, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.62757200000001,
+                    "lng": -70.93124399999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.62892098029151,
+                        "lng": -70.9298950197085
+                    },
+                    "southwest": {
+                        "lat": 41.62622301970851,
+                        "lng": -70.9325929802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjNCZWRmb3JkIFN0ICYgQW50aG9ueSBTdCwgTmV3IEJlZGZvcmQsIE1BIDAyNzQwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "03f68852373cb50d41449efc38290341",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:00.017394",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

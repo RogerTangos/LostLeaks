@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_aa5008b0d773bb5af8db00c35e8d8496.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "117",
+                    "short_name": "117",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Main Street",
+                    "short_name": "S Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "117 S Main St, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.12855769999999,
+                        "lng": -71.5184792
+                    },
+                    "southwest": {
+                        "lat": 42.1285543,
+                        "lng": -71.5184974
+                    }
+                },
+                "location": {
+                    "lat": 42.1285543,
+                    "lng": -71.5184974
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1299049802915,
+                        "lng": -71.51713931970849
+                    },
+                    "southwest": {
+                        "lat": 42.12720701970851,
+                        "lng": -71.5198372802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiUxMTcgUyBNYWluIFN0LCBNaWxmb3JkLCBNQSAwMTc1NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "aa5008b0d773bb5af8db00c35e8d8496",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:03:21.166060",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}
