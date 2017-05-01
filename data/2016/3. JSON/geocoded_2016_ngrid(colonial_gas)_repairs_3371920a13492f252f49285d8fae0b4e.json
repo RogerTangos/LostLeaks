@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_3371920a13492f252f49285d8fae0b4e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "121",
+                    "short_name": "121",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Smith Street",
+                    "short_name": "Smith St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mission Hill",
+                    "short_name": "Mission Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02120",
+                    "short_name": "02120",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "121 Smith St, Boston, MA 02120, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3343675,
+                        "lng": -71.10041009999999
+                    },
+                    "southwest": {
+                        "lat": 42.334355,
+                        "lng": -71.1004181
+                    }
+                },
+                "location": {
+                    "lat": 42.3343675,
+                    "lng": -71.10041009999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3357102302915,
+                        "lng": -71.0990651197085
+                    },
+                    "southwest": {
+                        "lat": 42.3330122697085,
+                        "lng": -71.1017630802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMxMjEgU21pdGggU3QsIEJvc3RvbiwgTUEgMDIxMjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3371920a13492f252f49285d8fae0b4e",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:19:51.657536",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

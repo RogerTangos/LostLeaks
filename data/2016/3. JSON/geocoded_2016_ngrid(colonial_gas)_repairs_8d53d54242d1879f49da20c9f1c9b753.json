@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_8d53d54242d1879f49da20c9f1c9b753.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Randall Road",
+                    "short_name": "Randall Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Maynard",
+                    "short_name": "Maynard",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01754",
+                    "short_name": "01754",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Randall Rd, Maynard, MA 01754, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.43545779999999,
+                        "lng": -71.45719919999999
+                    },
+                    "southwest": {
+                        "lat": 42.4354514,
+                        "lng": -71.4572159
+                    }
+                },
+                "location": {
+                    "lat": 42.43545779999999,
+                    "lng": -71.45719919999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4368035802915,
+                        "lng": -71.4558585697085
+                    },
+                    "southwest": {
+                        "lat": 42.4341056197085,
+                        "lng": -71.4585565302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQzIFJhbmRhbGwgUmQsIE1heW5hcmQsIE1BIDAxNzU0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8d53d54242d1879f49da20c9f1c9b753",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:20:18.729171",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

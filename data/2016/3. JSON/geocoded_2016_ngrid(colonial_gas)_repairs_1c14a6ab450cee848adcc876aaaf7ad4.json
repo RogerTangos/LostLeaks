@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_1c14a6ab450cee848adcc876aaaf7ad4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sam Street",
+                    "short_name": "Sam St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acushnet",
+                    "short_name": "Acushnet",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02743",
+                    "short_name": "02743",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2803",
+                    "short_name": "2803",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Sam St, Acushnet, MA 02743, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6690702,
+                        "lng": -70.907591
+                    },
+                    "southwest": {
+                        "lat": 41.6690565,
+                        "lng": -70.90759489999999
+                    }
+                },
+                "location": {
+                    "lat": 41.6690702,
+                    "lng": -70.907591
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.67041233029149,
+                        "lng": -70.90624396970848
+                    },
+                    "southwest": {
+                        "lat": 41.66771436970849,
+                        "lng": -70.90894193029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiExIFNhbSBTdCwgQWN1c2huZXQsIE1BIDAyNzQzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1c14a6ab450cee848adcc876aaaf7ad4",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:18:36.438286",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

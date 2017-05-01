@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_5c9920a59cec131ce63b6a783647ceaf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "853",
+                    "short_name": "853",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "The Port",
+                    "short_name": "The Port",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Cambridge",
+                    "short_name": "Cambridge",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02139",
+                    "short_name": "02139",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "853 Main St, Cambridge, MA 02139, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3633729,
+                        "lng": -71.0986808
+                    },
+                    "southwest": {
+                        "lat": 42.3633591,
+                        "lng": -71.09868279999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3633729,
+                    "lng": -71.0986808
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3647149802915,
+                        "lng": -71.09733281970848
+                    },
+                    "southwest": {
+                        "lat": 42.3620170197085,
+                        "lng": -71.10003078029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiU4NTMgTWFpbiBTdCwgQ2FtYnJpZGdlLCBNQSAwMjEzOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5c9920a59cec131ce63b6a783647ceaf",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:19:00.565071",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

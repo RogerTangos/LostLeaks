@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_e006b7df1b42e14f107d5ba15c0c39e5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Presidents Row",
+                    "short_name": "Presidents Row",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ashland",
+                    "short_name": "Ashland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01721",
+                    "short_name": "01721",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Presidents Row, Ashland, MA 01721, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2536237,
+                        "lng": -71.46639010000001
+                    },
+                    "southwest": {
+                        "lat": 42.2536108,
+                        "lng": -71.466397
+                    }
+                },
+                "location": {
+                    "lat": 42.2536108,
+                    "lng": -71.46639010000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2549662302915,
+                        "lng": -71.4650445697085
+                    },
+                    "southwest": {
+                        "lat": 42.2522682697085,
+                        "lng": -71.46774253029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EioxMDEgUHJlc2lkZW50cyBSb3csIEFzaGxhbmQsIE1BIDAxNzIxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e006b7df1b42e14f107d5ba15c0c39e5",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:18:37.931865",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

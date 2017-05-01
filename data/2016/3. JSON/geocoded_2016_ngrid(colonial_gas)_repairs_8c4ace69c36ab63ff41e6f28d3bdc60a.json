@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_8c4ace69c36ab63ff41e6f28d3bdc60a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "75",
+                    "short_name": "75",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Speen Street",
+                    "short_name": "Speen St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Natick",
+                    "short_name": "Natick",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01760",
+                    "short_name": "01760",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "75 Speen St, Natick, MA 01760, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.27730520000001,
+                        "lng": -71.3766349
+                    },
+                    "southwest": {
+                        "lat": 42.2773012,
+                        "lng": -71.3766528
+                    }
+                },
+                "location": {
+                    "lat": 42.2773012,
+                    "lng": -71.3766349
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2786521802915,
+                        "lng": -71.3752948697085
+                    },
+                    "southwest": {
+                        "lat": 42.2759542197085,
+                        "lng": -71.3779928302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiI3NSBTcGVlbiBTdCwgTmF0aWNrLCBNQSAwMTc2MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8c4ace69c36ab63ff41e6f28d3bdc60a",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:20:35.447182",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

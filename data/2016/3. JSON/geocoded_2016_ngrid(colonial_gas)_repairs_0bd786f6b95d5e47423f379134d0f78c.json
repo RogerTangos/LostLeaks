@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_0bd786f6b95d5e47423f379134d0f78c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dogwood Drive",
+                    "short_name": "Dogwood Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Upton",
+                    "short_name": "Upton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01568",
+                    "short_name": "01568",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Dogwood Dr, Upton, MA 01568, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.16222459999999,
+                        "lng": -71.6049374
+                    },
+                    "southwest": {
+                        "lat": 42.1622184,
+                        "lng": -71.6049542
+                    }
+                },
+                "location": {
+                    "lat": 42.16222459999999,
+                    "lng": -71.6049542
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1635704802915,
+                        "lng": -71.60359681970849
+                    },
+                    "southwest": {
+                        "lat": 42.1608725197085,
+                        "lng": -71.60629478029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMxNiBEb2d3b29kIERyLCBVcHRvbiwgTUEgMDE1NjgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0bd786f6b95d5e47423f379134d0f78c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:21:27.622022",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

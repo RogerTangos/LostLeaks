@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_3792b423145b09dff2200a08eecb2f58.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "199",
+                    "short_name": "199",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Street",
+                    "short_name": "Highland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01609",
+                    "short_name": "01609",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "199 Highland St, Worcester, MA 01609, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2705899,
+                        "lng": -71.8126434
+                    },
+                    "southwest": {
+                        "lat": 42.2705761,
+                        "lng": -71.8126456
+                    }
+                },
+                "location": {
+                    "lat": 42.2705761,
+                    "lng": -71.8126434
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2719319802915,
+                        "lng": -71.8112955197085
+                    },
+                    "southwest": {
+                        "lat": 42.2692340197085,
+                        "lng": -71.8139934802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EikxOTkgSGlnaGxhbmQgU3QsIFdvcmNlc3RlciwgTUEgMDE2MDksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3792b423145b09dff2200a08eecb2f58",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:21:46.141287",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

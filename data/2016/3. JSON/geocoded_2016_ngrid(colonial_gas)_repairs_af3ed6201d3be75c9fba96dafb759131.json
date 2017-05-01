@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_af3ed6201d3be75c9fba96dafb759131.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "57",
+                    "short_name": "57",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Centre Street",
+                    "short_name": "Centre St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "57 Centre St, New Bedford, MA 02740, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6352442,
+                        "lng": -70.92282709999999
+                    },
+                    "southwest": {
+                        "lat": 41.6352304,
+                        "lng": -70.9228303
+                    }
+                },
+                "location": {
+                    "lat": 41.6352442,
+                    "lng": -70.9228303
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6365862802915,
+                        "lng": -70.9214797197085
+                    },
+                    "southwest": {
+                        "lat": 41.6338883197085,
+                        "lng": -70.9241776802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig1NyBDZW50cmUgU3QsIE5ldyBCZWRmb3JkLCBNQSAwMjc0MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "af3ed6201d3be75c9fba96dafb759131",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:19:22.559840",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}
