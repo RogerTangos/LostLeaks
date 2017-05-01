@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_repairs_0f861aec3ab5b2a50f876fc3a74e364d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arsenal Road",
+                    "short_name": "Arsenal Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01702",
+                    "short_name": "01702",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Arsenal Rd, Framingham, MA 01702, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2956568,
+                        "lng": -71.4106979
+                    },
+                    "southwest": {
+                        "lat": 42.2956561,
+                        "lng": -71.4107166
+                    }
+                },
+                "location": {
+                    "lat": 42.2956568,
+                    "lng": -71.4107166
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29700543029151,
+                        "lng": -71.40935826970849
+                    },
+                    "southwest": {
+                        "lat": 42.29430746970851,
+                        "lng": -71.41205623029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig2MCBBcnNlbmFsIFJkLCBGcmFtaW5naGFtLCBNQSAwMTcwMiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0f861aec3ab5b2a50f876fc3a74e364d",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:29:29.522860",
+    "utility": "eversource",
+    "year": 2016
+}

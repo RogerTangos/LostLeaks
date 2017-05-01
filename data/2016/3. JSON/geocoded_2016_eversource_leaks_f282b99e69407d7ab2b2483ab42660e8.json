@@ -1,0 +1,87 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_f282b99e69407d7ab2b2483ab42660e8.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Reynolds Street",
+                    "short_name": "Reynolds St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Reynolds St, New Bedford, MA, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6571736,
+                        "lng": -70.9327486
+                    },
+                    "southwest": {
+                        "lat": 41.649739,
+                        "lng": -70.93473139999999
+                    }
+                },
+                "location": {
+                    "lat": 41.653775,
+                    "lng": -70.933942
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6571736,
+                        "lng": -70.93239101970849
+                    },
+                    "southwest": {
+                        "lat": 41.649739,
+                        "lng": -70.9350889802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJca1kCm3k5IkRqLLNm3cSXtI",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "f282b99e69407d7ab2b2483ab42660e8",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:23:40.661262",
+    "utility": "eversource",
+    "year": 2016
+}

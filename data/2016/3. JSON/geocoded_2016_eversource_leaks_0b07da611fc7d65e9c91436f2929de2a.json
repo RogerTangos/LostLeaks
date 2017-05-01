@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_0b07da611fc7d65e9c91436f2929de2a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Shrewsbury",
+                    "short_name": "Shrewsbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01545",
+                    "short_name": "01545",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Washington St, Shrewsbury, MA 01545, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2919212,
+                        "lng": -71.695719
+                    },
+                    "southwest": {
+                        "lat": 42.2919159,
+                        "lng": -71.6957364
+                    }
+                },
+                "location": {
+                    "lat": 42.2919159,
+                    "lng": -71.6957364
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29326753029149,
+                        "lng": -71.6943787197085
+                    },
+                    "southwest": {
+                        "lat": 42.2905695697085,
+                        "lng": -71.6970766802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eis0NCBXYXNoaW5ndG9uIFN0LCBTaHJld3NidXJ5LCBNQSAwMTU0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0b07da611fc7d65e9c91436f2929de2a",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:16:10.918095",
+    "utility": "eversource",
+    "year": 2016
+}

@@ -85,6 +85,11 @@ class GeolocationWorker(Thread):
 
         content = res.json()
 
+
+        if content.get("error_message"):
+            print('ERROR MESSAGE')
+            import pdb; pdb.set_trace()
+
         filename = ('geocoded_%s_%s_%s_%s.json'
                         % (str(row.year), row.utility, row.leaks_or_repairs, row.row_id))
         relative_path = os.path.join(str(row.year), '3. JSON', filename)
@@ -124,20 +129,20 @@ def main():
     # test_address = "ACUSHNET AND BROOKLAWN CT NEW BEDFORD MA"
     # gl.get_latitude_and_longitude(test_address, state)
 
-    path = os.path.join("2016", "2. Pre-Process", "preprocessed_2016_eversource_leaks.csv")
-    gl = Geolocator(preprocessed_file_location=path,
-                    year=2016,
-                    utility='eversource',
-                    leaks_or_repairs='leaks')
-    gl.start()
+    # path = os.path.join("2016", "2. Pre-Process", "preprocessed_2016_eversource_leaks.csv")
+    # gl = Geolocator(preprocessed_file_location=path,
+    #                 year=2016,
+    #                 utility='eversource',
+    #                 leaks_or_repairs='leaks')
+    # gl.start()
 
 
-    path = os.path.join("2016", "2. Pre-Process", "preprocessed_2016_eversource_repairs.csv")
-    gl = Geolocator(preprocessed_file_location=path,
-                    year=2016,
-                    utility='eversource',
-                    leaks_or_repairs='repairs')
-    gl.start()
+    # path = os.path.join("2016", "2. Pre-Process", "preprocessed_2016_eversource_repairs.csv")
+    # gl = Geolocator(preprocessed_file_location=path,
+    #                 year=2016,
+    #                 utility='eversource',
+    #                 leaks_or_repairs='repairs')
+    # gl.start()
 
 
 if __name__ == '__main__':

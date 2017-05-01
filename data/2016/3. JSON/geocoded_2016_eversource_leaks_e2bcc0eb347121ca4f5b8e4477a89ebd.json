@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_e2bcc0eb347121ca4f5b8e4477a89ebd.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "County Street",
+                    "short_name": "County St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "County St & Bedford St, New Bedford, MA 02740, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.627936,
+                    "lng": -70.927954
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6292849802915,
+                        "lng": -70.9266050197085
+                    },
+                    "southwest": {
+                        "lat": 41.6265870197085,
+                        "lng": -70.92930298029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjJDb3VudHkgU3QgJiBCZWRmb3JkIFN0LCBOZXcgQmVkZm9yZCwgTUEgMDI3NDAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "e2bcc0eb347121ca4f5b8e4477a89ebd",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:02.987142",
+    "utility": "eversource",
+    "year": 2016
+}

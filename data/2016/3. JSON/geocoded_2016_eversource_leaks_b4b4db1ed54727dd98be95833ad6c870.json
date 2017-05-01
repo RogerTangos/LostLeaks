@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_b4b4db1ed54727dd98be95833ad6c870.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mill Street",
+                    "short_name": "Mill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marion",
+                    "short_name": "Marion",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02738",
+                    "short_name": "02738",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1555",
+                    "short_name": "1555",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Mill St, Marion, MA 02738, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.7123229,
+                        "lng": -70.7720142
+                    },
+                    "southwest": {
+                        "lat": 41.71231909999999,
+                        "lng": -70.7720322
+                    }
+                },
+                "location": {
+                    "lat": 41.71231909999999,
+                    "lng": -70.7720322
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.71366998029149,
+                        "lng": -70.7706742197085
+                    },
+                    "southwest": {
+                        "lat": 41.71097201970849,
+                        "lng": -70.77337218029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiE1MSBNaWxsIFN0LCBNYXJpb24sIE1BIDAyNzM4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b4b4db1ed54727dd98be95833ad6c870",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:16:58.725771",
+    "utility": "eversource",
+    "year": 2016
+}

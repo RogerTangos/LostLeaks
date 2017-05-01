@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_7034b8733cac7f2340a276ff8af27c1d.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Williams Street",
+                    "short_name": "Williams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Upton",
+                    "short_name": "Upton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01568",
+                    "short_name": "01568",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Williams St, Upton, MA 01568, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.171149,
+                        "lng": -71.6348914
+                    },
+                    "southwest": {
+                        "lat": 42.1711363,
+                        "lng": -71.63489899999999
+                    }
+                },
+                "location": {
+                    "lat": 42.171149,
+                    "lng": -71.63489899999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1724916302915,
+                        "lng": -71.63354621970849
+                    },
+                    "southwest": {
+                        "lat": 42.1697936697085,
+                        "lng": -71.6362441802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQyNSBXaWxsaWFtcyBTdCwgVXB0b24sIE1BIDAxNTY4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7034b8733cac7f2340a276ff8af27c1d",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:13:11.058360",
+    "utility": "eversource",
+    "year": 2016
+}

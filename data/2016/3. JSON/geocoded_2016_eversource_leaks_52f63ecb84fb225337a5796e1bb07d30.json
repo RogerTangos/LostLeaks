@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_52f63ecb84fb225337a5796e1bb07d30.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "65",
+                    "short_name": "65",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pasadena Parkway",
+                    "short_name": "Pasadena Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01605",
+                    "short_name": "01605",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "65 Pasadena Pkwy, Worcester, MA 01605, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2997136,
+                        "lng": -71.7677021
+                    },
+                    "southwest": {
+                        "lat": 42.2997029,
+                        "lng": -71.767714
+                    }
+                },
+                "location": {
+                    "lat": 42.2997136,
+                    "lng": -71.767714
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3010572302915,
+                        "lng": -71.76635906970849
+                    },
+                    "southwest": {
+                        "lat": 42.2983592697085,
+                        "lng": -71.7690570302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eio2NSBQYXNhZGVuYSBQa3d5LCBXb3JjZXN0ZXIsIE1BIDAxNjA1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "52f63ecb84fb225337a5796e1bb07d30",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:18:08.250368",
+    "utility": "eversource",
+    "year": 2016
+}

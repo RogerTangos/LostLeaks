@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_d7b5b083a8ae51c35c463fe20183969a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "245",
+                    "short_name": "245",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Irvington Street",
+                    "short_name": "Irvington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02745",
+                    "short_name": "02745",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5435",
+                    "short_name": "5435",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "245 Irvington St, New Bedford, MA 02745, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6728782,
+                        "lng": -70.934279
+                    },
+                    "southwest": {
+                        "lat": 41.6728643,
+                        "lng": -70.934281
+                    }
+                },
+                "location": {
+                    "lat": 41.6728782,
+                    "lng": -70.934281
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6742202302915,
+                        "lng": -70.93293101970849
+                    },
+                    "southwest": {
+                        "lat": 41.6715222697085,
+                        "lng": -70.9356289802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiwyNDUgSXJ2aW5ndG9uIFN0LCBOZXcgQmVkZm9yZCwgTUEgMDI3NDUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d7b5b083a8ae51c35c463fe20183969a",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:13:01.455098",
+    "utility": "eversource",
+    "year": 2016
+}

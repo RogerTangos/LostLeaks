@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_bf04ceabe392cf394db44ea755ae4918.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "67",
+                    "short_name": "67",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Providence Road",
+                    "short_name": "Providence Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Grafton",
+                    "short_name": "Grafton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01519",
+                    "short_name": "01519",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1102",
+                    "short_name": "1102",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "67 Providence Rd, Grafton, MA 01519, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2050345,
+                        "lng": -71.6928982
+                    },
+                    "southwest": {
+                        "lat": 42.205034,
+                        "lng": -71.6929169
+                    }
+                },
+                "location": {
+                    "lat": 42.2050345,
+                    "lng": -71.6928982
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.20638323029149,
+                        "lng": -71.69155856970849
+                    },
+                    "southwest": {
+                        "lat": 42.2036852697085,
+                        "lng": -71.69425653029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig2NyBQcm92aWRlbmNlIFJkLCBHcmFmdG9uLCBNQSAwMTUxOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bf04ceabe392cf394db44ea755ae4918",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:18:13.830847",
+    "utility": "eversource",
+    "year": 2016
+}

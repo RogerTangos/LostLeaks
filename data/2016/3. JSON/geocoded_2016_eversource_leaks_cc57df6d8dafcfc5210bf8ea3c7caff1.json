@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_cc57df6d8dafcfc5210bf8ea3c7caff1.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Millbury Street",
+                    "short_name": "Millbury St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Green Island",
+                    "short_name": "Green Island",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01610",
+                    "short_name": "01610",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Millbury St, Worcester, MA 01610, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2538896,
+                        "lng": -71.7983313
+                    },
+                    "southwest": {
+                        "lat": 42.2538832,
+                        "lng": -71.79834799999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2538896,
+                    "lng": -71.79834799999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2552353802915,
+                        "lng": -71.79699066970849
+                    },
+                    "southwest": {
+                        "lat": 42.2525374197085,
+                        "lng": -71.7996886302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig0MCBNaWxsYnVyeSBTdCwgV29yY2VzdGVyLCBNQSAwMTYxMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cc57df6d8dafcfc5210bf8ea3c7caff1",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:15:44.424196",
+    "utility": "eversource",
+    "year": 2016
+}

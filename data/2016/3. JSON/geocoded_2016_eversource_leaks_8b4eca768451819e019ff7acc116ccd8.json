@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_8b4eca768451819e019ff7acc116ccd8.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Warren Street",
+                    "short_name": "Warren St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Maynard",
+                    "short_name": "Maynard",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01754",
+                    "short_name": "01754",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Warren St, Maynard, MA 01754, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.435133,
+                        "lng": -71.4495606
+                    },
+                    "southwest": {
+                        "lat": 42.435122,
+                        "lng": -71.449572
+                    }
+                },
+                "location": {
+                    "lat": 42.435133,
+                    "lng": -71.4495606
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4364764802915,
+                        "lng": -71.4482173197085
+                    },
+                    "southwest": {
+                        "lat": 42.4337785197085,
+                        "lng": -71.45091528029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQxNyBXYXJyZW4gU3QsIE1heW5hcmQsIE1BIDAxNzU0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8b4eca768451819e019ff7acc116ccd8",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:10:55.090699",
+    "utility": "eversource",
+    "year": 2016
+}

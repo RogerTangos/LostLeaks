@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_feb3fed8c2181dbf2197dc51bfddb388.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "North Main Street",
+                    "short_name": "N Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Millbury",
+                    "short_name": "Millbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01527",
+                    "short_name": "01527",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "N Main St & Summer St, Millbury, MA 01527, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1937361,
+                    "lng": -71.7613746
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1950850802915,
+                        "lng": -71.7600256197085
+                    },
+                    "southwest": {
+                        "lat": 42.1923871197085,
+                        "lng": -71.7627235802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei5OIE1haW4gU3QgJiBTdW1tZXIgU3QsIE1pbGxidXJ5LCBNQSAwMTUyNywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "feb3fed8c2181dbf2197dc51bfddb388",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:24:11.005401",
+    "utility": "eversource",
+    "year": 2016
+}

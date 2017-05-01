@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_f0880831fa92c672c3eff83c8c5fcd58.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "26",
+                    "short_name": "26",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lyman Road",
+                    "short_name": "Lyman Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01701",
+                    "short_name": "01701",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "26 Lyman Rd, Framingham, MA 01701, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3210916,
+                        "lng": -71.4429743
+                    },
+                    "southwest": {
+                        "lat": 42.32108179999999,
+                        "lng": -71.4429876
+                    }
+                },
+                "location": {
+                    "lat": 42.32108179999999,
+                    "lng": -71.4429876
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32243568029149,
+                        "lng": -71.4416319697085
+                    },
+                    "southwest": {
+                        "lat": 42.31973771970849,
+                        "lng": -71.4443299302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiYyNiBMeW1hbiBSZCwgRnJhbWluZ2hhbSwgTUEgMDE3MDEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f0880831fa92c672c3eff83c8c5fcd58",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:13:21.206867",
+    "utility": "eversource",
+    "year": 2016
+}

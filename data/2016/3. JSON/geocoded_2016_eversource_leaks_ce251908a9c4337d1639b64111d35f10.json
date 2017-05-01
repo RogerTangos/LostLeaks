@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_ce251908a9c4337d1639b64111d35f10.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Hamlet Street",
+                    "short_name": "Hamlet St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Hamlet St & Babbitt St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.645342,
+                    "lng": -70.862967
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6466909802915,
+                        "lng": -70.86161801970849
+                    },
+                    "southwest": {
+                        "lat": 41.6439930197085,
+                        "lng": -70.86431598029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjBIYW1sZXQgU3QgJiBCYWJiaXR0IFN0LCBGYWlyaGF2ZW4sIE1BIDAyNzE5LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "ce251908a9c4337d1639b64111d35f10",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:56.036167",
+    "utility": "eversource",
+    "year": 2016
+}

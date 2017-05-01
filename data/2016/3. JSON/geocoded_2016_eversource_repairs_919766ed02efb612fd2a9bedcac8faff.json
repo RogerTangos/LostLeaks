@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_repairs_919766ed02efb612fd2a9bedcac8faff.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "89",
+                    "short_name": "89",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Neil Street",
+                    "short_name": "Neil St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "89 Neil St, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3422483,
+                        "lng": -71.54630300000001
+                    },
+                    "southwest": {
+                        "lat": 42.34224760000001,
+                        "lng": -71.5463218
+                    }
+                },
+                "location": {
+                    "lat": 42.34224760000001,
+                    "lng": -71.5463218
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34359693029151,
+                        "lng": -71.54496341970851
+                    },
+                    "southwest": {
+                        "lat": 42.34089896970851,
+                        "lng": -71.54766138029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiY4OSBOZWlsIFN0LCBNYXJsYm9yb3VnaCwgTUEgMDE3NTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "919766ed02efb612fd2a9bedcac8faff",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:29:59.839124",
+    "utility": "eversource",
+    "year": 2016
+}

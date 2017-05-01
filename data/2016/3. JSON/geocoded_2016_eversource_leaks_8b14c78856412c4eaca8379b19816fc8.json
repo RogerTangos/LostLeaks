@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_8b14c78856412c4eaca8379b19816fc8.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32",
+                    "short_name": "32",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "2nd Street",
+                    "short_name": "2nd St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01702",
+                    "short_name": "01702",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "32 2nd St, Framingham, MA 01702, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2776076,
+                    "lng": -71.3990724
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27895658029149,
+                        "lng": -71.3977234197085
+                    },
+                    "southwest": {
+                        "lat": 42.27625861970849,
+                        "lng": -71.4004213802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJp6rhu2yI44kRbYOdszZLojI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8b14c78856412c4eaca8379b19816fc8",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:14:33.469621",
+    "utility": "eversource",
+    "year": 2016
+}

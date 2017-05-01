@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_2acb3fa3ffd08fbcf0cfdc7d2e689227.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Manhattan Avenue",
+                    "short_name": "Manhattan Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Manhattan Ave, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6320615,
+                        "lng": -70.8771734
+                    },
+                    "southwest": {
+                        "lat": 41.632061,
+                        "lng": -70.8771921
+                    }
+                },
+                "location": {
+                    "lat": 41.632061,
+                    "lng": -70.8771734
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6334102302915,
+                        "lng": -70.87583376970849
+                    },
+                    "southwest": {
+                        "lat": 41.6307122697085,
+                        "lng": -70.87853173029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiozMyBNYW5oYXR0YW4gQXZlLCBGYWlyaGF2ZW4sIE1BIDAyNzE5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2acb3fa3ffd08fbcf0cfdc7d2e689227",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:14:36.557066",
+    "utility": "eversource",
+    "year": 2016
+}

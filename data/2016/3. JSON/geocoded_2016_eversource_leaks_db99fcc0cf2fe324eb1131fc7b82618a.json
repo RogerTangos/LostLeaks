@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_db99fcc0cf2fe324eb1131fc7b82618a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ellis Avenue",
+                    "short_name": "Ellis Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3502",
+                    "short_name": "3502",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Ellis Ave, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6265186,
+                        "lng": -70.89325389999999
+                    },
+                    "southwest": {
+                        "lat": 41.6265132,
+                        "lng": -70.8932713
+                    }
+                },
+                "location": {
+                    "lat": 41.6265186,
+                    "lng": -70.8932713
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6278648802915,
+                        "lng": -70.89191361970849
+                    },
+                    "southwest": {
+                        "lat": 41.6251669197085,
+                        "lng": -70.8946115802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiU2IEVsbGlzIEF2ZSwgRmFpcmhhdmVuLCBNQSAwMjcxOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "db99fcc0cf2fe324eb1131fc7b82618a",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:17:45.323548",
+    "utility": "eversource",
+    "year": 2016
+}

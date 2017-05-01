@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_41a79047056bc01b687813bd337b037b.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "70",
+                    "short_name": "70",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Winterville Road",
+                    "short_name": "Winterville Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "70 Winterville Rd, New Bedford, MA 02740, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6203964,
+                        "lng": -70.9458188
+                    },
+                    "southwest": {
+                        "lat": 41.6203824,
+                        "lng": -70.9458204
+                    }
+                },
+                "location": {
+                    "lat": 41.6203824,
+                    "lng": -70.9458188
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6217383802915,
+                        "lng": -70.9444706197085
+                    },
+                    "southwest": {
+                        "lat": 41.6190404197085,
+                        "lng": -70.94716858029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei03MCBXaW50ZXJ2aWxsZSBSZCwgTmV3IEJlZGZvcmQsIE1BIDAyNzQwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "41a79047056bc01b687813bd337b037b",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:18:31.095318",
+    "utility": "eversource",
+    "year": 2016
+}

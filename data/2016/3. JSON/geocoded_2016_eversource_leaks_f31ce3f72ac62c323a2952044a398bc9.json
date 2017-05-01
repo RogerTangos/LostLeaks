@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_f31ce3f72ac62c323a2952044a398bc9.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Main South",
+                    "short_name": "Main South",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01610",
+                    "short_name": "01610",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & Maywood St, Worcester, MA 01610, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2494935,
+                    "lng": -71.82358839999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2508424802915,
+                        "lng": -71.82223941970848
+                    },
+                    "southwest": {
+                        "lat": 42.2481445197085,
+                        "lng": -71.8249373802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei5NYWluIFN0ICYgTWF5d29vZCBTdCwgV29yY2VzdGVyLCBNQSAwMTYxMCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "f31ce3f72ac62c323a2952044a398bc9",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:22:36.810090",
+    "utility": "eversource",
+    "year": 2016
+}

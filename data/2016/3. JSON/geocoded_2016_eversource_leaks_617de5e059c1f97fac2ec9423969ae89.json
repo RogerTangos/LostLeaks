@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_617de5e059c1f97fac2ec9423969ae89.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "46",
+                    "short_name": "46",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chandler Street",
+                    "short_name": "Chandler St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "46 Chandler St, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3518875,
+                        "lng": -71.54312569999999
+                    },
+                    "southwest": {
+                        "lat": 42.3518744,
+                        "lng": -71.5431323
+                    }
+                },
+                "location": {
+                    "lat": 42.3518744,
+                    "lng": -71.54312569999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3532299302915,
+                        "lng": -71.5417800197085
+                    },
+                    "southwest": {
+                        "lat": 42.3505319697085,
+                        "lng": -71.5444779802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eio0NiBDaGFuZGxlciBTdCwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "617de5e059c1f97fac2ec9423969ae89",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:16:21.919034",
+    "utility": "eversource",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_7f51f8a282837649929f37116b910d1d.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2001",
+                    "short_name": "2001",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Windsor Drive South",
+                    "short_name": "Windsor Dr S",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01701",
+                    "short_name": "01701",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2001 Windsor Dr S, Framingham, MA 01701, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3307668,
+                        "lng": -71.43761909999999
+                    },
+                    "southwest": {
+                        "lat": 42.33076399999999,
+                        "lng": -71.4376374
+                    }
+                },
+                "location": {
+                    "lat": 42.33076399999999,
+                    "lng": -71.4376374
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33211438029149,
+                        "lng": -71.43627926970848
+                    },
+                    "southwest": {
+                        "lat": 42.32941641970849,
+                        "lng": -71.4389772302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiwyMDAxIFdpbmRzb3IgRHIgUywgRnJhbWluZ2hhbSwgTUEgMDE3MDEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7f51f8a282837649929f37116b910d1d",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:12:05.287676",
+    "utility": "eversource",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_76a5e4ab4ff759d3ab597bd6aa218683.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bay Street",
+                    "short_name": "Bay St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1819",
+                    "short_name": "1819",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Bay St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6310699,
+                        "lng": -70.87862299999999
+                    },
+                    "southwest": {
+                        "lat": 41.6310575,
+                        "lng": -70.8786317
+                    }
+                },
+                "location": {
+                    "lat": 41.6310575,
+                    "lng": -70.8786317
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.63241268029149,
+                        "lng": -70.87727836970849
+                    },
+                    "southwest": {
+                        "lat": 41.6297147197085,
+                        "lng": -70.87997633029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiM0MCBCYXkgU3QsIEZhaXJoYXZlbiwgTUEgMDI3MTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "76a5e4ab4ff759d3ab597bd6aa218683",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:15:42.247905",
+    "utility": "eversource",
+    "year": 2016
+}

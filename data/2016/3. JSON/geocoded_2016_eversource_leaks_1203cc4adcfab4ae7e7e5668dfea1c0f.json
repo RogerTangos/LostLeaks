@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_1203cc4adcfab4ae7e7e5668dfea1c0f.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Avenue",
+                    "short_name": "Highland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Highland Ave, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6332932,
+                        "lng": -70.8777762
+                    },
+                    "southwest": {
+                        "lat": 41.6332807,
+                        "lng": -70.8777846
+                    }
+                },
+                "location": {
+                    "lat": 41.6332932,
+                    "lng": -70.8777846
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6346359302915,
+                        "lng": -70.8764314197085
+                    },
+                    "southwest": {
+                        "lat": 41.6319379697085,
+                        "lng": -70.8791293802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig4IEhpZ2hsYW5kIEF2ZSwgRmFpcmhhdmVuLCBNQSAwMjcxOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1203cc4adcfab4ae7e7e5668dfea1c0f",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:19:11.083676",
+    "utility": "eversource",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_335b5d24abbc72e035550e6274a56fad.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32",
+                    "short_name": "32",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Street",
+                    "short_name": "Chestnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2858",
+                    "short_name": "2858",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "32 Chestnut St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.63030200000001,
+                        "lng": -70.89854059999999
+                    },
+                    "southwest": {
+                        "lat": 41.6303002,
+                        "lng": -70.8985592
+                    }
+                },
+                "location": {
+                    "lat": 41.6303002,
+                    "lng": -70.8985592
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6316500802915,
+                        "lng": -70.89720091970848
+                    },
+                    "southwest": {
+                        "lat": 41.62895211970851,
+                        "lng": -70.89989888029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EigzMiBDaGVzdG51dCBTdCwgRmFpcmhhdmVuLCBNQSAwMjcxOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "335b5d24abbc72e035550e6274a56fad",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:14:27.628486",
+    "utility": "eversource",
+    "year": 2016
+}

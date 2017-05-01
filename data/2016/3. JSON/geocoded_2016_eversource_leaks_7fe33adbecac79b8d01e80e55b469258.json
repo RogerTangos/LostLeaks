@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_7fe33adbecac79b8d01e80e55b469258.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Central Avenue",
+                    "short_name": "Central Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02745",
+                    "short_name": "02745",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Central Ave & Concord St, New Bedford, MA 02745, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.670705,
+                    "lng": -70.927622
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.67205398029149,
+                        "lng": -70.9262730197085
+                    },
+                    "southwest": {
+                        "lat": 41.6693560197085,
+                        "lng": -70.92897098029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjRDZW50cmFsIEF2ZSAmIENvbmNvcmQgU3QsIE5ldyBCZWRmb3JkLCBNQSAwMjc0NSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "7fe33adbecac79b8d01e80e55b469258",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:25.326427",
+    "utility": "eversource",
+    "year": 2016
+}

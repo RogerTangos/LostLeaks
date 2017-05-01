@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_daa582f7230e46960751a1a584dde49a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Main Middle",
+                    "short_name": "Main Middle",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01610",
+                    "short_name": "01610",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & Ionic Ave, Worcester, MA 01610, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2590464,
+                    "lng": -71.805933
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2603953802915,
+                        "lng": -71.8045840197085
+                    },
+                    "southwest": {
+                        "lat": 42.2576974197085,
+                        "lng": -71.8072819802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei1NYWluIFN0ICYgSW9uaWMgQXZlLCBXb3JjZXN0ZXIsIE1BIDAxNjEwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "daa582f7230e46960751a1a584dde49a",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:22:36.386997",
+    "utility": "eversource",
+    "year": 2016
+}

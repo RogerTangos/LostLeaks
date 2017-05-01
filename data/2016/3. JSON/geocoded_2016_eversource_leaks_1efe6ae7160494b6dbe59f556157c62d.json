@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_1efe6ae7160494b6dbe59f556157c62d.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "80",
+                    "short_name": "80",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "New York Avenue",
+                    "short_name": "New York Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01701",
+                    "short_name": "01701",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "80 New York Ave, Framingham, MA 01701, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.30019679999999,
+                        "lng": -71.4904268
+                    },
+                    "southwest": {
+                        "lat": 42.3001836,
+                        "lng": -71.4904328
+                    }
+                },
+                "location": {
+                    "lat": 42.3001836,
+                    "lng": -71.4904328
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3015391802915,
+                        "lng": -71.48908081970849
+                    },
+                    "southwest": {
+                        "lat": 42.2988412197085,
+                        "lng": -71.4917787802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eio4MCBOZXcgWW9yayBBdmUsIEZyYW1pbmdoYW0sIE1BIDAxNzAxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1efe6ae7160494b6dbe59f556157c62d",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:19:18.799859",
+    "utility": "eversource",
+    "year": 2016
+}

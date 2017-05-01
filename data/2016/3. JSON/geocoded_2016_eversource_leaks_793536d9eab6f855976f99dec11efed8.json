@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_793536d9eab6f855976f99dec11efed8.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32",
+                    "short_name": "32",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Williams Street",
+                    "short_name": "Williams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Upton",
+                    "short_name": "Upton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01568",
+                    "short_name": "01568",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1710",
+                    "short_name": "1710",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "32 Williams St, Upton, MA 01568, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1725326,
+                        "lng": -71.63245859999999
+                    },
+                    "southwest": {
+                        "lat": 42.1725231,
+                        "lng": -71.6324723
+                    }
+                },
+                "location": {
+                    "lat": 42.1725231,
+                    "lng": -71.63245859999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1738768302915,
+                        "lng": -71.6311164697085
+                    },
+                    "southwest": {
+                        "lat": 42.1711788697085,
+                        "lng": -71.63381443029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQzMiBXaWxsaWFtcyBTdCwgVXB0b24sIE1BIDAxNTY4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "793536d9eab6f855976f99dec11efed8",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:14:30.216416",
+    "utility": "eversource",
+    "year": 2016
+}

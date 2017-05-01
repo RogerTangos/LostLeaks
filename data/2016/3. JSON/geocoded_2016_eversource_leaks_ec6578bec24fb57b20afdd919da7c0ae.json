@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_ec6578bec24fb57b20afdd919da7c0ae.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "147",
+                    "short_name": "147",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Helen Drive",
+                    "short_name": "Helen Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "147 Helen Dr, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3438253,
+                        "lng": -71.5152463
+                    },
+                    "southwest": {
+                        "lat": 42.3438218,
+                        "lng": -71.5152645
+                    }
+                },
+                "location": {
+                    "lat": 42.3438253,
+                    "lng": -71.5152645
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3451725302915,
+                        "lng": -71.5139064197085
+                    },
+                    "southwest": {
+                        "lat": 42.34247456970851,
+                        "lng": -71.51660438029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EigxNDcgSGVsZW4gRHIsIE1hcmxib3JvdWdoLCBNQSAwMTc1MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ec6578bec24fb57b20afdd919da7c0ae",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:09:50.068228",
+    "utility": "eversource",
+    "year": 2016
+}

@@ -1,0 +1,71 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_12f8c0a64ffaffe5fae80bf1162421af.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Massachusetts Turnpike",
+                    "short_name": "Massachusetts Turnpike",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Massachusetts Turnpike, Massachusetts, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3795042,
+                        "lng": -71.0234664
+                    },
+                    "southwest": {
+                        "lat": 42.1267354,
+                        "lng": -73.41223529999999
+                    }
+                },
+                "location": {
+                    "lat": 42.182528,
+                    "lng": -72.21529090000001
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3795042,
+                        "lng": -71.0234664
+                    },
+                    "southwest": {
+                        "lat": 42.1267354,
+                        "lng": -73.41223529999999
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ414Hs76w5okRya15e-bbTpM",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "12f8c0a64ffaffe5fae80bf1162421af",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:13:02.471050",
+    "utility": "eversource",
+    "year": 2016
+}

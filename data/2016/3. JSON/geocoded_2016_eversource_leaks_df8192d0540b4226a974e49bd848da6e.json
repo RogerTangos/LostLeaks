@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_df8192d0540b4226a974e49bd848da6e.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Purchase Street",
+                    "short_name": "Purchase St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Purchase St & Cricket Ln, Milford, MA 01757, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1793829,
+                    "lng": -71.53648749999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1807318802915,
+                        "lng": -71.53513851970848
+                    },
+                    "southwest": {
+                        "lat": 42.1780339197085,
+                        "lng": -71.5378364802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjBQdXJjaGFzZSBTdCAmIENyaWNrZXQgTG4sIE1pbGZvcmQsIE1BIDAxNzU3LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "df8192d0540b4226a974e49bd848da6e",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:23:37.223268",
+    "utility": "eversource",
+    "year": 2016
+}

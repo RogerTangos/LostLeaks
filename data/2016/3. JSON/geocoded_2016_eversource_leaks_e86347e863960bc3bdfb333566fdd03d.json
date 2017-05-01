@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_e86347e863960bc3bdfb333566fdd03d.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Main Middle",
+                    "short_name": "Main Middle",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01610",
+                    "short_name": "01610",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & Piedmont St, Worcester, MA 01610, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2562974,
+                    "lng": -71.8109459
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2576463802915,
+                        "lng": -71.80959691970848
+                    },
+                    "southwest": {
+                        "lat": 42.25494841970851,
+                        "lng": -71.81229488029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei9NYWluIFN0ICYgUGllZG1vbnQgU3QsIFdvcmNlc3RlciwgTUEgMDE2MTAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "e86347e863960bc3bdfb333566fdd03d",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:22:37.760280",
+    "utility": "eversource",
+    "year": 2016
+}

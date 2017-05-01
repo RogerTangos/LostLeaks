@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_51c07e784b534508f1cfff4d46567c93.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "704",
+                    "short_name": "704",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mill Street",
+                    "short_name": "Mill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marion",
+                    "short_name": "Marion",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02738",
+                    "short_name": "02738",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2207",
+                    "short_name": "2207",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "704 Mill St, Marion, MA 02738, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6960088,
+                        "lng": -70.7729367
+                    },
+                    "southwest": {
+                        "lat": 41.69600490000001,
+                        "lng": -70.7729548
+                    }
+                },
+                "location": {
+                    "lat": 41.69600490000001,
+                    "lng": -70.7729367
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.69735583029151,
+                        "lng": -70.7715967697085
+                    },
+                    "southwest": {
+                        "lat": 41.69465786970851,
+                        "lng": -70.7742947302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiI3MDQgTWlsbCBTdCwgTWFyaW9uLCBNQSAwMjczOCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "51c07e784b534508f1cfff4d46567c93",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:18:33.074513",
+    "utility": "eversource",
+    "year": 2016
+}

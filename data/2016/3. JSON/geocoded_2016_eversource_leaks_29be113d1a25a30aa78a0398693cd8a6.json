@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_29be113d1a25a30aa78a0398693cd8a6.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1008",
+                    "short_name": "1008",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01701",
+                    "short_name": "01701",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8855",
+                    "short_name": "8855",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1008 Pleasant St, Framingham, MA 01701, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3066295,
+                        "lng": -71.48478829999999
+                    },
+                    "southwest": {
+                        "lat": 42.3066199,
+                        "lng": -71.4848018
+                    }
+                },
+                "location": {
+                    "lat": 42.3066199,
+                    "lng": -71.48478829999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3079736802915,
+                        "lng": -71.48344606970849
+                    },
+                    "southwest": {
+                        "lat": 42.3052757197085,
+                        "lng": -71.4861440302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EisxMDA4IFBsZWFzYW50IFN0LCBGcmFtaW5naGFtLCBNQSAwMTcwMSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "29be113d1a25a30aa78a0398693cd8a6",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:07:52.148297",
+    "utility": "eversource",
+    "year": 2016
+}

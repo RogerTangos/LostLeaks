@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_dfdee2a368a784353b8d3cf936951292.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Nancy Street",
+                    "short_name": "Nancy St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Nancy St & Mina St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.658764,
+                    "lng": -70.89578829999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.66011298029149,
+                        "lng": -70.8944393197085
+                    },
+                    "southwest": {
+                        "lat": 41.65741501970849,
+                        "lng": -70.8971372802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EixOYW5jeSBTdCAmIE1pbmEgU3QsIEZhaXJoYXZlbiwgTUEgMDI3MTksIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "dfdee2a368a784353b8d3cf936951292",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:23:02.194951",
+    "utility": "eversource",
+    "year": 2016
+}

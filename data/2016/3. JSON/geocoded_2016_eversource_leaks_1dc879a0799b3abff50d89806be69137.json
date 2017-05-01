@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_1dc879a0799b3abff50d89806be69137.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "119",
+                    "short_name": "119",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Main Street",
+                    "short_name": "N Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Uxbridge",
+                    "short_name": "Uxbridge",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01569",
+                    "short_name": "01569",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1721",
+                    "short_name": "1721",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "119 N Main St, Uxbridge, MA 01569, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0809859,
+                        "lng": -71.635879
+                    },
+                    "southwest": {
+                        "lat": 42.0809731,
+                        "lng": -71.6358867
+                    }
+                },
+                "location": {
+                    "lat": 42.0809859,
+                    "lng": -71.635879
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0823284802915,
+                        "lng": -71.6345338697085
+                    },
+                    "southwest": {
+                        "lat": 42.0796305197085,
+                        "lng": -71.63723183029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiYxMTkgTiBNYWluIFN0LCBVeGJyaWRnZSwgTUEgMDE1NjksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1dc879a0799b3abff50d89806be69137",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:08:35.260527",
+    "utility": "eversource",
+    "year": 2016
+}

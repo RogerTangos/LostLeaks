@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_a97ad0de4502ae782fe206c43cc5777d.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crescent Street",
+                    "short_name": "Crescent St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Crescent St, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3417973,
+                        "lng": -71.5590199
+                    },
+                    "southwest": {
+                        "lat": 42.3417872,
+                        "lng": -71.5590328
+                    }
+                },
+                "location": {
+                    "lat": 42.3417973,
+                    "lng": -71.5590199
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34314123029151,
+                        "lng": -71.55767736970849
+                    },
+                    "southwest": {
+                        "lat": 42.34044326970851,
+                        "lng": -71.5603753302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EioyMCBDcmVzY2VudCBTdCwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a97ad0de4502ae782fe206c43cc5777d",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:11:58.526739",
+    "utility": "eversource",
+    "year": 2016
+}

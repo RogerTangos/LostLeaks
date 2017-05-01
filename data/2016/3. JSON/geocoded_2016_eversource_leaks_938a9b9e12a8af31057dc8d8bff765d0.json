@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_938a9b9e12a8af31057dc8d8bff765d0.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Saint Mark Street",
+                    "short_name": "St Mark St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburn",
+                    "short_name": "Auburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01501",
+                    "short_name": "01501",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 St Mark St, Auburn, MA 01501, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1927937,
+                        "lng": -71.8245622
+                    },
+                    "southwest": {
+                        "lat": 42.1927858,
+                        "lng": -71.82457769999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1927858,
+                    "lng": -71.82457769999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1941387302915,
+                        "lng": -71.82322096970849
+                    },
+                    "southwest": {
+                        "lat": 42.1914407697085,
+                        "lng": -71.8259189302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMxIFN0IE1hcmsgU3QsIEF1YnVybiwgTUEgMDE1MDEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "938a9b9e12a8af31057dc8d8bff765d0",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:07:42.217230",
+    "utility": "eversource",
+    "year": 2016
+}

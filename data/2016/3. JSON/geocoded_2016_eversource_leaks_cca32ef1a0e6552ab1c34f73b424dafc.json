@@ -1,0 +1,87 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_cca32ef1a0e6552ab1c34f73b424dafc.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Enneking Parkway",
+                    "short_name": "Enneking Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Enneking Pkwy, Boston, MA, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2753305,
+                        "lng": -71.1287164
+                    },
+                    "southwest": {
+                        "lat": 42.2574231,
+                        "lng": -71.1454701
+                    }
+                },
+                "location": {
+                    "lat": 42.2641156,
+                    "lng": -71.1416315
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2753305,
+                        "lng": -71.1287164
+                    },
+                    "southwest": {
+                        "lat": 42.2574231,
+                        "lng": -71.1454701
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJqXWGmeZ-44kRJsGNImVBS1E",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "cca32ef1a0e6552ab1c34f73b424dafc",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:39.741420",
+    "utility": "eversource",
+    "year": 2016
+}

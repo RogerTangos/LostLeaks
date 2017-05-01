@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_f790b36632147f95fbc912e6780e1c64.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "137",
+                    "short_name": "137",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Street",
+                    "short_name": "West St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "137 West St, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1395068,
+                        "lng": -71.53487849999999
+                    },
+                    "southwest": {
+                        "lat": 42.1394929,
+                        "lng": -71.53488039999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1395068,
+                    "lng": -71.53487849999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1408488302915,
+                        "lng": -71.5335304697085
+                    },
+                    "southwest": {
+                        "lat": 42.1381508697085,
+                        "lng": -71.5362284302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMxMzcgV2VzdCBTdCwgTWlsZm9yZCwgTUEgMDE3NTcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f790b36632147f95fbc912e6780e1c64",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:09:10.596963",
+    "utility": "eversource",
+    "year": 2016
+}

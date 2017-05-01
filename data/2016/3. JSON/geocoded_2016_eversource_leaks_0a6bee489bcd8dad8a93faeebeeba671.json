@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_0a6bee489bcd8dad8a93faeebeeba671.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grant Street",
+                    "short_name": "Grant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Grant St, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1483675,
+                        "lng": -71.5220795
+                    },
+                    "southwest": {
+                        "lat": 42.1483624,
+                        "lng": -71.522097
+                    }
+                },
+                "location": {
+                    "lat": 42.1483624,
+                    "lng": -71.522097
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1497139302915,
+                        "lng": -71.5207392697085
+                    },
+                    "southwest": {
+                        "lat": 42.1470159697085,
+                        "lng": -71.52343723029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMzMCBHcmFudCBTdCwgTWlsZm9yZCwgTUEgMDE3NTcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0a6bee489bcd8dad8a93faeebeeba671",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:14:13.047173",
+    "utility": "eversource",
+    "year": 2016
+}

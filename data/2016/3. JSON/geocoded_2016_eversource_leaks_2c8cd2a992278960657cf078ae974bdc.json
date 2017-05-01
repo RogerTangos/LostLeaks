@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_2c8cd2a992278960657cf078ae974bdc.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "93",
+                    "short_name": "93",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Warren Avenue",
+                    "short_name": "Warren Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "93 Warren Ave, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3462913,
+                        "lng": -71.53918689999999
+                    },
+                    "southwest": {
+                        "lat": 42.3462775,
+                        "lng": -71.5391879
+                    }
+                },
+                "location": {
+                    "lat": 42.3462775,
+                    "lng": -71.53918689999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3476333802915,
+                        "lng": -71.53783841970849
+                    },
+                    "southwest": {
+                        "lat": 42.3449354197085,
+                        "lng": -71.5405363802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eik5MyBXYXJyZW4gQXZlLCBNYXJsYm9yb3VnaCwgTUEgMDE3NTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2c8cd2a992278960657cf078ae974bdc",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:20:29.973294",
+    "utility": "eversource",
+    "year": 2016
+}

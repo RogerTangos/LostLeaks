@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_06ed1ae3102736618ce4929285d0aa12.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Liberty Street",
+                    "short_name": "Liberty St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Natick",
+                    "short_name": "Natick",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01760",
+                    "short_name": "01760",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Liberty St & Mark St, Natick, MA 01760, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3131463,
+                    "lng": -71.347054
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3144952802915,
+                        "lng": -71.3457050197085
+                    },
+                    "southwest": {
+                        "lat": 42.3117973197085,
+                        "lng": -71.34840298029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EitMaWJlcnR5IFN0ICYgTWFyayBTdCwgTmF0aWNrLCBNQSAwMTc2MCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "06ed1ae3102736618ce4929285d0aa12",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:22:25.776969",
+    "utility": "eversource",
+    "year": 2016
+}

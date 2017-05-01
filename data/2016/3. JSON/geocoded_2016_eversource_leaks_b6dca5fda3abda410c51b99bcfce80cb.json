@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_b6dca5fda3abda410c51b99bcfce80cb.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Main South",
+                    "short_name": "Main South",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01603",
+                    "short_name": "01603",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & Clement St, Worcester, MA 01603, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2482171,
+                    "lng": -71.8259431
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2495660802915,
+                        "lng": -71.82459411970851
+                    },
+                    "southwest": {
+                        "lat": 42.2468681197085,
+                        "lng": -71.82729208029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei5NYWluIFN0ICYgQ2xlbWVudCBTdCwgV29yY2VzdGVyLCBNQSAwMTYwMywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "b6dca5fda3abda410c51b99bcfce80cb",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:22:33.663245",
+    "utility": "eversource",
+    "year": 2016
+}

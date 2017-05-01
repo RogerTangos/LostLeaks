@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_137ae738f0e22fc4ac8d41e2604b63eb.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "42",
+                    "short_name": "42",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hayward Street",
+                    "short_name": "Hayward St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3532",
+                    "short_name": "3532",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "42 Hayward St, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1449615,
+                        "lng": -71.50899559999999
+                    },
+                    "southwest": {
+                        "lat": 42.1449575,
+                        "lng": -71.5090136
+                    }
+                },
+                "location": {
+                    "lat": 42.1449575,
+                    "lng": -71.50899559999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.14630848029149,
+                        "lng": -71.50765561970849
+                    },
+                    "southwest": {
+                        "lat": 42.1436105197085,
+                        "lng": -71.51035358029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiU0MiBIYXl3YXJkIFN0LCBNaWxmb3JkLCBNQSAwMTc1NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "137ae738f0e22fc4ac8d41e2604b63eb",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:15:59.930057",
+    "utility": "eversource",
+    "year": 2016
+}

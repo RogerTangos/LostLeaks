@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_11dafddd06fe051068db9fbefff8a45b.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Boston Road",
+                    "short_name": "Boston Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sutton",
+                    "short_name": "Sutton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01590",
+                    "short_name": "01590",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Boston Rd & Providence Rd, Sutton, MA 01590, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1748807,
+                    "lng": -71.7225151
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1762296802915,
+                        "lng": -71.7211661197085
+                    },
+                    "southwest": {
+                        "lat": 42.1735317197085,
+                        "lng": -71.7238640802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjBCb3N0b24gUmQgJiBQcm92aWRlbmNlIFJkLCBTdXR0b24sIE1BIDAxNTkwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "11dafddd06fe051068db9fbefff8a45b",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:09.722550",
+    "utility": "eversource",
+    "year": 2016
+}

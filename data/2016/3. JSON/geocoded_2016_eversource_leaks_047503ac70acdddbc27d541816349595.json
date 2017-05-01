@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_047503ac70acdddbc27d541816349595.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Main Street",
+                    "short_name": "E Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2605",
+                    "short_name": "2605",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 E Main St, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3475548,
+                        "lng": -71.5429651
+                    },
+                    "southwest": {
+                        "lat": 42.3475469,
+                        "lng": -71.5429805
+                    }
+                },
+                "location": {
+                    "lat": 42.3475469,
+                    "lng": -71.5429651
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3488998302915,
+                        "lng": -71.5416238197085
+                    },
+                    "southwest": {
+                        "lat": 42.3462018697085,
+                        "lng": -71.54432178029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eic5IEUgTWFpbiBTdCwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "047503ac70acdddbc27d541816349595",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:20:03.422119",
+    "utility": "eversource",
+    "year": 2016
+}

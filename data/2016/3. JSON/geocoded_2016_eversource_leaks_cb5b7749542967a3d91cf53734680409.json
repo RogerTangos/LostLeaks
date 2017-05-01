@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_cb5b7749542967a3d91cf53734680409.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Oak Street",
+                    "short_name": "Oak St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Westwood",
+                    "short_name": "Westwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02090",
+                    "short_name": "02090",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Oak St & Martha Jones Rd, Westwood, MA 02090, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2015785,
+                    "lng": -71.2313612
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.20292748029149,
+                        "lng": -71.23001221970848
+                    },
+                    "southwest": {
+                        "lat": 42.2002295197085,
+                        "lng": -71.23271018029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjFPYWsgU3QgJiBNYXJ0aGEgSm9uZXMgUmQsIFdlc3R3b29kLCBNQSAwMjA5MCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "cb5b7749542967a3d91cf53734680409",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:22:42.380465",
+    "utility": "eversource",
+    "year": 2016
+}

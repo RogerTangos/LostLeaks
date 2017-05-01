@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_repairs_bc7b0d6e7c62c03c0105a369a302835e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "242",
+                    "short_name": "242",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "242 Main St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.650421,
+                        "lng": -70.9092069
+                    },
+                    "southwest": {
+                        "lat": 41.65042,
+                        "lng": -70.9092257
+                    }
+                },
+                "location": {
+                    "lat": 41.650421,
+                    "lng": -70.9092257
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6517694802915,
+                        "lng": -70.90786731970849
+                    },
+                    "southwest": {
+                        "lat": 41.6490715197085,
+                        "lng": -70.9105652802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiUyNDIgTWFpbiBTdCwgRmFpcmhhdmVuLCBNQSAwMjcxOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bc7b0d6e7c62c03c0105a369a302835e",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:29:20.889034",
+    "utility": "eversource",
+    "year": 2016
+}

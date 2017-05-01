@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_27fb89c48409775432bc5566a5057258.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "45",
+                    "short_name": "45",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Forest Street",
+                    "short_name": "Forest St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3359",
+                    "short_name": "3359",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "45 Forest St, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1346709,
+                        "lng": -71.5173731
+                    },
+                    "southwest": {
+                        "lat": 42.1346583,
+                        "lng": -71.517381
+                    }
+                },
+                "location": {
+                    "lat": 42.1346583,
+                    "lng": -71.517381
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1360135802915,
+                        "lng": -71.5160280697085
+                    },
+                    "southwest": {
+                        "lat": 42.1333156197085,
+                        "lng": -71.5187260302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQ0NSBGb3Jlc3QgU3QsIE1pbGZvcmQsIE1BIDAxNzU3LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "27fb89c48409775432bc5566a5057258",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:16:16.992388",
+    "utility": "eversource",
+    "year": 2016
+}

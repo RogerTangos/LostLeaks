@@ -1,0 +1,76 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_6c6b18aabf64288d6fceb2e00e1a0f00.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Belmont Street",
+                    "short_name": "Belmont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Belmont St & Arlington St, Massachusetts 02472, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.37612439999999,
+                    "lng": -71.1583004
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37747338029149,
+                        "lng": -71.15695141970849
+                    },
+                    "southwest": {
+                        "lat": 42.37477541970849,
+                        "lng": -71.15964938029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjNCZWxtb250IFN0ICYgQXJsaW5ndG9uIFN0LCBNYXNzYWNodXNldHRzIDAyNDcyLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "6c6b18aabf64288d6fceb2e00e1a0f00",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:05.370687",
+    "utility": "eversource",
+    "year": 2016
+}

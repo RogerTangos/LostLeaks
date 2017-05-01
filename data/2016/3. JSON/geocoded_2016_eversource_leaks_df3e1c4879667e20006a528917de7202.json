@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_df3e1c4879667e20006a528917de7202.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "200",
+                    "short_name": "200",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Homer Avenue",
+                    "short_name": "Homer Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ashland",
+                    "short_name": "Ashland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01721",
+                    "short_name": "01721",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "200 Homer Ave, Ashland, MA 01721, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2591329,
+                    "lng": -71.4565634
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26048188029151,
+                        "lng": -71.4552144197085
+                    },
+                    "southwest": {
+                        "lat": 42.25778391970851,
+                        "lng": -71.4579123802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJOX5VShh25IkR-v8_x3oUZ_U",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "df3e1c4879667e20006a528917de7202",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:10:14.088993",
+    "utility": "eversource",
+    "year": 2016
+}

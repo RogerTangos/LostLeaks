@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_fc28087c4b0a216cae63164373aa43c0.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "46",
+                    "short_name": "46",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hosmer Street",
+                    "short_name": "Hosmer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2354",
+                    "short_name": "2354",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "46 Hosmer St, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.353127,
+                        "lng": -71.5329576
+                    },
+                    "southwest": {
+                        "lat": 42.3531261,
+                        "lng": -71.53297630000002
+                    }
+                },
+                "location": {
+                    "lat": 42.353127,
+                    "lng": -71.53297630000002
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3544755302915,
+                        "lng": -71.5316179697085
+                    },
+                    "southwest": {
+                        "lat": 42.3517775697085,
+                        "lng": -71.53431593029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig0NiBIb3NtZXIgU3QsIE1hcmxib3JvdWdoLCBNQSAwMTc1MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fc28087c4b0a216cae63164373aa43c0",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:16:22.926232",
+    "utility": "eversource",
+    "year": 2016
+}

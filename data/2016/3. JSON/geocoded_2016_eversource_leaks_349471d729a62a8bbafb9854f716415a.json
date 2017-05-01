@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_349471d729a62a8bbafb9854f716415a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & Harding Rd, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.663669,
+                    "lng": -70.90691319999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6650179802915,
+                        "lng": -70.9055642197085
+                    },
+                    "southwest": {
+                        "lat": 41.6623200197085,
+                        "lng": -70.9082621802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei5NYWluIFN0ICYgSGFyZGluZyBSZCwgRmFpcmhhdmVuLCBNQSAwMjcxOSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "349471d729a62a8bbafb9854f716415a",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:57.625903",
+    "utility": "eversource",
+    "year": 2016
+}

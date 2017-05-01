@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_5558ff7a84b98a33993b9d6b9c5b85f6.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "185",
+                    "short_name": "185",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "185 Pleasant St, New Bedford, MA 02740, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6275812,
+                        "lng": -70.92555589999999
+                    },
+                    "southwest": {
+                        "lat": 41.6275793,
+                        "lng": -70.9255745
+                    }
+                },
+                "location": {
+                    "lat": 41.6275793,
+                    "lng": -70.9255745
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6289292302915,
+                        "lng": -70.92421621970848
+                    },
+                    "southwest": {
+                        "lat": 41.6262312697085,
+                        "lng": -70.9269141802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EisxODUgUGxlYXNhbnQgU3QsIE5ldyBCZWRmb3JkLCBNQSAwMjc0MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5558ff7a84b98a33993b9d6b9c5b85f6",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:11:20.692629",
+    "utility": "eversource",
+    "year": 2016
+}

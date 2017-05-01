@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_1a4ee4c31cf889dc86aae0a01586cfa5.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "301",
+                    "short_name": "301",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Windsor Drive North",
+                    "short_name": "Windsor Dr N",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01701",
+                    "short_name": "01701",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "301 Windsor Dr N, Framingham, MA 01701, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.331606,
+                        "lng": -71.43798780000002
+                    },
+                    "southwest": {
+                        "lat": 42.3316005,
+                        "lng": -71.43800499999999
+                    }
+                },
+                "location": {
+                    "lat": 42.331606,
+                    "lng": -71.43798780000002
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3329522302915,
+                        "lng": -71.4366474197085
+                    },
+                    "southwest": {
+                        "lat": 42.3302542697085,
+                        "lng": -71.43934538029153
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiszMDEgV2luZHNvciBEciBOLCBGcmFtaW5naGFtLCBNQSAwMTcwMSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1a4ee4c31cf889dc86aae0a01586cfa5",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:14:16.652695",
+    "utility": "eversource",
+    "year": 2016
+}

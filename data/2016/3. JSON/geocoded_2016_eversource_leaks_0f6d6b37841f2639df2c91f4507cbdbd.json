@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_0f6d6b37841f2639df2c91f4507cbdbd.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "64",
+                    "short_name": "64",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Water Street",
+                    "short_name": "Water St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01701",
+                    "short_name": "01701",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "64 Water St, Framingham, MA 01701, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3261917,
+                        "lng": -71.4041465
+                    },
+                    "southwest": {
+                        "lat": 42.3261778,
+                        "lng": -71.4041472
+                    }
+                },
+                "location": {
+                    "lat": 42.3261778,
+                    "lng": -71.4041465
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3275337302915,
+                        "lng": -71.4027978697085
+                    },
+                    "southwest": {
+                        "lat": 42.3248357697085,
+                        "lng": -71.4054958302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiY2NCBXYXRlciBTdCwgRnJhbWluZ2hhbSwgTUEgMDE3MDEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0f6d6b37841f2639df2c91f4507cbdbd",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:18:06.118404",
+    "utility": "eversource",
+    "year": 2016
+}

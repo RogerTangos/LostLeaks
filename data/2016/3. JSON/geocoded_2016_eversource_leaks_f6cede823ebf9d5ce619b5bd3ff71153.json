@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_f6cede823ebf9d5ce619b5bd3ff71153.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wachusett Road",
+                    "short_name": "Wachusett Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Needham",
+                    "short_name": "Needham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02492",
+                    "short_name": "02492",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Wachusett Rd, Needham, MA 02492, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2800889,
+                        "lng": -71.21680169999999
+                    },
+                    "southwest": {
+                        "lat": 42.280085,
+                        "lng": -71.2168197
+                    }
+                },
+                "location": {
+                    "lat": 42.280085,
+                    "lng": -71.21680169999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2814359302915,
+                        "lng": -71.21546171970849
+                    },
+                    "southwest": {
+                        "lat": 42.2787379697085,
+                        "lng": -71.21815968029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiY5IFdhY2h1c2V0dCBSZCwgTmVlZGhhbSwgTUEgMDI0OTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f6cede823ebf9d5ce619b5bd3ff71153",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:20:13.892398",
+    "utility": "eversource",
+    "year": 2016
+}

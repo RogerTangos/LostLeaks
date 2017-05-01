@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_af25908ff4b6f5ba9459aac0a8186cdb.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Quinsigamond Avenue",
+                    "short_name": "N Quinsigamond Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Shrewsbury",
+                    "short_name": "Shrewsbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01545",
+                    "short_name": "01545",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "36 N Quinsigamond Ave, Shrewsbury, MA 01545, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2769803,
+                        "lng": -71.7527428
+                    },
+                    "southwest": {
+                        "lat": 42.276978,
+                        "lng": -71.7527613
+                    }
+                },
+                "location": {
+                    "lat": 42.2769803,
+                    "lng": -71.7527428
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2783281302915,
+                        "lng": -71.7514030697085
+                    },
+                    "southwest": {
+                        "lat": 42.2756301697085,
+                        "lng": -71.75410103029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjAzNiBOIFF1aW5zaWdhbW9uZCBBdmUsIFNocmV3c2J1cnksIE1BIDAxNTQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "af25908ff4b6f5ba9459aac0a8186cdb",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:15:07.288369",
+    "utility": "eversource",
+    "year": 2016
+}

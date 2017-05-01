@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_7b95e6c6e7d46b8c89c4c19b54537801.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brigham Street",
+                    "short_name": "Brigham St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Brigham St, New Bedford, MA 02740, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6255569,
+                        "lng": -70.9408383
+                    },
+                    "southwest": {
+                        "lat": 41.6255543,
+                        "lng": -70.94085679999999
+                    }
+                },
+                "location": {
+                    "lat": 41.6255569,
+                    "lng": -70.9408383
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6269045802915,
+                        "lng": -70.93949856970849
+                    },
+                    "southwest": {
+                        "lat": 41.6242066197085,
+                        "lng": -70.9421965302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig4IEJyaWdoYW0gU3QsIE5ldyBCZWRmb3JkLCBNQSAwMjc0MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7b95e6c6e7d46b8c89c4c19b54537801",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:19:04.433117",
+    "utility": "eversource",
+    "year": 2016
+}

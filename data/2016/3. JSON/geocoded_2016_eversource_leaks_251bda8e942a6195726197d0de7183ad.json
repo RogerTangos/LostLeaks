@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_251bda8e942a6195726197d0de7183ad.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "700",
+                    "short_name": "700",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boston Providence Highway",
+                    "short_name": "Boston Providence Hwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dedham",
+                    "short_name": "Dedham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02026",
+                    "short_name": "02026",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6800",
+                    "short_name": "6800",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "700 Boston Providence Hwy, Dedham, MA 02026, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2410874,
+                        "lng": -71.1764044
+                    },
+                    "southwest": {
+                        "lat": 42.2410808,
+                        "lng": -71.17642099999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2410808,
+                    "lng": -71.1764044
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24243308029151,
+                        "lng": -71.17506371970849
+                    },
+                    "southwest": {
+                        "lat": 42.23973511970851,
+                        "lng": -71.1777616802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjA3MDAgQm9zdG9uIFByb3ZpZGVuY2UgSHd5LCBEZWRoYW0sIE1BIDAyMDI2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "251bda8e942a6195726197d0de7183ad",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:18:32.371250",
+    "utility": "eversource",
+    "year": 2016
+}

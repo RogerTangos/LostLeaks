@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_635a99090301d61b8cfb1cf24848e897.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Grant Street",
+                    "short_name": "Grant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01702",
+                    "short_name": "01702",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Grant St & Davis St, Framingham, MA 01702, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2795065,
+                    "lng": -71.4120504
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2808554802915,
+                        "lng": -71.4107014197085
+                    },
+                    "southwest": {
+                        "lat": 42.2781575197085,
+                        "lng": -71.41339938029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei5HcmFudCBTdCAmIERhdmlzIFN0LCBGcmFtaW5naGFtLCBNQSAwMTcwMiwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "635a99090301d61b8cfb1cf24848e897",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:50.683880",
+    "utility": "eversource",
+    "year": 2016
+}

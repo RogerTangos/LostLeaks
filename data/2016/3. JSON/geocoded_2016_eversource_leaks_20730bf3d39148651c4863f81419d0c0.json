@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_20730bf3d39148651c4863f81419d0c0.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "674",
+                    "short_name": "674",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Concord Road",
+                    "short_name": "Concord Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "674 Concord Rd, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3661294,
+                        "lng": -71.5097629
+                    },
+                    "southwest": {
+                        "lat": 42.3661221,
+                        "lng": -71.5097789
+                    }
+                },
+                "location": {
+                    "lat": 42.3661294,
+                    "lng": -71.5097789
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36747473029151,
+                        "lng": -71.50842191970848
+                    },
+                    "southwest": {
+                        "lat": 42.36477676970851,
+                        "lng": -71.5111198802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eio2NzQgQ29uY29yZCBSZCwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "20730bf3d39148651c4863f81419d0c0",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:18:15.170252",
+    "utility": "eversource",
+    "year": 2016
+}

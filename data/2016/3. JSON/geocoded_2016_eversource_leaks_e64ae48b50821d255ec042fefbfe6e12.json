@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_e64ae48b50821d255ec042fefbfe6e12.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & Howland Rd, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.65618509999999,
+                    "lng": -70.9085638
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.65753408029149,
+                        "lng": -70.90721481970849
+                    },
+                    "southwest": {
+                        "lat": 41.65483611970849,
+                        "lng": -70.90991278029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei5NYWluIFN0ICYgSG93bGFuZCBSZCwgRmFpcmhhdmVuLCBNQSAwMjcxOSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "e64ae48b50821d255ec042fefbfe6e12",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:22:10.254324",
+    "utility": "eversource",
+    "year": 2016
+}

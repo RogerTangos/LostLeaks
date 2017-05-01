@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_fec0d2f140a81d646dca72c39b4fe614.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1452",
+                    "short_name": "1452",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Concord Street",
+                    "short_name": "Concord St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Framingham",
+                    "short_name": "Framingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01701",
+                    "short_name": "01701",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1452 Concord St, Framingham, MA 01701, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3191102,
+                        "lng": -71.3978429
+                    },
+                    "southwest": {
+                        "lat": 42.319103,
+                        "lng": -71.397859
+                    }
+                },
+                "location": {
+                    "lat": 42.3191102,
+                    "lng": -71.397859
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32045558029149,
+                        "lng": -71.39650196970848
+                    },
+                    "southwest": {
+                        "lat": 42.31775761970849,
+                        "lng": -71.39919993029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EioxNDUyIENvbmNvcmQgU3QsIEZyYW1pbmdoYW0sIE1BIDAxNzAxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fec0d2f140a81d646dca72c39b4fe614",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:09:48.018993",
+    "utility": "eversource",
+    "year": 2016
+}

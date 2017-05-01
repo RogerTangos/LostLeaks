@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_ce900d5229574d321817f3f56f97b65a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "190",
+                    "short_name": "190",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Viking Drive",
+                    "short_name": "Viking Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth",
+                    "short_name": "Plymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02360",
+                    "short_name": "02360",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "190 Viking Dr, Plymouth, MA 02360, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.9524857,
+                        "lng": -70.7009506
+                    },
+                    "southwest": {
+                        "lat": 41.9524728,
+                        "lng": -70.7009576
+                    }
+                },
+                "location": {
+                    "lat": 41.9524728,
+                    "lng": -70.7009506
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.9538282302915,
+                        "lng": -70.6996051197085
+                    },
+                    "southwest": {
+                        "lat": 41.9511302697085,
+                        "lng": -70.7023030802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiYxOTAgVmlraW5nIERyLCBQbHltb3V0aCwgTUEgMDIzNjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ce900d5229574d321817f3f56f97b65a",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:11:40.239230",
+    "utility": "eversource",
+    "year": 2016
+}

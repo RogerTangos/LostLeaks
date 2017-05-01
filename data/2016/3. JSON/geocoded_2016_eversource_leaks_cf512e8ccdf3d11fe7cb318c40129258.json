@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_cf512e8ccdf3d11fe7cb318c40129258.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "160",
+                    "short_name": "160",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tacoma Street",
+                    "short_name": "Tacoma St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Great Brook Valley",
+                    "short_name": "Great Brook Valley",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01605",
+                    "short_name": "01605",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "160 Tacoma St, Worcester, MA 01605, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.306271,
+                        "lng": -71.77190159999999
+                    },
+                    "southwest": {
+                        "lat": 42.3062577,
+                        "lng": -71.7719067
+                    }
+                },
+                "location": {
+                    "lat": 42.306271,
+                    "lng": -71.77190159999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30761333029149,
+                        "lng": -71.7705551697085
+                    },
+                    "southwest": {
+                        "lat": 42.3049153697085,
+                        "lng": -71.77325313029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicxNjAgVGFjb21hIFN0LCBXb3JjZXN0ZXIsIE1BIDAxNjA1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cf512e8ccdf3d11fe7cb318c40129258",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:10:36.394107",
+    "utility": "eversource",
+    "year": 2016
+}

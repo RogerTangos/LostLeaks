@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_e1d1fe41ca7b4687022ae51f4443ed4a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "96",
+                    "short_name": "96",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Kingston",
+                    "short_name": "Kingston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kingston",
+                    "short_name": "Kingston",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02364",
+                    "short_name": "02364",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "96 Main St, Kingston, MA 02364, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.9875784,
+                        "lng": -70.7080565
+                    },
+                    "southwest": {
+                        "lat": 41.987565,
+                        "lng": -70.708062
+                    }
+                },
+                "location": {
+                    "lat": 41.987565,
+                    "lng": -70.708062
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.98892068029149,
+                        "lng": -70.70671026970851
+                    },
+                    "southwest": {
+                        "lat": 41.98622271970849,
+                        "lng": -70.70940823029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiM5NiBNYWluIFN0LCBLaW5nc3RvbiwgTUEgMDIzNjQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e1d1fe41ca7b4687022ae51f4443ed4a",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:23:16.765809",
+    "utility": "eversource",
+    "year": 2016
+}

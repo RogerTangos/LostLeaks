@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_6d84092c29c870d9effb88dc806cc6a9.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chester Avenue",
+                    "short_name": "Chester Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Westwood",
+                    "short_name": "Westwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02090",
+                    "short_name": "02090",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Chester Ave, Westwood, MA 02090, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2219825,
+                        "lng": -71.1645072
+                    },
+                    "southwest": {
+                        "lat": 42.2219731,
+                        "lng": -71.164521
+                    }
+                },
+                "location": {
+                    "lat": 42.2219731,
+                    "lng": -71.1645072
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.22332678029149,
+                        "lng": -71.1631651197085
+                    },
+                    "southwest": {
+                        "lat": 42.22062881970849,
+                        "lng": -71.1658630802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicxMiBDaGVzdGVyIEF2ZSwgV2VzdHdvb2QsIE1BIDAyMDkwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6d84092c29c870d9effb88dc806cc6a9",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:08:38.138464",
+    "utility": "eversource",
+    "year": 2016
+}

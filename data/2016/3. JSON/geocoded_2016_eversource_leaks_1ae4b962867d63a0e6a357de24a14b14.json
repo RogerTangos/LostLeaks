@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_1ae4b962867d63a0e6a357de24a14b14.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "William Street",
+                    "short_name": "William St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01609",
+                    "short_name": "01609",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "59 William St, Worcester, MA 01609, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2676209,
+                        "lng": -71.8101545
+                    },
+                    "southwest": {
+                        "lat": 42.2676071,
+                        "lng": -71.8101569
+                    }
+                },
+                "location": {
+                    "lat": 42.2676071,
+                    "lng": -71.8101569
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2689629802915,
+                        "lng": -71.8088067197085
+                    },
+                    "southwest": {
+                        "lat": 42.2662650197085,
+                        "lng": -71.8115046802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eic1OSBXaWxsaWFtIFN0LCBXb3JjZXN0ZXIsIE1BIDAxNjA5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1ae4b962867d63a0e6a357de24a14b14",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:17:41.113604",
+    "utility": "eversource",
+    "year": 2016
+}

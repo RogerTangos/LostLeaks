@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_4e3d4bf170277a30f6c062e8d97aab5e.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "120",
+                    "short_name": "120",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "120 Pleasant St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6371546,
+                        "lng": -70.8986489
+                    },
+                    "southwest": {
+                        "lat": 41.6371528,
+                        "lng": -70.8986675
+                    }
+                },
+                "location": {
+                    "lat": 41.6371528,
+                    "lng": -70.8986675
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6385026802915,
+                        "lng": -70.89730921970849
+                    },
+                    "southwest": {
+                        "lat": 41.6358047197085,
+                        "lng": -70.90000718029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EikxMjAgUGxlYXNhbnQgU3QsIEZhaXJoYXZlbiwgTUEgMDI3MTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4e3d4bf170277a30f6c062e8d97aab5e",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:08:43.409367",
+    "utility": "eversource",
+    "year": 2016
+}

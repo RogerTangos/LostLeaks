@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_a8db16aaf0e77fb8cfc23b7062023634.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "900",
+                    "short_name": "900",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Belleville Avenue",
+                    "short_name": "Belleville Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02745",
+                    "short_name": "02745",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "900 Belleville Ave, New Bedford, MA 02745, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6805044,
+                        "lng": -70.92057679999999
+                    },
+                    "southwest": {
+                        "lat": 41.6805042,
+                        "lng": -70.9205956
+                    }
+                },
+                "location": {
+                    "lat": 41.6805044,
+                    "lng": -70.92057679999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6818532802915,
+                        "lng": -70.91923721970849
+                    },
+                    "southwest": {
+                        "lat": 41.6791553197085,
+                        "lng": -70.92193518029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei45MDAgQmVsbGV2aWxsZSBBdmUsIE5ldyBCZWRmb3JkLCBNQSAwMjc0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a8db16aaf0e77fb8cfc23b7062023634",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:20:19.309983",
+    "utility": "eversource",
+    "year": 2016
+}

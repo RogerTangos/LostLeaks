@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_eversource_leaks_9f64233cadbb98d7776af671dd65e1f1.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Millbury",
+                    "short_name": "Millbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01527",
+                    "short_name": "01527",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Elm St & Waters St, Millbury, MA 01527, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.18985199999999,
+                    "lng": -71.763301
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1912009802915,
+                        "lng": -71.7619520197085
+                    },
+                    "southwest": {
+                        "lat": 42.1885030197085,
+                        "lng": -71.76464998029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EitFbG0gU3QgJiBXYXRlcnMgU3QsIE1pbGxidXJ5LCBNQSAwMTUyNywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "9f64233cadbb98d7776af671dd65e1f1",
+    "status": "OK",
+    "timestamp": "2017-05-01T13:21:39.107170",
+    "utility": "eversource",
+    "year": 2016
+}
