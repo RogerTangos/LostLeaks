@@ -86,7 +86,7 @@ class GeolocationWorker(Thread):
         content = res.json()
 
         filename = ('geocoded_%s_%s_%s_%s.json'
-                        % (str(row.year), row.utility, row.row_id, row.leaks_or_repairs))
+                        % (str(row.year), row.utility, row.leaks_or_repairs, row.row_id))
         relative_path = os.path.join(str(row.year), '3. JSON', filename)
 
         # edit content, b/c that's what will be writen to the file
