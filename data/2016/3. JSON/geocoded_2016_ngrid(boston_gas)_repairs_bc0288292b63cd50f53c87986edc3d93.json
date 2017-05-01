@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bc0288292b63cd50f53c87986edc3d93.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Willis Street",
+                    "short_name": "Willis St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2750",
+                    "short_name": "2750",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Willis St, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4566182,
+                        "lng": -70.99540139999999
+                    },
+                    "southwest": {
+                        "lat": 42.4566059,
+                        "lng": -70.9954101
+                    }
+                },
+                "location": {
+                    "lat": 42.4566059,
+                    "lng": -70.9954101
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4579610302915,
+                        "lng": -70.9940567697085
+                    },
+                    "southwest": {
+                        "lat": 42.45526306970851,
+                        "lng": -70.9967547302915
+                    }
+                }
+            },
+            "place_id": "EiI5IFdpbGxpcyBTdCwgU2F1Z3VzLCBNQSAwMTkwNiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bc0288292b63cd50f53c87986edc3d93",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:43.919046",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_df4c50b89aa78bce5a795012aca32481.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Coachlace Street",
+                    "short_name": "Coachlace St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2408",
+                    "short_name": "2408",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Coachlace St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4145323,
+                        "lng": -71.6921801
+                    },
+                    "southwest": {
+                        "lat": 42.4145257,
+                        "lng": -71.6921967
+                    }
+                },
+                "location": {
+                    "lat": 42.4145257,
+                    "lng": -71.6921967
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4158779802915,
+                        "lng": -71.6908394197085
+                    },
+                    "southwest": {
+                        "lat": 42.4131800197085,
+                        "lng": -71.6935373802915
+                    }
+                }
+            },
+            "place_id": "EicxMiBDb2FjaGxhY2UgU3QsIENsaW50b24sIE1BIDAxNTEwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "df4c50b89aa78bce5a795012aca32481",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:10.489221",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

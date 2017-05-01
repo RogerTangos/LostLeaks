@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ae9e753d69834a1e43a701bfe03bd218.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brookside Avenue",
+                    "short_name": "Brookside Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1014",
+                    "short_name": "1014",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Brookside Ave, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3968383,
+                        "lng": -71.1958607
+                    },
+                    "southwest": {
+                        "lat": 42.3968325,
+                        "lng": -71.19587779999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3968383,
+                    "lng": -71.19587779999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3981843802915,
+                        "lng": -71.19452026970849
+                    },
+                    "southwest": {
+                        "lat": 42.3954864197085,
+                        "lng": -71.1972182302915
+                    }
+                }
+            },
+            "place_id": "EigxMiBCcm9va3NpZGUgQXZlLCBCZWxtb250LCBNQSAwMjQ3OCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ae9e753d69834a1e43a701bfe03bd218",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:09.999146",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

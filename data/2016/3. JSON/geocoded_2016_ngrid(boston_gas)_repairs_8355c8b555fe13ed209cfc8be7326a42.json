@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8355c8b555fe13ed209cfc8be7326a42.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "349",
+                    "short_name": "349",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Meridian Street",
+                    "short_name": "Meridian St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "349 Meridian St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.378496,
+                        "lng": -71.03918329999999
+                    },
+                    "southwest": {
+                        "lat": 42.3784958,
+                        "lng": -71.039202
+                    }
+                },
+                "location": {
+                    "lat": 42.378496,
+                    "lng": -71.03918329999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37984488029149,
+                        "lng": -71.0378436697085
+                    },
+                    "southwest": {
+                        "lat": 42.37714691970849,
+                        "lng": -71.04054163029151
+                    }
+                }
+            },
+            "place_id": "EiYzNDkgTWVyaWRpYW4gU3QsIEJvc3RvbiwgTUEgMDIxMjgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8355c8b555fe13ed209cfc8be7326a42",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:17.250806",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

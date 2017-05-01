@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3a115f518c9c295bed012312aa36392f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lynnfield Street",
+                    "short_name": "Lynnfield St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Lynnfield St, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4874269,
+                        "lng": -70.9642511
+                    },
+                    "southwest": {
+                        "lat": 42.48718950000001,
+                        "lng": -70.96456119999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4873082,
+                    "lng": -70.9644062
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4886571802915,
+                        "lng": -70.96305716970849
+                    },
+                    "southwest": {
+                        "lat": 42.4859592197085,
+                        "lng": -70.96575513029151
+                    }
+                }
+            },
+            "place_id": "ChIJ02YkOy1t44kRePUpeojxyA4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3a115f518c9c295bed012312aa36392f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:22.201558",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

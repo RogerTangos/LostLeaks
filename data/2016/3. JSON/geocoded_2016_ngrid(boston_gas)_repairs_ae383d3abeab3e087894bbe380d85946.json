@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ae383d3abeab3e087894bbe380d85946.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "105",
+                    "short_name": "105",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salisbury",
+                    "short_name": "Salisbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01952",
+                    "short_name": "01952",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1803",
+                    "short_name": "1803",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "105 Elm St, Salisbury, MA 01952, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8439824,
+                        "lng": -70.87857
+                    },
+                    "southwest": {
+                        "lat": 42.8436514,
+                        "lng": -70.87881399999999
+                    }
+                },
+                "location": {
+                    "lat": 42.8438169,
+                    "lng": -70.878692
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8451658802915,
+                        "lng": -70.87734301970849
+                    },
+                    "southwest": {
+                        "lat": 42.8424679197085,
+                        "lng": -70.88004098029151
+                    }
+                }
+            },
+            "place_id": "ChIJrfSLIDfh4okRI1FKvpbmzME",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ae383d3abeab3e087894bbe380d85946",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:31.137153",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

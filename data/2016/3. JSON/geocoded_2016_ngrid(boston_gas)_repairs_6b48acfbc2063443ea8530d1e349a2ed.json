@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6b48acfbc2063443ea8530d1e349a2ed.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Spruce Street",
+                    "short_name": "Spruce St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4829",
+                    "short_name": "4829",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Spruce St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2197867,
+                        "lng": -70.9966349
+                    },
+                    "southwest": {
+                        "lat": 42.2196692,
+                        "lng": -70.99676149999999
+                    }
+                },
+                "location": {
+                    "lat": 42.219728,
+                    "lng": -70.9966982
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2210769302915,
+                        "lng": -70.9953492197085
+                    },
+                    "southwest": {
+                        "lat": 42.2183789697085,
+                        "lng": -70.99804718029151
+                    }
+                }
+            },
+            "place_id": "ChIJ-WsuJNJi44kRvXjv9UaBCEI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6b48acfbc2063443ea8530d1e349a2ed",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:53.171566",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

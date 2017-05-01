@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4d8bd70be72fabf8f6ea6c3ecf416716.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grafton Street",
+                    "short_name": "Grafton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1904",
+                    "short_name": "1904",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Grafton St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5178661,
+                        "lng": -70.9121095
+                    },
+                    "southwest": {
+                        "lat": 42.5177697,
+                        "lng": -70.9122476
+                    }
+                },
+                "location": {
+                    "lat": 42.5178179,
+                    "lng": -70.9121785
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5191668802915,
+                        "lng": -70.91082956970848
+                    },
+                    "southwest": {
+                        "lat": 42.5164689197085,
+                        "lng": -70.9135275302915
+                    }
+                }
+            },
+            "place_id": "ChIJ58V67oET44kRqaXpFcJC8Vw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4d8bd70be72fabf8f6ea6c3ecf416716",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:11.694561",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

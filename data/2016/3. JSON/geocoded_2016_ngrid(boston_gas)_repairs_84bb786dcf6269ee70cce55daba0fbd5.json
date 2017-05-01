@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_84bb786dcf6269ee70cce55daba0fbd5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "807",
+                    "short_name": "807",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boxborough",
+                    "short_name": "Boxborough",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01719",
+                    "short_name": "01719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "807 Massachusetts Ave, Boxborough, MA 01719, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4830519,
+                    "lng": -71.5174772
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4844008802915,
+                        "lng": -71.51612821970849
+                    },
+                    "southwest": {
+                        "lat": 42.4817029197085,
+                        "lng": -71.5188261802915
+                    }
+                }
+            },
+            "place_id": "ChIJfRHUlKOT44kRL9tAIJBMGZg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "84bb786dcf6269ee70cce55daba0fbd5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:10.278726",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

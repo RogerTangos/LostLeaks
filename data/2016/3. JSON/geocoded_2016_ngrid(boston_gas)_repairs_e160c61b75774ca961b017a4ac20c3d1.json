@@ -1,0 +1,117 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e160c61b75774ca961b017a4ac20c3d1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Livingstone Street",
+                    "short_name": "Livingstone St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Center",
+                    "short_name": "Dorchester Center",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3919",
+                    "short_name": "3919",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "14 Livingstone St, Dorchester Center, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2853673,
+                        "lng": -71.0896338
+                    },
+                    "southwest": {
+                        "lat": 42.2851766,
+                        "lng": -71.089826
+                    }
+                },
+                "location": {
+                    "lat": 42.2852719,
+                    "lng": -71.0897299
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2866209302915,
+                        "lng": -71.0883809197085
+                    },
+                    "southwest": {
+                        "lat": 42.2839229697085,
+                        "lng": -71.09107888029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ9yfnavl744kR2YRKAlbNDco",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e160c61b75774ca961b017a4ac20c3d1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:58.046388",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

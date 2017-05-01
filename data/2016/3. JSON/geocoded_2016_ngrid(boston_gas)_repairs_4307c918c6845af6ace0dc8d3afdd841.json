@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4307c918c6845af6ace0dc8d3afdd841.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Franklin Street",
+                    "short_name": "Franklin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Franklin St & Payne St, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2397745,
+                    "lng": -71.00324909999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2411234802915,
+                        "lng": -71.0019001197085
+                    },
+                    "southwest": {
+                        "lat": 42.2384255197085,
+                        "lng": -71.0045980802915
+                    }
+                }
+            },
+            "place_id": "Ei1GcmFua2xpbiBTdCAmIFBheW5lIFN0LCBRdWluY3ksIE1BIDAyMTY5LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "4307c918c6845af6ace0dc8d3afdd841",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:44.009652",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

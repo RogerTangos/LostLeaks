@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_897083dd616a6227d494464df3251cfe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Collins Street",
+                    "short_name": "Collins St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newburyport",
+                    "short_name": "Newburyport",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01950",
+                    "short_name": "01950",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2139",
+                    "short_name": "2139",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Collins St, Newburyport, MA 01950, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8176166,
+                        "lng": -70.8860779
+                    },
+                    "southwest": {
+                        "lat": 42.8175126,
+                        "lng": -70.886223
+                    }
+                },
+                "location": {
+                    "lat": 42.8175646,
+                    "lng": -70.88615039999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8189135802915,
+                        "lng": -70.88480146970849
+                    },
+                    "southwest": {
+                        "lat": 42.8162156197085,
+                        "lng": -70.88749943029151
+                    }
+                }
+            },
+            "place_id": "ChIJWY-c93Th4okRS7C5bLmEa2E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "897083dd616a6227d494464df3251cfe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:09.496451",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

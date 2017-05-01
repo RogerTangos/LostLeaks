@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4ab7bcaba10c83e23d803ded57b0a765.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "111",
+                    "short_name": "111",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oliver Street",
+                    "short_name": "Oliver St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "111 Oliver St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4323274,
+                        "lng": -71.02834519999999
+                    },
+                    "southwest": {
+                        "lat": 42.4323141,
+                        "lng": -71.0283505
+                    }
+                },
+                "location": {
+                    "lat": 42.4323274,
+                    "lng": -71.0283505
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43366973029151,
+                        "lng": -71.02699886970849
+                    },
+                    "southwest": {
+                        "lat": 42.43097176970851,
+                        "lng": -71.0296968302915
+                    }
+                }
+            },
+            "place_id": "EiQxMTEgT2xpdmVyIFN0LCBNYWxkZW4sIE1BIDAyMTQ4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4ab7bcaba10c83e23d803ded57b0a765",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:53.450195",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

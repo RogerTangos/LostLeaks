@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2b90ff148e9a1bce111fa5c8239101e2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Phillips Road",
+                    "short_name": "Phillips Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1271",
+                    "short_name": "1271",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "41 Phillips Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3992494,
+                        "lng": -71.4395296
+                    },
+                    "southwest": {
+                        "lat": 42.39902590000001,
+                        "lng": -71.4398057
+                    }
+                },
+                "location": {
+                    "lat": 42.3991376,
+                    "lng": -71.4396677
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4004866302915,
+                        "lng": -71.4383186697085
+                    },
+                    "southwest": {
+                        "lat": 42.3977886697085,
+                        "lng": -71.4410166302915
+                    }
+                }
+            },
+            "place_id": "ChIJaSjKuTeO44kRqQ_kXRFNqz4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2b90ff148e9a1bce111fa5c8239101e2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:19.163407",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

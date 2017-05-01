@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_83852ca3a93aa2fefa3d841de3932901.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "401",
+                    "short_name": "401",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Buckminster Drive",
+                    "short_name": "Buckminster Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "401 Buckminster Dr, Norwood, MA 02062, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1713238,
+                    "lng": -71.22288979999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.17267278029149,
+                        "lng": -71.22154081970848
+                    },
+                    "southwest": {
+                        "lat": 42.1699748197085,
+                        "lng": -71.2242387802915
+                    }
+                }
+            },
+            "place_id": "ChIJz6VaD0J-5IkRk-_EapaeJUI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "83852ca3a93aa2fefa3d841de3932901",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:14.088165",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

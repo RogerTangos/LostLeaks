@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_45c7d9b4c7aaaea7b471a5c29ff25769.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Belmont Street",
+                    "short_name": "Belmont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2626",
+                    "short_name": "2626",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Belmont St, Reading, MA 01867, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5281022,
+                        "lng": -71.0930757
+                    },
+                    "southwest": {
+                        "lat": 42.5279826,
+                        "lng": -71.093232
+                    }
+                },
+                "location": {
+                    "lat": 42.5280424,
+                    "lng": -71.09315389999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5293913802915,
+                        "lng": -71.0918048697085
+                    },
+                    "southwest": {
+                        "lat": 42.5266934197085,
+                        "lng": -71.0945028302915
+                    }
+                }
+            },
+            "place_id": "ChIJH2MhwaEM44kRL5uQ2IYbIFo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "45c7d9b4c7aaaea7b471a5c29ff25769",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:42.944074",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

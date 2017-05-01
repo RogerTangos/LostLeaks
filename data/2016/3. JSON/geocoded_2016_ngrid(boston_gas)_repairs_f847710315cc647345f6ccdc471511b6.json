@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f847710315cc647345f6ccdc471511b6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Higgins Street",
+                    "short_name": "Higgins St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington Heights",
+                    "short_name": "Arlington Heights",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6025",
+                    "short_name": "6025",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Higgins St, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4206762,
+                        "lng": -71.1721755
+                    },
+                    "southwest": {
+                        "lat": 42.4206655,
+                        "lng": -71.17218749999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4206762,
+                    "lng": -71.1721755
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4220198302915,
+                        "lng": -71.17083251970848
+                    },
+                    "southwest": {
+                        "lat": 42.4193218697085,
+                        "lng": -71.17353048029149
+                    }
+                }
+            },
+            "place_id": "EiYxIEhpZ2dpbnMgU3QsIEFybGluZ3RvbiwgTUEgMDI0NzYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f847710315cc647345f6ccdc471511b6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:02.999966",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

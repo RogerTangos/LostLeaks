@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9d22a756cc77f7c98029baddbe530b29.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boardman Lane",
+                    "short_name": "Boardman Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Hamilton",
+                    "short_name": "South Hamilton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hamilton",
+                    "short_name": "Hamilton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01982",
+                    "short_name": "01982",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1040",
+                    "short_name": "1040",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Boardman Ln, South Hamilton, MA 01982, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6323393,
+                        "lng": -70.85292869999999
+                    },
+                    "southwest": {
+                        "lat": 42.6323362,
+                        "lng": -70.852947
+                    }
+                },
+                "location": {
+                    "lat": 42.6323362,
+                    "lng": -70.852947
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.63368673029149,
+                        "lng": -70.8515888697085
+                    },
+                    "southwest": {
+                        "lat": 42.63098876970849,
+                        "lng": -70.8542868302915
+                    }
+                }
+            },
+            "place_id": "Ei0zMCBCb2FyZG1hbiBMbiwgU291dGggSGFtaWx0b24sIE1BIDAxOTgyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9d22a756cc77f7c98029baddbe530b29",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:32.852404",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

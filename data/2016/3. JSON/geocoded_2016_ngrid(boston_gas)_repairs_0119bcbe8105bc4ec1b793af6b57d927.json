@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0119bcbe8105bc4ec1b793af6b57d927.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Brook Street",
+                    "short_name": "Brook St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02482",
+                    "short_name": "02482",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Brook St & Benvenue St, Wellesley, MA 02482, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2920116,
+                    "lng": -71.2799009
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2933605802915,
+                        "lng": -71.27855191970849
+                    },
+                    "southwest": {
+                        "lat": 42.2906626197085,
+                        "lng": -71.2812498802915
+                    }
+                }
+            },
+            "place_id": "EjBCcm9vayBTdCAmIEJlbnZlbnVlIFN0LCBXZWxsZXNsZXksIE1BIDAyNDgyLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "0119bcbe8105bc4ec1b793af6b57d927",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:18.535231",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e207217ee70a0b7bbabd4a557f70dada.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "74",
+                    "short_name": "74",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Otis Street",
+                    "short_name": "Otis St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1439",
+                    "short_name": "1439",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "74 Otis St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3580079,
+                        "lng": -70.9716139
+                    },
+                    "southwest": {
+                        "lat": 42.3579996,
+                        "lng": -70.971629
+                    }
+                },
+                "location": {
+                    "lat": 42.3579996,
+                    "lng": -70.9716139
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3593527302915,
+                        "lng": -70.97027246970849
+                    },
+                    "southwest": {
+                        "lat": 42.3566547697085,
+                        "lng": -70.97297043029151
+                    }
+                }
+            },
+            "place_id": "EiM3NCBPdGlzIFN0LCBXaW50aHJvcCwgTUEgMDIxNTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e207217ee70a0b7bbabd4a557f70dada",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:39.974010",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

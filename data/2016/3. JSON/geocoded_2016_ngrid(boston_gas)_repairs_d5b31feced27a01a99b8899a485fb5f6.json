@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d5b31feced27a01a99b8899a485fb5f6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "108",
+                    "short_name": "108",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gilman Street",
+                    "short_name": "Gilman St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winter Hill",
+                    "short_name": "Winter Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3938",
+                    "short_name": "3938",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "108 Gilman St, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3865839,
+                        "lng": -71.0932686
+                    },
+                    "southwest": {
+                        "lat": 42.3864726,
+                        "lng": -71.0933742
+                    }
+                },
+                "location": {
+                    "lat": 42.38652829999999,
+                    "lng": -71.0933214
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38787723029149,
+                        "lng": -71.0919724197085
+                    },
+                    "southwest": {
+                        "lat": 42.38517926970849,
+                        "lng": -71.0946703802915
+                    }
+                }
+            },
+            "place_id": "ChIJdUk2ic1w44kRyUuoi4GMjDc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d5b31feced27a01a99b8899a485fb5f6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:36.712654",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

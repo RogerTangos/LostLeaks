@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8a0583cb25e685b96d3103de894df1ae.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "270",
+                    "short_name": "270",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3007",
+                    "short_name": "3007",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "270 Main St, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4439015,
+                        "lng": -71.134883
+                    },
+                    "southwest": {
+                        "lat": 42.4437,
+                        "lng": -71.1350456
+                    }
+                },
+                "location": {
+                    "lat": 42.4438007,
+                    "lng": -71.1349643
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4451497302915,
+                        "lng": -71.1336153197085
+                    },
+                    "southwest": {
+                        "lat": 42.4424517697085,
+                        "lng": -71.13631328029152
+                    }
+                }
+            },
+            "place_id": "ChIJmwc69ih044kRL6nGO9s5JYQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8a0583cb25e685b96d3103de894df1ae",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:56.510236",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

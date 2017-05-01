@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f642448675985b0e7ce96d1fa8647ff8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Regent Circle",
+                    "short_name": "Regent Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Regent Cir, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.33696339999999,
+                        "lng": -71.1397181
+                    },
+                    "southwest": {
+                        "lat": 42.3369532,
+                        "lng": -71.1397308
+                    }
+                },
+                "location": {
+                    "lat": 42.3369532,
+                    "lng": -71.1397308
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3383072802915,
+                        "lng": -71.13837546970849
+                    },
+                    "southwest": {
+                        "lat": 42.3356093197085,
+                        "lng": -71.1410734302915
+                    }
+                }
+            },
+            "place_id": "EicxOSBSZWdlbnQgQ2lyLCBCcm9va2xpbmUsIE1BIDAyNDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f642448675985b0e7ce96d1fa8647ff8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:49.898247",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

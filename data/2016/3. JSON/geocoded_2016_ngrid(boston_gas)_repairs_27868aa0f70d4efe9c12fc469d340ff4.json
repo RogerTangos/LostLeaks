@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_27868aa0f70d4efe9c12fc469d340ff4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1870",
+                    "short_name": "1870",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beacon Street",
+                    "short_name": "Beacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1870 Beacon St, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3371498,
+                    "lng": -71.1461765
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3384987802915,
+                        "lng": -71.14482751970849
+                    },
+                    "southwest": {
+                        "lat": 42.3358008197085,
+                        "lng": -71.1475254802915
+                    }
+                }
+            },
+            "place_id": "ChIJV8f4wlJ444kRFBrk5io8npg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "27868aa0f70d4efe9c12fc469d340ff4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:41.229973",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

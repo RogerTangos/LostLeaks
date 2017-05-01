@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3c144513a6072624f6b77ef9cd3dfc0a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jane Road",
+                    "short_name": "Jane Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oak Hill",
+                    "short_name": "Oak Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2615",
+                    "short_name": "2615",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Jane Rd, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3095841,
+                        "lng": -71.19568749999999
+                    },
+                    "southwest": {
+                        "lat": 42.3094426,
+                        "lng": -71.1959047
+                    }
+                },
+                "location": {
+                    "lat": 42.3095133,
+                    "lng": -71.1957961
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31086233029149,
+                        "lng": -71.19444711970849
+                    },
+                    "southwest": {
+                        "lat": 42.3081643697085,
+                        "lng": -71.19714508029149
+                    }
+                }
+            },
+            "place_id": "ChIJt84ThAiC44kRfbCrQFB7fxI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3c144513a6072624f6b77ef9cd3dfc0a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:09.627473",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

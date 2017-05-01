@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2ed08a45be519f83701e4cb637662a00.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "103",
+                    "short_name": "103",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bright Road",
+                    "short_name": "Bright Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3934",
+                    "short_name": "3934",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "103 Bright Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3884416,
+                        "lng": -71.1612987
+                    },
+                    "southwest": {
+                        "lat": 42.388341,
+                        "lng": -71.1614578
+                    }
+                },
+                "location": {
+                    "lat": 42.38839129999999,
+                    "lng": -71.1613782
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3897402802915,
+                        "lng": -71.16002926970849
+                    },
+                    "southwest": {
+                        "lat": 42.38704231970851,
+                        "lng": -71.16272723029151
+                    }
+                }
+            },
+            "place_id": "ChIJt7G0GZZ344kRxBP20Gduk68",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2ed08a45be519f83701e4cb637662a00",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:26.168909",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

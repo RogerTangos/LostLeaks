@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5c8d614187ccc8b486c3d4b6acdfb8db.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "650",
+                    "short_name": "650",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Albany Street",
+                    "short_name": "Albany St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2518",
+                    "short_name": "2518",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "650 Albany St, Boston, MA 02118, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3363086,
+                        "lng": -71.06909399999999
+                    },
+                    "southwest": {
+                        "lat": 42.335729,
+                        "lng": -71.0698905
+                    }
+                },
+                "location": {
+                    "lat": 42.3360188,
+                    "lng": -71.0694922
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3373677802915,
+                        "lng": -71.0681432697085
+                    },
+                    "southwest": {
+                        "lat": 42.3346698197085,
+                        "lng": -71.0708412302915
+                    }
+                }
+            },
+            "place_id": "ChIJp9GIbmp644kRIIRaWSnyRas",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5c8d614187ccc8b486c3d4b6acdfb8db",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:58.799456",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

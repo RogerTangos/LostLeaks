@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f70d2f77430798573908ac7564ca6a14.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1896",
+                    "short_name": "1896",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beacon Street",
+                    "short_name": "Beacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1896 Beacon St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3366938,
+                        "lng": -71.1477562
+                    },
+                    "southwest": {
+                        "lat": 42.3366805,
+                        "lng": -71.1477617
+                    }
+                },
+                "location": {
+                    "lat": 42.3366938,
+                    "lng": -71.1477617
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3380361302915,
+                        "lng": -71.14640996970849
+                    },
+                    "southwest": {
+                        "lat": 42.3353381697085,
+                        "lng": -71.1491079302915
+                    }
+                }
+            },
+            "place_id": "EigxODk2IEJlYWNvbiBTdCwgQnJvb2tsaW5lLCBNQSAwMjQ0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f70d2f77430798573908ac7564ca6a14",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:42.378974",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

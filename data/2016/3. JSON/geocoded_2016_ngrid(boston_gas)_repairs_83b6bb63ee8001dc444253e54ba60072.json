@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_83b6bb63ee8001dc444253e54ba60072.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "28",
+                    "short_name": "28",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Temple Street",
+                    "short_name": "Temple St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1646",
+                    "short_name": "1646",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "28 Temple St, Abington, MA 02351, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1286345,
+                        "lng": -70.9518026
+                    },
+                    "southwest": {
+                        "lat": 42.1285253,
+                        "lng": -70.95197639999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1285799,
+                    "lng": -70.9518895
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.12992888029149,
+                        "lng": -70.95054051970848
+                    },
+                    "southwest": {
+                        "lat": 42.1272309197085,
+                        "lng": -70.9532384802915
+                    }
+                }
+            },
+            "place_id": "ChIJQ28gJ1-c5IkRoDD54fDiUN4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "83b6bb63ee8001dc444253e54ba60072",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:06.746817",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

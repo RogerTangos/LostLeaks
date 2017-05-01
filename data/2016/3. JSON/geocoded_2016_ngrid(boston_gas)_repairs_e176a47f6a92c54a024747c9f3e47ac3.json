@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e176a47f6a92c54a024747c9f3e47ac3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Twitchell Street",
+                    "short_name": "Twitchell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02482",
+                    "short_name": "02482",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6022",
+                    "short_name": "6022",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Twitchell St, Wellesley, MA 02482, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2997723,
+                        "lng": -71.2847869
+                    },
+                    "southwest": {
+                        "lat": 42.299649,
+                        "lng": -71.2849197
+                    }
+                },
+                "location": {
+                    "lat": 42.2997107,
+                    "lng": -71.2848533
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3010596302915,
+                        "lng": -71.2835043197085
+                    },
+                    "southwest": {
+                        "lat": 42.2983616697085,
+                        "lng": -71.2862022802915
+                    }
+                }
+            },
+            "place_id": "ChIJXSHXcEuB44kRXZIsr7QGbJU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e176a47f6a92c54a024747c9f3e47ac3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:08.213831",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

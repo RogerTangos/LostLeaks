@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_be525d25bead42e55c25742a651aae4c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "428",
+                    "short_name": "428",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East 8th Street",
+                    "short_name": "E 8th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4106",
+                    "short_name": "4106",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "428 E 8th St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3315218,
+                        "lng": -71.0437159
+                    },
+                    "southwest": {
+                        "lat": 42.3313946,
+                        "lng": -71.0437982
+                    }
+                },
+                "location": {
+                    "lat": 42.3314582,
+                    "lng": -71.0437571
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3328071802915,
+                        "lng": -71.0424080697085
+                    },
+                    "southwest": {
+                        "lat": 42.3301092197085,
+                        "lng": -71.0451060302915
+                    }
+                }
+            },
+            "place_id": "ChIJjYnmp4x644kRu_E0_wHTs60",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "be525d25bead42e55c25742a651aae4c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:29.673605",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9b3d76a0d6017ac14f898fc26e200c6b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "597",
+                    "short_name": "597",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East 7th Street",
+                    "short_name": "E 7th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4226",
+                    "short_name": "4226",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "597 E 7th St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3321784,
+                        "lng": -71.03612989999999
+                    },
+                    "southwest": {
+                        "lat": 42.3320624,
+                        "lng": -71.03626609999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3321204,
+                    "lng": -71.036198
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3334693802915,
+                        "lng": -71.03484901970849
+                    },
+                    "southwest": {
+                        "lat": 42.3307714197085,
+                        "lng": -71.0375469802915
+                    }
+                }
+            },
+            "place_id": "ChIJJSnoXpJ644kRjI4rxeCSU5Y",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9b3d76a0d6017ac14f898fc26e200c6b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:17.046413",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

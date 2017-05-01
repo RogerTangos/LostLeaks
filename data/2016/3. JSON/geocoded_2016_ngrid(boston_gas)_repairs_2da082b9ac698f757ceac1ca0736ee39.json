@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2da082b9ac698f757ceac1ca0736ee39.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sleeper Street",
+                    "short_name": "Sleeper St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fort Point",
+                    "short_name": "Fort Point",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02210",
+                    "short_name": "02210",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Sleeper St, Boston, MA 02210, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3521311,
+                    "lng": -71.0486861
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3534800802915,
+                        "lng": -71.0473371197085
+                    },
+                    "southwest": {
+                        "lat": 42.35078211970851,
+                        "lng": -71.05003508029151
+                    }
+                }
+            },
+            "place_id": "ChIJjTS_wn9w44kRNWCGpimldHA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2da082b9ac698f757ceac1ca0736ee39",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:05.591681",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9d3c8648777e21f82b125a65ea644c8c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bedford Street",
+                    "short_name": "Bedford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02420",
+                    "short_name": "02420",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4339",
+                    "short_name": "4339",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Bedford St, Lexington, MA 02420, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.451197,
+                    "lng": -71.230773
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4525459802915,
+                        "lng": -71.22942401970849
+                    },
+                    "southwest": {
+                        "lat": 42.4498480197085,
+                        "lng": -71.23212198029151
+                    }
+                }
+            },
+            "place_id": "ChIJCaAZ49Cd44kRa5EW82IoCx0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9d3c8648777e21f82b125a65ea644c8c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:17.821600",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

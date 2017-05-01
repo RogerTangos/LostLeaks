@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4b009222b827e05c05570fb46b778e45.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline Village",
+                    "short_name": "Brookline Village",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Boylston St & Washington St, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3315437,
+                    "lng": -71.1174372
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3328926802915,
+                        "lng": -71.1160882197085
+                    },
+                    "southwest": {
+                        "lat": 42.3301947197085,
+                        "lng": -71.11878618029151
+                    }
+                }
+            },
+            "place_id": "EjVCb3lsc3RvbiBTdCAmIFdhc2hpbmd0b24gU3QsIEJyb29rbGluZSwgTUEgMDI0NDUsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "4b009222b827e05c05570fb46b778e45",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:56.612088",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

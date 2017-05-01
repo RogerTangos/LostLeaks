@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_80d89cb78b86e589304e1f3c0e05ef74.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "350",
+                    "short_name": "350",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "2nd Avenue",
+                    "short_name": "2nd Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West End",
+                    "short_name": "West End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1104",
+                    "short_name": "1104",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "350 2nd Ave, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3871842,
+                        "lng": -71.2679069
+                    },
+                    "southwest": {
+                        "lat": 42.3859702,
+                        "lng": -71.2688094
+                    }
+                },
+                "location": {
+                    "lat": 42.3865772,
+                    "lng": -71.2683581
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3879261802915,
+                        "lng": -71.26700916970849
+                    },
+                    "southwest": {
+                        "lat": 42.3852282197085,
+                        "lng": -71.26970713029151
+                    }
+                }
+            },
+            "place_id": "ChIJ9Z3ya0uD44kRPyLnSzs1Z74",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "80d89cb78b86e589304e1f3c0e05ef74",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:24.206794",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

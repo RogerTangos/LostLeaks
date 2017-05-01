@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b446506cc50031cad7dedb07f6ecfdeb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "280",
+                    "short_name": "280",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Quincy Avenue",
+                    "short_name": "Quincy Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "280 Quincy Ave, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2303905,
+                        "lng": -70.9732466
+                    },
+                    "southwest": {
+                        "lat": 42.2297985,
+                        "lng": -70.9744224
+                    }
+                },
+                "location": {
+                    "lat": 42.2300945,
+                    "lng": -70.9738345
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2314434802915,
+                        "lng": -70.97248551970848
+                    },
+                    "southwest": {
+                        "lat": 42.2287455197085,
+                        "lng": -70.9751834802915
+                    }
+                }
+            },
+            "place_id": "ChIJ14wBbRlj44kRwq5ujTugDQ0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b446506cc50031cad7dedb07f6ecfdeb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:07.913859",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f30b4e4c6c2996b9a3e69948e4cd313c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "167",
+                    "short_name": "167",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Market Street",
+                    "short_name": "Market St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2633",
+                    "short_name": "2633",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "167 Market St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1223486,
+                        "lng": -70.9140844
+                    },
+                    "southwest": {
+                        "lat": 42.1223347,
+                        "lng": -70.9140858
+                    }
+                },
+                "location": {
+                    "lat": 42.1223347,
+                    "lng": -70.9140844
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.12369063029149,
+                        "lng": -70.9127361197085
+                    },
+                    "southwest": {
+                        "lat": 42.12099266970849,
+                        "lng": -70.9154340802915
+                    }
+                }
+            },
+            "place_id": "EiYxNjcgTWFya2V0IFN0LCBSb2NrbGFuZCwgTUEgMDIzNzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f30b4e4c6c2996b9a3e69948e4cd313c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:07.502777",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

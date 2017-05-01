@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_64155e85f828664c9b567f75a66325de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crane Street",
+                    "short_name": "Crane St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3014",
+                    "short_name": "3014",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Crane St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5589346,
+                        "lng": -70.9347824
+                    },
+                    "southwest": {
+                        "lat": 42.5588309,
+                        "lng": -70.9349409
+                    }
+                },
+                "location": {
+                    "lat": 42.5588827,
+                    "lng": -70.9348617
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5602317302915,
+                        "lng": -70.9335126697085
+                    },
+                    "southwest": {
+                        "lat": 42.55753376970851,
+                        "lng": -70.93621063029151
+                    }
+                }
+            },
+            "place_id": "ChIJAZ4d2WER44kRk2i6NGDbuTo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "64155e85f828664c9b567f75a66325de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:09.888447",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

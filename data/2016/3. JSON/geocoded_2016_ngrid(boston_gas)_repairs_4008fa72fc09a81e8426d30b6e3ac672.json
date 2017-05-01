@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4008fa72fc09a81e8426d30b6e3ac672.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "110",
+                    "short_name": "110",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Street",
+                    "short_name": "Highland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "110 Highland St, Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3456222,
+                        "lng": -71.22561569999999
+                    },
+                    "southwest": {
+                        "lat": 42.3456169,
+                        "lng": -71.225633
+                    }
+                },
+                "location": {
+                    "lat": 42.3456222,
+                    "lng": -71.22561569999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3469685302915,
+                        "lng": -71.2242753697085
+                    },
+                    "southwest": {
+                        "lat": 42.3442705697085,
+                        "lng": -71.2269733302915
+                    }
+                }
+            },
+            "place_id": "EiYxMTAgSGlnaGxhbmQgU3QsIE5ld3RvbiwgTUEgMDI0NjUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4008fa72fc09a81e8426d30b6e3ac672",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:49.894261",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

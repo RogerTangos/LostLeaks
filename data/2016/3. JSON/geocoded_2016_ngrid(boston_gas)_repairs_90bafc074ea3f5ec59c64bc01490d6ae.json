@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_90bafc074ea3f5ec59c64bc01490d6ae.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "300",
+                    "short_name": "300",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winter Hill",
+                    "short_name": "Winter Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "300 Broadway, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3922771,
+                        "lng": -71.0927415
+                    },
+                    "southwest": {
+                        "lat": 42.391963,
+                        "lng": -71.09318569999999
+                    }
+                },
+                "location": {
+                    "lat": 42.39212,
+                    "lng": -71.09296359999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3934690302915,
+                        "lng": -71.0916146197085
+                    },
+                    "southwest": {
+                        "lat": 42.3907710697085,
+                        "lng": -71.09431258029151
+                    }
+                }
+            },
+            "place_id": "ChIJ1b5_bdRw44kRafhij10gYsk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "90bafc074ea3f5ec59c64bc01490d6ae",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:39.973988",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

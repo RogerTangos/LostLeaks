@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_986e6a6a7c424edef7b3d6d32380af32.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "18",
+                    "short_name": "18",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tremont Street",
+                    "short_name": "Tremont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4412",
+                    "short_name": "4412",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "18 Tremont St, Peabody, MA 01960, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5302095,
+                        "lng": -70.9248649
+                    },
+                    "southwest": {
+                        "lat": 42.5301182,
+                        "lng": -70.9249411
+                    }
+                },
+                "location": {
+                    "lat": 42.5301639,
+                    "lng": -70.924903
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5315128302915,
+                        "lng": -70.92355401970849
+                    },
+                    "southwest": {
+                        "lat": 42.5288148697085,
+                        "lng": -70.92625198029151
+                    }
+                }
+            },
+            "place_id": "ChIJW725zJAT44kRwENpXjhQAhc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "986e6a6a7c424edef7b3d6d32380af32",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:33.676228",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

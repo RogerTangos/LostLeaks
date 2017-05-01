@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_81fee6992e6ea3f57caa2e53c06966ad.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Quincy Shore Drive",
+                    "short_name": "Quincy Shore Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North Quincy",
+                    "short_name": "North Quincy",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Quincy Shore Dr, Quincy, MA 02171, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2835385,
+                        "lng": -71.0316914
+                    },
+                    "southwest": {
+                        "lat": 42.2834233,
+                        "lng": -71.0318441
+                    }
+                },
+                "location": {
+                    "lat": 42.2834809,
+                    "lng": -71.0317677
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2848298802915,
+                        "lng": -71.03041876970849
+                    },
+                    "southwest": {
+                        "lat": 42.2821319197085,
+                        "lng": -71.0331167302915
+                    }
+                }
+            },
+            "place_id": "ChIJg7gA1Wh744kRVtyCaih_BaQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "81fee6992e6ea3f57caa2e53c06966ad",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:23.081345",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

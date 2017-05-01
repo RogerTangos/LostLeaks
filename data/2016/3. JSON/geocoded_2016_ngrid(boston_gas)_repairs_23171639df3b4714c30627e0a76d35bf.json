@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_23171639df3b4714c30627e0a76d35bf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "131",
+                    "short_name": "131",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury Road",
+                    "short_name": "Amesbury Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "131 Amesbury Rd, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7941239,
+                        "lng": -71.06713289999999
+                    },
+                    "southwest": {
+                        "lat": 42.7941147,
+                        "lng": -71.0671469
+                    }
+                },
+                "location": {
+                    "lat": 42.7941147,
+                    "lng": -71.06713289999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7954682802915,
+                        "lng": -71.06579091970849
+                    },
+                    "southwest": {
+                        "lat": 42.7927703197085,
+                        "lng": -71.0684888802915
+                    }
+                }
+            },
+            "place_id": "EikxMzEgQW1lc2J1cnkgUmQsIEhhdmVyaGlsbCwgTUEgMDE4MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "23171639df3b4714c30627e0a76d35bf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:40.882847",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

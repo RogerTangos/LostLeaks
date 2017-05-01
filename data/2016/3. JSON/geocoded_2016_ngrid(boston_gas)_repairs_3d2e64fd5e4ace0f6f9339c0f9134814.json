@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3d2e64fd5e4ace0f6f9339c0f9134814.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Street",
+                    "short_name": "Highland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Warren",
+                    "short_name": "West Warren",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Warren",
+                    "short_name": "Warren",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01083",
+                    "short_name": "01083",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Highland St, Warren, MA 01083, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2137828,
+                        "lng": -72.2341682
+                    },
+                    "southwest": {
+                        "lat": 42.2137753,
+                        "lng": -72.234184
+                    }
+                },
+                "location": {
+                    "lat": 42.2137828,
+                    "lng": -72.2341682
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2151280302915,
+                        "lng": -72.2328271197085
+                    },
+                    "southwest": {
+                        "lat": 42.2124300697085,
+                        "lng": -72.23552508029151
+                    }
+                }
+            },
+            "place_id": "EiQ4IEhpZ2hsYW5kIFN0LCBXYXJyZW4sIE1BIDAxMDgzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3d2e64fd5e4ace0f6f9339c0f9134814",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:00.406328",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a8f53a13cd44b11d9fb9303c93ff720b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "161",
+                    "short_name": "161",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Shurtleff Street",
+                    "short_name": "Shurtleff St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3230",
+                    "short_name": "3230",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "161 Shurtleff St, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3916141,
+                        "lng": -71.0333794
+                    },
+                    "southwest": {
+                        "lat": 42.3914779,
+                        "lng": -71.0336339
+                    }
+                },
+                "location": {
+                    "lat": 42.391546,
+                    "lng": -71.0335066
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39289498029149,
+                        "lng": -71.0321576697085
+                    },
+                    "southwest": {
+                        "lat": 42.39019701970849,
+                        "lng": -71.0348556302915
+                    }
+                }
+            },
+            "place_id": "ChIJt0U3aLFx44kRjimmZBTfNe0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a8f53a13cd44b11d9fb9303c93ff720b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:01.865212",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

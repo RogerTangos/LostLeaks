@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5674d7a69bbcb7c5346cbde8742043be.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Phillips Avenue",
+                    "short_name": "Phillips Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1920",
+                    "short_name": "1920",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Phillips Ave, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4666798,
+                        "lng": -70.9280881
+                    },
+                    "southwest": {
+                        "lat": 42.4666759,
+                        "lng": -70.9281061
+                    }
+                },
+                "location": {
+                    "lat": 42.4666759,
+                    "lng": -70.9281061
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4680268302915,
+                        "lng": -70.92674811970849
+                    },
+                    "southwest": {
+                        "lat": 42.4653288697085,
+                        "lng": -70.9294460802915
+                    }
+                }
+            },
+            "place_id": "EiM4IFBoaWxsaXBzIEF2ZSwgTHlubiwgTUEgMDE5MDIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5674d7a69bbcb7c5346cbde8742043be",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:03.319019",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

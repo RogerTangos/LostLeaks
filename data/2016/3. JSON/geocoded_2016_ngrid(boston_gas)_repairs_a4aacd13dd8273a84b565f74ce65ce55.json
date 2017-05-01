@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a4aacd13dd8273a84b565f74ce65ce55.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "84",
+                    "short_name": "84",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nagog Hill Road",
+                    "short_name": "Nagog Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3906",
+                    "short_name": "3906",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "84 Nagog Hill Rd, Acton, MA 01720, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4888774,
+                        "lng": -71.4320853
+                    },
+                    "southwest": {
+                        "lat": 42.4887227,
+                        "lng": -71.4322991
+                    }
+                },
+                "location": {
+                    "lat": 42.4888,
+                    "lng": -71.4321922
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.49014903029151,
+                        "lng": -71.43084321970849
+                    },
+                    "southwest": {
+                        "lat": 42.48745106970851,
+                        "lng": -71.4335411802915
+                    }
+                }
+            },
+            "place_id": "ChIJXQWkUCqR44kRGIeSOISqRtI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a4aacd13dd8273a84b565f74ce65ce55",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:20.227743",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

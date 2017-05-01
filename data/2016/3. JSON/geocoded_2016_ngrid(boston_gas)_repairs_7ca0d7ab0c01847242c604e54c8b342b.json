@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7ca0d7ab0c01847242c604e54c8b342b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "106",
+                    "short_name": "106",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Austin Street",
+                    "short_name": "Austin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1849",
+                    "short_name": "1849",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "106 Austin St, Newton, MA 02460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.35011919999999,
+                        "lng": -71.211843
+                    },
+                    "southwest": {
+                        "lat": 42.3501056,
+                        "lng": -71.21184699999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3501056,
+                    "lng": -71.211843
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3514613802915,
+                        "lng": -71.2104960197085
+                    },
+                    "southwest": {
+                        "lat": 42.3487634197085,
+                        "lng": -71.2131939802915
+                    }
+                }
+            },
+            "place_id": "EiQxMDYgQXVzdGluIFN0LCBOZXd0b24sIE1BIDAyNDYwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7ca0d7ab0c01847242c604e54c8b342b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:32.584472",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

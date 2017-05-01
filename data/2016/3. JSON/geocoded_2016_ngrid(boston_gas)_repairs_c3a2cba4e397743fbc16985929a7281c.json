@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c3a2cba4e397743fbc16985929a7281c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Stony Brook Road",
+                    "short_name": "Stony Brook Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Stony Brook Rd & Michelle Dr, Burlington, MA 01803, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.490176,
+                    "lng": -71.203244
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4915249802915,
+                        "lng": -71.2018950197085
+                    },
+                    "southwest": {
+                        "lat": 42.4888270197085,
+                        "lng": -71.20459298029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjdTdG9ueSBCcm9vayBSZCAmIE1pY2hlbGxlIERyLCBCdXJsaW5ndG9uLCBNQSAwMTgwMywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "c3a2cba4e397743fbc16985929a7281c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:38.887747",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

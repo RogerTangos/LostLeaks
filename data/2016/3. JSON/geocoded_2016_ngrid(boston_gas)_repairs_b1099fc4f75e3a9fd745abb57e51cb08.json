@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b1099fc4f75e3a9fd745abb57e51cb08.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "135",
+                    "short_name": "135",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Page Road",
+                    "short_name": "Page Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1821",
+                    "short_name": "1821",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "135 Page Rd, Bedford, MA 01730, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4971111,
+                        "lng": -71.271427
+                    },
+                    "southwest": {
+                        "lat": 42.49709989999999,
+                        "lng": -71.2714381
+                    }
+                },
+                "location": {
+                    "lat": 42.4971111,
+                    "lng": -71.271427
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.49845448029149,
+                        "lng": -71.27008356970849
+                    },
+                    "southwest": {
+                        "lat": 42.49575651970849,
+                        "lng": -71.2727815302915
+                    }
+                }
+            },
+            "place_id": "EiMxMzUgUGFnZSBSZCwgQmVkZm9yZCwgTUEgMDE3MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b1099fc4f75e3a9fd745abb57e51cb08",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:48.713091",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

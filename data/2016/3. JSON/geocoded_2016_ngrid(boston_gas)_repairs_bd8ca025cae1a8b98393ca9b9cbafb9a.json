@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bd8ca025cae1a8b98393ca9b9cbafb9a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "465",
+                    "short_name": "465",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Drive",
+                    "short_name": "Park Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fenway/Kenmore",
+                    "short_name": "Fenway/Kenmore",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02215",
+                    "short_name": "02215",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "465 Park Dr, Boston, MA 02215, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3463541,
+                        "lng": -71.1042908
+                    },
+                    "southwest": {
+                        "lat": 42.3461986,
+                        "lng": -71.104661
+                    }
+                },
+                "location": {
+                    "lat": 42.3462763,
+                    "lng": -71.1044759
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3476253302915,
+                        "lng": -71.10312691970849
+                    },
+                    "southwest": {
+                        "lat": 42.3449273697085,
+                        "lng": -71.10582488029151
+                    }
+                }
+            },
+            "place_id": "ChIJX0EiXPF544kR3z3MULpEd58",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bd8ca025cae1a8b98393ca9b9cbafb9a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:56.105259",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

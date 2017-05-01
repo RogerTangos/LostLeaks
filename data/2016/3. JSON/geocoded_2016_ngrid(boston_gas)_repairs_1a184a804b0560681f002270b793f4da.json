@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1a184a804b0560681f002270b793f4da.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "92",
+                    "short_name": "92",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Evans Street",
+                    "short_name": "Evans St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2568",
+                    "short_name": "2568",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "92 Evans St, Quincy, MA 02171, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2701608,
+                        "lng": -71.0379035
+                    },
+                    "southwest": {
+                        "lat": 42.2700203,
+                        "lng": -71.0381202
+                    }
+                },
+                "location": {
+                    "lat": 42.27009049999999,
+                    "lng": -71.0380119
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2714395302915,
+                        "lng": -71.0366628697085
+                    },
+                    "southwest": {
+                        "lat": 42.2687415697085,
+                        "lng": -71.0393608302915
+                    }
+                }
+            },
+            "place_id": "ChIJ_6iFLIN844kRb7AL4SbJnQQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1a184a804b0560681f002270b793f4da",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:51.042583",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

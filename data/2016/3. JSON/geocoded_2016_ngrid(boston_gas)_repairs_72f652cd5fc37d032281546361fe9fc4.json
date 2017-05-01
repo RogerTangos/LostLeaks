@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72f652cd5fc37d032281546361fe9fc4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "475",
+                    "short_name": "475",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Street",
+                    "short_name": "West St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2238",
+                    "short_name": "2238",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "475 West St, Reading, MA 01867, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5280743,
+                        "lng": -71.12808749999999
+                    },
+                    "southwest": {
+                        "lat": 42.5279265,
+                        "lng": -71.1282909
+                    }
+                },
+                "location": {
+                    "lat": 42.5280004,
+                    "lng": -71.1281892
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5293493802915,
+                        "lng": -71.1268402197085
+                    },
+                    "southwest": {
+                        "lat": 42.5266514197085,
+                        "lng": -71.1295381802915
+                    }
+                }
+            },
+            "place_id": "ChIJMalCyzsL44kRy7kwsVkoM3I",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "72f652cd5fc37d032281546361fe9fc4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:03.219463",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

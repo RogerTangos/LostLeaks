@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_06f3edc2bac0895a4c35dca668f411b3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Berlin Street",
+                    "short_name": "Berlin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Berlin St & Wilson St, Clinton, MA 01510, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.41041,
+                    "lng": -71.674999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4117589802915,
+                        "lng": -71.6736500197085
+                    },
+                    "southwest": {
+                        "lat": 42.4090610197085,
+                        "lng": -71.67634798029151
+                    }
+                }
+            },
+            "place_id": "Ei1CZXJsaW4gU3QgJiBXaWxzb24gU3QsIENsaW50b24sIE1BIDAxNTEwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "06f3edc2bac0895a4c35dca668f411b3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:14.565339",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

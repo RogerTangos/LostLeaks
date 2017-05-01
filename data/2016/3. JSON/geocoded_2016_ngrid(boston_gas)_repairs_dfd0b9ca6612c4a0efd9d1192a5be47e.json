@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dfd0b9ca6612c4a0efd9d1192a5be47e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lowell Road",
+                    "short_name": "Lowell Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1707",
+                    "short_name": "1707",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Lowell Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4624783,
+                        "lng": -71.3503408
+                    },
+                    "southwest": {
+                        "lat": 42.4622569,
+                        "lng": -71.3505768
+                    }
+                },
+                "location": {
+                    "lat": 42.4623676,
+                    "lng": -71.3504588
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4637165802915,
+                        "lng": -71.3491098197085
+                    },
+                    "southwest": {
+                        "lat": 42.4610186197085,
+                        "lng": -71.35180778029151
+                    }
+                }
+            },
+            "place_id": "ChIJq9lODTma44kR9A7gfyi0pNs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dfd0b9ca6612c4a0efd9d1192a5be47e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:10.164124",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

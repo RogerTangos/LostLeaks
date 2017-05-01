@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_802a5dfa1c50dc769fab8c6559d314ca.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Laconia Avenue",
+                    "short_name": "Laconia Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2518",
+                    "short_name": "2518",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Laconia Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4580433,
+                        "lng": -71.00418189999999
+                    },
+                    "southwest": {
+                        "lat": 42.4580432,
+                        "lng": -71.0042007
+                    }
+                },
+                "location": {
+                    "lat": 42.4580433,
+                    "lng": -71.00418189999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4593922302915,
+                        "lng": -71.00284231970849
+                    },
+                    "southwest": {
+                        "lat": 42.4566942697085,
+                        "lng": -71.0055402802915
+                    }
+                }
+            },
+            "place_id": "EiQ4IExhY29uaWEgQXZlLCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "802a5dfa1c50dc769fab8c6559d314ca",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:00.686949",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

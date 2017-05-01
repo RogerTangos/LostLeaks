@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cb4ac5c6570b17177bffb8df0ba260f4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Popes Hill Street",
+                    "short_name": "Popes Hill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Popes Hill St, Boston, MA 02122, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2931005,
+                        "lng": -71.04970039999999
+                    },
+                    "southwest": {
+                        "lat": 42.2930874,
+                        "lng": -71.04970639999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2931005,
+                    "lng": -71.04970639999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2944429302915,
+                        "lng": -71.04835441970849
+                    },
+                    "southwest": {
+                        "lat": 42.2917449697085,
+                        "lng": -71.0510523802915
+                    }
+                }
+            },
+            "place_id": "EicxMiBQb3BlcyBIaWxsIFN0LCBCb3N0b24sIE1BIDAyMTIyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cb4ac5c6570b17177bffb8df0ba260f4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:16.766783",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

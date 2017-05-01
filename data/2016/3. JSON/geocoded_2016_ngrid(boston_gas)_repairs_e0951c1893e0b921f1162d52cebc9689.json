@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e0951c1893e0b921f1162d52cebc9689.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "48",
+                    "short_name": "48",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Monument Square",
+                    "short_name": "Monument Square",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "48 Monument Square, Concord, MA 01742, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4616513,
+                    "lng": -71.3496128
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4630002802915,
+                        "lng": -71.34826381970849
+                    },
+                    "southwest": {
+                        "lat": 42.4603023197085,
+                        "lng": -71.35096178029151
+                    }
+                }
+            },
+            "place_id": "ChIJU0t2ADma44kR7S5k0dSkJWc",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e0951c1893e0b921f1162d52cebc9689",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:06.030026",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

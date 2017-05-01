@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8253d7c9821edbc8d4d626f9b28b04a4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Prospect Avenue",
+                    "short_name": "Prospect Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2516",
+                    "short_name": "2516",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Prospect Ave, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3678324,
+                        "lng": -70.9700588
+                    },
+                    "southwest": {
+                        "lat": 42.3677258,
+                        "lng": -70.9702447
+                    }
+                },
+                "location": {
+                    "lat": 42.3677791,
+                    "lng": -70.9701518
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3691280802915,
+                        "lng": -70.9688027697085
+                    },
+                    "southwest": {
+                        "lat": 42.3664301197085,
+                        "lng": -70.97150073029151
+                    }
+                }
+            },
+            "place_id": "ChIJdWeB-7Bv44kRiKved7oHIKo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8253d7c9821edbc8d4d626f9b28b04a4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:28.190017",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

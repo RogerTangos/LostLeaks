@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bc28dbffdf46a3689b7c2977e12afbe0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Geraldine Road",
+                    "short_name": "Geraldine Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lunenburg",
+                    "short_name": "Lunenburg",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01462",
+                    "short_name": "01462",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2511",
+                    "short_name": "2511",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Geraldine Rd, Lunenburg, MA 01462, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.570192,
+                    "lng": -71.741744
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5715409802915,
+                        "lng": -71.7403950197085
+                    },
+                    "southwest": {
+                        "lat": 42.5688430197085,
+                        "lng": -71.74309298029151
+                    }
+                }
+            },
+            "place_id": "ChIJhdWWYJLo44kRHswx4YHPFUI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bc28dbffdf46a3689b7c2977e12afbe0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:12.109337",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

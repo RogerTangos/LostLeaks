@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d099cd899d3ba46b8440836e669b8683.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "140",
+                    "short_name": "140",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "D Street",
+                    "short_name": "D St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2519",
+                    "short_name": "2519",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "140 D St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3360609,
+                        "lng": -71.05409680000001
+                    },
+                    "southwest": {
+                        "lat": 42.3360517,
+                        "lng": -71.05411099999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3360609,
+                    "lng": -71.05411099999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3374052802915,
+                        "lng": -71.0527549197085
+                    },
+                    "southwest": {
+                        "lat": 42.3347073197085,
+                        "lng": -71.05545288029151
+                    }
+                }
+            },
+            "place_id": "Eh8xNDAgRCBTdCwgQm9zdG9uLCBNQSAwMjEyNywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d099cd899d3ba46b8440836e669b8683",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:04.926677",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

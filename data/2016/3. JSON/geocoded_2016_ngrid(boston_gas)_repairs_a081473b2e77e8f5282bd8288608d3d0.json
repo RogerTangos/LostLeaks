@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a081473b2e77e8f5282bd8288608d3d0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "882",
+                    "short_name": "882",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop Avenue",
+                    "short_name": "Winthrop Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "882 Winthrop Ave, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3950842,
+                        "lng": -70.9862492
+                    },
+                    "southwest": {
+                        "lat": 42.3948834,
+                        "lng": -70.9864691
+                    }
+                },
+                "location": {
+                    "lat": 42.3949838,
+                    "lng": -70.9863591
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3963327802915,
+                        "lng": -70.9850101697085
+                    },
+                    "southwest": {
+                        "lat": 42.3936348197085,
+                        "lng": -70.98770813029151
+                    }
+                }
+            },
+            "place_id": "ChIJ48s3sT1u44kRs6_OsTzGvlA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a081473b2e77e8f5282bd8288608d3d0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:31.523687",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cd8fd3befb5671eaf23c4c31489da8ba.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Woodberry Road",
+                    "short_name": "Woodberry Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2244",
+                    "short_name": "2244",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Woodberry Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3763249,
+                        "lng": -71.4301234
+                    },
+                    "southwest": {
+                        "lat": 42.37614869999999,
+                        "lng": -71.4304465
+                    }
+                },
+                "location": {
+                    "lat": 42.3762368,
+                    "lng": -71.430285
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3775857802915,
+                        "lng": -71.4289359697085
+                    },
+                    "southwest": {
+                        "lat": 42.3748878197085,
+                        "lng": -71.43163393029151
+                    }
+                }
+            },
+            "place_id": "ChIJIZJB4f-O44kRHWoPIZkzCoU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cd8fd3befb5671eaf23c4c31489da8ba",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:09.435376",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_189b91282df381b68a22072ac80614cd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "1st Street",
+                    "short_name": "1st St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1873",
+                    "short_name": "1873",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 1st St, Salem, MA 01970, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.500933,
+                    "lng": -70.917343
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50228198029149,
+                        "lng": -70.9159940197085
+                    },
+                    "southwest": {
+                        "lat": 42.4995840197085,
+                        "lng": -70.91869198029151
+                    }
+                }
+            },
+            "place_id": "ChIJPwRitmcT44kRyPiU8cZgXig",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "189b91282df381b68a22072ac80614cd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:43.917836",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

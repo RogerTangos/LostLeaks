@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7fe4fb10da32641351acc652b2136d6e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "331",
+                    "short_name": "331",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Old Colony Avenue",
+                    "short_name": "Old Colony Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Columbus Park / Andrew Square",
+                    "short_name": "Columbus Park / Andrew Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3700",
+                    "short_name": "3700",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "331 Old Colony Ave, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3288845,
+                        "lng": -71.0525792
+                    },
+                    "southwest": {
+                        "lat": 42.3288841,
+                        "lng": -71.0525979
+                    }
+                },
+                "location": {
+                    "lat": 42.3288845,
+                    "lng": -71.0525979
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33023328029149,
+                        "lng": -71.0512395697085
+                    },
+                    "southwest": {
+                        "lat": 42.3275353197085,
+                        "lng": -71.0539375302915
+                    }
+                }
+            },
+            "place_id": "EikzMzEgT2xkIENvbG9ueSBBdmUsIEJvc3RvbiwgTUEgMDIxMjcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7fe4fb10da32641351acc652b2136d6e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:08.927675",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

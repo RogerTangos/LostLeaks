@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_09dccf4b2f0db81aa4447b55a310742a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bow Street",
+                    "short_name": "Bow St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Bow St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4263801,
+                        "lng": -71.17579049999999
+                    },
+                    "southwest": {
+                        "lat": 42.4263669,
+                        "lng": -71.17579599999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4263801,
+                    "lng": -71.17579599999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4277224802915,
+                        "lng": -71.1744442697085
+                    },
+                    "southwest": {
+                        "lat": 42.4250245197085,
+                        "lng": -71.17714223029151
+                    }
+                }
+            },
+            "place_id": "EiMxOSBCb3cgU3QsIEFybGluZ3RvbiwgTUEgMDI0NzQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "09dccf4b2f0db81aa4447b55a310742a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:43.223442",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

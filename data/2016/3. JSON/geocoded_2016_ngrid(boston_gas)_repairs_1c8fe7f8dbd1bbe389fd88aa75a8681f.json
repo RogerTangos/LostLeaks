@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1c8fe7f8dbd1bbe389fd88aa75a8681f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "111",
+                    "short_name": "111",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Surrey Street",
+                    "short_name": "Surrey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford",
+                    "short_name": "Medford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02155",
+                    "short_name": "02155",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2822",
+                    "short_name": "2822",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "111 Surrey St, Medford, MA 02155, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4216392,
+                        "lng": -71.0879337
+                    },
+                    "southwest": {
+                        "lat": 42.4215358,
+                        "lng": -71.0880755
+                    }
+                },
+                "location": {
+                    "lat": 42.4215875,
+                    "lng": -71.08800459999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4229364802915,
+                        "lng": -71.0866556197085
+                    },
+                    "southwest": {
+                        "lat": 42.4202385197085,
+                        "lng": -71.0893535802915
+                    }
+                }
+            },
+            "place_id": "ChIJW7mMqU9x44kRisWb5UjQNSU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1c8fe7f8dbd1bbe389fd88aa75a8681f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:53.988978",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

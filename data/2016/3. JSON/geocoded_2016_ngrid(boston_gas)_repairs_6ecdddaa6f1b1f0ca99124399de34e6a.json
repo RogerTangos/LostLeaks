@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6ecdddaa6f1b1f0ca99124399de34e6a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "71",
+                    "short_name": "71",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Box Mill Road",
+                    "short_name": "Box Mill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boxborough",
+                    "short_name": "Boxborough",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01719",
+                    "short_name": "01719",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1520",
+                    "short_name": "1520",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "71 Box Mill Rd, Boxborough, MA 01719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4873909,
+                        "lng": -71.4981926
+                    },
+                    "southwest": {
+                        "lat": 42.4872817,
+                        "lng": -71.498361
+                    }
+                },
+                "location": {
+                    "lat": 42.4873363,
+                    "lng": -71.4982768
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4886852802915,
+                        "lng": -71.49692781970849
+                    },
+                    "southwest": {
+                        "lat": 42.4859873197085,
+                        "lng": -71.4996257802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJA2qGdeuT44kRXKQrwZEv5Hs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6ecdddaa6f1b1f0ca99124399de34e6a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:28.264362",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

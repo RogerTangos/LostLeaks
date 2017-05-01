@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2ae042dd3fa4de16e8f5417b9503493f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "128",
+                    "short_name": "128",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Park Street",
+                    "short_name": "S Park St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01835",
+                    "short_name": "01835",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7843",
+                    "short_name": "7843",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "128 S Park St, Haverhill, MA 01835, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7611427,
+                        "lng": -71.07868619999999
+                    },
+                    "southwest": {
+                        "lat": 42.7611371,
+                        "lng": -71.0787033
+                    }
+                },
+                "location": {
+                    "lat": 42.7611371,
+                    "lng": -71.07868619999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.76248888029151,
+                        "lng": -71.07734576970849
+                    },
+                    "southwest": {
+                        "lat": 42.75979091970851,
+                        "lng": -71.0800437302915
+                    }
+                }
+            },
+            "place_id": "EicxMjggUyBQYXJrIFN0LCBIYXZlcmhpbGwsIE1BIDAxODM1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2ae042dd3fa4de16e8f5417b9503493f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:33.828295",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

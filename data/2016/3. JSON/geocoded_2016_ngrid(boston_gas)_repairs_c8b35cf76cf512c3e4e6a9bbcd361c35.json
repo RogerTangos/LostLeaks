@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c8b35cf76cf512c3e4e6a9bbcd361c35.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "592",
+                    "short_name": "592",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2238",
+                    "short_name": "2238",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "592 Massachusetts Ave, Acton, MA 01720, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.47601179999999,
+                        "lng": -71.4747977
+                    },
+                    "southwest": {
+                        "lat": 42.47575150000001,
+                        "lng": -71.47505890000001
+                    }
+                },
+                "location": {
+                    "lat": 42.4758816,
+                    "lng": -71.4749283
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4772306302915,
+                        "lng": -71.4735793197085
+                    },
+                    "southwest": {
+                        "lat": 42.4745326697085,
+                        "lng": -71.47627728029151
+                    }
+                }
+            },
+            "place_id": "ChIJvXYSmWGR44kRXjzLTm5Guck",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c8b35cf76cf512c3e4e6a9bbcd361c35",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:16.468603",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

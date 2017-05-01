@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6c9d3f32564463cdb7b39546fdf6d237.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Union St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1227798,
+                        "lng": -70.9131178
+                    },
+                    "southwest": {
+                        "lat": 42.12249569999999,
+                        "lng": -70.9134662
+                    }
+                },
+                "location": {
+                    "lat": 42.1226377,
+                    "lng": -70.91329200000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1239867302915,
+                        "lng": -70.9119430197085
+                    },
+                    "southwest": {
+                        "lat": 42.1212887697085,
+                        "lng": -70.91464098029151
+                    }
+                }
+            },
+            "place_id": "ChIJXcjo_iOc5IkRnEC5QBCjivo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6c9d3f32564463cdb7b39546fdf6d237",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:22.445882",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

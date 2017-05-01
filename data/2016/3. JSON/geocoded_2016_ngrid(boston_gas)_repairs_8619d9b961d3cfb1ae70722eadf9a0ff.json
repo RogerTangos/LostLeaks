@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8619d9b961d3cfb1ae70722eadf9a0ff.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "37",
+                    "short_name": "37",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Franklin Street",
+                    "short_name": "Franklin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6761",
+                    "short_name": "6761",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "37 Franklin St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3272848,
+                        "lng": -71.1228953
+                    },
+                    "southwest": {
+                        "lat": 42.3271518,
+                        "lng": -71.1230429
+                    }
+                },
+                "location": {
+                    "lat": 42.3272183,
+                    "lng": -71.12296909999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32856728029149,
+                        "lng": -71.1216201197085
+                    },
+                    "southwest": {
+                        "lat": 42.3258693197085,
+                        "lng": -71.1243180802915
+                    }
+                }
+            },
+            "place_id": "ChIJa24xT6B544kRygf1hBZT-iU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8619d9b961d3cfb1ae70722eadf9a0ff",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:37.021213",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

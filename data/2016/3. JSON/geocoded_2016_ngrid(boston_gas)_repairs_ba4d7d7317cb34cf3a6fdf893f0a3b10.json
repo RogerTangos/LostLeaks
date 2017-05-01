@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ba4d7d7317cb34cf3a6fdf893f0a3b10.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01432",
+                    "short_name": "01432",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Elm St, Ayer, MA 01432, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5574607,
+                        "lng": -71.5850358
+                    },
+                    "southwest": {
+                        "lat": 42.5574537,
+                        "lng": -71.58505199999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5574607,
+                    "lng": -71.58505199999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5588061802915,
+                        "lng": -71.58369491970849
+                    },
+                    "southwest": {
+                        "lat": 42.5561082197085,
+                        "lng": -71.5863928802915
+                    }
+                }
+            },
+            "place_id": "Eh05IEVsbSBTdCwgQXllciwgTUEgMDE0MzIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ba4d7d7317cb34cf3a6fdf893f0a3b10",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:36.678830",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dc7cbcbd37a17780961bad4c0307875e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pond Street",
+                    "short_name": "Pond St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4306",
+                    "short_name": "4306",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Pond St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5506476,
+                        "lng": -70.87961829999999
+                    },
+                    "southwest": {
+                        "lat": 42.5505236,
+                        "lng": -70.8797364
+                    }
+                },
+                "location": {
+                    "lat": 42.5505856,
+                    "lng": -70.87967739999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.55193458029149,
+                        "lng": -70.87832836970848
+                    },
+                    "southwest": {
+                        "lat": 42.54923661970849,
+                        "lng": -70.8810263302915
+                    }
+                }
+            },
+            "place_id": "ChIJQRCQSJ4W44kRwHe-s8AHYS4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dc7cbcbd37a17780961bad4c0307875e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:15.127251",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7d4a2b01b26eca3b2557a97ba2218373.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Asheville Road",
+                    "short_name": "Asheville Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3622",
+                    "short_name": "3622",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "14 Asheville Rd, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2978523,
+                        "lng": -71.1519938
+                    },
+                    "southwest": {
+                        "lat": 42.2978387,
+                        "lng": -71.1519979
+                    }
+                },
+                "location": {
+                    "lat": 42.2978387,
+                    "lng": -71.1519938
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2991944802915,
+                        "lng": -71.15064686970851
+                    },
+                    "southwest": {
+                        "lat": 42.2964965197085,
+                        "lng": -71.15334483029152
+                    }
+                }
+            },
+            "place_id": "Ei0xNCBBc2hldmlsbGUgUmQsIENoZXN0bnV0IEhpbGwsIE1BIDAyNDY3LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7d4a2b01b26eca3b2557a97ba2218373",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:54.622540",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

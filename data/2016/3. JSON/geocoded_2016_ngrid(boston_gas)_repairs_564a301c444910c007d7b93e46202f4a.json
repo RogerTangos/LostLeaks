@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_564a301c444910c007d7b93e46202f4a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cliff Street",
+                    "short_name": "Cliff St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1709",
+                    "short_name": "1709",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Cliff St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1360916,
+                        "lng": -70.9115887
+                    },
+                    "southwest": {
+                        "lat": 42.1360785,
+                        "lng": -70.9115952
+                    }
+                },
+                "location": {
+                    "lat": 42.1360916,
+                    "lng": -70.9115952
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1374340302915,
+                        "lng": -70.91024296970849
+                    },
+                    "southwest": {
+                        "lat": 42.1347360697085,
+                        "lng": -70.91294093029151
+                    }
+                }
+            },
+            "place_id": "EiQ1NiBDbGlmZiBTdCwgUm9ja2xhbmQsIE1BIDAyMzcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "564a301c444910c007d7b93e46202f4a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:57.112659",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

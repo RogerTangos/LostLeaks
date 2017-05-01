@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cc3abe64f79dd7cfc0e8388cb9b57fb6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wake Robin Road",
+                    "short_name": "Wake Robin Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1726",
+                    "short_name": "1726",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Wake Robin Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.39826009999999,
+                        "lng": -71.4143527
+                    },
+                    "southwest": {
+                        "lat": 42.3982463,
+                        "lng": -71.4143534
+                    }
+                },
+                "location": {
+                    "lat": 42.39826009999999,
+                    "lng": -71.4143527
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39960218029149,
+                        "lng": -71.41300406970849
+                    },
+                    "southwest": {
+                        "lat": 42.3969042197085,
+                        "lng": -71.4157020302915
+                    }
+                }
+            },
+            "place_id": "EiczIFdha2UgUm9iaW4gUmQsIFN1ZGJ1cnksIE1BIDAxNzc2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cc3abe64f79dd7cfc0e8388cb9b57fb6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:30.216730",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

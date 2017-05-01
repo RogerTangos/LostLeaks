@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ad74995406e6db7fc42081e0f3e82a96.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "221",
+                    "short_name": "221",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3235",
+                    "short_name": "3235",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "221 Main St, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4689678,
+                        "lng": -71.0286337
+                    },
+                    "southwest": {
+                        "lat": 42.4689564,
+                        "lng": -71.02864439999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4689678,
+                    "lng": -71.0286337
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47031108029149,
+                        "lng": -71.02729006970849
+                    },
+                    "southwest": {
+                        "lat": 42.4676131197085,
+                        "lng": -71.0299880302915
+                    }
+                }
+            },
+            "place_id": "EiIyMjEgTWFpbiBTdCwgU2F1Z3VzLCBNQSAwMTkwNiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ad74995406e6db7fc42081e0f3e82a96",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:49.925741",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

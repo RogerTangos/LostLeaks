@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dd2f1338450d614e60bf53b81b2c8f56.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "125",
+                    "short_name": "125",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boston Avenue",
+                    "short_name": "Boston Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Medford",
+                    "short_name": "West Medford",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02144",
+                    "short_name": "02144",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2218",
+                    "short_name": "2218",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "125 Boston Ave, Somerville, MA 02144, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4177983,
+                        "lng": -71.1312595
+                    },
+                    "southwest": {
+                        "lat": 42.417788,
+                        "lng": -71.13127209999999
+                    }
+                },
+                "location": {
+                    "lat": 42.417788,
+                    "lng": -71.13127209999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4191421302915,
+                        "lng": -71.1299168197085
+                    },
+                    "southwest": {
+                        "lat": 42.41644416970851,
+                        "lng": -71.1326147802915
+                    }
+                }
+            },
+            "place_id": "EikxMjUgQm9zdG9uIEF2ZSwgU29tZXJ2aWxsZSwgTUEgMDIxNDQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dd2f1338450d614e60bf53b81b2c8f56",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:28.473210",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

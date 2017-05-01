@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5c3896e64ac5715dee2880d943f70326.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Davis Road",
+                    "short_name": "Davis Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2308",
+                    "short_name": "2308",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Davis Rd, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5569985,
+                        "lng": -70.90305
+                    },
+                    "southwest": {
+                        "lat": 42.5568884,
+                        "lng": -70.9032134
+                    }
+                },
+                "location": {
+                    "lat": 42.5569434,
+                    "lng": -70.9031317
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5582924302915,
+                        "lng": -70.90178271970848
+                    },
+                    "southwest": {
+                        "lat": 42.5555944697085,
+                        "lng": -70.9044806802915
+                    }
+                }
+            },
+            "place_id": "ChIJJZNhlqsW44kR72ugULfY_t8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5c3896e64ac5715dee2880d943f70326",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:10.867952",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

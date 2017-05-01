@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a3cbc8a5432729cc201da857c4e85599.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cottage Avenue",
+                    "short_name": "Cottage Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Cottage Ave, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3686661,
+                        "lng": -70.9694367
+                    },
+                    "southwest": {
+                        "lat": 42.3686523,
+                        "lng": -70.9694389
+                    }
+                },
+                "location": {
+                    "lat": 42.3686661,
+                    "lng": -70.9694367
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37000818029149,
+                        "lng": -70.9680888197085
+                    },
+                    "southwest": {
+                        "lat": 42.3673102197085,
+                        "lng": -70.97078678029152
+                    }
+                }
+            },
+            "place_id": "Eic1NSBDb3R0YWdlIEF2ZSwgV2ludGhyb3AsIE1BIDAyMTUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a3cbc8a5432729cc201da857c4e85599",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:51.582455",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

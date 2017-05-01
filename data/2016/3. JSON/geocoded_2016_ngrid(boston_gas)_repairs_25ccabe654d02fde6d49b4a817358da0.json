@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_25ccabe654d02fde6d49b4a817358da0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Putnam Place",
+                    "short_name": "Putnam Pl",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1718",
+                    "short_name": "1718",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Putnam Pl, Roxbury, MA 02119, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3302157,
+                    "lng": -71.0880529
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33156468029149,
+                        "lng": -71.08670391970848
+                    },
+                    "southwest": {
+                        "lat": 42.32886671970849,
+                        "lng": -71.0894018802915
+                    }
+                }
+            },
+            "place_id": "ChIJBbNiCyV644kR0nwrigzOOiQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "25ccabe654d02fde6d49b4a817358da0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:05.535193",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

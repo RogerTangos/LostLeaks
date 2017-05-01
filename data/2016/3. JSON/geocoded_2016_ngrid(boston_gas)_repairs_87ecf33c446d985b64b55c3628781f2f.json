@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_87ecf33c446d985b64b55c3628781f2f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "66",
+                    "short_name": "66",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "John Street",
+                    "short_name": "John St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2742",
+                    "short_name": "2742",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "66 John St, Reading, MA 01867, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5233318,
+                        "lng": -71.0988383
+                    },
+                    "southwest": {
+                        "lat": 42.5233235,
+                        "lng": -71.0988532
+                    }
+                },
+                "location": {
+                    "lat": 42.5233318,
+                    "lng": -71.0988383
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5246766302915,
+                        "lng": -71.0974967697085
+                    },
+                    "southwest": {
+                        "lat": 42.5219786697085,
+                        "lng": -71.1001947302915
+                    }
+                }
+            },
+            "place_id": "EiI2NiBKb2huIFN0LCBSZWFkaW5nLCBNQSAwMTg2NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "87ecf33c446d985b64b55c3628781f2f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:01.483456",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

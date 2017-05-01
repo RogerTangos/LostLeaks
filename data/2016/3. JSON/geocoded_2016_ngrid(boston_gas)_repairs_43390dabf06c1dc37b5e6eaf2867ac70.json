@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_43390dabf06c1dc37b5e6eaf2867ac70.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Bend Street",
+                    "short_name": "N Bend St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "59 N Bend St, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4766416,
+                        "lng": -70.95806449999999
+                    },
+                    "southwest": {
+                        "lat": 42.4765401,
+                        "lng": -70.95817389999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4765908,
+                    "lng": -70.9581192
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4779398302915,
+                        "lng": -70.9567702197085
+                    },
+                    "southwest": {
+                        "lat": 42.4752418697085,
+                        "lng": -70.95946818029151
+                    }
+                }
+            },
+            "place_id": "ChIJpyTINiZt44kRlILFSev9RDE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "43390dabf06c1dc37b5e6eaf2867ac70",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:14.748878",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

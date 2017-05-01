@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cca871d445956e427e8e373fe2272673.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Sohier Road",
+                    "short_name": "Sohier Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Sohier Rd & Colon St, Beverly, MA 01915, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5582989,
+                    "lng": -70.8799422
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5596478802915,
+                        "lng": -70.87859321970849
+                    },
+                    "southwest": {
+                        "lat": 42.5569499197085,
+                        "lng": -70.88129118029151
+                    }
+                }
+            },
+            "place_id": "EixTb2hpZXIgUmQgJiBDb2xvbiBTdCwgQmV2ZXJseSwgTUEgMDE5MTUsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "cca871d445956e427e8e373fe2272673",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:22.466229",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

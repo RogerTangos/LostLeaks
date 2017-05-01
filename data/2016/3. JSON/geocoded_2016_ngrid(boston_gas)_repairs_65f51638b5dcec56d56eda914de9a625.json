@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_65f51638b5dcec56d56eda914de9a625.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "River Street",
+                    "short_name": "River St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4243",
+                    "short_name": "4243",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 River St, Beverly, MA 01915, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5451852,
+                    "lng": -70.8864394
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5465341802915,
+                        "lng": -70.88509041970849
+                    },
+                    "southwest": {
+                        "lat": 42.5438362197085,
+                        "lng": -70.88778838029151
+                    }
+                }
+            },
+            "place_id": "ChIJg-xOKBkU44kRZ3mHRzIm0Qg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "65f51638b5dcec56d56eda914de9a625",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:32.825080",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

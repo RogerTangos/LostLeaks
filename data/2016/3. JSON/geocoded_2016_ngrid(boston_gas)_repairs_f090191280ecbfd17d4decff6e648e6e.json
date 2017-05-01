@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f090191280ecbfd17d4decff6e648e6e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Terrace",
+                    "short_name": "Park Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2516",
+                    "short_name": "2516",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Park Terrace, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4033828,
+                        "lng": -71.0627484
+                    },
+                    "southwest": {
+                        "lat": 42.4033193,
+                        "lng": -71.062902
+                    }
+                },
+                "location": {
+                    "lat": 42.403351,
+                    "lng": -71.06282519999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4047000302915,
+                        "lng": -71.0614762197085
+                    },
+                    "southwest": {
+                        "lat": 42.4020020697085,
+                        "lng": -71.0641741802915
+                    }
+                }
+            },
+            "place_id": "ChIJ1S04yRFx44kRy2Oq_3GLYRk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f090191280ecbfd17d4decff6e648e6e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:55.292583",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

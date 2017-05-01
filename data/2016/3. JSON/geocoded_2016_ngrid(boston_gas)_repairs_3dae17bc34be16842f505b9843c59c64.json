@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3dae17bc34be16842f505b9843c59c64.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "26",
+                    "short_name": "26",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Burr Road",
+                    "short_name": "Burr Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2814",
+                    "short_name": "2814",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "26 Burr Rd, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2322176,
+                        "lng": -70.88499940000001
+                    },
+                    "southwest": {
+                        "lat": 42.232204,
+                        "lng": -70.88500359999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2322176,
+                    "lng": -70.88500359999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2335597802915,
+                        "lng": -70.8836525197085
+                    },
+                    "southwest": {
+                        "lat": 42.2308618197085,
+                        "lng": -70.88635048029151
+                    }
+                }
+            },
+            "place_id": "EiIyNiBCdXJyIFJkLCBIaW5naGFtLCBNQSAwMjA0MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3dae17bc34be16842f505b9843c59c64",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:40.059103",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

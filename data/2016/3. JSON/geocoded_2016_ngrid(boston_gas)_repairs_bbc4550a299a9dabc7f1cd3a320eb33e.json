@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bbc4550a299a9dabc7f1cd3a320eb33e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fernwood Avenue",
+                    "short_name": "Fernwood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2361",
+                    "short_name": "2361",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Fernwood Ave, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4853882,
+                        "lng": -70.9474237
+                    },
+                    "southwest": {
+                        "lat": 42.4852683,
+                        "lng": -70.94754309999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4853282,
+                    "lng": -70.9474834
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4866772302915,
+                        "lng": -70.9461344197085
+                    },
+                    "southwest": {
+                        "lat": 42.4839792697085,
+                        "lng": -70.9488323802915
+                    }
+                }
+            },
+            "place_id": "ChIJPQRatCwT44kRZIVUVfklUfM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bbc4550a299a9dabc7f1cd3a320eb33e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:10.655086",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

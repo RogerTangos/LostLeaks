@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_11d9e19e013b8835655ce7f2f2ae1c25.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cleveland Street",
+                    "short_name": "Cleveland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Cleveland St, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.476054,
+                        "lng": -70.95034199999999
+                    },
+                    "southwest": {
+                        "lat": 42.4758849,
+                        "lng": -70.9505437
+                    }
+                },
+                "location": {
+                    "lat": 42.4759694,
+                    "lng": -70.9504429
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4773184302915,
+                        "lng": -70.94909386970848
+                    },
+                    "southwest": {
+                        "lat": 42.4746204697085,
+                        "lng": -70.9517918302915
+                    }
+                }
+            },
+            "place_id": "ChIJ7yGN3tls44kRGhufZJAy5kM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "11d9e19e013b8835655ce7f2f2ae1c25",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:59.973152",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

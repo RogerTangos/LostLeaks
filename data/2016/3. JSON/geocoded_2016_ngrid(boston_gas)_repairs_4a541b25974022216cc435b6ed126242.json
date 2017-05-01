@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4a541b25974022216cc435b6ed126242.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "126",
+                    "short_name": "126",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale Avenue",
+                    "short_name": "Auburndale Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1420",
+                    "short_name": "1420",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "126 Auburndale Ave, Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.352169,
+                        "lng": -71.23739139999999
+                    },
+                    "southwest": {
+                        "lat": 42.352157,
+                        "lng": -71.23740099999999
+                    }
+                },
+                "location": {
+                    "lat": 42.352157,
+                    "lng": -71.23739139999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35351198029149,
+                        "lng": -71.23604721970848
+                    },
+                    "southwest": {
+                        "lat": 42.35081401970849,
+                        "lng": -71.23874518029149
+                    }
+                }
+            },
+            "place_id": "EikxMjYgQXVidXJuZGFsZSBBdmUsIE5ld3RvbiwgTUEgMDI0NjUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4a541b25974022216cc435b6ed126242",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:30.265608",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

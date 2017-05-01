@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6d797142a8e4be7a7a3f60ee63f618d2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "77",
+                    "short_name": "77",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Main Street",
+                    "short_name": "S Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Middleton",
+                    "short_name": "Middleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01949",
+                    "short_name": "01949",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2212",
+                    "short_name": "2212",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "77 S Main St, Middleton, MA 01949, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5886637,
+                        "lng": -71.011776
+                    },
+                    "southwest": {
+                        "lat": 42.5886573,
+                        "lng": -71.0117927
+                    }
+                },
+                "location": {
+                    "lat": 42.5886573,
+                    "lng": -71.0117927
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.59000948029151,
+                        "lng": -71.0104353697085
+                    },
+                    "southwest": {
+                        "lat": 42.58731151970851,
+                        "lng": -71.01313333029151
+                    }
+                }
+            },
+            "place_id": "EiY3NyBTIE1haW4gU3QsIE1pZGRsZXRvbiwgTUEgMDE5NDksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6d797142a8e4be7a7a3f60ee63f618d2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:48.963116",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

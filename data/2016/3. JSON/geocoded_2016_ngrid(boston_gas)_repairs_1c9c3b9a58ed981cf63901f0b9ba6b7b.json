@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1c9c3b9a58ed981cf63901f0b9ba6b7b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "73",
+                    "short_name": "73",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sawyer Street",
+                    "short_name": "Sawyer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Lancaster",
+                    "short_name": "South Lancaster",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Lancaster",
+                    "short_name": "Lancaster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01523",
+                    "short_name": "01523",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "73 Sawyer St, Lancaster, MA 01523, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4428524,
+                        "lng": -71.68705469999999
+                    },
+                    "southwest": {
+                        "lat": 42.4427195,
+                        "lng": -71.6872752
+                    }
+                },
+                "location": {
+                    "lat": 42.442786,
+                    "lng": -71.687165
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4441349302915,
+                        "lng": -71.6858159697085
+                    },
+                    "southwest": {
+                        "lat": 42.4414369697085,
+                        "lng": -71.6885139302915
+                    }
+                }
+            },
+            "place_id": "ChIJEwPNxevx44kRiiKyp0EsVyA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1c9c3b9a58ed981cf63901f0b9ba6b7b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:37.225340",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

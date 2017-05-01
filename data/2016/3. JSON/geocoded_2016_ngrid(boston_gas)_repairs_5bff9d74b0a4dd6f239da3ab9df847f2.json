@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5bff9d74b0a4dd6f239da3ab9df847f2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rockaway Avenue",
+                    "short_name": "Rockaway Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "14 Rockaway Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2638493,
+                        "lng": -70.8532326
+                    },
+                    "southwest": {
+                        "lat": 42.2638354,
+                        "lng": -70.85323389999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2638493,
+                    "lng": -70.8532326
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2651913302915,
+                        "lng": -70.85188426970849
+                    },
+                    "southwest": {
+                        "lat": 42.2624933697085,
+                        "lng": -70.8545822302915
+                    }
+                }
+            },
+            "place_id": "EiQxNCBSb2NrYXdheSBBdmUsIEh1bGwsIE1BIDAyMDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5bff9d74b0a4dd6f239da3ab9df847f2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:00.803580",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

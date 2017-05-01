@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_18ab1fd73630542172a943f2dae685c8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "175",
+                    "short_name": "175",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Street",
+                    "short_name": "Walnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7838",
+                    "short_name": "7838",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "175 Walnut St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4189537,
+                        "lng": -71.05722999999999
+                    },
+                    "southwest": {
+                        "lat": 42.4189438,
+                        "lng": -71.0572431
+                    }
+                },
+                "location": {
+                    "lat": 42.4189438,
+                    "lng": -71.0572431
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42029773029149,
+                        "lng": -71.05588756970849
+                    },
+                    "southwest": {
+                        "lat": 42.4175997697085,
+                        "lng": -71.0585855302915
+                    }
+                }
+            },
+            "place_id": "EiQxNzUgV2FsbnV0IFN0LCBNYWxkZW4sIE1BIDAyMTQ4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "18ab1fd73630542172a943f2dae685c8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:23.138464",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

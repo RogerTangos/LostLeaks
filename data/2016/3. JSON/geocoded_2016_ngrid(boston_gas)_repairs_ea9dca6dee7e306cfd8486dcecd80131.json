@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ea9dca6dee7e306cfd8486dcecd80131.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "78",
+                    "short_name": "78",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brentwood Street",
+                    "short_name": "Brentwood St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4762",
+                    "short_name": "4762",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "78 Brentwood St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4338425,
+                        "lng": -71.0269041
+                    },
+                    "southwest": {
+                        "lat": 42.4338414,
+                        "lng": -71.0269229
+                    }
+                },
+                "location": {
+                    "lat": 42.4338414,
+                    "lng": -71.0269041
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4351909302915,
+                        "lng": -71.0255645197085
+                    },
+                    "southwest": {
+                        "lat": 42.4324929697085,
+                        "lng": -71.02826248029152
+                    }
+                }
+            },
+            "place_id": "EiY3OCBCcmVudHdvb2QgU3QsIE1hbGRlbiwgTUEgMDIxNDgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ea9dca6dee7e306cfd8486dcecd80131",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:52.052774",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

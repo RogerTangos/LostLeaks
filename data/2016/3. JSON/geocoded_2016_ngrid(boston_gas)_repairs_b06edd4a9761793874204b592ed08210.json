@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b06edd4a9761793874204b592ed08210.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "113",
+                    "short_name": "113",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cross Street",
+                    "short_name": "Cross St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Southbridge",
+                    "short_name": "Southbridge",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Southbridge",
+                    "short_name": "Southbridge",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01550",
+                    "short_name": "01550",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "113 Cross St, Southbridge, MA 01550, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0795233,
+                        "lng": -72.03940109999999
+                    },
+                    "southwest": {
+                        "lat": 42.079521,
+                        "lng": -72.0394196
+                    }
+                },
+                "location": {
+                    "lat": 42.079521,
+                    "lng": -72.03940109999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0808711302915,
+                        "lng": -72.03806136970849
+                    },
+                    "southwest": {
+                        "lat": 42.0781731697085,
+                        "lng": -72.04075933029151
+                    }
+                }
+            },
+            "place_id": "EigxMTMgQ3Jvc3MgU3QsIFNvdXRoYnJpZGdlLCBNQSAwMTU1MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b06edd4a9761793874204b592ed08210",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:56.246107",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

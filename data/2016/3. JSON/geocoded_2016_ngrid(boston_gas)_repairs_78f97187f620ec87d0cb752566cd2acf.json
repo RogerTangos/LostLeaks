@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_78f97187f620ec87d0cb752566cd2acf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Puritan Road",
+                    "short_name": "Puritan Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ten Hills",
+                    "short_name": "Ten Hills",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Puritan Rd, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3965276,
+                        "lng": -71.0867501
+                    },
+                    "southwest": {
+                        "lat": 42.3965178,
+                        "lng": -71.0867635
+                    }
+                },
+                "location": {
+                    "lat": 42.3965178,
+                    "lng": -71.0867635
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39787168029149,
+                        "lng": -71.08540781970851
+                    },
+                    "southwest": {
+                        "lat": 42.3951737197085,
+                        "lng": -71.08810578029151
+                    }
+                }
+            },
+            "place_id": "EigzNiBQdXJpdGFuIFJkLCBTb21lcnZpbGxlLCBNQSAwMjE0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "78f97187f620ec87d0cb752566cd2acf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:32.832012",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

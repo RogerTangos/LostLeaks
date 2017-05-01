@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b9803a78355e82c5329896c2b6a83c6d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "120",
+                    "short_name": "120",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Howard Avenue",
+                    "short_name": "Howard Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2806",
+                    "short_name": "2806",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "120 Howard Ave, Boston, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3161283,
+                        "lng": -71.075212
+                    },
+                    "southwest": {
+                        "lat": 42.316117,
+                        "lng": -71.07522279999999
+                    }
+                },
+                "location": {
+                    "lat": 42.316117,
+                    "lng": -71.075212
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31747163029149,
+                        "lng": -71.07386841970849
+                    },
+                    "southwest": {
+                        "lat": 42.3147736697085,
+                        "lng": -71.0765663802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiUxMjAgSG93YXJkIEF2ZSwgQm9zdG9uLCBNQSAwMjEyNSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b9803a78355e82c5329896c2b6a83c6d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:20.204084",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

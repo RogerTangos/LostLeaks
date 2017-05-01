@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fb999eb7f01a3363fd7a9007f1bfae25.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sudan Street",
+                    "short_name": "Sudan St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1322",
+                    "short_name": "1322",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Sudan St, Dorchester, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3166652,
+                        "lng": -71.053837
+                    },
+                    "southwest": {
+                        "lat": 42.3165041,
+                        "lng": -71.0539531
+                    }
+                },
+                "location": {
+                    "lat": 42.3165847,
+                    "lng": -71.05389509999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3179336302915,
+                        "lng": -71.0525460697085
+                    },
+                    "southwest": {
+                        "lat": 42.3152356697085,
+                        "lng": -71.0552440302915
+                    }
+                }
+            },
+            "place_id": "ChIJ1XpcQ1R644kR6dt4eH85vww",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fb999eb7f01a3363fd7a9007f1bfae25",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:59.570340",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

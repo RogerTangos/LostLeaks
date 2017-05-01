@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0eb9f461b91ac57656d5be79ec1f5124.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln Avenue",
+                    "short_name": "Lincoln Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1714",
+                    "short_name": "1714",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Lincoln Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.45893179999999,
+                        "lng": -70.98933699999999
+                    },
+                    "southwest": {
+                        "lat": 42.4589289,
+                        "lng": -70.9893554
+                    }
+                },
+                "location": {
+                    "lat": 42.4589289,
+                    "lng": -70.98933699999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4602793302915,
+                        "lng": -70.98799721970849
+                    },
+                    "southwest": {
+                        "lat": 42.4575813697085,
+                        "lng": -70.9906951802915
+                    }
+                }
+            },
+            "place_id": "EiUyNCBMaW5jb2xuIEF2ZSwgU2F1Z3VzLCBNQSAwMTkwNiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0eb9f461b91ac57656d5be79ec1f5124",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:13.738535",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d992549a2a8d58306d73bae266e156ea.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "37",
+                    "short_name": "37",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pillsbury Lane",
+                    "short_name": "Pillsbury Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Georgetown",
+                    "short_name": "Georgetown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01833",
+                    "short_name": "01833",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2111",
+                    "short_name": "2111",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "37 Pillsbury Ln, Georgetown, MA 01833, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7272848,
+                        "lng": -70.9810717
+                    },
+                    "southwest": {
+                        "lat": 42.72727099999999,
+                        "lng": -70.98107250000001
+                    }
+                },
+                "location": {
+                    "lat": 42.7272848,
+                    "lng": -70.98107250000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.72862688029149,
+                        "lng": -70.97972311970851
+                    },
+                    "southwest": {
+                        "lat": 42.7259289197085,
+                        "lng": -70.98242108029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiozNyBQaWxsc2J1cnkgTG4sIEdlb3JnZXRvd24sIE1BIDAxODMzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d992549a2a8d58306d73bae266e156ea",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:38.160113",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

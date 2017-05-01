@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b99d82009f524d279cd25a4ceeee018a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "375",
+                    "short_name": "375",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crescent Avenue",
+                    "short_name": "Crescent Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3110",
+                    "short_name": "3110",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "375 Crescent Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4001495,
+                        "lng": -71.0154287
+                    },
+                    "southwest": {
+                        "lat": 42.4000035,
+                        "lng": -71.0156021
+                    }
+                },
+                "location": {
+                    "lat": 42.4000765,
+                    "lng": -71.0155154
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40142548029149,
+                        "lng": -71.0141664197085
+                    },
+                    "southwest": {
+                        "lat": 42.39872751970849,
+                        "lng": -71.01686438029151
+                    }
+                }
+            },
+            "place_id": "ChIJ2X6f3cJx44kR13WklXjjdfU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b99d82009f524d279cd25a4ceeee018a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:41.521938",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

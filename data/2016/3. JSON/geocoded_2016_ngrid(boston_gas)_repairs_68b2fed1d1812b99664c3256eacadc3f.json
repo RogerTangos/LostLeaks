@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_68b2fed1d1812b99664c3256eacadc3f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "255",
+                    "short_name": "255",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grapevine Road",
+                    "short_name": "Grapevine Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wenham",
+                    "short_name": "Wenham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01984",
+                    "short_name": "01984",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "255 Grapevine Rd, Wenham, MA 01984, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5907583,
+                        "lng": -70.8221157
+                    },
+                    "southwest": {
+                        "lat": 42.5902705,
+                        "lng": -70.8229927
+                    }
+                },
+                "location": {
+                    "lat": 42.5905144,
+                    "lng": -70.8225542
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5918633802915,
+                        "lng": -70.8212052197085
+                    },
+                    "southwest": {
+                        "lat": 42.5891654197085,
+                        "lng": -70.82390318029151
+                    }
+                }
+            },
+            "place_id": "ChIJT9A2QtsX44kRbKxwzNJ2WFk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "68b2fed1d1812b99664c3256eacadc3f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:37.704568",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

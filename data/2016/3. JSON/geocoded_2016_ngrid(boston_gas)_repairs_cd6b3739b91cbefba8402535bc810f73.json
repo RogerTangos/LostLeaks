@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cd6b3739b91cbefba8402535bc810f73.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "84",
+                    "short_name": "84",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1831",
+                    "short_name": "1831",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "84 Elm St, Cohasset, MA 02025, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.24152000000001,
+                    "lng": -70.796874
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24286898029151,
+                        "lng": -70.79552501970849
+                    },
+                    "southwest": {
+                        "lat": 42.24017101970851,
+                        "lng": -70.79822298029151
+                    }
+                }
+            },
+            "place_id": "ChIJcXged-9d44kRlL0rGVeFnBE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cd6b3739b91cbefba8402535bc810f73",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:19.620605",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

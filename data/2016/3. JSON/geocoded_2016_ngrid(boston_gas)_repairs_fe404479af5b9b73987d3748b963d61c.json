@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fe404479af5b9b73987d3748b963d61c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "230",
+                    "short_name": "230",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ferry Street",
+                    "short_name": "Ferry St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "230 Ferry St, Malden, MA 02148, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4233786,
+                    "lng": -71.0625675
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4247275802915,
+                        "lng": -71.0612185197085
+                    },
+                    "southwest": {
+                        "lat": 42.4220296197085,
+                        "lng": -71.06391648029151
+                    }
+                }
+            },
+            "place_id": "ChIJvSF_uWRx44kRtWInJc_41Kw",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fe404479af5b9b73987d3748b963d61c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:04.862439",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

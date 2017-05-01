@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8453e6cccdc35a087a30ae8c5c037972.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "239",
+                    "short_name": "239",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Davidson Road",
+                    "short_name": "Davidson Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boxborough",
+                    "short_name": "Boxborough",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01719",
+                    "short_name": "01719",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1223",
+                    "short_name": "1223",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "239 Davidson Rd, Boxborough, MA 01719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5081023,
+                        "lng": -71.4989543
+                    },
+                    "southwest": {
+                        "lat": 42.5079664,
+                        "lng": -71.4991501
+                    }
+                },
+                "location": {
+                    "lat": 42.5080344,
+                    "lng": -71.4990522
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5093833302915,
+                        "lng": -71.49770321970848
+                    },
+                    "southwest": {
+                        "lat": 42.5066853697085,
+                        "lng": -71.5004011802915
+                    }
+                }
+            },
+            "place_id": "ChIJ9dhzkAyU44kRkLTsBTSl25U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8453e6cccdc35a087a30ae8c5c037972",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:10.289656",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

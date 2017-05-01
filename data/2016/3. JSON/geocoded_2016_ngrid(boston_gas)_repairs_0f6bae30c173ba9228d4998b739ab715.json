@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0f6bae30c173ba9228d4998b739ab715.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "117",
+                    "short_name": "117",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jefferson Street",
+                    "short_name": "Jefferson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3549",
+                    "short_name": "3549",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "117 Jefferson St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4709608,
+                        "lng": -70.9457963
+                    },
+                    "southwest": {
+                        "lat": 42.4708037,
+                        "lng": -70.94602809999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4708823,
+                    "lng": -70.9459122
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4722312302915,
+                        "lng": -70.9445632197085
+                    },
+                    "southwest": {
+                        "lat": 42.4695332697085,
+                        "lng": -70.9472611802915
+                    }
+                }
+            },
+            "place_id": "ChIJH0y9gdts44kRGZz-I0RLfFs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0f6bae30c173ba9228d4998b739ab715",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:05.557926",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

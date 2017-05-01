@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d354c12f2db4d82bcff9da24ff4e3d9b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "135",
+                    "short_name": "135",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Goden Street",
+                    "short_name": "Goden St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2923",
+                    "short_name": "2923",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "135 Goden St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.38927049999999,
+                        "lng": -71.1700202
+                    },
+                    "southwest": {
+                        "lat": 42.3891446,
+                        "lng": -71.17018139999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3892076,
+                    "lng": -71.1701008
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3905565302915,
+                        "lng": -71.16875181970849
+                    },
+                    "southwest": {
+                        "lat": 42.3878585697085,
+                        "lng": -71.1714497802915
+                    }
+                }
+            },
+            "place_id": "ChIJ5VlUlep344kREQi4fEN2_L0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d354c12f2db4d82bcff9da24ff4e3d9b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:48.144905",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_711d25423c484d82d75ad2a6f423a9ec.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "576",
+                    "short_name": "576",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "576 Main St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4570671,
+                        "lng": -71.06444929999999
+                    },
+                    "southwest": {
+                        "lat": 42.4568395,
+                        "lng": -71.06482199999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4569533,
+                    "lng": -71.0646356
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4583022802915,
+                        "lng": -71.06328666970849
+                    },
+                    "southwest": {
+                        "lat": 42.4556043197085,
+                        "lng": -71.06598463029151
+                    }
+                }
+            },
+            "place_id": "ChIJL6yqILtz44kRImtwzTTmRU4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "711d25423c484d82d75ad2a6f423a9ec",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:06.100744",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

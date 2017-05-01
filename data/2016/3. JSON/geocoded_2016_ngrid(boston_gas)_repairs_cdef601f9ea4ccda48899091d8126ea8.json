@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cdef601f9ea4ccda48899091d8126ea8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "9th Street",
+                    "short_name": "9th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3717",
+                    "short_name": "3717",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 9th St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5264384,
+                        "lng": -71.74352139999999
+                    },
+                    "southwest": {
+                        "lat": 42.5264343,
+                        "lng": -71.7435394
+                    }
+                },
+                "location": {
+                    "lat": 42.5264343,
+                    "lng": -71.74352139999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.52778533029149,
+                        "lng": -71.74218141970849
+                    },
+                    "southwest": {
+                        "lat": 42.5250873697085,
+                        "lng": -71.74487938029151
+                    }
+                }
+            },
+            "place_id": "EiQxNiA5dGggU3QsIExlb21pbnN0ZXIsIE1BIDAxNDUzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cdef601f9ea4ccda48899091d8126ea8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:48.053763",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

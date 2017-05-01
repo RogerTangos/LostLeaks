@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_502afb1fd26c7ae87731f9a34407da31.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cleveland Road",
+                    "short_name": "Cleveland Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2824",
+                    "short_name": "2824",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Cleveland Rd, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4849944,
+                        "lng": -70.86712469999999
+                    },
+                    "southwest": {
+                        "lat": 42.4848139,
+                        "lng": -70.8673853
+                    }
+                },
+                "location": {
+                    "lat": 42.4849042,
+                    "lng": -70.867255
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4862531302915,
+                        "lng": -70.86590601970849
+                    },
+                    "southwest": {
+                        "lat": 42.4835551697085,
+                        "lng": -70.8686039802915
+                    }
+                }
+            },
+            "place_id": "ChIJl89tktsU44kRd9P19GAz1_w",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "502afb1fd26c7ae87731f9a34407da31",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:44.934959",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

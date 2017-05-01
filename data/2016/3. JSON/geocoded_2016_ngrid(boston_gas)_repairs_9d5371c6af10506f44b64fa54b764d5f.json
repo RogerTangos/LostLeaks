@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9d5371c6af10506f44b64fa54b764d5f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "189",
+                    "short_name": "189",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Belmont Street",
+                    "short_name": "Belmont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1410",
+                    "short_name": "1410",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "189 Belmont St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2648245,
+                        "lng": -71.02705960000002
+                    },
+                    "southwest": {
+                        "lat": 42.26468819999999,
+                        "lng": -71.0272536
+                    }
+                },
+                "location": {
+                    "lat": 42.26475629999999,
+                    "lng": -71.0271566
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2661053302915,
+                        "lng": -71.0258076197085
+                    },
+                    "southwest": {
+                        "lat": 42.2634073697085,
+                        "lng": -71.02850558029152
+                    }
+                }
+            },
+            "place_id": "ChIJufcelJh844kRLSxAF6gjOVI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9d5371c6af10506f44b64fa54b764d5f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:41.779851",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

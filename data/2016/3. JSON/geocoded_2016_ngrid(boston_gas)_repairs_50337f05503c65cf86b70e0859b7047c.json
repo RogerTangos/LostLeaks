@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_50337f05503c65cf86b70e0859b7047c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "188",
+                    "short_name": "188",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mountain Avenue",
+                    "short_name": "Mountain Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2935",
+                    "short_name": "2935",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "188 Mountain Ave, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4129928,
+                        "lng": -71.0158455
+                    },
+                    "southwest": {
+                        "lat": 42.412841,
+                        "lng": -71.0160262
+                    }
+                },
+                "location": {
+                    "lat": 42.4129169,
+                    "lng": -71.0159359
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4142658802915,
+                        "lng": -71.0145868697085
+                    },
+                    "southwest": {
+                        "lat": 42.4115679197085,
+                        "lng": -71.0172848302915
+                    }
+                }
+            },
+            "place_id": "ChIJB4EmQfBx44kRROD3b3c9lpg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "50337f05503c65cf86b70e0859b7047c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:41.418366",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_35db9903425648216a518b8857c90540.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Long Avenue",
+                    "short_name": "Long Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2963",
+                    "short_name": "2963",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Long Ave, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3875754,
+                        "lng": -71.17163180000001
+                    },
+                    "southwest": {
+                        "lat": 42.3874506,
+                        "lng": -71.1718313
+                    }
+                },
+                "location": {
+                    "lat": 42.387513,
+                    "lng": -71.1717316
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38886198029149,
+                        "lng": -71.17038256970851
+                    },
+                    "southwest": {
+                        "lat": 42.3861640197085,
+                        "lng": -71.17308053029151
+                    }
+                }
+            },
+            "place_id": "ChIJBZcFp-t344kRXIsA0g5W0Dg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "35db9903425648216a518b8857c90540",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:30.066400",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

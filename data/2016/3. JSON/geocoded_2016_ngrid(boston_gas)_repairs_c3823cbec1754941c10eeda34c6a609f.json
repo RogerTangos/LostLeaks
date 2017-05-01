@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c3823cbec1754941c10eeda34c6a609f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "129",
+                    "short_name": "129",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Brookfield",
+                    "short_name": "East Brookfield",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "East Brookfield",
+                    "short_name": "East Brookfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01515",
+                    "short_name": "01515",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "129 Pleasant St, East Brookfield, MA 01515, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2263917,
+                        "lng": -72.043112
+                    },
+                    "southwest": {
+                        "lat": 42.2263782,
+                        "lng": -72.0431162
+                    }
+                },
+                "location": {
+                    "lat": 42.2263782,
+                    "lng": -72.043112
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2277339302915,
+                        "lng": -72.04176511970849
+                    },
+                    "southwest": {
+                        "lat": 42.2250359697085,
+                        "lng": -72.0444630802915
+                    }
+                }
+            },
+            "place_id": "Ei8xMjkgUGxlYXNhbnQgU3QsIEVhc3QgQnJvb2tmaWVsZCwgTUEgMDE1MTUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c3823cbec1754941c10eeda34c6a609f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:35.070863",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

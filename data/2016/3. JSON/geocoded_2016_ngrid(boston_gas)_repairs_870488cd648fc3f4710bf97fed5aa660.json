@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_870488cd648fc3f4710bf97fed5aa660.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "269",
+                    "short_name": "269",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Street",
+                    "short_name": "Walnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01905",
+                    "short_name": "01905",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1121",
+                    "short_name": "1121",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "269 Walnut St, Lynn, MA 01905, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4704778,
+                        "lng": -70.9761205
+                    },
+                    "southwest": {
+                        "lat": 42.4703428,
+                        "lng": -70.9763581
+                    }
+                },
+                "location": {
+                    "lat": 42.4704103,
+                    "lng": -70.9762393
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47175928029149,
+                        "lng": -70.97489031970849
+                    },
+                    "southwest": {
+                        "lat": 42.4690613197085,
+                        "lng": -70.9775882802915
+                    }
+                }
+            },
+            "place_id": "ChIJ1W7WcRVt44kRunLjYf8ZR7I",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "870488cd648fc3f4710bf97fed5aa660",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:48.948288",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

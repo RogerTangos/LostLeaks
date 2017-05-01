@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_434684bc7d53a36246a9178d30ef17c4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arnold Terrace",
+                    "short_name": "Arnold Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1901",
+                    "short_name": "1901",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Arnold Terrace, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.519462,
+                        "lng": -71.2181164
+                    },
+                    "southwest": {
+                        "lat": 42.5193049,
+                        "lng": -71.218312
+                    }
+                },
+                "location": {
+                    "lat": 42.5193835,
+                    "lng": -71.21821419999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5207324302915,
+                        "lng": -71.2168652197085
+                    },
+                    "southwest": {
+                        "lat": 42.5180344697085,
+                        "lng": -71.21956318029152
+                    }
+                }
+            },
+            "place_id": "ChIJFUACHZOf44kRCBNH0S1joEQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "434684bc7d53a36246a9178d30ef17c4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:15.384508",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

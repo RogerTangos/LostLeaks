@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b1e6ad344519b5d2177e06793fcabb1d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Westland Terrace",
+                    "short_name": "Westland Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Westland Terrace, West Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3557333,
+                        "lng": -71.23038140000001
+                    },
+                    "southwest": {
+                        "lat": 42.3555546,
+                        "lng": -71.2305732
+                    }
+                },
+                "location": {
+                    "lat": 42.355644,
+                    "lng": -71.23047729999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3569929302915,
+                        "lng": -71.2291283197085
+                    },
+                    "southwest": {
+                        "lat": 42.3542949697085,
+                        "lng": -71.23182628029151
+                    }
+                }
+            },
+            "place_id": "ChIJKXUFqeWC44kRM8OjrRYijlo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b1e6ad344519b5d2177e06793fcabb1d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:22.788306",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

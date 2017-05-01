@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_81af0ee3cbd1a237eead4530ea0dd55a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lennon Road",
+                    "short_name": "Lennon Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2604",
+                    "short_name": "2604",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Lennon Rd, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4267467,
+                        "lng": -71.1774062
+                    },
+                    "southwest": {
+                        "lat": 42.42666670000001,
+                        "lng": -71.1775143
+                    }
+                },
+                "location": {
+                    "lat": 42.4267067,
+                    "lng": -71.1774602
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4280556802915,
+                        "lng": -71.1761112697085
+                    },
+                    "southwest": {
+                        "lat": 42.4253577197085,
+                        "lng": -71.1788092302915
+                    }
+                }
+            },
+            "place_id": "ChIJ_1vpVzx244kRUvzVYXagno8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "81af0ee3cbd1a237eead4530ea0dd55a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:13.109621",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

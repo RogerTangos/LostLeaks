@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_231cc847c1cb4ff07e00f12a1ce64bb6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "120",
+                    "short_name": "120",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Townsend Road",
+                    "short_name": "Townsend Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Groton",
+                    "short_name": "Groton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Groton",
+                    "short_name": "Groton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01450",
+                    "short_name": "01450",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "120 Townsend Rd, Groton, MA 01450, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6090689,
+                        "lng": -71.6304226
+                    },
+                    "southwest": {
+                        "lat": 42.6090641,
+                        "lng": -71.6304403
+                    }
+                },
+                "location": {
+                    "lat": 42.6090689,
+                    "lng": -71.6304226
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.61041548029151,
+                        "lng": -71.6290824697085
+                    },
+                    "southwest": {
+                        "lat": 42.60771751970851,
+                        "lng": -71.6317804302915
+                    }
+                }
+            },
+            "place_id": "EiYxMjAgVG93bnNlbmQgUmQsIEdyb3RvbiwgTUEgMDE0NTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "231cc847c1cb4ff07e00f12a1ce64bb6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:21.422108",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

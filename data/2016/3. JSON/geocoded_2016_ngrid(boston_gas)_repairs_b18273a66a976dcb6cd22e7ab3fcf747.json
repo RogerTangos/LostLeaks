@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b18273a66a976dcb6cd22e7ab3fcf747.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Union St & School St, Lynn, MA 01902, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4664581,
+                    "lng": -70.9420926
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4678070802915,
+                        "lng": -70.94074361970848
+                    },
+                    "southwest": {
+                        "lat": 42.4651091197085,
+                        "lng": -70.94344158029149
+                    }
+                }
+            },
+            "place_id": "EilVbmlvbiBTdCAmIFNjaG9vbCBTdCwgTHlubiwgTUEgMDE5MDIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "b18273a66a976dcb6cd22e7ab3fcf747",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:48.573274",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

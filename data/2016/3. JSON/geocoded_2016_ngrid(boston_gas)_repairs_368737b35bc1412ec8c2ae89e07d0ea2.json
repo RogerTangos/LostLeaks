@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_368737b35bc1412ec8c2ae89e07d0ea2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "52",
+                    "short_name": "52",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hancock Street",
+                    "short_name": "Hancock St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7702",
+                    "short_name": "7702",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "52 Hancock St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4181066,
+                        "lng": -71.0616124
+                    },
+                    "southwest": {
+                        "lat": 42.4179416,
+                        "lng": -71.0618703
+                    }
+                },
+                "location": {
+                    "lat": 42.4180241,
+                    "lng": -71.0617414
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4193730802915,
+                        "lng": -71.06039236970848
+                    },
+                    "southwest": {
+                        "lat": 42.41667511970851,
+                        "lng": -71.06309033029149
+                    }
+                }
+            },
+            "place_id": "ChIJ-5pt329x44kRVQt-MfRRd2k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "368737b35bc1412ec8c2ae89e07d0ea2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:39.572227",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

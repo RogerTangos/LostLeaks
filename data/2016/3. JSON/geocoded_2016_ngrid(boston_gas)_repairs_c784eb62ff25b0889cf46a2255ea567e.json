@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c784eb62ff25b0889cf46a2255ea567e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lexington Street",
+                    "short_name": "Lexington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2319",
+                    "short_name": "2319",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Lexington St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4870078,
+                        "lng": -71.1050458
+                    },
+                    "southwest": {
+                        "lat": 42.4869071,
+                        "lng": -71.10522089999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4869575,
+                    "lng": -71.10513329999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.48830643029149,
+                        "lng": -71.10378436970848
+                    },
+                    "southwest": {
+                        "lat": 42.4856084697085,
+                        "lng": -71.1064823302915
+                    }
+                }
+            },
+            "place_id": "ChIJsXD7u5t044kRH0m_OCXaWB0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c784eb62ff25b0889cf46a2255ea567e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:13.284961",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

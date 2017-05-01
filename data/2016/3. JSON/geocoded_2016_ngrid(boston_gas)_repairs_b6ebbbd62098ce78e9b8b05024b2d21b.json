@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b6ebbbd62098ce78e9b8b05024b2d21b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mount Pleasant Street",
+                    "short_name": "Mt Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3033",
+                    "short_name": "3033",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Mt Pleasant St, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.44935359999999,
+                        "lng": -71.1322157
+                    },
+                    "southwest": {
+                        "lat": 42.4491252,
+                        "lng": -71.13236619999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4492394,
+                    "lng": -71.1322909
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4505883802915,
+                        "lng": -71.1309419697085
+                    },
+                    "southwest": {
+                        "lat": 42.4478904197085,
+                        "lng": -71.13363993029151
+                    }
+                }
+            },
+            "place_id": "ChIJcVxZXSV044kRUn51OAax0VY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b6ebbbd62098ce78e9b8b05024b2d21b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:48.974274",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

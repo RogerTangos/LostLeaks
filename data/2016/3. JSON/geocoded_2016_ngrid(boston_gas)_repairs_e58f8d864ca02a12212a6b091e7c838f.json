@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e58f8d864ca02a12212a6b091e7c838f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "217",
+                    "short_name": "217",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wolcott Road",
+                    "short_name": "Wolcott Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3134",
+                    "short_name": "3134",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "217 Wolcott Rd, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.30826709999999,
+                        "lng": -71.16105999999999
+                    },
+                    "southwest": {
+                        "lat": 42.3082571,
+                        "lng": -71.1610729
+                    }
+                },
+                "location": {
+                    "lat": 42.30826709999999,
+                    "lng": -71.16105999999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3096110802915,
+                        "lng": -71.1597174697085
+                    },
+                    "southwest": {
+                        "lat": 42.3069131197085,
+                        "lng": -71.1624154302915
+                    }
+                }
+            },
+            "place_id": "EiwyMTcgV29sY290dCBSZCwgQ2hlc3RudXQgSGlsbCwgTUEgMDI0NjcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e58f8d864ca02a12212a6b091e7c838f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:41.606256",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

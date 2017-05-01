@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2862948b266bf751ce4b70a745381261.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3823",
+                    "short_name": "3823",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Pleasant St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5274522,
+                        "lng": -70.8896395
+                    },
+                    "southwest": {
+                        "lat": 42.5273098,
+                        "lng": -70.88979739999999
+                    }
+                },
+                "location": {
+                    "lat": 42.527381,
+                    "lng": -70.8897185
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5287299802915,
+                        "lng": -70.8883694697085
+                    },
+                    "southwest": {
+                        "lat": 42.5260320197085,
+                        "lng": -70.8910674302915
+                    }
+                }
+            },
+            "place_id": "ChIJG_QiAmwU44kRADhn3EXxHOA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2862948b266bf751ce4b70a745381261",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:38.570885",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_db2d45161a74226a1c374073d062ed43.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "92",
+                    "short_name": "92",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Decatur Street",
+                    "short_name": "Decatur St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "92 Decatur St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4143508,
+                        "lng": -71.13643909999999
+                    },
+                    "southwest": {
+                        "lat": 42.4143372,
+                        "lng": -71.1364428
+                    }
+                },
+                "location": {
+                    "lat": 42.4143372,
+                    "lng": -71.1364428
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4156929802915,
+                        "lng": -71.1350919697085
+                    },
+                    "southwest": {
+                        "lat": 42.4129950197085,
+                        "lng": -71.1377899302915
+                    }
+                }
+            },
+            "place_id": "Eic5MiBEZWNhdHVyIFN0LCBBcmxpbmd0b24sIE1BIDAyNDc0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "db2d45161a74226a1c374073d062ed43",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:50.669305",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c4a07100031d7f6f53fc2f2f35767d3a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "52",
+                    "short_name": "52",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Warner Street",
+                    "short_name": "Warner St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02144",
+                    "short_name": "02144",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "52 Warner St, Somerville, MA 02144, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4026683,
+                        "lng": -71.11403709999999
+                    },
+                    "southwest": {
+                        "lat": 42.4026575,
+                        "lng": -71.11404879999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4026683,
+                    "lng": -71.11404879999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4040118802915,
+                        "lng": -71.11269396970849
+                    },
+                    "southwest": {
+                        "lat": 42.4013139197085,
+                        "lng": -71.1153919302915
+                    }
+                }
+            },
+            "place_id": "Eic1MiBXYXJuZXIgU3QsIFNvbWVydmlsbGUsIE1BIDAyMTQ0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c4a07100031d7f6f53fc2f2f35767d3a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:41.109299",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

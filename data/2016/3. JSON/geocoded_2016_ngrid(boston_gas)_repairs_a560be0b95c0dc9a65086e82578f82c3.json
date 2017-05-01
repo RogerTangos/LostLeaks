@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a560be0b95c0dc9a65086e82578f82c3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "251",
+                    "short_name": "251",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Heath Street",
+                    "short_name": "Heath St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mission Hill",
+                    "short_name": "Mission Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "251 Heath St, Boston, MA 02130, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3281606,
+                        "lng": -71.1079025
+                    },
+                    "southwest": {
+                        "lat": 42.32743240000001,
+                        "lng": -71.1088827
+                    }
+                },
+                "location": {
+                    "lat": 42.3277965,
+                    "lng": -71.1083926
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3291454802915,
+                        "lng": -71.10704361970849
+                    },
+                    "southwest": {
+                        "lat": 42.3264475197085,
+                        "lng": -71.1097415802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJQUcppoR544kR_xk_el6PA0U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a560be0b95c0dc9a65086e82578f82c3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:36.496588",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

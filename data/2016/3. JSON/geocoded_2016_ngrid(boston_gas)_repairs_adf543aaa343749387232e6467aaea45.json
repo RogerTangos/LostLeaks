@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_adf543aaa343749387232e6467aaea45.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Birch Street",
+                    "short_name": "Birch St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3740",
+                    "short_name": "3740",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Birch St, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4523932,
+                        "lng": -71.00555969999999
+                    },
+                    "southwest": {
+                        "lat": 42.452274,
+                        "lng": -71.0057298
+                    }
+                },
+                "location": {
+                    "lat": 42.4523336,
+                    "lng": -71.00564469999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.45368258029149,
+                        "lng": -71.00429576970849
+                    },
+                    "southwest": {
+                        "lat": 42.45098461970849,
+                        "lng": -71.0069937302915
+                    }
+                }
+            },
+            "place_id": "ChIJ-YZhLHly44kRWfHaqzKlPcw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "adf543aaa343749387232e6467aaea45",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:42.859883",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

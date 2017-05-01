@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1224d8bc0e18841b939276144ffc1922.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "South Hampton Road",
+                    "short_name": "S Hampton Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury",
+                    "short_name": "Amesbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01913",
+                    "short_name": "01913",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "S Hampton Rd & Rowell St, Amesbury, MA 01913, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.86519149999999,
+                    "lng": -70.9304525
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.86654048029149,
+                        "lng": -70.92910351970849
+                    },
+                    "southwest": {
+                        "lat": 42.86384251970849,
+                        "lng": -70.9318014802915
+                    }
+                }
+            },
+            "place_id": "EjFTIEhhbXB0b24gUmQgJiBSb3dlbGwgU3QsIEFtZXNidXJ5LCBNQSAwMTkxMywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "1224d8bc0e18841b939276144ffc1922",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:47.832949",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

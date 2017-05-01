@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_35b1bc66140c3e96f19991e1572501df.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Balch Street",
+                    "short_name": "Balch St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3001",
+                    "short_name": "3001",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Balch St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5629635,
+                        "lng": -70.8848565
+                    },
+                    "southwest": {
+                        "lat": 42.562846,
+                        "lng": -70.8850047
+                    }
+                },
+                "location": {
+                    "lat": 42.5629048,
+                    "lng": -70.88493059999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5642537302915,
+                        "lng": -70.8835816197085
+                    },
+                    "southwest": {
+                        "lat": 42.5615557697085,
+                        "lng": -70.8862795802915
+                    }
+                }
+            },
+            "place_id": "ChIJNZJqvr0W44kRo0pYPX4ASCA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "35b1bc66140c3e96f19991e1572501df",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:36.182062",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

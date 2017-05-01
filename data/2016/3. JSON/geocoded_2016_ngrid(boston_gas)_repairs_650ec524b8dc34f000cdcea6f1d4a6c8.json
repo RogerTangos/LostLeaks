@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_650ec524b8dc34f000cdcea6f1d4a6c8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "North Avenue",
+                    "short_name": "North Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "North Ave & Wellington Ave, Haverhill, MA 01830, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.7933069,
+                    "lng": -71.0829756
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.79465588029149,
+                        "lng": -71.0816266197085
+                    },
+                    "southwest": {
+                        "lat": 42.7919579197085,
+                        "lng": -71.08432458029151
+                    }
+                }
+            },
+            "place_id": "EjROb3J0aCBBdmUgJiBXZWxsaW5ndG9uIEF2ZSwgSGF2ZXJoaWxsLCBNQSAwMTgzMCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "650ec524b8dc34f000cdcea6f1d4a6c8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:41.781254",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

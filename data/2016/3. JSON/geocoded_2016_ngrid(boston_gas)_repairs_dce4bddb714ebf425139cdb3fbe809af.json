@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dce4bddb714ebf425139cdb3fbe809af.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "450",
+                    "short_name": "450",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lexington Street",
+                    "short_name": "Lexington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "450 Lexington St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3468051,
+                        "lng": -71.24569
+                    },
+                    "southwest": {
+                        "lat": 42.3464884,
+                        "lng": -71.246259
+                    }
+                },
+                "location": {
+                    "lat": 42.34664670000001,
+                    "lng": -71.2459745
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34799573029149,
+                        "lng": -71.24462551970849
+                    },
+                    "southwest": {
+                        "lat": 42.34529776970849,
+                        "lng": -71.2473234802915
+                    }
+                }
+            },
+            "place_id": "ChIJyb6pUweD44kRJFJNWLoiXRA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dce4bddb714ebf425139cdb3fbe809af",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:49.490640",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

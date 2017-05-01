@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_85d2e7b204c8c049c5a64ee941a43327.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Reservoir Road",
+                    "short_name": "Reservoir Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1622",
+                    "short_name": "1622",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Reservoir Rd, Cohasset, MA 02025, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2353588,
+                        "lng": -70.81170879999999
+                    },
+                    "southwest": {
+                        "lat": 42.2352397,
+                        "lng": -70.8119545
+                    }
+                },
+                "location": {
+                    "lat": 42.2352993,
+                    "lng": -70.8118316
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2366482302915,
+                        "lng": -70.81048266970849
+                    },
+                    "southwest": {
+                        "lat": 42.2339502697085,
+                        "lng": -70.8131806302915
+                    }
+                }
+            },
+            "place_id": "ChIJv9kziv9d44kRrkVBsTbdeiA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "85d2e7b204c8c049c5a64ee941a43327",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:26.745845",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2bc718e1ae451313a52b6eaa7ac3a69e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hart Street",
+                    "short_name": "Hart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Hart St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5664692,
+                        "lng": -70.8128802
+                    },
+                    "southwest": {
+                        "lat": 42.56593729999999,
+                        "lng": -70.81356099999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5662032,
+                    "lng": -70.8132206
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5675522302915,
+                        "lng": -70.81187161970848
+                    },
+                    "southwest": {
+                        "lat": 42.5648542697085,
+                        "lng": -70.8145695802915
+                    }
+                }
+            },
+            "place_id": "ChIJv4RB4CcW44kRpKqpjH5rWsc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2bc718e1ae451313a52b6eaa7ac3a69e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:37.323749",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

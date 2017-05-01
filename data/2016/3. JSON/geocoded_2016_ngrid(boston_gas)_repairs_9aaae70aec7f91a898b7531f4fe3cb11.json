@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9aaae70aec7f91a898b7531f4fe3cb11.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Middlesex Turnpike",
+                    "short_name": "Middlesex Turnpike",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Middlesex Turnpike & Bedford St, Burlington, MA 01803, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5018298,
+                    "lng": -71.23401
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5031787802915,
+                        "lng": -71.2326610197085
+                    },
+                    "southwest": {
+                        "lat": 42.5004808197085,
+                        "lng": -71.23535898029151
+                    }
+                }
+            },
+            "place_id": "EjpNaWRkbGVzZXggVHVybnBpa2UgJiBCZWRmb3JkIFN0LCBCdXJsaW5ndG9uLCBNQSAwMTgwMywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "9aaae70aec7f91a898b7531f4fe3cb11",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:13.443126",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

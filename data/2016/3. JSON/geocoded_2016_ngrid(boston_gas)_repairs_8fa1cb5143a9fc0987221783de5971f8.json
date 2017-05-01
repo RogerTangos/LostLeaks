@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8fa1cb5143a9fc0987221783de5971f8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Standish Road",
+                    "short_name": "Standish Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3379",
+                    "short_name": "3379",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Standish Rd, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3739284,
+                        "lng": -71.1795667
+                    },
+                    "southwest": {
+                        "lat": 42.3737986,
+                        "lng": -71.1797498
+                    }
+                },
+                "location": {
+                    "lat": 42.3738635,
+                    "lng": -71.1796583
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3752124802915,
+                        "lng": -71.17830926970848
+                    },
+                    "southwest": {
+                        "lat": 42.3725145197085,
+                        "lng": -71.1810072302915
+                    }
+                }
+            },
+            "place_id": "ChIJtz1z7vd344kRVbR8dA2ZTyY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8fa1cb5143a9fc0987221783de5971f8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:17.818823",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

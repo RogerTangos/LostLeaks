@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_38f152c093c5cfbeea41cf033726c128.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "139",
+                    "short_name": "139",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Linden Street",
+                    "short_name": "Linden St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02482",
+                    "short_name": "02482",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7908",
+                    "short_name": "7908",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "139 Linden St, Wellesley, MA 02482, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.29881650000001,
+                        "lng": -71.2939564
+                    },
+                    "southwest": {
+                        "lat": 42.2986628,
+                        "lng": -71.2941563
+                    }
+                },
+                "location": {
+                    "lat": 42.2987397,
+                    "lng": -71.2940564
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3000886302915,
+                        "lng": -71.29270736970848
+                    },
+                    "southwest": {
+                        "lat": 42.29739066970851,
+                        "lng": -71.2954053302915
+                    }
+                }
+            },
+            "place_id": "ChIJQ6wCcraG44kR5DVBudBUgEA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "38f152c093c5cfbeea41cf033726c128",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:53.613689",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

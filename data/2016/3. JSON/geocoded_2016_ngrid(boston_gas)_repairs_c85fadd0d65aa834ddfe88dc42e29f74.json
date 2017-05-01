@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c85fadd0d65aa834ddfe88dc42e29f74.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "70",
+                    "short_name": "70",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Salem Street",
+                    "short_name": "Salem St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "70 Salem St, Reading, MA 01867, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5267184,
+                        "lng": -71.099046
+                    },
+                    "southwest": {
+                        "lat": 42.5267054,
+                        "lng": -71.0990522
+                    }
+                },
+                "location": {
+                    "lat": 42.5267184,
+                    "lng": -71.0990522
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5280608802915,
+                        "lng": -71.0977001197085
+                    },
+                    "southwest": {
+                        "lat": 42.5253629197085,
+                        "lng": -71.10039808029151
+                    }
+                }
+            },
+            "place_id": "EiM3MCBTYWxlbSBTdCwgUmVhZGluZywgTUEgMDE4NjcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c85fadd0d65aa834ddfe88dc42e29f74",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:25.961609",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

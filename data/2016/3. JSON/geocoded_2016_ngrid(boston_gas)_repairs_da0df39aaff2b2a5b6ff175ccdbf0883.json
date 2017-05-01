@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_da0df39aaff2b2a5b6ff175ccdbf0883.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "71",
+                    "short_name": "71",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Thomas Road",
+                    "short_name": "Thomas Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1944",
+                    "short_name": "1944",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "71 Thomas Rd, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.47124549999999,
+                        "lng": -70.9176468
+                    },
+                    "southwest": {
+                        "lat": 42.4711315,
+                        "lng": -70.9177821
+                    }
+                },
+                "location": {
+                    "lat": 42.4711885,
+                    "lng": -70.91771440000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47253748029149,
+                        "lng": -70.9163654697085
+                    },
+                    "southwest": {
+                        "lat": 42.4698395197085,
+                        "lng": -70.9190634302915
+                    }
+                }
+            },
+            "place_id": "ChIJp1Cd7a9s44kR_67Nj-S5XVg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "da0df39aaff2b2a5b6ff175ccdbf0883",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:30.309086",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

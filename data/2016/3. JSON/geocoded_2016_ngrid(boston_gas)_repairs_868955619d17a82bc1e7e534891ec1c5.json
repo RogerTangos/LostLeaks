@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_868955619d17a82bc1e7e534891ec1c5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "560",
+                    "short_name": "560",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boston Street",
+                    "short_name": "Boston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01905",
+                    "short_name": "01905",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2158",
+                    "short_name": "2158",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "560 Boston St, Lynn, MA 01905, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.46415469999999,
+                        "lng": -70.97293049999999
+                    },
+                    "southwest": {
+                        "lat": 42.4640206,
+                        "lng": -70.9730776
+                    }
+                },
+                "location": {
+                    "lat": 42.4640877,
+                    "lng": -70.9730041
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46543663029149,
+                        "lng": -70.97165506970848
+                    },
+                    "southwest": {
+                        "lat": 42.46273866970849,
+                        "lng": -70.97435303029148
+                    }
+                }
+            },
+            "place_id": "ChIJ7xFg0BNt44kRWxN87Zcfpqc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "868955619d17a82bc1e7e534891ec1c5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:00.294261",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

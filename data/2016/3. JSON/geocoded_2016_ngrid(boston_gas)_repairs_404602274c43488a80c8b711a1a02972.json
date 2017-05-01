@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_404602274c43488a80c8b711a1a02972.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "100",
+                    "short_name": "100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Independence Way",
+                    "short_name": "Independence Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "100 Independence Way, Danvers, MA 01923, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5526233,
+                    "lng": -70.9392495
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5539722802915,
+                        "lng": -70.93790051970849
+                    },
+                    "southwest": {
+                        "lat": 42.5512743197085,
+                        "lng": -70.9405984802915
+                    }
+                }
+            },
+            "place_id": "ChIJ_2DartsT44kRRNbElLZ3yJ0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "404602274c43488a80c8b711a1a02972",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:18.902636",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

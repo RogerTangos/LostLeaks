@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5d20add2191afed030f4615a14f20c7c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "201",
+                    "short_name": "201",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Indian Pipe Lane",
+                    "short_name": "Indian Pipe Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4765",
+                    "short_name": "4765",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "201 Indian Pipe Ln, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4291187,
+                        "lng": -71.39711919999999
+                    },
+                    "southwest": {
+                        "lat": 42.428901,
+                        "lng": -71.3974849
+                    }
+                },
+                "location": {
+                    "lat": 42.4290099,
+                    "lng": -71.397302
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4303588302915,
+                        "lng": -71.39595306970848
+                    },
+                    "southwest": {
+                        "lat": 42.4276608697085,
+                        "lng": -71.3986510302915
+                    }
+                }
+            },
+            "place_id": "ChIJYZji1WyQ44kRq5q1kFpiDJk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5d20add2191afed030f4615a14f20c7c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:20.294489",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8e29d486c3a5e958f3ecfafa4382c76a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Maple Avenue",
+                    "short_name": "Maple Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Corner",
+                    "short_name": "Newton Corner",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02458",
+                    "short_name": "02458",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Maple Ave & Maple Terrace, Newton, MA 02458, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3535036,
+                    "lng": -71.1886919
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35485258029149,
+                        "lng": -71.18734291970848
+                    },
+                    "southwest": {
+                        "lat": 42.35215461970849,
+                        "lng": -71.1900408802915
+                    }
+                }
+            },
+            "place_id": "EjBNYXBsZSBBdmUgJiBNYXBsZSBUZXJyYWNlLCBOZXd0b24sIE1BIDAyNDU4LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "8e29d486c3a5e958f3ecfafa4382c76a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:37.156199",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

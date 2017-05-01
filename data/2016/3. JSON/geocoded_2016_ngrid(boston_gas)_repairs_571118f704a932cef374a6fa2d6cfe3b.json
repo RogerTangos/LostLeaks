@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_571118f704a932cef374a6fa2d6cfe3b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Frost Road",
+                    "short_name": "Frost Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3223",
+                    "short_name": "3223",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Frost Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4006699,
+                        "lng": -71.16683669999999
+                    },
+                    "southwest": {
+                        "lat": 42.400663,
+                        "lng": -71.166853
+                    }
+                },
+                "location": {
+                    "lat": 42.4006699,
+                    "lng": -71.16683669999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4020154302915,
+                        "lng": -71.1654958697085
+                    },
+                    "southwest": {
+                        "lat": 42.3993174697085,
+                        "lng": -71.1681938302915
+                    }
+                }
+            },
+            "place_id": "EiM0NCBGcm9zdCBSZCwgQmVsbW9udCwgTUEgMDI0NzgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "571118f704a932cef374a6fa2d6cfe3b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:37.589510",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

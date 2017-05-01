@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_751dca0e45ab9cff0ddf74dc0e1b8c63.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln Street",
+                    "short_name": "Lincoln St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newburyport",
+                    "short_name": "Newburyport",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01950",
+                    "short_name": "01950",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3204",
+                    "short_name": "3204",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Lincoln St, Newburyport, MA 01950, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8041582,
+                        "lng": -70.8567992
+                    },
+                    "southwest": {
+                        "lat": 42.8040436,
+                        "lng": -70.8569569
+                    }
+                },
+                "location": {
+                    "lat": 42.80410089999999,
+                    "lng": -70.8568781
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8054498802915,
+                        "lng": -70.8555290697085
+                    },
+                    "southwest": {
+                        "lat": 42.8027519197085,
+                        "lng": -70.8582270302915
+                    }
+                }
+            },
+            "place_id": "ChIJp1Yid1Pg4okR4mwS6RlvRWE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "751dca0e45ab9cff0ddf74dc0e1b8c63",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:03.391702",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

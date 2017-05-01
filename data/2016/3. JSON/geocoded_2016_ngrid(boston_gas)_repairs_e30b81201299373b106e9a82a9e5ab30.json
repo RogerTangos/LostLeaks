@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e30b81201299373b106e9a82a9e5ab30.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crest Avenue",
+                    "short_name": "Crest Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4153",
+                    "short_name": "4153",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Crest Ave, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3973872,
+                        "lng": -70.9892929
+                    },
+                    "southwest": {
+                        "lat": 42.3972686,
+                        "lng": -70.9894059
+                    }
+                },
+                "location": {
+                    "lat": 42.3973279,
+                    "lng": -70.9893494
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39867688029149,
+                        "lng": -70.9880004197085
+                    },
+                    "southwest": {
+                        "lat": 42.39597891970849,
+                        "lng": -70.9906983802915
+                    }
+                }
+            },
+            "place_id": "ChIJ3x0YWT1u44kRGMm3yn0zh2g",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e30b81201299373b106e9a82a9e5ab30",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:12.219930",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

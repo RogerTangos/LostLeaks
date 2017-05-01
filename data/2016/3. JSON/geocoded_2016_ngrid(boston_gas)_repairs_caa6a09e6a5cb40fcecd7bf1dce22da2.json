@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_caa6a09e6a5cb40fcecd7bf1dce22da2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "53",
+                    "short_name": "53",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Seaver Street",
+                    "short_name": "Seaver St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fisher Hill",
+                    "short_name": "Fisher Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "53 Seaver St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3304966,
+                        "lng": -71.13618939999999
+                    },
+                    "southwest": {
+                        "lat": 42.3304896,
+                        "lng": -71.1362056
+                    }
+                },
+                "location": {
+                    "lat": 42.3304896,
+                    "lng": -71.1362056
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3318420802915,
+                        "lng": -71.13484851970848
+                    },
+                    "southwest": {
+                        "lat": 42.3291441197085,
+                        "lng": -71.13754648029149
+                    }
+                }
+            },
+            "place_id": "EiY1MyBTZWF2ZXIgU3QsIEJyb29rbGluZSwgTUEgMDI0NDUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "caa6a09e6a5cb40fcecd7bf1dce22da2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:44.391928",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

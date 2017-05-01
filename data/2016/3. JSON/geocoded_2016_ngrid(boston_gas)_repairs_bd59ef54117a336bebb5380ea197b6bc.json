@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bd59ef54117a336bebb5380ea197b6bc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "152",
+                    "short_name": "152",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Main Street",
+                    "short_name": "W Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Georgetown",
+                    "short_name": "Georgetown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01833",
+                    "short_name": "01833",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1443",
+                    "short_name": "1443",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "152 W Main St, Georgetown, MA 01833, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7310937,
+                        "lng": -71.0004355
+                    },
+                    "southwest": {
+                        "lat": 42.731081,
+                        "lng": -71.00044270000001
+                    }
+                },
+                "location": {
+                    "lat": 42.731081,
+                    "lng": -71.00044270000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.73243633029149,
+                        "lng": -70.9990901197085
+                    },
+                    "southwest": {
+                        "lat": 42.72973836970849,
+                        "lng": -71.0017880802915
+                    }
+                }
+            },
+            "place_id": "EigxNTIgVyBNYWluIFN0LCBHZW9yZ2V0b3duLCBNQSAwMTgzMywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bd59ef54117a336bebb5380ea197b6bc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:36.836374",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

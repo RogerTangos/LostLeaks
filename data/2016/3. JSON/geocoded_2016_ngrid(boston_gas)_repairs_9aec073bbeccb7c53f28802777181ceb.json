@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9aec073bbeccb7c53f28802777181ceb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mill Street",
+                    "short_name": "Mill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5310",
+                    "short_name": "5310",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Mill St, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4058095,
+                        "lng": -71.0111147
+                    },
+                    "southwest": {
+                        "lat": 42.4056206,
+                        "lng": -71.0114226
+                    }
+                },
+                "location": {
+                    "lat": 42.40571509999999,
+                    "lng": -71.0112686
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40706403029149,
+                        "lng": -71.0099196697085
+                    },
+                    "southwest": {
+                        "lat": 42.4043660697085,
+                        "lng": -71.0126176302915
+                    }
+                }
+            },
+            "place_id": "ChIJ9-rYfeZx44kRu8uFAXVko2E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9aec073bbeccb7c53f28802777181ceb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:13.613745",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

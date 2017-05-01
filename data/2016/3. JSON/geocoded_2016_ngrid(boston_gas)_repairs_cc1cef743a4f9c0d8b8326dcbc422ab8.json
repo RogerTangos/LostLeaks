@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cc1cef743a4f9c0d8b8326dcbc422ab8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "200",
+                    "short_name": "200",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Webster Street",
+                    "short_name": "Webster St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "200 Webster St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3486549,
+                        "lng": -71.2349838
+                    },
+                    "southwest": {
+                        "lat": 42.348641,
+                        "lng": -71.2349843
+                    }
+                },
+                "location": {
+                    "lat": 42.348641,
+                    "lng": -71.2349843
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3499969302915,
+                        "lng": -71.23363506970848
+                    },
+                    "southwest": {
+                        "lat": 42.3472989697085,
+                        "lng": -71.2363330302915
+                    }
+                }
+            },
+            "place_id": "EikyMDAgV2Vic3RlciBTdCwgQXVidXJuZGFsZSwgTUEgMDI0NjYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cc1cef743a4f9c0d8b8326dcbc422ab8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:19.698164",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

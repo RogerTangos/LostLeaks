@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_578191bccedf1e07579a921f5b47b53f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Vincent Avenue",
+                    "short_name": "Vincent Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4418",
+                    "short_name": "4418",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Vincent Ave, Belmont, MA 02478, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3823481,
+                    "lng": -71.1815314
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3836970802915,
+                        "lng": -71.1801824197085
+                    },
+                    "southwest": {
+                        "lat": 42.38099911970851,
+                        "lng": -71.18288038029151
+                    }
+                }
+            },
+            "place_id": "ChIJSaBRsPp344kR7g9rIGC1ApE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "578191bccedf1e07579a921f5b47b53f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:07.816713",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

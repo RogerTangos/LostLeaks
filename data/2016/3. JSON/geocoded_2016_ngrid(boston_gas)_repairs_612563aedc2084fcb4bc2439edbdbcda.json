@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_612563aedc2084fcb4bc2439edbdbcda.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Clifton Street",
+                    "short_name": "Clifton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3353",
+                    "short_name": "3353",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Clifton St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4015005,
+                        "lng": -71.1745741
+                    },
+                    "southwest": {
+                        "lat": 42.401359,
+                        "lng": -71.1748207
+                    }
+                },
+                "location": {
+                    "lat": 42.4014298,
+                    "lng": -71.1746974
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4027787302915,
+                        "lng": -71.1733484197085
+                    },
+                    "southwest": {
+                        "lat": 42.4000807697085,
+                        "lng": -71.17604638029151
+                    }
+                }
+            },
+            "place_id": "ChIJx9L6TM9344kRNli3fulnygw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "612563aedc2084fcb4bc2439edbdbcda",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:31.610536",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_304de5c2bda7390895154678a04eec94.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "778",
+                    "short_name": "778",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dedham Street",
+                    "short_name": "Dedham St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oak Hill",
+                    "short_name": "Oak Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3313",
+                    "short_name": "3313",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "778 Dedham St, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2990685,
+                        "lng": -71.1866866
+                    },
+                    "southwest": {
+                        "lat": 42.2990565,
+                        "lng": -71.1866959
+                    }
+                },
+                "location": {
+                    "lat": 42.2990685,
+                    "lng": -71.1866866
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30041148029149,
+                        "lng": -71.1853422697085
+                    },
+                    "southwest": {
+                        "lat": 42.2977135197085,
+                        "lng": -71.1880402302915
+                    }
+                }
+            },
+            "place_id": "EiQ3NzggRGVkaGFtIFN0LCBOZXd0b24sIE1BIDAyNDU5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "304de5c2bda7390895154678a04eec94",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:50.602806",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3e1e99890d5f78f19e956e6ca48d1ea4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Perkins Street",
+                    "short_name": "Perkins St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury",
+                    "short_name": "Amesbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01913",
+                    "short_name": "01913",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2733",
+                    "short_name": "2733",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Perkins St, Amesbury, MA 01913, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8549081,
+                        "lng": -70.9353027
+                    },
+                    "southwest": {
+                        "lat": 42.8547753,
+                        "lng": -70.9354632
+                    }
+                },
+                "location": {
+                    "lat": 42.8548417,
+                    "lng": -70.9353829
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8561906802915,
+                        "lng": -70.9340339697085
+                    },
+                    "southwest": {
+                        "lat": 42.8534927197085,
+                        "lng": -70.93673193029151
+                    }
+                }
+            },
+            "place_id": "ChIJldZVFYzj4okRhRyptKZlNDs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3e1e99890d5f78f19e956e6ca48d1ea4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:20.939115",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

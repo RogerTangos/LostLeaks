@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_36d1a6d49ab2d3863381d8b1beea33ec.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wolf Hill Way",
+                    "short_name": "Wolf Hill Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gloucester",
+                    "short_name": "Gloucester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01930",
+                    "short_name": "01930",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2571",
+                    "short_name": "2571",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Wolf Hill Way, Gloucester, MA 01930, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.622059,
+                    "lng": -70.686703
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6234079802915,
+                        "lng": -70.68535401970848
+                    },
+                    "southwest": {
+                        "lat": 42.6207100197085,
+                        "lng": -70.6880519802915
+                    }
+                }
+            },
+            "place_id": "ChIJbUuuePEk44kRD1kiCQr2K88",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "36d1a6d49ab2d3863381d8b1beea33ec",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:58.660884",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

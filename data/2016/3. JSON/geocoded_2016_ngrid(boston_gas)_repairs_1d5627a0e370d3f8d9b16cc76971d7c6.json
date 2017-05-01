@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1d5627a0e370d3f8d9b16cc76971d7c6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mystic Avenue",
+                    "short_name": "Mystic Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4708",
+                    "short_name": "4708",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Mystic Ave, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4505692,
+                        "lng": -71.0617774
+                    },
+                    "southwest": {
+                        "lat": 42.45056080000001,
+                        "lng": -71.0617923
+                    }
+                },
+                "location": {
+                    "lat": 42.45056080000001,
+                    "lng": -71.0617923
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4519139802915,
+                        "lng": -71.06043586970848
+                    },
+                    "southwest": {
+                        "lat": 42.4492160197085,
+                        "lng": -71.0631338302915
+                    }
+                }
+            },
+            "place_id": "EiUyNCBNeXN0aWMgQXZlLCBNZWxyb3NlLCBNQSAwMjE3NiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1d5627a0e370d3f8d9b16cc76971d7c6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:14.692643",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

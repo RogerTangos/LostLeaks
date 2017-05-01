@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_011846b53becba55bffc16d66b415a46.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mountview Road",
+                    "short_name": "Mountview Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02481",
+                    "short_name": "02481",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2711",
+                    "short_name": "2711",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "14 Mountview Rd, Wellesley, MA 02481, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3135524,
+                        "lng": -71.2966091
+                    },
+                    "southwest": {
+                        "lat": 42.31354,
+                        "lng": -71.29661759999999
+                    }
+                },
+                "location": {
+                    "lat": 42.31354,
+                    "lng": -71.2966091
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3148951802915,
+                        "lng": -71.29526436970849
+                    },
+                    "southwest": {
+                        "lat": 42.3121972197085,
+                        "lng": -71.29796233029151
+                    }
+                }
+            },
+            "place_id": "EikxNCBNb3VudHZpZXcgUmQsIFdlbGxlc2xleSwgTUEgMDI0ODEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "011846b53becba55bffc16d66b415a46",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:58.856540",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

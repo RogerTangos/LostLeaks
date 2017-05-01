@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_afc83412a466cd04f8bebdfa0883250b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pilgrim Road",
+                    "short_name": "Pilgrim Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1750",
+                    "short_name": "1750",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Pilgrim Rd, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4817703,
+                        "lng": -70.8841453
+                    },
+                    "southwest": {
+                        "lat": 42.4816521,
+                        "lng": -70.8843205
+                    }
+                },
+                "location": {
+                    "lat": 42.48171120000001,
+                    "lng": -70.8842329
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4830601802915,
+                        "lng": -70.88288391970849
+                    },
+                    "southwest": {
+                        "lat": 42.4803622197085,
+                        "lng": -70.88558188029151
+                    }
+                }
+            },
+            "place_id": "ChIJNZtjzrcU44kR1F7Jf2Rb_rU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "afc83412a466cd04f8bebdfa0883250b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:26.280895",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

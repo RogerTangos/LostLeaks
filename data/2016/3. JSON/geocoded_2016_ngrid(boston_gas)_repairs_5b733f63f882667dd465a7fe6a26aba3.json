@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5b733f63f882667dd465a7fe6a26aba3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "River Road",
+                    "short_name": "River Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Merrimac",
+                    "short_name": "Merrimac",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01860",
+                    "short_name": "01860",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "River Rd & Bancroft Ln, Merrimac, MA 01860, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.8257112,
+                    "lng": -70.9819882
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8270601802915,
+                        "lng": -70.98063921970851
+                    },
+                    "southwest": {
+                        "lat": 42.8243622197085,
+                        "lng": -70.98333718029151
+                    }
+                }
+            },
+            "place_id": "Ei9SaXZlciBSZCAmIEJhbmNyb2Z0IExuLCBNZXJyaW1hYywgTUEgMDE4NjAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "5b733f63f882667dd465a7fe6a26aba3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:12.645934",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

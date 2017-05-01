@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_392548ae3fe7fce9a0819f8af0308caf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Garland Road",
+                    "short_name": "Garland Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln",
+                    "short_name": "Lincoln",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01773",
+                    "short_name": "01773",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1800",
+                    "short_name": "1800",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Garland Rd, Lincoln, MA 01773, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4418798,
+                        "lng": -71.32339800000001
+                    },
+                    "southwest": {
+                        "lat": 42.4418669,
+                        "lng": -71.3234047
+                    }
+                },
+                "location": {
+                    "lat": 42.4418798,
+                    "lng": -71.3234047
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4432223302915,
+                        "lng": -71.3220523697085
+                    },
+                    "southwest": {
+                        "lat": 42.4405243697085,
+                        "lng": -71.32475033029151
+                    }
+                }
+            },
+            "place_id": "EiUxMCBHYXJsYW5kIFJkLCBMaW5jb2xuLCBNQSAwMTc3MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "392548ae3fe7fce9a0819f8af0308caf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:11.145886",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

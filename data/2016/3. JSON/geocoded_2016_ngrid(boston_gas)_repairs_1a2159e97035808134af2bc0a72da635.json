@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1a2159e97035808134af2bc0a72da635.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Reedsdale Road",
+                    "short_name": "Reedsdale Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Reedsdale Rd & Meredith Cir, Milton, MA 02186, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2501036,
+                    "lng": -71.0727703
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2514525802915,
+                        "lng": -71.07142131970849
+                    },
+                    "southwest": {
+                        "lat": 42.2487546197085,
+                        "lng": -71.0741192802915
+                    }
+                }
+            },
+            "place_id": "EjJSZWVkc2RhbGUgUmQgJiBNZXJlZGl0aCBDaXIsIE1pbHRvbiwgTUEgMDIxODYsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "1a2159e97035808134af2bc0a72da635",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:38.623895",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

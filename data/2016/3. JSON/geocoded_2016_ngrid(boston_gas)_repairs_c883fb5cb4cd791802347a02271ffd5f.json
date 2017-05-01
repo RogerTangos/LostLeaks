@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c883fb5cb4cd791802347a02271ffd5f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "111",
+                    "short_name": "111",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mechanic Street",
+                    "short_name": "Mechanic St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Spencer",
+                    "short_name": "Spencer",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Spencer",
+                    "short_name": "Spencer",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Spencer",
+                    "short_name": "Spencer",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01562",
+                    "short_name": "01562",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2516",
+                    "short_name": "2516",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "111 Mechanic St, Spencer, MA 01562, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2370656,
+                        "lng": -71.9918859
+                    },
+                    "southwest": {
+                        "lat": 42.2370623,
+                        "lng": -71.9919041
+                    }
+                },
+                "location": {
+                    "lat": 42.2370656,
+                    "lng": -71.9918859
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2384129302915,
+                        "lng": -71.99054601970849
+                    },
+                    "southwest": {
+                        "lat": 42.2357149697085,
+                        "lng": -71.99324398029151
+                    }
+                }
+            },
+            "place_id": "EicxMTEgTWVjaGFuaWMgU3QsIFNwZW5jZXIsIE1BIDAxNTYyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c883fb5cb4cd791802347a02271ffd5f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:52.838532",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

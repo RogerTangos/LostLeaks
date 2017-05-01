@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4c4f1236d7096d1826376d5d278c5eea.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "47",
+                    "short_name": "47",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Main Street",
+                    "short_name": "W Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Brookfield",
+                    "short_name": "West Brookfield",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "West Brookfield",
+                    "short_name": "West Brookfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01585",
+                    "short_name": "01585",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "47 W Main St, West Brookfield, MA 01585, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.23361939999999,
+                        "lng": -72.14762979999999
+                    },
+                    "southwest": {
+                        "lat": 42.2336056,
+                        "lng": -72.1476313
+                    }
+                },
+                "location": {
+                    "lat": 42.23361939999999,
+                    "lng": -72.1476313
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2349614802915,
+                        "lng": -72.14628156970849
+                    },
+                    "southwest": {
+                        "lat": 42.2322635197085,
+                        "lng": -72.1489795302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eiw0NyBXIE1haW4gU3QsIFdlc3QgQnJvb2tmaWVsZCwgTUEgMDE1ODUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4c4f1236d7096d1826376d5d278c5eea",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:01.501732",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

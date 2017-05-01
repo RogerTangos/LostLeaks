@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_661abf50461f666cae6cc05ca26b4877.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "191",
+                    "short_name": "191",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Water Street",
+                    "short_name": "Water St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "191 Water St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7740922,
+                        "lng": -71.0687887
+                    },
+                    "southwest": {
+                        "lat": 42.7740824,
+                        "lng": -71.0688018
+                    }
+                },
+                "location": {
+                    "lat": 42.7740824,
+                    "lng": -71.0688018
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.77543628029149,
+                        "lng": -71.06744626970848
+                    },
+                    "southwest": {
+                        "lat": 42.77273831970849,
+                        "lng": -71.0701442302915
+                    }
+                }
+            },
+            "place_id": "EiYxOTEgV2F0ZXIgU3QsIEhhdmVyaGlsbCwgTUEgMDE4MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "661abf50461f666cae6cc05ca26b4877",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:53.228614",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

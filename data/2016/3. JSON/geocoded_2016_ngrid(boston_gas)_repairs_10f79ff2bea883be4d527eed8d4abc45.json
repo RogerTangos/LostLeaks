@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_10f79ff2bea883be4d527eed8d4abc45.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gorham Street",
+                    "short_name": "Gorham St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1418",
+                    "short_name": "1418",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Gorham St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4260941,
+                        "lng": -71.1707558
+                    },
+                    "southwest": {
+                        "lat": 42.4259717,
+                        "lng": -71.1709113
+                    }
+                },
+                "location": {
+                    "lat": 42.4260329,
+                    "lng": -71.1708335
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4273818802915,
+                        "lng": -71.1694845697085
+                    },
+                    "southwest": {
+                        "lat": 42.4246839197085,
+                        "lng": -71.17218253029151
+                    }
+                }
+            },
+            "place_id": "ChIJTwB1CD9244kRgeE_WnZFDDs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "10f79ff2bea883be4d527eed8d4abc45",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:11.498034",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

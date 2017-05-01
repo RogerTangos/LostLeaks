@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_473f64d4bafb81b4f9f11c507ac88ffe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Waitt Road",
+                    "short_name": "Waitt Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1035",
+                    "short_name": "1035",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Waitt Rd, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.48391489999999,
+                        "lng": -70.93703119999999
+                    },
+                    "southwest": {
+                        "lat": 42.4837505,
+                        "lng": -70.9372142
+                    }
+                },
+                "location": {
+                    "lat": 42.4838327,
+                    "lng": -70.9371227
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4851816802915,
+                        "lng": -70.9357737197085
+                    },
+                    "southwest": {
+                        "lat": 42.4824837197085,
+                        "lng": -70.9384716802915
+                    }
+                }
+            },
+            "place_id": "ChIJUfQgVzMT44kR0F_oamGSvXM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "473f64d4bafb81b4f9f11c507ac88ffe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:29.878735",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

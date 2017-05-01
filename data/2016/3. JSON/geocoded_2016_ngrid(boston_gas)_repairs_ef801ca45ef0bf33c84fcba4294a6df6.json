@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ef801ca45ef0bf33c84fcba4294a6df6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Lincoln Street",
+                    "short_name": "Lincoln St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Lincoln St & Sgt William B Terry Dr, Hingham, MA 02043, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2491147,
+                    "lng": -70.9223993
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2504636802915,
+                        "lng": -70.92105031970848
+                    },
+                    "southwest": {
+                        "lat": 42.2477657197085,
+                        "lng": -70.92374828029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjtMaW5jb2xuIFN0ICYgU2d0IFdpbGxpYW0gQiBUZXJyeSBEciwgSGluZ2hhbSwgTUEgMDIwNDMsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "ef801ca45ef0bf33c84fcba4294a6df6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:35.225451",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

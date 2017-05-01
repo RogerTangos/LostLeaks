@@ -1,0 +1,117 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_db1f45be6e60fb2c53b3281b38b20a6d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "110",
+                    "short_name": "110",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Milton Avenue",
+                    "short_name": "Milton Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Center",
+                    "short_name": "Dorchester Center",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4318",
+                    "short_name": "4318",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "110 Milton Ave, Dorchester Center, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2819097,
+                        "lng": -71.07578339999999
+                    },
+                    "southwest": {
+                        "lat": 42.2817717,
+                        "lng": -71.075968
+                    }
+                },
+                "location": {
+                    "lat": 42.2818407,
+                    "lng": -71.0758757
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2831896802915,
+                        "lng": -71.07452671970849
+                    },
+                    "southwest": {
+                        "lat": 42.2804917197085,
+                        "lng": -71.0772246802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJFSHq_PR744kRCPZxTXndPLg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "db1f45be6e60fb2c53b3281b38b20a6d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:50.096409",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c56f783ef62d99f3bd237fd994571ba3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Moscow Street",
+                    "short_name": "Moscow St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2423",
+                    "short_name": "2423",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Moscow St, Quincy, MA 02171, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.274816,
+                    "lng": -71.0272541
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2761649802915,
+                        "lng": -71.02590511970848
+                    },
+                    "southwest": {
+                        "lat": 42.27346701970851,
+                        "lng": -71.02860308029149
+                    }
+                }
+            },
+            "place_id": "ChIJP3ZJuWB744kRUyzv1jD7H5A",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c56f783ef62d99f3bd237fd994571ba3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:04.630493",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

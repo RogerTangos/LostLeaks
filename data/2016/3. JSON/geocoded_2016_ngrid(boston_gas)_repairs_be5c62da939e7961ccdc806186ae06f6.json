@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_be5c62da939e7961ccdc806186ae06f6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "270",
+                    "short_name": "270",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "High Street Hill",
+                    "short_name": "High Street Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "270 Boylston St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3301846,
+                        "lng": -71.12361299999999
+                    },
+                    "southwest": {
+                        "lat": 42.330016,
+                        "lng": -71.1238377
+                    }
+                },
+                "location": {
+                    "lat": 42.3301003,
+                    "lng": -71.1237253
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33144928029149,
+                        "lng": -71.12237636970849
+                    },
+                    "southwest": {
+                        "lat": 42.32875131970849,
+                        "lng": -71.1250743302915
+                    }
+                }
+            },
+            "place_id": "ChIJq63agKF544kRt40r3C6zy-s",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "be5c62da939e7961ccdc806186ae06f6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:55.966796",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

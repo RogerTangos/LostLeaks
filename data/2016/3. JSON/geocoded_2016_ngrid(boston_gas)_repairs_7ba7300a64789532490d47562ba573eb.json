@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7ba7300a64789532490d47562ba573eb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Morton Road",
+                    "short_name": "Morton Road",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7947",
+                    "short_name": "7947",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Morton Road, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4092659,
+                        "lng": -71.16800409999999
+                    },
+                    "southwest": {
+                        "lat": 42.4091157,
+                        "lng": -71.1682058
+                    }
+                },
+                "location": {
+                    "lat": 42.4091908,
+                    "lng": -71.168105
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4105397802915,
+                        "lng": -71.16675596970849
+                    },
+                    "southwest": {
+                        "lat": 42.4078418197085,
+                        "lng": -71.1694539302915
+                    }
+                }
+            },
+            "place_id": "ChIJv9NXrEp244kRX9_V0w8n7yk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7ba7300a64789532490d47562ba573eb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:46.771266",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

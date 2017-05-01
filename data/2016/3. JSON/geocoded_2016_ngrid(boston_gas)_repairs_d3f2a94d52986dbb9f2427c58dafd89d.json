@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d3f2a94d52986dbb9f2427c58dafd89d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "844",
+                    "short_name": "844",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3307",
+                    "short_name": "3307",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "844 Main St, Concord, MA 01742, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4560038,
+                    "lng": -71.3782648
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.45735278029149,
+                        "lng": -71.3769158197085
+                    },
+                    "southwest": {
+                        "lat": 42.4546548197085,
+                        "lng": -71.3796137802915
+                    }
+                }
+            },
+            "place_id": "ChIJ5RQ68Xaa44kRevxN9i2rtQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d3f2a94d52986dbb9f2427c58dafd89d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:20.764268",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

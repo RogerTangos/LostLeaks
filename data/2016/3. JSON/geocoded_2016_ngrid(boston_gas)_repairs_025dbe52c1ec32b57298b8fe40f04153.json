@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_025dbe52c1ec32b57298b8fe40f04153.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Nonset Path",
+                    "short_name": "Nonset Path",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Nonset Path & Old Beaverbrook, Acton, MA 01720, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5199698,
+                    "lng": -71.4309567
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5213187802915,
+                        "lng": -71.42960771970849
+                    },
+                    "southwest": {
+                        "lat": 42.5186208197085,
+                        "lng": -71.4323056802915
+                    }
+                }
+            },
+            "place_id": "EjNOb25zZXQgUGF0aCAmIE9sZCBCZWF2ZXJicm9vaywgQWN0b24sIE1BIDAxNzIwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "025dbe52c1ec32b57298b8fe40f04153",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:42.623873",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

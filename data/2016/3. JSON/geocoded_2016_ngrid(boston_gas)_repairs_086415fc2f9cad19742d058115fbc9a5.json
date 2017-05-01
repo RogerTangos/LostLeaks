@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_086415fc2f9cad19742d058115fbc9a5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bleachery",
+                    "short_name": "Bleachery",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5342",
+                    "short_name": "5342",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Elm St, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3735994,
+                        "lng": -71.233167
+                    },
+                    "southwest": {
+                        "lat": 42.3732814,
+                        "lng": -71.23342459999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3734404,
+                    "lng": -71.2332958
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3747893802915,
+                        "lng": -71.2319468197085
+                    },
+                    "southwest": {
+                        "lat": 42.3720914197085,
+                        "lng": -71.23464478029152
+                    }
+                }
+            },
+            "place_id": "ChIJY4_JsNCC44kRBgprnxlwhEE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "086415fc2f9cad19742d058115fbc9a5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:21.476355",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

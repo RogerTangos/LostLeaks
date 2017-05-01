@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5416fd4fb333178682f55805041d92ca.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "85",
+                    "short_name": "85",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wells Road",
+                    "short_name": "Wells Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln",
+                    "short_name": "Lincoln",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01773",
+                    "short_name": "01773",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "85 Wells Rd, Lincoln, MA 01773, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.41594480000001,
+                        "lng": -71.32523739999999
+                    },
+                    "southwest": {
+                        "lat": 42.4159354,
+                        "lng": -71.32525129999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4159354,
+                    "lng": -71.32523739999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4172890802915,
+                        "lng": -71.3238953697085
+                    },
+                    "southwest": {
+                        "lat": 42.4145911197085,
+                        "lng": -71.3265933302915
+                    }
+                }
+            },
+            "place_id": "EiM4NSBXZWxscyBSZCwgTGluY29sbiwgTUEgMDE3NzMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5416fd4fb333178682f55805041d92ca",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:24.173770",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

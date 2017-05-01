@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a92de773e751c42580d053b9f0f98100.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Pleasant St & S Cotton St, Leominster, MA 01453, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.521193,
+                    "lng": -71.76538099999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5225419802915,
+                        "lng": -71.7640320197085
+                    },
+                    "southwest": {
+                        "lat": 42.5198440197085,
+                        "lng": -71.7667299802915
+                    }
+                }
+            },
+            "place_id": "EjRQbGVhc2FudCBTdCAmIFMgQ290dG9uIFN0LCBMZW9taW5zdGVyLCBNQSAwMTQ1MywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "a92de773e751c42580d053b9f0f98100",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:45.465257",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

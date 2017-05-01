@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_198fc6a0dbd83d803672af02d7639d67.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "18",
+                    "short_name": "18",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ames Street",
+                    "short_name": "Ames St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "18 Ames St, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2902766,
+                    "lng": -71.0861501
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2916255802915,
+                        "lng": -71.08480111970849
+                    },
+                    "southwest": {
+                        "lat": 42.2889276197085,
+                        "lng": -71.08749908029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJwzHxrfp744kRWEKGQbnieqc",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "198fc6a0dbd83d803672af02d7639d67",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:27.232734",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

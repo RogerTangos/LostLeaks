@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bcc4b0b3e09d20fb70158ffe736bde0d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Idaho Street",
+                    "short_name": "Idaho St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02126",
+                    "short_name": "02126",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2909",
+                    "short_name": "2909",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Idaho St, Mattapan, MA 02126, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2732768,
+                        "lng": -71.0762239
+                    },
+                    "southwest": {
+                        "lat": 42.273172,
+                        "lng": -71.07635789999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2732244,
+                    "lng": -71.0762909
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27457338029149,
+                        "lng": -71.0749419197085
+                    },
+                    "southwest": {
+                        "lat": 42.27187541970849,
+                        "lng": -71.0776398802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJgwL29Ax844kRj7wSJ7eh5zI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bcc4b0b3e09d20fb70158ffe736bde0d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:12.189899",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

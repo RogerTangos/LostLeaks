@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c41b51245e4369d363ac095b50d7cd35.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "316",
+                    "short_name": "316",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Orchard Street",
+                    "short_name": "Orchard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2355",
+                    "short_name": "2355",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "316 Orchard St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3900724,
+                        "lng": -71.1789296
+                    },
+                    "southwest": {
+                        "lat": 42.3899541,
+                        "lng": -71.1790955
+                    }
+                },
+                "location": {
+                    "lat": 42.3900132,
+                    "lng": -71.1790126
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3913622302915,
+                        "lng": -71.1776635697085
+                    },
+                    "southwest": {
+                        "lat": 42.3886642697085,
+                        "lng": -71.1803615302915
+                    }
+                }
+            },
+            "place_id": "ChIJlwtiXeh344kRkK0i3mDuyxs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c41b51245e4369d363ac095b50d7cd35",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:52.961488",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_27467d7dc90cdcfb3164b1c4164314b5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "655",
+                    "short_name": "655",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lowell Street",
+                    "short_name": "Lowell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02420",
+                    "short_name": "02420",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "655 Lowell St, Lexington, MA 02420, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4665127,
+                        "lng": -71.2083928
+                    },
+                    "southwest": {
+                        "lat": 42.4665089,
+                        "lng": -71.2084108
+                    }
+                },
+                "location": {
+                    "lat": 42.4665127,
+                    "lng": -71.2083928
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4678597802915,
+                        "lng": -71.2070528197085
+                    },
+                    "southwest": {
+                        "lat": 42.4651618197085,
+                        "lng": -71.2097507802915
+                    }
+                }
+            },
+            "place_id": "Eic2NTUgTG93ZWxsIFN0LCBMZXhpbmd0b24sIE1BIDAyNDIwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "27467d7dc90cdcfb3164b1c4164314b5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:59.765703",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

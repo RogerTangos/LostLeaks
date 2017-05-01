@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e8268c75445f61a1cf34a0986897cfc9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cypress Road",
+                    "short_name": "Cypress Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2408",
+                    "short_name": "2408",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Cypress Rd, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4312576,
+                        "lng": -71.1767626
+                    },
+                    "southwest": {
+                        "lat": 42.4311573,
+                        "lng": -71.1769118
+                    }
+                },
+                "location": {
+                    "lat": 42.4312075,
+                    "lng": -71.1768372
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4325564302915,
+                        "lng": -71.1754882197085
+                    },
+                    "southwest": {
+                        "lat": 42.4298584697085,
+                        "lng": -71.17818618029152
+                    }
+                }
+            },
+            "place_id": "ChIJgZKSTxZ244kR9EbuvmtEpuA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e8268c75445f61a1cf34a0986897cfc9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:10.128531",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

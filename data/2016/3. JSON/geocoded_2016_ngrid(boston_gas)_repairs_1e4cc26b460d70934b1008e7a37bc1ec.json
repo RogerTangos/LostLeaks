@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1e4cc26b460d70934b1008e7a37bc1ec.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bisson Street",
+                    "short_name": "Bisson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4605",
+                    "short_name": "4605",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Bisson St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5534978,
+                        "lng": -70.8721108
+                    },
+                    "southwest": {
+                        "lat": 42.5533739,
+                        "lng": -70.8722785
+                    }
+                },
+                "location": {
+                    "lat": 42.5534358,
+                    "lng": -70.8721947
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5547848302915,
+                        "lng": -70.8708456697085
+                    },
+                    "southwest": {
+                        "lat": 42.5520868697085,
+                        "lng": -70.87354363029151
+                    }
+                }
+            },
+            "place_id": "ChIJ2_RiT5sW44kRvxNJcc2-T_8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1e4cc26b460d70934b1008e7a37bc1ec",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:49.398397",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

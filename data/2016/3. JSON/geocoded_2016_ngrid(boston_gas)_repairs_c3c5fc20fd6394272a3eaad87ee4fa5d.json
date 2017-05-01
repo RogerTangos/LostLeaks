@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c3c5fc20fd6394272a3eaad87ee4fa5d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "183",
+                    "short_name": "183",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lewis Street",
+                    "short_name": "Lewis St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "183 Lewis St, Lynn, MA 01902, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4654912,
+                    "lng": -70.9331472
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46684018029149,
+                        "lng": -70.9317982197085
+                    },
+                    "southwest": {
+                        "lat": 42.4641422197085,
+                        "lng": -70.9344961802915
+                    }
+                }
+            },
+            "place_id": "ChIJIRb5T8Bs44kRr20HNCIDIso",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c3c5fc20fd6394272a3eaad87ee4fa5d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:37.970043",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

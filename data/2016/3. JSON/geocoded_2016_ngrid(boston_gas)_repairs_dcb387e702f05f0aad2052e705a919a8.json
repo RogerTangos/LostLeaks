@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dcb387e702f05f0aad2052e705a919a8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Amity Street",
+                    "short_name": "Amity St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Amity St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4598631,
+                        "lng": -70.939982
+                    },
+                    "southwest": {
+                        "lat": 42.4597561,
+                        "lng": -70.9401135
+                    }
+                },
+                "location": {
+                    "lat": 42.4598096,
+                    "lng": -70.9400478
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4611585802915,
+                        "lng": -70.9386987697085
+                    },
+                    "southwest": {
+                        "lat": 42.4584606197085,
+                        "lng": -70.94139673029152
+                    }
+                }
+            },
+            "place_id": "ChIJrzoNKe9s44kR068bU0V1r_o",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dcb387e702f05f0aad2052e705a919a8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:42.638700",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

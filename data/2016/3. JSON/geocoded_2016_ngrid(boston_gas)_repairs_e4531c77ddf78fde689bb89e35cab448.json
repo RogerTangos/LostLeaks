@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e4531c77ddf78fde689bb89e35cab448.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fairmount Street",
+                    "short_name": "Fairmount St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1631",
+                    "short_name": "1631",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Fairmount St, Salem, MA 01970, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.53236769999999,
+                    "lng": -70.9072209
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.53371668029149,
+                        "lng": -70.90587191970849
+                    },
+                    "southwest": {
+                        "lat": 42.53101871970849,
+                        "lng": -70.90856988029151
+                    }
+                }
+            },
+            "place_id": "ChIJiWvKeIoT44kRWDYNVzAYxu4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e4531c77ddf78fde689bb89e35cab448",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:03.387066",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

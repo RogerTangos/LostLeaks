@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9a049e85190f38506752d2a4d3926b10.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Prescott Street",
+                    "short_name": "Prescott St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Prescott St & Copeland Ave, Reading, MA 01867, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.51801529999999,
+                    "lng": -71.1157526
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5193642802915,
+                        "lng": -71.1144036197085
+                    },
+                    "southwest": {
+                        "lat": 42.5166663197085,
+                        "lng": -71.1171015802915
+                    }
+                }
+            },
+            "place_id": "EjJQcmVzY290dCBTdCAmIENvcGVsYW5kIEF2ZSwgUmVhZGluZywgTUEgMDE4NjcsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "9a049e85190f38506752d2a4d3926b10",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:46.029653",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

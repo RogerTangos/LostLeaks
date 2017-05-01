@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5a8da390d2aaf8f971ec5826cc4b0051.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "151",
+                    "short_name": "151",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brook Street",
+                    "short_name": "Brook St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2932",
+                    "short_name": "2932",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "151 Brook St, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7829383,
+                        "lng": -71.10091059999999
+                    },
+                    "southwest": {
+                        "lat": 42.7829246,
+                        "lng": -71.1009134
+                    }
+                },
+                "location": {
+                    "lat": 42.7829383,
+                    "lng": -71.1009134
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7842804302915,
+                        "lng": -71.0995630197085
+                    },
+                    "southwest": {
+                        "lat": 42.7815824697085,
+                        "lng": -71.1022609802915
+                    }
+                }
+            },
+            "place_id": "EiYxNTEgQnJvb2sgU3QsIEhhdmVyaGlsbCwgTUEgMDE4MzIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5a8da390d2aaf8f971ec5826cc4b0051",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:34.036269",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

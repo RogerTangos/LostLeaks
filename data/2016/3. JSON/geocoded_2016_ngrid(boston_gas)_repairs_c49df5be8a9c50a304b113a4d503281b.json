@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c49df5be8a9c50a304b113a4d503281b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "105",
+                    "short_name": "105",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chubbuck Street",
+                    "short_name": "Chubbuck St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8738",
+                    "short_name": "8738",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "105 Chubbuck St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2457694,
+                        "lng": -70.9782479
+                    },
+                    "southwest": {
+                        "lat": 42.2456289,
+                        "lng": -70.9784846
+                    }
+                },
+                "location": {
+                    "lat": 42.2456991,
+                    "lng": -70.97836629999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2470481302915,
+                        "lng": -70.9770172697085
+                    },
+                    "southwest": {
+                        "lat": 42.2443501697085,
+                        "lng": -70.9797152302915
+                    }
+                }
+            },
+            "place_id": "ChIJ3dfrgWpj44kRRzRfodht_Zc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c49df5be8a9c50a304b113a4d503281b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:30.598484",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

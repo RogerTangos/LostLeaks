@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d60b1c01e0da3c67f60a112818350a62.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "28",
+                    "short_name": "28",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Newton Street",
+                    "short_name": "Newton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bleachery",
+                    "short_name": "Bleachery",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "28 Newton St, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3762334,
+                        "lng": -71.2288512
+                    },
+                    "southwest": {
+                        "lat": 42.37623079999999,
+                        "lng": -71.2288696
+                    }
+                },
+                "location": {
+                    "lat": 42.3762334,
+                    "lng": -71.2288512
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37758108029149,
+                        "lng": -71.22751141970849
+                    },
+                    "southwest": {
+                        "lat": 42.37488311970849,
+                        "lng": -71.2302093802915
+                    }
+                }
+            },
+            "place_id": "EiQyOCBOZXd0b24gU3QsIFdhbHRoYW0sIE1BIDAyNDUzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d60b1c01e0da3c67f60a112818350a62",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:04.551895",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

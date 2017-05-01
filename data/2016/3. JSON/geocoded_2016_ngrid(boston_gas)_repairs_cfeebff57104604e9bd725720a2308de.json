@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cfeebff57104604e9bd725720a2308de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Conant Street",
+                    "short_name": "Conant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1721",
+                    "short_name": "1721",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Conant St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5769281,
+                        "lng": -70.8923732
+                    },
+                    "southwest": {
+                        "lat": 42.5767789,
+                        "lng": -70.89250559999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5768535,
+                    "lng": -70.8924394
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.57820248029149,
+                        "lng": -70.89109041970849
+                    },
+                    "southwest": {
+                        "lat": 42.5755045197085,
+                        "lng": -70.8937883802915
+                    }
+                }
+            },
+            "place_id": "ChIJ9z1_rcUW44kRlWWSBuOPKL0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cfeebff57104604e9bd725720a2308de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:09.840424",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

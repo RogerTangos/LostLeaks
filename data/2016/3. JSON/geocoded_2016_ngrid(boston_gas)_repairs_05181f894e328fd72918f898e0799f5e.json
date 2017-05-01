@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_05181f894e328fd72918f898e0799f5e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "103",
+                    "short_name": "103",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02188",
+                    "short_name": "02188",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "103 Washington St, Weymouth, MA 02188, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2183424,
+                        "lng": -70.9665038
+                    },
+                    "southwest": {
+                        "lat": 42.2180425,
+                        "lng": -70.96686530000001
+                    }
+                },
+                "location": {
+                    "lat": 42.2181925,
+                    "lng": -70.9666846
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2195414302915,
+                        "lng": -70.9653355697085
+                    },
+                    "southwest": {
+                        "lat": 42.2168434697085,
+                        "lng": -70.9680335302915
+                    }
+                }
+            },
+            "place_id": "ChIJT_D5UuNi44kRetSnZJ1bke0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "05181f894e328fd72918f898e0799f5e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:28.031773",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

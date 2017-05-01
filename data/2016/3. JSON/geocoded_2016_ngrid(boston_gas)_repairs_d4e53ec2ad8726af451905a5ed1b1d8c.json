@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d4e53ec2ad8726af451905a5ed1b1d8c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "68",
+                    "short_name": "68",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ramshorn Road",
+                    "short_name": "Ramshorn Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dudley",
+                    "short_name": "Dudley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01571",
+                    "short_name": "01571",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "68 Ramshorn Rd, Dudley, MA 01571, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1012204,
+                        "lng": -71.94787219999999
+                    },
+                    "southwest": {
+                        "lat": 42.1012087,
+                        "lng": -71.94788249999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1012204,
+                    "lng": -71.94787219999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.10256353029149,
+                        "lng": -71.94652836970849
+                    },
+                    "southwest": {
+                        "lat": 42.0998655697085,
+                        "lng": -71.94922633029151
+                    }
+                }
+            },
+            "place_id": "EiU2OCBSYW1zaG9ybiBSZCwgRHVkbGV5LCBNQSAwMTU3MSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d4e53ec2ad8726af451905a5ed1b1d8c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:10.756193",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

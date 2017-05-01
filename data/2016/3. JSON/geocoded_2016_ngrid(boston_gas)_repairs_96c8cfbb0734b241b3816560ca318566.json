@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_96c8cfbb0734b241b3816560ca318566.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Talbot Road",
+                    "short_name": "Talbot Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5526",
+                    "short_name": "5526",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "41 Talbot Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2109746,
+                        "lng": -71.01313139999999
+                    },
+                    "southwest": {
+                        "lat": 42.2108436,
+                        "lng": -71.013299
+                    }
+                },
+                "location": {
+                    "lat": 42.21090909999999,
+                    "lng": -71.01321519999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2122580802915,
+                        "lng": -71.0118662197085
+                    },
+                    "southwest": {
+                        "lat": 42.2095601197085,
+                        "lng": -71.0145641802915
+                    }
+                }
+            },
+            "place_id": "ChIJ3ST0Gkh944kRo4_37f9ItII",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "96c8cfbb0734b241b3816560ca318566",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:20.162301",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_939f49d19ad64bd1ddb4a1032ab2185b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "145",
+                    "short_name": "145",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kenoza Avenue",
+                    "short_name": "Kenoza Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4141",
+                    "short_name": "4141",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "145 Kenoza Ave, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7843373,
+                        "lng": -71.0725686
+                    },
+                    "southwest": {
+                        "lat": 42.7843274,
+                        "lng": -71.0725817
+                    }
+                },
+                "location": {
+                    "lat": 42.7843274,
+                    "lng": -71.0725686
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7856813302915,
+                        "lng": -71.0712261697085
+                    },
+                    "southwest": {
+                        "lat": 42.7829833697085,
+                        "lng": -71.07392413029152
+                    }
+                }
+            },
+            "place_id": "EigxNDUgS2Vub3phIEF2ZSwgSGF2ZXJoaWxsLCBNQSAwMTgzMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "939f49d19ad64bd1ddb4a1032ab2185b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:12.402425",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

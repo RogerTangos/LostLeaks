@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1ce68034b5597be9728f2885f7ad6b39.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brown Avenue",
+                    "short_name": "Brown Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3623",
+                    "short_name": "3623",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Brown Ave, Roslindale, MA 02131, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.280263,
+                        "lng": -71.1241309
+                    },
+                    "southwest": {
+                        "lat": 42.2801251,
+                        "lng": -71.12432179999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2801941,
+                    "lng": -71.1242264
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2815430302915,
+                        "lng": -71.12287736970848
+                    },
+                    "southwest": {
+                        "lat": 42.2788450697085,
+                        "lng": -71.1255753302915
+                    }
+                }
+            },
+            "place_id": "ChIJ_fkA_8h-44kRgiot15BAVhg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1ce68034b5597be9728f2885f7ad6b39",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:15.909984",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7ba2b11cd99aad8a1a48c6200371aa01.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Broadway & Keene St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.49379099999999,
+                    "lng": -71.093006
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.49513998029149,
+                        "lng": -71.0916570197085
+                    },
+                    "southwest": {
+                        "lat": 42.49244201970849,
+                        "lng": -71.09435498029151
+                    }
+                }
+            },
+            "place_id": "EixCcm9hZHdheSAmIEtlZW5lIFN0LCBTdG9uZWhhbSwgTUEgMDIxODAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "7ba2b11cd99aad8a1a48c6200371aa01",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:18.124895",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_864195f6679d3671da67839b40618e52.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "250",
+                    "short_name": "250",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jefferson Street",
+                    "short_name": "Jefferson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7410",
+                    "short_name": "7410",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "250 Jefferson St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1908016,
+                        "lng": -71.0085766
+                    },
+                    "southwest": {
+                        "lat": 42.1907073,
+                        "lng": -71.0087099
+                    }
+                },
+                "location": {
+                    "lat": 42.1907545,
+                    "lng": -71.0086432
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1921034302915,
+                        "lng": -71.00729426970851
+                    },
+                    "southwest": {
+                        "lat": 42.1894054697085,
+                        "lng": -71.00999223029152
+                    }
+                }
+            },
+            "place_id": "ChIJu6Jq8amC5IkRNJjhwhVCyh4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "864195f6679d3671da67839b40618e52",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:35.328189",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

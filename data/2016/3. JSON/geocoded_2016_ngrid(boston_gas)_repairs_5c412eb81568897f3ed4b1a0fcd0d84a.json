@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5c412eb81568897f3ed4b1a0fcd0d84a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dorrance Street",
+                    "short_name": "Dorrance St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford Street / The Neck",
+                    "short_name": "Medford Street / The Neck",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02129",
+                    "short_name": "02129",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Dorrance St, Boston, MA 02129, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3862139,
+                        "lng": -71.07570559999999
+                    },
+                    "southwest": {
+                        "lat": 42.3862065,
+                        "lng": -71.0757215
+                    }
+                },
+                "location": {
+                    "lat": 42.3862139,
+                    "lng": -71.0757215
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3875591802915,
+                        "lng": -71.07436456970848
+                    },
+                    "southwest": {
+                        "lat": 42.3848612197085,
+                        "lng": -71.0770625302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQ4IERvcnJhbmNlIFN0LCBCb3N0b24sIE1BIDAyMTI5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5c412eb81568897f3ed4b1a0fcd0d84a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:58.629913",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

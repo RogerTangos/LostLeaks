@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_11617cef81e50d418a8da7aecc6a939a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "240",
+                    "short_name": "240",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bear Hill Road",
+                    "short_name": "Bear Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West End",
+                    "short_name": "West End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "240 Bear Hill Rd, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.38475469999999,
+                        "lng": -71.26455659999999
+                    },
+                    "southwest": {
+                        "lat": 42.3844401,
+                        "lng": -71.2649325
+                    }
+                },
+                "location": {
+                    "lat": 42.3845974,
+                    "lng": -71.26474449999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3859463802915,
+                        "lng": -71.26339556970849
+                    },
+                    "southwest": {
+                        "lat": 42.3832484197085,
+                        "lng": -71.26609353029151
+                    }
+                }
+            },
+            "place_id": "ChIJP0qbZkqD44kROZ7b69CU3KI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "11617cef81e50d418a8da7aecc6a939a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:17.408301",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1da036d6260c0d5441f2835c431fe8fc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nichols Avenue",
+                    "short_name": "Nichols Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4125",
+                    "short_name": "4125",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Nichols Ave, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.36787470000001,
+                        "lng": -71.1564494
+                    },
+                    "southwest": {
+                        "lat": 42.3678608,
+                        "lng": -71.1564496
+                    }
+                },
+                "location": {
+                    "lat": 42.36787470000001,
+                    "lng": -71.1564494
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36921673029151,
+                        "lng": -71.15510051970848
+                    },
+                    "southwest": {
+                        "lat": 42.36651876970851,
+                        "lng": -71.1577984802915
+                    }
+                }
+            },
+            "place_id": "EigxMSBOaWNob2xzIEF2ZSwgV2F0ZXJ0b3duLCBNQSAwMjQ3MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1da036d6260c0d5441f2835c431fe8fc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:46.495784",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

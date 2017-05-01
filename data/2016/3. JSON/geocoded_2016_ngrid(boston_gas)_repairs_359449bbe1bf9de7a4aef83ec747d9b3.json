@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_359449bbe1bf9de7a4aef83ec747d9b3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Japonica Avenue",
+                    "short_name": "Japonica Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2347",
+                    "short_name": "2347",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Japonica Ave, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5265043,
+                        "lng": -70.90855359999999
+                    },
+                    "southwest": {
+                        "lat": 42.5264933,
+                        "lng": -70.9085649
+                    }
+                },
+                "location": {
+                    "lat": 42.5264933,
+                    "lng": -70.90855359999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5278477802915,
+                        "lng": -70.9072102697085
+                    },
+                    "southwest": {
+                        "lat": 42.5251498197085,
+                        "lng": -70.9099082302915
+                    }
+                }
+            },
+            "place_id": "EiQ5IEphcG9uaWNhIEF2ZSwgU2FsZW0sIE1BIDAxOTcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "359449bbe1bf9de7a4aef83ec747d9b3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:38.320101",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

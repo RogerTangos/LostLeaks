@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8c5d6edfa2e5b3bd80035c403355d929.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "82",
+                    "short_name": "82",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cudworth Lane",
+                    "short_name": "Cudworth Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5306",
+                    "short_name": "5306",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "82 Cudworth Ln, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4034966,
+                        "lng": -71.4301852
+                    },
+                    "southwest": {
+                        "lat": 42.4032227,
+                        "lng": -71.43056030000001
+                    }
+                },
+                "location": {
+                    "lat": 42.40335959999999,
+                    "lng": -71.43037269999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40470863029149,
+                        "lng": -71.42902376970851
+                    },
+                    "southwest": {
+                        "lat": 42.4020106697085,
+                        "lng": -71.43172173029151
+                    }
+                }
+            },
+            "place_id": "ChIJMXAe1jKO44kRFqQTD43sUn0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8c5d6edfa2e5b3bd80035c403355d929",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:14.618188",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

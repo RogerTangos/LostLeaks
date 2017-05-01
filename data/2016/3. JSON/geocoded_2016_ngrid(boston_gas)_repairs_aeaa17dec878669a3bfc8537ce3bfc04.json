@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_aeaa17dec878669a3bfc8537ce3bfc04.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Conant Road",
+                    "short_name": "Conant Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3247",
+                    "short_name": "3247",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Conant Rd, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3022624,
+                        "lng": -71.14204160000001
+                    },
+                    "southwest": {
+                        "lat": 42.3021883,
+                        "lng": -71.14215329999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3022254,
+                    "lng": -71.14209749999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3035743302915,
+                        "lng": -71.1407484697085
+                    },
+                    "southwest": {
+                        "lat": 42.3008763697085,
+                        "lng": -71.1434464302915
+                    }
+                }
+            },
+            "place_id": "ChIJM4mjqyd544kRsopMTLdXbVY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "aeaa17dec878669a3bfc8537ce3bfc04",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:10.607499",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_aae3fe0cfed6e12820ae508b77040e5d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "37",
+                    "short_name": "37",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tabor Hill Road",
+                    "short_name": "Tabor Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln",
+                    "short_name": "Lincoln",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01773",
+                    "short_name": "01773",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2905",
+                    "short_name": "2905",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "37 Tabor Hill Rd, Lincoln, MA 01773, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4265802,
+                        "lng": -71.2726476
+                    },
+                    "southwest": {
+                        "lat": 42.4265734,
+                        "lng": -71.27266399999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4265734,
+                    "lng": -71.2726476
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4279257802915,
+                        "lng": -71.27130681970849
+                    },
+                    "southwest": {
+                        "lat": 42.4252278197085,
+                        "lng": -71.27400478029149
+                    }
+                }
+            },
+            "place_id": "EigzNyBUYWJvciBIaWxsIFJkLCBMaW5jb2xuLCBNQSAwMTc3MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "aae3fe0cfed6e12820ae508b77040e5d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:38.589108",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

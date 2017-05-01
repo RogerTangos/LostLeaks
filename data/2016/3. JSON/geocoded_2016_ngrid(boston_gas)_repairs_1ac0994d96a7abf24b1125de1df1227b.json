@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1ac0994d96a7abf24b1125de1df1227b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "90",
+                    "short_name": "90",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hill Street",
+                    "short_name": "Hill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3650",
+                    "short_name": "3650",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "90 Hill St, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1992328,
+                        "lng": -71.1956556
+                    },
+                    "southwest": {
+                        "lat": 42.19914900000001,
+                        "lng": -71.195837
+                    }
+                },
+                "location": {
+                    "lat": 42.1991909,
+                    "lng": -71.19574630000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2005398802915,
+                        "lng": -71.19439731970849
+                    },
+                    "southwest": {
+                        "lat": 42.19784191970851,
+                        "lng": -71.19709528029149
+                    }
+                }
+            },
+            "place_id": "ChIJt6vWLtl_5IkRtxz6RM3uO7k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1ac0994d96a7abf24b1125de1df1227b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:45.756654",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

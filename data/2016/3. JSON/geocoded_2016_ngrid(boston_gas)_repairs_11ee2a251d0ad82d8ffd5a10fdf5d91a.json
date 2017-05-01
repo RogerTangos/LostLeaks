@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_11ee2a251d0ad82d8ffd5a10fdf5d91a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Warepoint Road",
+                    "short_name": "Warepoint Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Brookfield",
+                    "short_name": "West Brookfield",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "West Brookfield",
+                    "short_name": "West Brookfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01585",
+                    "short_name": "01585",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2857",
+                    "short_name": "2857",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Warepoint Rd, West Brookfield, MA 01585, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2343689,
+                        "lng": -72.15681
+                    },
+                    "southwest": {
+                        "lat": 42.2343659,
+                        "lng": -72.1568283
+                    }
+                },
+                "location": {
+                    "lat": 42.2343659,
+                    "lng": -72.15681
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2357163802915,
+                        "lng": -72.1554701697085
+                    },
+                    "southwest": {
+                        "lat": 42.2330184197085,
+                        "lng": -72.15816813029151
+                    }
+                }
+            },
+            "place_id": "Ei8zOCBXYXJlcG9pbnQgUmQsIFdlc3QgQnJvb2tmaWVsZCwgTUEgMDE1ODUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "11ee2a251d0ad82d8ffd5a10fdf5d91a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:48.849282",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

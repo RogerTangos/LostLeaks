@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5deb2dca62fc7bb73edf650b759eb2b9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "444",
+                    "short_name": "444",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Veterans of Foreign Wars Parkway",
+                    "short_name": "VFW Parkway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "444 Veterans of Foreign Wars Pkwy, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2957271,
+                        "lng": -71.15207219999999
+                    },
+                    "southwest": {
+                        "lat": 42.2957137,
+                        "lng": -71.1520771
+                    }
+                },
+                "location": {
+                    "lat": 42.2957137,
+                    "lng": -71.15207219999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2970693802915,
+                        "lng": -71.15072566970849
+                    },
+                    "southwest": {
+                        "lat": 42.2943714197085,
+                        "lng": -71.1534236302915
+                    }
+                }
+            },
+            "place_id": "Ej80NDQgVmV0ZXJhbnMgb2YgRm9yZWlnbiBXYXJzIFBrd3ksIENoZXN0bnV0IEhpbGwsIE1BIDAyNDY3LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5deb2dca62fc7bb73edf650b759eb2b9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:43.500675",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

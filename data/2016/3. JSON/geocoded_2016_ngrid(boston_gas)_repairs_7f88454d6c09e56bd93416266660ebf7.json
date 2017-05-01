@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7f88454d6c09e56bd93416266660ebf7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "173",
+                    "short_name": "173",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Street",
+                    "short_name": "North St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North End",
+                    "short_name": "North End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02109",
+                    "short_name": "02109",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "173 North St, Boston, MA 02109, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3630831,
+                    "lng": -71.05387739999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3644320802915,
+                        "lng": -71.05252841970848
+                    },
+                    "southwest": {
+                        "lat": 42.3617341197085,
+                        "lng": -71.05522638029149
+                    }
+                }
+            },
+            "place_id": "ChIJoR2i5ohw44kRqxO-w1swn9c",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7f88454d6c09e56bd93416266660ebf7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:20.294780",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

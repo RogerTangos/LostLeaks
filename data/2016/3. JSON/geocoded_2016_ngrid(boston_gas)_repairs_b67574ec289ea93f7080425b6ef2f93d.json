@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b67574ec289ea93f7080425b6ef2f93d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "48",
+                    "short_name": "48",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Newmarket Square",
+                    "short_name": "Newmarket Square",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "48 Newmarket Square, Boston, MA 02118, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3298497,
+                        "lng": -71.06551569999999
+                    },
+                    "southwest": {
+                        "lat": 42.3298444,
+                        "lng": -71.0655331
+                    }
+                },
+                "location": {
+                    "lat": 42.3298444,
+                    "lng": -71.06551569999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3311960302915,
+                        "lng": -71.06417541970849
+                    },
+                    "southwest": {
+                        "lat": 42.3284980697085,
+                        "lng": -71.0668733802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eio0OCBOZXdtYXJrZXQgU3F1YXJlLCBCb3N0b24sIE1BIDAyMTE4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b67574ec289ea93f7080425b6ef2f93d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:06.510153",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

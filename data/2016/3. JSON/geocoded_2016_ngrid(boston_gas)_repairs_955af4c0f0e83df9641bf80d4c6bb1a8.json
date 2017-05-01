@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_955af4c0f0e83df9641bf80d4c6bb1a8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Street",
+                    "short_name": "Pine St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Woburn",
+                    "short_name": "Woburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01801",
+                    "short_name": "01801",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3373",
+                    "short_name": "3373",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Pine St, Woburn, MA 01801, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4843897,
+                        "lng": -71.1250163
+                    },
+                    "southwest": {
+                        "lat": 42.4842384,
+                        "lng": -71.1251741
+                    }
+                },
+                "location": {
+                    "lat": 42.4843141,
+                    "lng": -71.12509519999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4856630302915,
+                        "lng": -71.1237462197085
+                    },
+                    "southwest": {
+                        "lat": 42.4829650697085,
+                        "lng": -71.1264441802915
+                    }
+                }
+            },
+            "place_id": "ChIJAd0gsfN044kRfNODZDsZhUQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "955af4c0f0e83df9641bf80d4c6bb1a8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:22.878730",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72cf2aa96c411204811a63560f854f0d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "72",
+                    "short_name": "72",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Spencer Street",
+                    "short_name": "Spencer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01905",
+                    "short_name": "01905",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2141",
+                    "short_name": "2141",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "72 Spencer St, Lynn, MA 01905, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4634094,
+                        "lng": -70.96932029999999
+                    },
+                    "southwest": {
+                        "lat": 42.4633167,
+                        "lng": -70.9695215
+                    }
+                },
+                "location": {
+                    "lat": 42.463363,
+                    "lng": -70.9694209
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46471203029149,
+                        "lng": -70.96807191970848
+                    },
+                    "southwest": {
+                        "lat": 42.46201406970849,
+                        "lng": -70.9707698802915
+                    }
+                }
+            },
+            "place_id": "ChIJaUUR_RBt44kRgsLlR21X1MY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "72cf2aa96c411204811a63560f854f0d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:34.054840",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

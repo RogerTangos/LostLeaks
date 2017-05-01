@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a842cd08ae69e134164945b4c93c45ed.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "102",
+                    "short_name": "102",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Salem Street",
+                    "short_name": "Salem St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5290",
+                    "short_name": "5290",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "102 Salem St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4285255,
+                        "lng": -71.0635892
+                    },
+                    "southwest": {
+                        "lat": 42.4283359,
+                        "lng": -71.063824
+                    }
+                },
+                "location": {
+                    "lat": 42.4284307,
+                    "lng": -71.0637066
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4297796802915,
+                        "lng": -71.0623576197085
+                    },
+                    "southwest": {
+                        "lat": 42.4270817197085,
+                        "lng": -71.0650555802915
+                    }
+                }
+            },
+            "place_id": "ChIJ2VunkWJx44kRpMA8yKN1Avc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a842cd08ae69e134164945b4c93c45ed",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:25.095812",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

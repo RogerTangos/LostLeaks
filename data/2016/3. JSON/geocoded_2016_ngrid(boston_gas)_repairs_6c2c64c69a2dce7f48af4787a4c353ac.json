@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6c2c64c69a2dce7f48af4787a4c353ac.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "52",
+                    "short_name": "52",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1003",
+                    "short_name": "1003",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "52 Broadway, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4940463,
+                        "lng": -71.0919492
+                    },
+                    "southwest": {
+                        "lat": 42.4939461,
+                        "lng": -71.09208319999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4939962,
+                    "lng": -71.0920162
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.49534518029149,
+                        "lng": -71.0906672197085
+                    },
+                    "southwest": {
+                        "lat": 42.4926472197085,
+                        "lng": -71.0933651802915
+                    }
+                }
+            },
+            "place_id": "ChIJfUu-ml5z44kRA1Nx7OWQokE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6c2c64c69a2dce7f48af4787a4c353ac",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:37.370835",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

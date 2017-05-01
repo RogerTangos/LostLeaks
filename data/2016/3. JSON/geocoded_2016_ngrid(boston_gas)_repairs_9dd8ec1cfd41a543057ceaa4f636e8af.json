@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9dd8ec1cfd41a543057ceaa4f636e8af.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hubbard Street",
+                    "short_name": "Hubbard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5404",
+                    "short_name": "5404",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "41 Hubbard St, Malden, MA 02148, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4241219,
+                    "lng": -71.078225
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4254708802915,
+                        "lng": -71.07687601970851
+                    },
+                    "southwest": {
+                        "lat": 42.4227729197085,
+                        "lng": -71.07957398029151
+                    }
+                }
+            },
+            "place_id": "ChIJ-X2ujVxx44kRlZoYUEdvv1A",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9dd8ec1cfd41a543057ceaa4f636e8af",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:18.078866",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

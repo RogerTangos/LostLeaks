@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d032ba268c4e1db7adb987528a2d8235.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "18",
+                    "short_name": "18",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Campbell Avenue",
+                    "short_name": "Campbell Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2213",
+                    "short_name": "2213",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "18 Campbell Ave, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5370362,
+                        "lng": -71.76215599999999
+                    },
+                    "southwest": {
+                        "lat": 42.5370232,
+                        "lng": -71.7621625
+                    }
+                },
+                "location": {
+                    "lat": 42.5370232,
+                    "lng": -71.7621625
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.53837868029149,
+                        "lng": -71.76081026970849
+                    },
+                    "southwest": {
+                        "lat": 42.53568071970849,
+                        "lng": -71.7635082302915
+                    }
+                }
+            },
+            "place_id": "EioxOCBDYW1wYmVsbCBBdmUsIExlb21pbnN0ZXIsIE1BIDAxNDUzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d032ba268c4e1db7adb987528a2d8235",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:29.082781",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

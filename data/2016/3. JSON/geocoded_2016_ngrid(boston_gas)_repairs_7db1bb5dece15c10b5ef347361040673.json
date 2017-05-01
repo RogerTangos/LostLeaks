@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7db1bb5dece15c10b5ef347361040673.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "117",
+                    "short_name": "117",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Thoreau Street",
+                    "short_name": "Thoreau St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2443",
+                    "short_name": "2443",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "117 Thoreau St, Concord, MA 01742, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4564192,
+                    "lng": -71.3562117
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4577681802915,
+                        "lng": -71.35486271970849
+                    },
+                    "southwest": {
+                        "lat": 42.4550702197085,
+                        "lng": -71.35756068029151
+                    }
+                }
+            },
+            "place_id": "ChIJCbLcokGa44kR-OiHvq_N_yg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7db1bb5dece15c10b5ef347361040673",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:05.903708",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

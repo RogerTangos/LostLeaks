@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5899237ab8eca2bda700c5fc375140c6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "45",
+                    "short_name": "45",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wildwood Drive",
+                    "short_name": "Wildwood Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1139",
+                    "short_name": "1139",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "45 Wildwood Dr, Bedford, MA 01730, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5069612,
+                        "lng": -71.2823378
+                    },
+                    "southwest": {
+                        "lat": 42.5069585,
+                        "lng": -71.2823562
+                    }
+                },
+                "location": {
+                    "lat": 42.5069612,
+                    "lng": -71.2823562
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5083088302915,
+                        "lng": -71.28099801970848
+                    },
+                    "southwest": {
+                        "lat": 42.5056108697085,
+                        "lng": -71.2836959802915
+                    }
+                }
+            },
+            "place_id": "EiY0NSBXaWxkd29vZCBEciwgQmVkZm9yZCwgTUEgMDE3MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5899237ab8eca2bda700c5fc375140c6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:49.040440",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

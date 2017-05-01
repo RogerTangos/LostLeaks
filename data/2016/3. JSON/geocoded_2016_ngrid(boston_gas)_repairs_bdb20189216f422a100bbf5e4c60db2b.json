@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bdb20189216f422a100bbf5e4c60db2b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Buchanan Road",
+                    "short_name": "Buchanan Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Roxbury",
+                    "short_name": "West Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02132",
+                    "short_name": "02132",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7707",
+                    "short_name": "7707",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Buchanan Rd, West Roxbury, MA 02132, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2956012,
+                        "lng": -71.13559049999999
+                    },
+                    "southwest": {
+                        "lat": 42.2954792,
+                        "lng": -71.1357512
+                    }
+                },
+                "location": {
+                    "lat": 42.2955402,
+                    "lng": -71.1356708
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29688918029149,
+                        "lng": -71.1343218697085
+                    },
+                    "southwest": {
+                        "lat": 42.29419121970849,
+                        "lng": -71.1370198302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ1X31Xi5544kR_UMOgneMM6A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bdb20189216f422a100bbf5e4c60db2b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:10.589526",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b6b1bcb6d5836071754c78cf5b70cf8e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Street",
+                    "short_name": "Walnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1721",
+                    "short_name": "1721",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Walnut St, Quincy, MA 02171, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2797945,
+                        "lng": -71.035243
+                    },
+                    "southwest": {
+                        "lat": 42.2796554,
+                        "lng": -71.03541779999999
+                    }
+                },
+                "location": {
+                    "lat": 42.279725,
+                    "lng": -71.03533039999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2810739302915,
+                        "lng": -71.03398141970848
+                    },
+                    "southwest": {
+                        "lat": 42.2783759697085,
+                        "lng": -71.03667938029149
+                    }
+                }
+            },
+            "place_id": "ChIJFbnyA2V744kR_ZusxTG5tJI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b6b1bcb6d5836071754c78cf5b70cf8e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:39.062443",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

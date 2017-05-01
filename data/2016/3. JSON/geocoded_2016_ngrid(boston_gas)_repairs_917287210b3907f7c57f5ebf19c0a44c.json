@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_917287210b3907f7c57f5ebf19c0a44c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "46",
+                    "short_name": "46",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boynton Road",
+                    "short_name": "Boynton Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford",
+                    "short_name": "Medford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02155",
+                    "short_name": "02155",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "46 Boynton Rd, Medford, MA 02155, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4200301,
+                        "lng": -71.114032
+                    },
+                    "southwest": {
+                        "lat": 42.4200229,
+                        "lng": -71.11404809999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4200301,
+                    "lng": -71.11404809999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42137548029149,
+                        "lng": -71.11269106970849
+                    },
+                    "southwest": {
+                        "lat": 42.4186775197085,
+                        "lng": -71.11538903029151
+                    }
+                }
+            },
+            "place_id": "EiU0NiBCb3ludG9uIFJkLCBNZWRmb3JkLCBNQSAwMjE1NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "917287210b3907f7c57f5ebf19c0a44c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:53.172909",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

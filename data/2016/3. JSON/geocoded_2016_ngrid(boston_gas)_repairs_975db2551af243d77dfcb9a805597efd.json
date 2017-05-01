@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_975db2551af243d77dfcb9a805597efd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "130",
+                    "short_name": "130",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Congress Avenue",
+                    "short_name": "Congress Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3443",
+                    "short_name": "3443",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "130 Congress Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.388851,
+                        "lng": -71.0336148
+                    },
+                    "southwest": {
+                        "lat": 42.3886483,
+                        "lng": -71.0337984
+                    }
+                },
+                "location": {
+                    "lat": 42.3887496,
+                    "lng": -71.0337066
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3900986302915,
+                        "lng": -71.03235761970849
+                    },
+                    "southwest": {
+                        "lat": 42.3874006697085,
+                        "lng": -71.0350555802915
+                    }
+                }
+            },
+            "place_id": "ChIJqyV5obNx44kR_kHIbU4m6HA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "975db2551af243d77dfcb9a805597efd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:39.572972",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

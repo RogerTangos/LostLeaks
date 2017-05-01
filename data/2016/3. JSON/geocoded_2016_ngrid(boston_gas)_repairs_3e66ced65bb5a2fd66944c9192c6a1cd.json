@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3e66ced65bb5a2fd66944c9192c6a1cd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "29",
+                    "short_name": "29",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lowell Street",
+                    "short_name": "Lowell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "29 Lowell St, Peabody, MA 01960, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5266478,
+                        "lng": -70.9283966
+                    },
+                    "southwest": {
+                        "lat": 42.52646,
+                        "lng": -70.9286504
+                    }
+                },
+                "location": {
+                    "lat": 42.5265539,
+                    "lng": -70.9285235
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5279028802915,
+                        "lng": -70.92717451970849
+                    },
+                    "southwest": {
+                        "lat": 42.52520491970851,
+                        "lng": -70.9298724802915
+                    }
+                }
+            },
+            "place_id": "ChIJl0ou-pgT44kRCA_Zz6tlLz4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3e66ced65bb5a2fd66944c9192c6a1cd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:15.125665",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

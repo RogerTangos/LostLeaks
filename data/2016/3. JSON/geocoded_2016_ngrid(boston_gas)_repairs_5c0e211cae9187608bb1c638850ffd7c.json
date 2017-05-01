@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5c0e211cae9187608bb1c638850ffd7c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "96",
+                    "short_name": "96",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gilbert Street",
+                    "short_name": "Gilbert St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1721",
+                    "short_name": "1721",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "96 Gilbert St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.439865,
+                        "lng": -71.0503973
+                    },
+                    "southwest": {
+                        "lat": 42.4397762,
+                        "lng": -71.0505393
+                    }
+                },
+                "location": {
+                    "lat": 42.4398206,
+                    "lng": -71.05046829999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4411695802915,
+                        "lng": -71.0491193197085
+                    },
+                    "southwest": {
+                        "lat": 42.4384716197085,
+                        "lng": -71.0518172802915
+                    }
+                }
+            },
+            "place_id": "ChIJxxmQyMxz44kRlWZ7YVlsFS8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5c0e211cae9187608bb1c638850ffd7c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:00.843968",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

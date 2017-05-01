@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f6f2b1e8069e400c16a7a03e5509ecb1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Appleton Street",
+                    "short_name": "Appleton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3364",
+                    "short_name": "3364",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Appleton St, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4707798,
+                        "lng": -71.0136222
+                    },
+                    "southwest": {
+                        "lat": 42.47065,
+                        "lng": -71.0139861
+                    }
+                },
+                "location": {
+                    "lat": 42.4707149,
+                    "lng": -71.0138041
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47206388029149,
+                        "lng": -71.01245516970849
+                    },
+                    "southwest": {
+                        "lat": 42.4693659197085,
+                        "lng": -71.01515313029151
+                    }
+                }
+            },
+            "place_id": "ChIJS_a8fppy44kR4CphWZ-560s",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f6f2b1e8069e400c16a7a03e5509ecb1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:11.671856",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

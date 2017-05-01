@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cd6ef70e615508b0a123726c90b7a425.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wormwood Street",
+                    "short_name": "Wormwood St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fort Point",
+                    "short_name": "Fort Point",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02210",
+                    "short_name": "02210",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Wormwood St, Boston, MA 02210, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3471212,
+                    "lng": -71.0501184
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3484701802915,
+                        "lng": -71.0487694197085
+                    },
+                    "southwest": {
+                        "lat": 42.3457722197085,
+                        "lng": -71.05146738029151
+                    }
+                }
+            },
+            "place_id": "ChIJH6MJBX5644kRy429qclrH78",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cd6ef70e615508b0a123726c90b7a425",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:34.866171",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

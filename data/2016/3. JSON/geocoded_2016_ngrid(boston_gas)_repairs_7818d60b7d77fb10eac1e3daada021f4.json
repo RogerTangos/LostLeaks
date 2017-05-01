@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7818d60b7d77fb10eac1e3daada021f4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "103",
+                    "short_name": "103",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cypress Street",
+                    "short_name": "Cypress St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "103 Cypress St, Newton Centre, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3260821,
+                        "lng": -71.19310469999999
+                    },
+                    "southwest": {
+                        "lat": 42.32591480000001,
+                        "lng": -71.1932916
+                    }
+                },
+                "location": {
+                    "lat": 42.3259984,
+                    "lng": -71.1931981
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3273474302915,
+                        "lng": -71.19184916970849
+                    },
+                    "southwest": {
+                        "lat": 42.3246494697085,
+                        "lng": -71.1945471302915
+                    }
+                }
+            },
+            "place_id": "ChIJtWBcxXeC44kRCwidTkoHIWY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7818d60b7d77fb10eac1e3daada021f4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:26.297363",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

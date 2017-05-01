@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a285e24fb3d61f3fb0b59520262b85b0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stone Row Lane",
+                    "short_name": "Stone Row Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Georgetown",
+                    "short_name": "Georgetown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01833",
+                    "short_name": "01833",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1241",
+                    "short_name": "1241",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Stone Row Ln, Georgetown, MA 01833, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7407888,
+                        "lng": -70.96096450000002
+                    },
+                    "southwest": {
+                        "lat": 42.7407774,
+                        "lng": -70.96097499999999
+                    }
+                },
+                "location": {
+                    "lat": 42.7407888,
+                    "lng": -70.96096450000002
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7421320802915,
+                        "lng": -70.95962076970851
+                    },
+                    "southwest": {
+                        "lat": 42.7394341197085,
+                        "lng": -70.96231873029151
+                    }
+                }
+            },
+            "place_id": "EikyIFN0b25lIFJvdyBMbiwgR2VvcmdldG93biwgTUEgMDE4MzMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a285e24fb3d61f3fb0b59520262b85b0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:07.627682",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

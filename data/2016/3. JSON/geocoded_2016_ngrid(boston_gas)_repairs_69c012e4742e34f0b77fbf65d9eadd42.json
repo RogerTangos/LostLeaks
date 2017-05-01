@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_69c012e4742e34f0b77fbf65d9eadd42.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Franklin Avenue",
+                    "short_name": "Franklin Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford",
+                    "short_name": "Medford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02155",
+                    "short_name": "02155",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1546",
+                    "short_name": "1546",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Franklin Ave, Medford, MA 02155, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4307308,
+                        "lng": -71.129093
+                    },
+                    "southwest": {
+                        "lat": 42.4307172,
+                        "lng": -71.1290964
+                    }
+                },
+                "location": {
+                    "lat": 42.4307172,
+                    "lng": -71.129093
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43207298029149,
+                        "lng": -71.12774571970849
+                    },
+                    "southwest": {
+                        "lat": 42.42937501970849,
+                        "lng": -71.13044368029149
+                    }
+                }
+            },
+            "place_id": "EiczNSBGcmFua2xpbiBBdmUsIE1lZGZvcmQsIE1BIDAyMTU1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "69c012e4742e34f0b77fbf65d9eadd42",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:18.913326",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

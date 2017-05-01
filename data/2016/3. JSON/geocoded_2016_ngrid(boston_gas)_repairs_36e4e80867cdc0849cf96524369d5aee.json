@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_36e4e80867cdc0849cf96524369d5aee.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "558",
+                    "short_name": "558",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Adams Street",
+                    "short_name": "Adams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "558 Adams St, Milton, MA 02186, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2581127,
+                    "lng": -71.03964189999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2594616802915,
+                        "lng": -71.0382929197085
+                    },
+                    "southwest": {
+                        "lat": 42.2567637197085,
+                        "lng": -71.0409908802915
+                    }
+                }
+            },
+            "place_id": "ChIJobqexI1844kR3Iwy4xMhcro",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "36e4e80867cdc0849cf96524369d5aee",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:55.321491",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

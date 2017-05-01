@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3317ef5701cc8af4683405d4ae83e8cd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02190",
+                    "short_name": "02190",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Union St, Weymouth, MA 02190, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1743216,
+                        "lng": -70.9502478
+                    },
+                    "southwest": {
+                        "lat": 42.1741961,
+                        "lng": -70.9504425
+                    }
+                },
+                "location": {
+                    "lat": 42.1742588,
+                    "lng": -70.95034509999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1756078302915,
+                        "lng": -70.9489961697085
+                    },
+                    "southwest": {
+                        "lat": 42.1729098697085,
+                        "lng": -70.9516941302915
+                    }
+                }
+            },
+            "place_id": "ChIJd5YbC4Od5IkRI-3P1jEr90A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3317ef5701cc8af4683405d4ae83e8cd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:06.737999",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

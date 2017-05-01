@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_76440ea228ad3faf716af323af71d47c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "29",
+                    "short_name": "29",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sandtrap Circle",
+                    "short_name": "Sandtrap Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02190",
+                    "short_name": "02190",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "29 Sandtrap Cir, Weymouth, MA 02190, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1674456,
+                        "lng": -70.93248849999999
+                    },
+                    "southwest": {
+                        "lat": 42.1674394,
+                        "lng": -70.9325053
+                    }
+                },
+                "location": {
+                    "lat": 42.1674456,
+                    "lng": -70.93248849999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1687914802915,
+                        "lng": -70.9311479197085
+                    },
+                    "southwest": {
+                        "lat": 42.1660935197085,
+                        "lng": -70.9338458802915
+                    }
+                }
+            },
+            "place_id": "EigyOSBTYW5kdHJhcCBDaXIsIFdleW1vdXRoLCBNQSAwMjE5MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "76440ea228ad3faf716af323af71d47c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:16.777116",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

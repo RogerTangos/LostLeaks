@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1819ffa693eb1c12774ed2cc468ff23a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nonquit Street",
+                    "short_name": "Nonquit St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2328",
+                    "short_name": "2328",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Nonquit St, Dorchester, MA 02125, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3176974,
+                    "lng": -71.068721
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3190463802915,
+                        "lng": -71.0673720197085
+                    },
+                    "southwest": {
+                        "lat": 42.3163484197085,
+                        "lng": -71.0700699802915
+                    }
+                }
+            },
+            "place_id": "ChIJ804nbEt644kRZKqk2hK6T1M",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1819ffa693eb1c12774ed2cc468ff23a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:32.518266",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

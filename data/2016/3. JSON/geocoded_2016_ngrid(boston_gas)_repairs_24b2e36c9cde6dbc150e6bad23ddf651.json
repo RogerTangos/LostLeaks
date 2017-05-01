@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_24b2e36c9cde6dbc150e6bad23ddf651.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Spring Street",
+                    "short_name": "Spring St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Spring St & Thorndike St, Reading, MA 01867, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.529593,
+                    "lng": -71.0966029
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5309419802915,
+                        "lng": -71.0952539197085
+                    },
+                    "southwest": {
+                        "lat": 42.5282440197085,
+                        "lng": -71.0979518802915
+                    }
+                }
+            },
+            "place_id": "EjBTcHJpbmcgU3QgJiBUaG9ybmRpa2UgU3QsIFJlYWRpbmcsIE1BIDAxODY3LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "24b2e36c9cde6dbc150e6bad23ddf651",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:49.668805",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

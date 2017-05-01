@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6b7d30b16120b15760ae8425148c2829.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "45",
+                    "short_name": "45",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant View Road",
+                    "short_name": "Pleasant View Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8017",
+                    "short_name": "8017",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "45 Pleasant View Rd, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4084843,
+                        "lng": -71.1659926
+                    },
+                    "southwest": {
+                        "lat": 42.4083172,
+                        "lng": -71.1662134
+                    }
+                },
+                "location": {
+                    "lat": 42.4084007,
+                    "lng": -71.16610299999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4097497302915,
+                        "lng": -71.1647540197085
+                    },
+                    "southwest": {
+                        "lat": 42.4070517697085,
+                        "lng": -71.1674519802915
+                    }
+                }
+            },
+            "place_id": "ChIJi9sfLLV344kRiuXhfhq_Zug",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6b7d30b16120b15760ae8425148c2829",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:47.936908",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

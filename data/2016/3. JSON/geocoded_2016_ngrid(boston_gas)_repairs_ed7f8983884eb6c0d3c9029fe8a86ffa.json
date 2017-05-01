@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ed7f8983884eb6c0d3c9029fe8a86ffa.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "134",
+                    "short_name": "134",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Spruce Street",
+                    "short_name": "Spruce St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "134 Spruce St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5259589,
+                        "lng": -71.75064069999999
+                    },
+                    "southwest": {
+                        "lat": 42.5259458,
+                        "lng": -71.7506465
+                    }
+                },
+                "location": {
+                    "lat": 42.5259589,
+                    "lng": -71.75064069999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5273013302915,
+                        "lng": -71.7492946197085
+                    },
+                    "southwest": {
+                        "lat": 42.52460336970851,
+                        "lng": -71.7519925802915
+                    }
+                }
+            },
+            "place_id": "EigxMzQgU3BydWNlIFN0LCBMZW9taW5zdGVyLCBNQSAwMTQ1MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ed7f8983884eb6c0d3c9029fe8a86ffa",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:47.580542",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

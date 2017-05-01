@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a1730256bfb6e2f506b54d07a98aa964.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hartwell Road",
+                    "short_name": "Hartwell Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2406",
+                    "short_name": "2406",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Hartwell Rd, Bedford, MA 01730, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4839118,
+                        "lng": -71.2764092
+                    },
+                    "southwest": {
+                        "lat": 42.4839019,
+                        "lng": -71.2764222
+                    }
+                },
+                "location": {
+                    "lat": 42.4839118,
+                    "lng": -71.2764222
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4852558302915,
+                        "lng": -71.27506671970849
+                    },
+                    "southwest": {
+                        "lat": 42.4825578697085,
+                        "lng": -71.27776468029151
+                    }
+                }
+            },
+            "place_id": "EiUxIEhhcnR3ZWxsIFJkLCBCZWRmb3JkLCBNQSAwMTczMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a1730256bfb6e2f506b54d07a98aa964",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:02.543646",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

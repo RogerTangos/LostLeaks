@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_df8cf3c998a102f71da8c3bee081b2e6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harwood Street",
+                    "short_name": "Harwood St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4219",
+                    "short_name": "4219",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Harwood St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4643573,
+                        "lng": -70.9586013
+                    },
+                    "southwest": {
+                        "lat": 42.4641975,
+                        "lng": -70.9588857
+                    }
+                },
+                "location": {
+                    "lat": 42.4642774,
+                    "lng": -70.9587435
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4656263802915,
+                        "lng": -70.95739451970849
+                    },
+                    "southwest": {
+                        "lat": 42.4629284197085,
+                        "lng": -70.9600924802915
+                    }
+                }
+            },
+            "place_id": "ChIJiydUkR5t44kR598hGgG-Byc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "df8cf3c998a102f71da8c3bee081b2e6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:52.796169",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

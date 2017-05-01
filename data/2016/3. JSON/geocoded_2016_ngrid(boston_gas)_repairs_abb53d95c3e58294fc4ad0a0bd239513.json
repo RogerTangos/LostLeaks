@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_abb53d95c3e58294fc4ad0a0bd239513.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "68",
+                    "short_name": "68",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Woburn Street",
+                    "short_name": "Woburn St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02420",
+                    "short_name": "02420",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "68 Woburn St, Lexington, MA 02420, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4466219,
+                        "lng": -71.2173856
+                    },
+                    "southwest": {
+                        "lat": 42.4466081,
+                        "lng": -71.21738789999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4466219,
+                    "lng": -71.21738789999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4479639802915,
+                        "lng": -71.21603776970849
+                    },
+                    "southwest": {
+                        "lat": 42.4452660197085,
+                        "lng": -71.21873573029151
+                    }
+                }
+            },
+            "place_id": "EiY2OCBXb2J1cm4gU3QsIExleGluZ3RvbiwgTUEgMDI0MjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "abb53d95c3e58294fc4ad0a0bd239513",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:11.404249",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

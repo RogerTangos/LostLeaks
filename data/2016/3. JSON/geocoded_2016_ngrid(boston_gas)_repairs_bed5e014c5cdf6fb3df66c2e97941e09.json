@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bed5e014c5cdf6fb3df66c2e97941e09.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "144",
+                    "short_name": "144",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Charles Street",
+                    "short_name": "Charles St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beacon Hill",
+                    "short_name": "Beacon Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02114",
+                    "short_name": "02114",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "144 Charles St, Boston, MA 02114, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.35988140000001,
+                    "lng": -71.0709344
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36123038029151,
+                        "lng": -71.0695854197085
+                    },
+                    "southwest": {
+                        "lat": 42.35853241970851,
+                        "lng": -71.07228338029151
+                    }
+                }
+            },
+            "place_id": "ChIJMwL32Zhw44kRaR2bwGG5Sl8",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bed5e014c5cdf6fb3df66c2e97941e09",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:11.031677",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

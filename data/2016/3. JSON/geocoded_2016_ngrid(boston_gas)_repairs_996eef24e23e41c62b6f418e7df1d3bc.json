@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_996eef24e23e41c62b6f418e7df1d3bc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jones Road",
+                    "short_name": "Jones Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5438",
+                    "short_name": "5438",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "14 Jones Rd, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3997205,
+                        "lng": -70.98979849999999
+                    },
+                    "southwest": {
+                        "lat": 42.399556,
+                        "lng": -70.989967
+                    }
+                },
+                "location": {
+                    "lat": 42.3996382,
+                    "lng": -70.98988280000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4009872302915,
+                        "lng": -70.98853376970848
+                    },
+                    "southwest": {
+                        "lat": 42.3982892697085,
+                        "lng": -70.99123173029149
+                    }
+                }
+            },
+            "place_id": "ChIJvdwRhBdu44kRGSB058m34ZA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "996eef24e23e41c62b6f418e7df1d3bc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:57.923272",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

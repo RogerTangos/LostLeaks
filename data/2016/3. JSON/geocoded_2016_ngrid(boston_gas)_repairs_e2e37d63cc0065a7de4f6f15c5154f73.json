@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e2e37d63cc0065a7de4f6f15c5154f73.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "315",
+                    "short_name": "315",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "315 Union St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.131051,
+                        "lng": -70.9158906
+                    },
+                    "southwest": {
+                        "lat": 42.131048,
+                        "lng": -70.915909
+                    }
+                },
+                "location": {
+                    "lat": 42.131051,
+                    "lng": -70.9158906
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1323984802915,
+                        "lng": -70.91455081970848
+                    },
+                    "southwest": {
+                        "lat": 42.1297005197085,
+                        "lng": -70.9172487802915
+                    }
+                }
+            },
+            "place_id": "EiUzMTUgVW5pb24gU3QsIFJvY2tsYW5kLCBNQSAwMjM3MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e2e37d63cc0065a7de4f6f15c5154f73",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:52.581231",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

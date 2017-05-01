@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d76860b6da64810d925a70fcf5bf8230.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grant Street",
+                    "short_name": "Grant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North Brookfield",
+                    "short_name": "North Brookfield",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "North Brookfield",
+                    "short_name": "North Brookfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "North Brookfield",
+                    "short_name": "North Brookfield",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01535",
+                    "short_name": "01535",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1812",
+                    "short_name": "1812",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Grant St, North Brookfield, MA 01535, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2660013,
+                        "lng": -72.0827954
+                    },
+                    "southwest": {
+                        "lat": 42.2659875,
+                        "lng": -72.0827973
+                    }
+                },
+                "location": {
+                    "lat": 42.2659875,
+                    "lng": -72.0827954
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2673433802915,
+                        "lng": -72.0814473697085
+                    },
+                    "southwest": {
+                        "lat": 42.2646454197085,
+                        "lng": -72.0841453302915
+                    }
+                }
+            },
+            "place_id": "EiwyMCBHcmFudCBTdCwgTm9ydGggQnJvb2tmaWVsZCwgTUEgMDE1MzUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d76860b6da64810d925a70fcf5bf8230",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:12.374006",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

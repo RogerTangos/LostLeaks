@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2267fb4ddfebae6af342dc66524da656.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hayward Street",
+                    "short_name": "Hayward St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Hayward St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2716369,
+                        "lng": -71.0248356
+                    },
+                    "southwest": {
+                        "lat": 42.271628,
+                        "lng": -71.02485
+                    }
+                },
+                "location": {
+                    "lat": 42.271628,
+                    "lng": -71.0248356
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27298143029149,
+                        "lng": -71.02349381970849
+                    },
+                    "southwest": {
+                        "lat": 42.2702834697085,
+                        "lng": -71.02619178029151
+                    }
+                }
+            },
+            "place_id": "EiQzOCBIYXl3YXJkIFN0LCBRdWluY3ksIE1BIDAyMTcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2267fb4ddfebae6af342dc66524da656",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:44.943116",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

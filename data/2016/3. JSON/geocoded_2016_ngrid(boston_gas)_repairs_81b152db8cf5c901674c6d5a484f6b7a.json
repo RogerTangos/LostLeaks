@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_81b152db8cf5c901674c6d5a484f6b7a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Everton Street",
+                    "short_name": "Everton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02121",
+                    "short_name": "02121",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3507",
+                    "short_name": "3507",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Everton St, Dorchester, MA 02121, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3040406,
+                        "lng": -71.0717459
+                    },
+                    "southwest": {
+                        "lat": 42.3038836,
+                        "lng": -71.07194
+                    }
+                },
+                "location": {
+                    "lat": 42.3039621,
+                    "lng": -71.071843
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3053110802915,
+                        "lng": -71.0704939697085
+                    },
+                    "southwest": {
+                        "lat": 42.3026131197085,
+                        "lng": -71.0731919302915
+                    }
+                }
+            },
+            "place_id": "ChIJ_wNR7Lh744kRpm1CbOOgG9c",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "81b152db8cf5c901674c6d5a484f6b7a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:29.007899",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

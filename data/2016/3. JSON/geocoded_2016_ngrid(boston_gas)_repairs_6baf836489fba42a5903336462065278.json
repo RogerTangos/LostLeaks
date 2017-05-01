@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6baf836489fba42a5903336462065278.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1732",
+                    "short_name": "1732",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Centre Street",
+                    "short_name": "Centre St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Roxbury",
+                    "short_name": "West Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02132",
+                    "short_name": "02132",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1732 Centre St, West Roxbury, MA 02132, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2870834,
+                    "lng": -71.14961149999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2884323802915,
+                        "lng": -71.14826251970848
+                    },
+                    "southwest": {
+                        "lat": 42.2857344197085,
+                        "lng": -71.1509604802915
+                    }
+                }
+            },
+            "place_id": "ChIJs9Pl4St_44kR5P17rllVuNA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6baf836489fba42a5903336462065278",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:20.912292",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f1b1874d9df76d498986d803a195e437.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "345",
+                    "short_name": "345",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Church Street",
+                    "short_name": "Church St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2209",
+                    "short_name": "2209",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "345 Church St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.41614879999999,
+                        "lng": -71.6789257
+                    },
+                    "southwest": {
+                        "lat": 42.4161355,
+                        "lng": -71.6789309
+                    }
+                },
+                "location": {
+                    "lat": 42.4161355,
+                    "lng": -71.6789309
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41749113029149,
+                        "lng": -71.6775793197085
+                    },
+                    "southwest": {
+                        "lat": 42.41479316970849,
+                        "lng": -71.6802772802915
+                    }
+                }
+            },
+            "place_id": "EiUzNDUgQ2h1cmNoIFN0LCBDbGludG9uLCBNQSAwMTUxMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f1b1874d9df76d498986d803a195e437",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:15.224347",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

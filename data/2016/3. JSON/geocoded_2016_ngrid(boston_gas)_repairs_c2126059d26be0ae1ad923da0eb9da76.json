@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c2126059d26be0ae1ad923da0eb9da76.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "117",
+                    "short_name": "117",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Garfield Avenue",
+                    "short_name": "Garfield Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1318",
+                    "short_name": "1318",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "117 Garfield Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4075068,
+                        "lng": -71.029119
+                    },
+                    "southwest": {
+                        "lat": 42.4074029,
+                        "lng": -71.0293679
+                    }
+                },
+                "location": {
+                    "lat": 42.4074548,
+                    "lng": -71.02924349999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4088038302915,
+                        "lng": -71.02789446970849
+                    },
+                    "southwest": {
+                        "lat": 42.4061058697085,
+                        "lng": -71.0305924302915
+                    }
+                }
+            },
+            "place_id": "ChIJQ1WgWZRx44kRaJACR6lXW68",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c2126059d26be0ae1ad923da0eb9da76",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:05.337251",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

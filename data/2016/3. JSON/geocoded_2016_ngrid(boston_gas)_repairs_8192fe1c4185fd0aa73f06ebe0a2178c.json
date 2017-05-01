@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8192fe1c4185fd0aa73f06ebe0a2178c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "57",
+                    "short_name": "57",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hamilton Street",
+                    "short_name": "Hamilton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "57 Hamilton St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5415674,
+                        "lng": -71.7428941
+                    },
+                    "southwest": {
+                        "lat": 42.5415542,
+                        "lng": -71.7428998
+                    }
+                },
+                "location": {
+                    "lat": 42.5415674,
+                    "lng": -71.7428941
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5429097802915,
+                        "lng": -71.74154796970849
+                    },
+                    "southwest": {
+                        "lat": 42.5402118197085,
+                        "lng": -71.7442459302915
+                    }
+                }
+            },
+            "place_id": "Eik1NyBIYW1pbHRvbiBTdCwgTGVvbWluc3RlciwgTUEgMDE0NTMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8192fe1c4185fd0aa73f06ebe0a2178c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:02.093947",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

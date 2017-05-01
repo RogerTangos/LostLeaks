@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9186ad2bd8d47802be41c27df96122e1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "566",
+                    "short_name": "566",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fenway/Kenmore",
+                    "short_name": "Fenway/Kenmore",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02215",
+                    "short_name": "02215",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "566 Commonwealth Avenue, Boston, MA 02215, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3488669,
+                        "lng": -71.0985778
+                    },
+                    "southwest": {
+                        "lat": 42.3485984,
+                        "lng": -71.0992036
+                    }
+                },
+                "location": {
+                    "lat": 42.3487327,
+                    "lng": -71.0988907
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3500816302915,
+                        "lng": -71.0975417197085
+                    },
+                    "southwest": {
+                        "lat": 42.3473836697085,
+                        "lng": -71.10023968029151
+                    }
+                }
+            },
+            "place_id": "ChIJoZcelfd544kRPVNmkKzex44",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9186ad2bd8d47802be41c27df96122e1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:01.182559",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_776aeb6ad50b07b7c321ab20590c6490.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32",
+                    "short_name": "32",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Pine Street",
+                    "short_name": "S Pine St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01835",
+                    "short_name": "01835",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7435",
+                    "short_name": "7435",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "32 S Pine St, Haverhill, MA 01835, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.768179,
+                        "lng": -71.0733485
+                    },
+                    "southwest": {
+                        "lat": 42.7680284,
+                        "lng": -71.0735255
+                    }
+                },
+                "location": {
+                    "lat": 42.7681037,
+                    "lng": -71.073437
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7694526802915,
+                        "lng": -71.07208801970849
+                    },
+                    "southwest": {
+                        "lat": 42.7667547197085,
+                        "lng": -71.07478598029151
+                    }
+                }
+            },
+            "place_id": "ChIJbxg8irUD44kRNfZRyiKPpLI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "776aeb6ad50b07b7c321ab20590c6490",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:57.443679",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

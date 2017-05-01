@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5d5cca5133ce552cf82df46fa258f8ee.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Duncan Place",
+                    "short_name": "Duncan Pl",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Duncan Pl, Boston, MA 02122, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3027706,
+                        "lng": -71.0585107
+                    },
+                    "southwest": {
+                        "lat": 42.30275839999999,
+                        "lng": -71.0585196
+                    }
+                },
+                "location": {
+                    "lat": 42.3027706,
+                    "lng": -71.0585196
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30411348029149,
+                        "lng": -71.05716616970851
+                    },
+                    "southwest": {
+                        "lat": 42.30141551970849,
+                        "lng": -71.05986413029152
+                    }
+                }
+            },
+            "place_id": "EiI5IER1bmNhbiBQbCwgQm9zdG9uLCBNQSAwMjEyMiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5d5cca5133ce552cf82df46fa258f8ee",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:36.420984",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

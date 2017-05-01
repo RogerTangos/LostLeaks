@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b1e3aae486154c970cc0924d7871a280.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "122",
+                    "short_name": "122",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Peach Street",
+                    "short_name": "Peach St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8117",
+                    "short_name": "8117",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "122 Peach St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.184996,
+                        "lng": -71.0030548
+                    },
+                    "southwest": {
+                        "lat": 42.1848849,
+                        "lng": -71.0032097
+                    }
+                },
+                "location": {
+                    "lat": 42.1849405,
+                    "lng": -71.0031322
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1862894302915,
+                        "lng": -71.0017832697085
+                    },
+                    "southwest": {
+                        "lat": 42.1835914697085,
+                        "lng": -71.0044812302915
+                    }
+                }
+            },
+            "place_id": "ChIJ07CEuayC5IkRHn6GPu8F7U0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b1e3aae486154c970cc0924d7871a280",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:23.846099",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_edb91cb5de85af338265cdebdb10a2a8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "676",
+                    "short_name": "676",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bedford Street",
+                    "short_name": "Bedford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1922",
+                    "short_name": "1922",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "676 Bedford St, Abington, MA 02351, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1226558,
+                    "lng": -70.9496334
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1240047802915,
+                        "lng": -70.94828441970849
+                    },
+                    "southwest": {
+                        "lat": 42.1213068197085,
+                        "lng": -70.95098238029149
+                    }
+                }
+            },
+            "place_id": "ChIJX1x7z2Cc5IkRtCDHJ3vy5UY",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "edb91cb5de85af338265cdebdb10a2a8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:08.595969",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

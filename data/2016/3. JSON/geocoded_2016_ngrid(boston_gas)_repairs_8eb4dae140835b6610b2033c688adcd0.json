@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8eb4dae140835b6610b2033c688adcd0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gorham Avenue",
+                    "short_name": "Gorham Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Gorham Ave, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3333692,
+                        "lng": -71.1262498
+                    },
+                    "southwest": {
+                        "lat": 42.3333569,
+                        "lng": -71.1262586
+                    }
+                },
+                "location": {
+                    "lat": 42.3333692,
+                    "lng": -71.1262498
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3347120302915,
+                        "lng": -71.1249052197085
+                    },
+                    "southwest": {
+                        "lat": 42.3320140697085,
+                        "lng": -71.1276031802915
+                    }
+                }
+            },
+            "place_id": "EiczNSBHb3JoYW0gQXZlLCBCcm9va2xpbmUsIE1BIDAyNDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8eb4dae140835b6610b2033c688adcd0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:19.526128",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

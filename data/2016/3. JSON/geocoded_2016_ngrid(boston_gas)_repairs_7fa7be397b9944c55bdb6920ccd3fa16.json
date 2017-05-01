@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7fa7be397b9944c55bdb6920ccd3fa16.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Wilmington Road",
+                    "short_name": "Wilmington Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Wilmington Rd & Carter Rd, Burlington, MA 01803, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5368163,
+                    "lng": -71.2025797
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5381652802915,
+                        "lng": -71.20123071970849
+                    },
+                    "southwest": {
+                        "lat": 42.5354673197085,
+                        "lng": -71.20392868029151
+                    }
+                }
+            },
+            "place_id": "EjRXaWxtaW5ndG9uIFJkICYgQ2FydGVyIFJkLCBCdXJsaW5ndG9uLCBNQSAwMTgwMywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "7fa7be397b9944c55bdb6920ccd3fa16",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:19.575094",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

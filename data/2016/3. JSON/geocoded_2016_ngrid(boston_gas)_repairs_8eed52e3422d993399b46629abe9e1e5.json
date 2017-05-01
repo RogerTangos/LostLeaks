@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8eed52e3422d993399b46629abe9e1e5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "129",
+                    "short_name": "129",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commercial Street",
+                    "short_name": "Commercial St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "129 Commercial St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4230956,
+                        "lng": -71.0748721
+                    },
+                    "southwest": {
+                        "lat": 42.4230919,
+                        "lng": -71.0748902
+                    }
+                },
+                "location": {
+                    "lat": 42.4230956,
+                    "lng": -71.0748902
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4244427302915,
+                        "lng": -71.07353216970849
+                    },
+                    "southwest": {
+                        "lat": 42.4217447697085,
+                        "lng": -71.07623013029149
+                    }
+                }
+            },
+            "place_id": "EigxMjkgQ29tbWVyY2lhbCBTdCwgTWFsZGVuLCBNQSAwMjE0OCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8eed52e3422d993399b46629abe9e1e5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:34.477583",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

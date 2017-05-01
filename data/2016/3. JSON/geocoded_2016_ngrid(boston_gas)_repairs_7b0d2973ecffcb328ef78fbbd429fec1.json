@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7b0d2973ecffcb328ef78fbbd429fec1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "80",
+                    "short_name": "80",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Swan Street",
+                    "short_name": "Swan St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford",
+                    "short_name": "Medford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02155",
+                    "short_name": "02155",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "80 Swan St, Medford, MA 02155, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4146519,
+                        "lng": -71.10878149999999
+                    },
+                    "southwest": {
+                        "lat": 42.4144,
+                        "lng": -71.10924969999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4145259,
+                    "lng": -71.10901559999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41587493029149,
+                        "lng": -71.10766661970848
+                    },
+                    "southwest": {
+                        "lat": 42.4131769697085,
+                        "lng": -71.11036458029149
+                    }
+                }
+            },
+            "place_id": "ChIJT4kFn8h244kRGuZhsHLI2cA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7b0d2973ecffcb328ef78fbbd429fec1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:08.158814",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

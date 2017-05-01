@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_096cf54a761efdb70befaa76a243cc6f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "175",
+                    "short_name": "175",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Howard Street",
+                    "short_name": "E Howard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "175 E Howard St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2358184,
+                        "lng": -70.9804928
+                    },
+                    "southwest": {
+                        "lat": 42.2354772,
+                        "lng": -70.98094859999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2356478,
+                    "lng": -70.98072069999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.23699678029151,
+                        "lng": -70.9793717197085
+                    },
+                    "southwest": {
+                        "lat": 42.23429881970851,
+                        "lng": -70.9820696802915
+                    }
+                }
+            },
+            "place_id": "ChIJs8cpGD1j44kRQsQeieZbMwM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "096cf54a761efdb70befaa76a243cc6f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:22.149546",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

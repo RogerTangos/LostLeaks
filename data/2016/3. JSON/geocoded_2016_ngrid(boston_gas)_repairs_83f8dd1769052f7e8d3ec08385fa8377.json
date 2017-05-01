@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_83f8dd1769052f7e8d3ec08385fa8377.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "43",
+                    "short_name": "43",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "King Avenue",
+                    "short_name": "King Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02188",
+                    "short_name": "02188",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2913",
+                    "short_name": "2913",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "43 King Ave, Weymouth, MA 02188, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2121983,
+                        "lng": -70.9581075
+                    },
+                    "southwest": {
+                        "lat": 42.2120274,
+                        "lng": -70.9582822
+                    }
+                },
+                "location": {
+                    "lat": 42.2121128,
+                    "lng": -70.9581949
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.21346183029149,
+                        "lng": -70.9568458697085
+                    },
+                    "southwest": {
+                        "lat": 42.21076386970849,
+                        "lng": -70.95954383029151
+                    }
+                }
+            },
+            "place_id": "ChIJ_60rzvli44kR5aTfOpxpHNc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "83f8dd1769052f7e8d3ec08385fa8377",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:32.250350",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

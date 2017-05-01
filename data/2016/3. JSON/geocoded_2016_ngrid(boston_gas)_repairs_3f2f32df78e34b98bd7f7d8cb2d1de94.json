@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3f2f32df78e34b98bd7f7d8cb2d1de94.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mystic Avenue",
+                    "short_name": "Mystic Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Mystic Ave, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4475748,
+                        "lng": -71.13683689999999
+                    },
+                    "southwest": {
+                        "lat": 42.4474044,
+                        "lng": -71.1370436
+                    }
+                },
+                "location": {
+                    "lat": 42.4474896,
+                    "lng": -71.1369402
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4488385802915,
+                        "lng": -71.13559126970848
+                    },
+                    "southwest": {
+                        "lat": 42.4461406197085,
+                        "lng": -71.1382892302915
+                    }
+                }
+            },
+            "place_id": "ChIJ8dzHwy5044kREU41mFaPjNQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3f2f32df78e34b98bd7f7d8cb2d1de94",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:31.235735",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

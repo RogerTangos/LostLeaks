@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_30d843dbd5cc851ce177ca40727389df.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "156",
+                    "short_name": "156",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wilson Street",
+                    "short_name": "Wilson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1722",
+                    "short_name": "1722",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "156 Wilson St, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1787729,
+                        "lng": -71.231213
+                    },
+                    "southwest": {
+                        "lat": 42.1786101,
+                        "lng": -71.2314274
+                    }
+                },
+                "location": {
+                    "lat": 42.1786915,
+                    "lng": -71.2313202
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1800404802915,
+                        "lng": -71.22997121970849
+                    },
+                    "southwest": {
+                        "lat": 42.1773425197085,
+                        "lng": -71.2326691802915
+                    }
+                }
+            },
+            "place_id": "ChIJK6Nkplt-5IkRFyCwpJjxIOo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "30d843dbd5cc851ce177ca40727389df",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:44.055469",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

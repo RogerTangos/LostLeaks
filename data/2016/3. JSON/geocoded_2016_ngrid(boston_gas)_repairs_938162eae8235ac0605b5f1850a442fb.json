@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_938162eae8235ac0605b5f1850a442fb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "65",
+                    "short_name": "65",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Butler Avenue",
+                    "short_name": "Butler Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "65 Butler Ave, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4868592,
+                        "lng": -71.10414229999999
+                    },
+                    "southwest": {
+                        "lat": 42.4867388,
+                        "lng": -71.10440439999999
+                    }
+                },
+                "location": {
+                    "lat": 42.486799,
+                    "lng": -71.1042733
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4881479802915,
+                        "lng": -71.10292436970849
+                    },
+                    "southwest": {
+                        "lat": 42.4854500197085,
+                        "lng": -71.10562233029151
+                    }
+                }
+            },
+            "place_id": "ChIJAS9okZt044kReX_7Fme6k0s",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "938162eae8235ac0605b5f1850a442fb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:56.131794",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

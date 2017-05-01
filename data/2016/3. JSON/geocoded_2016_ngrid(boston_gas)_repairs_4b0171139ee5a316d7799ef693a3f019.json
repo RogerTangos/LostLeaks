@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4b0171139ee5a316d7799ef693a3f019.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "73",
+                    "short_name": "73",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Clark Avenue",
+                    "short_name": "Clark Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2103",
+                    "short_name": "2103",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "73 Clark Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3978827,
+                        "lng": -71.0263535
+                    },
+                    "southwest": {
+                        "lat": 42.3977033,
+                        "lng": -71.0265659
+                    }
+                },
+                "location": {
+                    "lat": 42.397793,
+                    "lng": -71.0264597
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3991419802915,
+                        "lng": -71.0251107197085
+                    },
+                    "southwest": {
+                        "lat": 42.3964440197085,
+                        "lng": -71.0278086802915
+                    }
+                }
+            },
+            "place_id": "ChIJ18rYmLhx44kRt3yfQFrgxQ0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4b0171139ee5a316d7799ef693a3f019",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:35.485807",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4ed848061e07911b105204ab38824d4b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Hanover Street",
+                    "short_name": "Hanover St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Hanover St & Hanover Cir, Lynn, MA 01902, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.464794,
+                    "lng": -70.95593099999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46614298029149,
+                        "lng": -70.95458201970848
+                    },
+                    "southwest": {
+                        "lat": 42.4634450197085,
+                        "lng": -70.9572799802915
+                    }
+                }
+            },
+            "place_id": "Ei1IYW5vdmVyIFN0ICYgSGFub3ZlciBDaXIsIEx5bm4sIE1BIDAxOTAyLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "4ed848061e07911b105204ab38824d4b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:30.663890",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_42230642a24f1681abd8849c6cff19fb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "620",
+                    "short_name": "620",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bennington Street",
+                    "short_name": "Bennington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1555",
+                    "short_name": "1555",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "620 Bennington St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3835836,
+                        "lng": -71.0164018
+                    },
+                    "southwest": {
+                        "lat": 42.3833952,
+                        "lng": -71.0167847
+                    }
+                },
+                "location": {
+                    "lat": 42.38348939999999,
+                    "lng": -71.0165932
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3848383802915,
+                        "lng": -71.01524426970849
+                    },
+                    "southwest": {
+                        "lat": 42.3821404197085,
+                        "lng": -71.0179422302915
+                    }
+                }
+            },
+            "place_id": "ChIJc-oQLM1x44kRjamIPWml9vU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "42230642a24f1681abd8849c6cff19fb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:42.712395",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

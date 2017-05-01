@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1ce9bc93319952d82845c34390de506f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West 3rd Street",
+                    "short_name": "W 3rd St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "40 W 3rd St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.342597,
+                        "lng": -71.0535795
+                    },
+                    "southwest": {
+                        "lat": 42.3422753,
+                        "lng": -71.05411699999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3424361,
+                    "lng": -71.05384819999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3437851302915,
+                        "lng": -71.05249926970849
+                    },
+                    "southwest": {
+                        "lat": 42.34108716970851,
+                        "lng": -71.05519723029151
+                    }
+                }
+            },
+            "place_id": "ChIJKdW0znx644kR4XBXSJFMsDE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1ce9bc93319952d82845c34390de506f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:12.455042",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f5dc8dc98aec1e6cb3d06d7f10f44c51.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "28",
+                    "short_name": "28",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Parish Court",
+                    "short_name": "W Parish Ct",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "28 W Parish Ct, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7832236,
+                        "lng": -71.1390643
+                    },
+                    "southwest": {
+                        "lat": 42.7832102,
+                        "lng": -71.1390691
+                    }
+                },
+                "location": {
+                    "lat": 42.7832236,
+                    "lng": -71.1390691
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7845658802915,
+                        "lng": -71.13771771970849
+                    },
+                    "southwest": {
+                        "lat": 42.7818679197085,
+                        "lng": -71.1404156802915
+                    }
+                }
+            },
+            "place_id": "EigyOCBXIFBhcmlzaCBDdCwgSGF2ZXJoaWxsLCBNQSAwMTgzMiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f5dc8dc98aec1e6cb3d06d7f10f44c51",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:06.873139",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_97ab43834e0d7f4bb04d745f7f3657e1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "114",
+                    "short_name": "114",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Madison Street",
+                    "short_name": "Madison St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6825",
+                    "short_name": "6825",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "114 Madison St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4208733,
+                        "lng": -71.0693969
+                    },
+                    "southwest": {
+                        "lat": 42.4208034,
+                        "lng": -71.0695479
+                    }
+                },
+                "location": {
+                    "lat": 42.42083840000001,
+                    "lng": -71.0694724
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4221873302915,
+                        "lng": -71.06812341970848
+                    },
+                    "southwest": {
+                        "lat": 42.4194893697085,
+                        "lng": -71.0708213802915
+                    }
+                }
+            },
+            "place_id": "ChIJmwYtJ2Zx44kR857z2kspduY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "97ab43834e0d7f4bb04d745f7f3657e1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:58.296457",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

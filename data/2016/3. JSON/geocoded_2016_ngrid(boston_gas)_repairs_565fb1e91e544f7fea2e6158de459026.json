@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_565fb1e91e544f7fea2e6158de459026.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "280",
+                    "short_name": "280",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "280 Main St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7807154,
+                        "lng": -71.0775874
+                    },
+                    "southwest": {
+                        "lat": 42.78058619999999,
+                        "lng": -71.07789249999999
+                    }
+                },
+                "location": {
+                    "lat": 42.7806508,
+                    "lng": -71.0777399
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.78199978029149,
+                        "lng": -71.0763909697085
+                    },
+                    "southwest": {
+                        "lat": 42.77930181970849,
+                        "lng": -71.0790889302915
+                    }
+                }
+            },
+            "place_id": "ChIJ81DcazcC44kR6yTerX1TKjQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "565fb1e91e544f7fea2e6158de459026",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:07.472219",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

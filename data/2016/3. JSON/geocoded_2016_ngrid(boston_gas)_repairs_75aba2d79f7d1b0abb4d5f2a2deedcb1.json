@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_75aba2d79f7d1b0abb4d5f2a2deedcb1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Holbrook Avenue",
+                    "short_name": "Holbrook Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1440",
+                    "short_name": "1440",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Holbrook Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.308628,
+                        "lng": -70.886573
+                    },
+                    "southwest": {
+                        "lat": 42.3086141,
+                        "lng": -70.8865742
+                    }
+                },
+                "location": {
+                    "lat": 42.308628,
+                    "lng": -70.8865742
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3099700302915,
+                        "lng": -70.8852246197085
+                    },
+                    "southwest": {
+                        "lat": 42.3072720697085,
+                        "lng": -70.88792258029152
+                    }
+                }
+            },
+            "place_id": "EiQyMSBIb2xicm9vayBBdmUsIEh1bGwsIE1BIDAyMDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "75aba2d79f7d1b0abb4d5f2a2deedcb1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:31.018334",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ca9dc833f1cc17db0d68719623f2ddb2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "127",
+                    "short_name": "127",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Marion Street",
+                    "short_name": "Marion St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central-Maverick Square / Paris Street",
+                    "short_name": "Central-Maverick Square / Paris Street",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "127 Marion St, Boston, MA 02128, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3768848,
+                    "lng": -71.0366622
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3782337802915,
+                        "lng": -71.0353132197085
+                    },
+                    "southwest": {
+                        "lat": 42.3755358197085,
+                        "lng": -71.0380111802915
+                    }
+                }
+            },
+            "place_id": "ChIJc9GWXkVw44kRMHtko5J9LHo",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ca9dc833f1cc17db0d68719623f2ddb2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:32.588378",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

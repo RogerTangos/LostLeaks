@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_af421a8e618435df1fb9bb02afef3349.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Passaconaway Avenue",
+                    "short_name": "Passaconaway Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2236",
+                    "short_name": "2236",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Passaconaway Ave, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7998507,
+                        "lng": -71.0818699
+                    },
+                    "southwest": {
+                        "lat": 42.79984020000001,
+                        "lng": -71.0818822
+                    }
+                },
+                "location": {
+                    "lat": 42.7998507,
+                    "lng": -71.0818699
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8011944302915,
+                        "lng": -71.08052706970848
+                    },
+                    "southwest": {
+                        "lat": 42.7984964697085,
+                        "lng": -71.0832250302915
+                    }
+                }
+            },
+            "place_id": "Ei0yNCBQYXNzYWNvbmF3YXkgQXZlLCBIYXZlcmhpbGwsIE1BIDAxODMwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "af421a8e618435df1fb9bb02afef3349",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:15.062204",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

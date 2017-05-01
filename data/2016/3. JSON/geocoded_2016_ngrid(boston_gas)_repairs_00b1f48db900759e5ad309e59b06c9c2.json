@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_00b1f48db900759e5ad309e59b06c9c2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "85",
+                    "short_name": "85",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Parker Street",
+                    "short_name": "Parker St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2545",
+                    "short_name": "2545",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "85 Parker St, Newton Centre, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.324459,
+                        "lng": -71.1941588
+                    },
+                    "southwest": {
+                        "lat": 42.3243218,
+                        "lng": -71.1943118
+                    }
+                },
+                "location": {
+                    "lat": 42.3243904,
+                    "lng": -71.1942353
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32573938029149,
+                        "lng": -71.19288631970849
+                    },
+                    "southwest": {
+                        "lat": 42.3230414197085,
+                        "lng": -71.1955842802915
+                    }
+                }
+            },
+            "place_id": "ChIJF4T4QXaC44kRbUh5l15VjhQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "00b1f48db900759e5ad309e59b06c9c2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:23.137480",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

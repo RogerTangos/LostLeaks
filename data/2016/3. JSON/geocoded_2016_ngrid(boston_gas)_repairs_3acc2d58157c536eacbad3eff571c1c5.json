@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3acc2d58157c536eacbad3eff571c1c5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brandon Road",
+                    "short_name": "Brandon Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dudley",
+                    "short_name": "Dudley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01571",
+                    "short_name": "01571",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3425",
+                    "short_name": "3425",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Brandon Rd, Dudley, MA 01571, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0435825,
+                        "lng": -71.8916021
+                    },
+                    "southwest": {
+                        "lat": 42.0435686,
+                        "lng": -71.8916041
+                    }
+                },
+                "location": {
+                    "lat": 42.0435686,
+                    "lng": -71.8916041
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0449245302915,
+                        "lng": -71.8902541197085
+                    },
+                    "southwest": {
+                        "lat": 42.0422265697085,
+                        "lng": -71.89295208029151
+                    }
+                }
+            },
+            "place_id": "EiQyMSBCcmFuZG9uIFJkLCBEdWRsZXksIE1BIDAxNTcxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3acc2d58157c536eacbad3eff571c1c5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:27.555709",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

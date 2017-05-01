@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_000e9ee00136d68868f6c57c5e984af6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "233",
+                    "short_name": "233",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "233 Commonwealth Avenue, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3374417,
+                        "lng": -71.1752173
+                    },
+                    "southwest": {
+                        "lat": 42.3374282,
+                        "lng": -71.1752219
+                    }
+                },
+                "location": {
+                    "lat": 42.3374417,
+                    "lng": -71.1752219
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3387839302915,
+                        "lng": -71.1738706197085
+                    },
+                    "southwest": {
+                        "lat": 42.3360859697085,
+                        "lng": -71.1765685802915
+                    }
+                }
+            },
+            "place_id": "EjUyMzMgQ29tbW9ud2VhbHRoIEF2ZW51ZSwgQ2hlc3RudXQgSGlsbCwgTUEgMDI0NjcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "000e9ee00136d68868f6c57c5e984af6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:07.089714",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

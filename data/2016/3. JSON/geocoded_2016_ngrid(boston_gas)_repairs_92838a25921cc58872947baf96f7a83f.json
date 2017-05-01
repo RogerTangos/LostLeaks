@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_92838a25921cc58872947baf96f7a83f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bagley Terrace",
+                    "short_name": "Bagley Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1801",
+                    "short_name": "1801",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Bagley Terrace, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.490221,
+                        "lng": -70.9596358
+                    },
+                    "southwest": {
+                        "lat": 42.4902143,
+                        "lng": -70.9596523
+                    }
+                },
+                "location": {
+                    "lat": 42.4902143,
+                    "lng": -70.9596358
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.49156663029149,
+                        "lng": -70.9582950697085
+                    },
+                    "southwest": {
+                        "lat": 42.48886866970849,
+                        "lng": -70.9609930302915
+                    }
+                }
+            },
+            "place_id": "EiUyIEJhZ2xleSBUZXJyYWNlLCBMeW5uLCBNQSAwMTkwNCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "92838a25921cc58872947baf96f7a83f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:59.923958",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

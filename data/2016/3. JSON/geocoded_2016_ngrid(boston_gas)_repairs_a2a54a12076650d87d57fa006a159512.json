@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a2a54a12076650d87d57fa006a159512.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hillsdale Avenue",
+                    "short_name": "Hillsdale Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4853",
+                    "short_name": "4853",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Hillsdale Ave, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4928141,
+                        "lng": -71.182112
+                    },
+                    "southwest": {
+                        "lat": 42.4927024,
+                        "lng": -71.182323
+                    }
+                },
+                "location": {
+                    "lat": 42.4927583,
+                    "lng": -71.1822175
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4941072302915,
+                        "lng": -71.1808685197085
+                    },
+                    "southwest": {
+                        "lat": 42.4914092697085,
+                        "lng": -71.1835664802915
+                    }
+                }
+            },
+            "place_id": "ChIJL6rCPHp144kRqhIUiiaVfwg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a2a54a12076650d87d57fa006a159512",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:44.807551",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

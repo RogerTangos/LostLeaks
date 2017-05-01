@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1492a4826272d7bdafbf859ab03853a4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Broadway & Collins Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4543566,
+                    "lng": -71.0236199
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.45570558029149,
+                        "lng": -71.02227091970849
+                    },
+                    "southwest": {
+                        "lat": 42.4530076197085,
+                        "lng": -71.02496888029151
+                    }
+                }
+            },
+            "place_id": "Ei1Ccm9hZHdheSAmIENvbGxpbnMgQXZlLCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "1492a4826272d7bdafbf859ab03853a4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:18.024393",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

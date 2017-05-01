@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2f9298787248a9a3fa50b626b2e2287f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Heather Street",
+                    "short_name": "Heather St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2718",
+                    "short_name": "2718",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Heather St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5614177,
+                        "lng": -70.8750452
+                    },
+                    "southwest": {
+                        "lat": 42.5612417,
+                        "lng": -70.8752363
+                    }
+                },
+                "location": {
+                    "lat": 42.56132969999999,
+                    "lng": -70.87514070000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5626786802915,
+                        "lng": -70.87379176970849
+                    },
+                    "southwest": {
+                        "lat": 42.5599807197085,
+                        "lng": -70.8764897302915
+                    }
+                }
+            },
+            "place_id": "ChIJobZkDZEW44kRunbn69NVlaU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2f9298787248a9a3fa50b626b2e2287f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:12.893420",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

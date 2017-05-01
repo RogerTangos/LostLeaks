@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eb56250b40297b02682b41d14c7ee6b1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "234",
+                    "short_name": "234",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Avenue",
+                    "short_name": "Park Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington Heights",
+                    "short_name": "Arlington Heights",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7441",
+                    "short_name": "7441",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "234 Park Ave, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4178669,
+                        "lng": -71.1803461
+                    },
+                    "southwest": {
+                        "lat": 42.4177329,
+                        "lng": -71.1805042
+                    }
+                },
+                "location": {
+                    "lat": 42.4177999,
+                    "lng": -71.18042520000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4191488802915,
+                        "lng": -71.1790761697085
+                    },
+                    "southwest": {
+                        "lat": 42.4164509197085,
+                        "lng": -71.1817741302915
+                    }
+                }
+            },
+            "place_id": "ChIJCULL1zF244kRfyfgz4GlkXI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "eb56250b40297b02682b41d14c7ee6b1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:07.846046",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ff2c6beed325fe8ef6f0acfe1afb93fb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1429",
+                    "short_name": "1429",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Centre Street",
+                    "short_name": "Centre St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2468",
+                    "short_name": "2468",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1429 Centre St, Newton Centre, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3259364,
+                        "lng": -71.19891919999999
+                    },
+                    "southwest": {
+                        "lat": 42.3257711,
+                        "lng": -71.19908389999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3258537,
+                    "lng": -71.1990015
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3272027302915,
+                        "lng": -71.19765256970848
+                    },
+                    "southwest": {
+                        "lat": 42.3245047697085,
+                        "lng": -71.2003505302915
+                    }
+                }
+            },
+            "place_id": "ChIJSbmTL3GC44kR1hSo5O1vWAU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ff2c6beed325fe8ef6f0acfe1afb93fb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:09.919346",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

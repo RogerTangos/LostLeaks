@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1def59596952cb18f822bb5cc313d90f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "570",
+                    "short_name": "570",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea Street",
+                    "short_name": "Chelsea St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "570 Chelsea St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.384034,
+                        "lng": -71.02258499999999
+                    },
+                    "southwest": {
+                        "lat": 42.38402809999999,
+                        "lng": -71.02260199999999
+                    }
+                },
+                "location": {
+                    "lat": 42.384034,
+                    "lng": -71.02260199999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38538003029149,
+                        "lng": -71.02124451970849
+                    },
+                    "southwest": {
+                        "lat": 42.38268206970849,
+                        "lng": -71.02394248029151
+                    }
+                }
+            },
+            "place_id": "EiU1NzAgQ2hlbHNlYSBTdCwgQm9zdG9uLCBNQSAwMjEyOCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1def59596952cb18f822bb5cc313d90f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:04.708185",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

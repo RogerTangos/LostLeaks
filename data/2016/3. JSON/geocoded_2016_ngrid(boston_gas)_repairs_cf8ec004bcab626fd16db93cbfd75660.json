@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cf8ec004bcab626fd16db93cbfd75660.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "264",
+                    "short_name": "264",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Forest Street",
+                    "short_name": "Forest St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Hamilton",
+                    "short_name": "South Hamilton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hamilton",
+                    "short_name": "Hamilton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01982",
+                    "short_name": "01982",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2616",
+                    "short_name": "2616",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "264 Forest St, South Hamilton, MA 01982, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6093214,
+                        "lng": -70.8188763
+                    },
+                    "southwest": {
+                        "lat": 42.6093076,
+                        "lng": -70.8188777
+                    }
+                },
+                "location": {
+                    "lat": 42.6093214,
+                    "lng": -70.8188777
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6106634802915,
+                        "lng": -70.8175280197085
+                    },
+                    "southwest": {
+                        "lat": 42.6079655197085,
+                        "lng": -70.82022598029151
+                    }
+                }
+            },
+            "place_id": "EiwyNjQgRm9yZXN0IFN0LCBTb3V0aCBIYW1pbHRvbiwgTUEgMDE5ODIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cf8ec004bcab626fd16db93cbfd75660",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:47.099738",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

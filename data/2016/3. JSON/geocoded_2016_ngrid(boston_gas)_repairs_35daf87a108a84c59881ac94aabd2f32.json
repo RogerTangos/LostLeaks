@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_35daf87a108a84c59881ac94aabd2f32.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "52",
+                    "short_name": "52",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stonehurst Street",
+                    "short_name": "Stonehurst St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1516",
+                    "short_name": "1516",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "52 Stonehurst St, Dorchester, MA 02122, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3055384,
+                        "lng": -71.06662709999999
+                    },
+                    "southwest": {
+                        "lat": 42.3053919,
+                        "lng": -71.0668492
+                    }
+                },
+                "location": {
+                    "lat": 42.30546520000001,
+                    "lng": -71.0667381
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30681413029149,
+                        "lng": -71.06538916970848
+                    },
+                    "southwest": {
+                        "lat": 42.30411616970849,
+                        "lng": -71.0680871302915
+                    }
+                }
+            },
+            "place_id": "ChIJ2aTxELp744kR8i3BqQhlOt8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "35daf87a108a84c59881ac94aabd2f32",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:40.108606",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

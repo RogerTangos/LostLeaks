@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eccc8cb933e1688313c4fad8a5d636de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "115",
+                    "short_name": "115",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sylvan Street",
+                    "short_name": "Sylvan St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3621",
+                    "short_name": "3621",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "115 Sylvan St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5535127,
+                        "lng": -70.94551469999999
+                    },
+                    "southwest": {
+                        "lat": 42.5533177,
+                        "lng": -70.9457176
+                    }
+                },
+                "location": {
+                    "lat": 42.5534152,
+                    "lng": -70.9456162
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5547641802915,
+                        "lng": -70.9442671697085
+                    },
+                    "southwest": {
+                        "lat": 42.5520662197085,
+                        "lng": -70.9469651302915
+                    }
+                }
+            },
+            "place_id": "ChIJi8RyVdAT44kRXU7y7uk3LMI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "eccc8cb933e1688313c4fad8a5d636de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:01.173152",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

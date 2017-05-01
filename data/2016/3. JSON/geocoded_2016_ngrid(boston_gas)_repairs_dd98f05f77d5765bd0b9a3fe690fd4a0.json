@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dd98f05f77d5765bd0b9a3fe690fd4a0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Minot Street",
+                    "short_name": "Minot St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Minot St & Carruth St, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2833544,
+                    "lng": -71.06065629999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2847033802915,
+                        "lng": -71.05930731970848
+                    },
+                    "southwest": {
+                        "lat": 42.2820054197085,
+                        "lng": -71.06200528029149
+                    }
+                }
+            },
+            "place_id": "EixNaW5vdCBTdCAmIENhcnJ1dGggU3QsIEJvc3RvbiwgTUEgMDIxMjQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "dd98f05f77d5765bd0b9a3fe690fd4a0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:39.914009",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

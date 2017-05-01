@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_439d0e6e260a1831bc82c2d7413dcbad.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "76",
+                    "short_name": "76",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Maple Street",
+                    "short_name": "Maple St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3536",
+                    "short_name": "3536",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "76 Maple St, Acton, MA 01720, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4603154,
+                        "lng": -71.4617842
+                    },
+                    "southwest": {
+                        "lat": 42.4601253,
+                        "lng": -71.4620067
+                    }
+                },
+                "location": {
+                    "lat": 42.4602204,
+                    "lng": -71.4618955
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4615693302915,
+                        "lng": -71.46054646970849
+                    },
+                    "southwest": {
+                        "lat": 42.4588713697085,
+                        "lng": -71.4632444302915
+                    }
+                }
+            },
+            "place_id": "ChIJW9OLT3aR44kR2B4QNKMBIu8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "439d0e6e260a1831bc82c2d7413dcbad",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:45.801900",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_52944f000f77686b1549186473799787.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "75",
+                    "short_name": "75",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arthur Street",
+                    "short_name": "Arthur St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "75 Arthur St, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2434767,
+                    "lng": -71.0189468
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24482568029149,
+                        "lng": -71.0175978197085
+                    },
+                    "southwest": {
+                        "lat": 42.2421277197085,
+                        "lng": -71.0202957802915
+                    }
+                }
+            },
+            "place_id": "ChIJo12JicR844kRR7bC0z3e3Tk",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "52944f000f77686b1549186473799787",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:40.743227",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

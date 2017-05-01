@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8b432f191814c9b076c157d2d0b75537.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bow Street",
+                    "short_name": "Bow St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1113",
+                    "short_name": "1113",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Bow St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5217751,
+                        "lng": -70.9178362
+                    },
+                    "southwest": {
+                        "lat": 42.5216539,
+                        "lng": -70.91796719999999
+                    }
+                },
+                "location": {
+                    "lat": 42.52171449999999,
+                    "lng": -70.91790170000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5230634802915,
+                        "lng": -70.91655271970849
+                    },
+                    "southwest": {
+                        "lat": 42.5203655197085,
+                        "lng": -70.9192506802915
+                    }
+                }
+            },
+            "place_id": "ChIJPdjKRoMT44kR8gv3iOjud38",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8b432f191814c9b076c157d2d0b75537",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:00.611773",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

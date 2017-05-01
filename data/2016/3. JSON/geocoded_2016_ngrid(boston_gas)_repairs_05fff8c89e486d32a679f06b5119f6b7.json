@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_05fff8c89e486d32a679f06b5119f6b7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Water Street",
+                    "short_name": "E Water St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1826",
+                    "short_name": "1826",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "41 E Water St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.12805300000001,
+                        "lng": -70.9133269
+                    },
+                    "southwest": {
+                        "lat": 42.1280413,
+                        "lng": -70.913337
+                    }
+                },
+                "location": {
+                    "lat": 42.1280413,
+                    "lng": -70.9133269
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.12939613029151,
+                        "lng": -70.9119829697085
+                    },
+                    "southwest": {
+                        "lat": 42.12669816970851,
+                        "lng": -70.91468093029152
+                    }
+                }
+            },
+            "place_id": "EiY0MSBFIFdhdGVyIFN0LCBSb2NrbGFuZCwgTUEgMDIzNzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "05fff8c89e486d32a679f06b5119f6b7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:17.347014",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

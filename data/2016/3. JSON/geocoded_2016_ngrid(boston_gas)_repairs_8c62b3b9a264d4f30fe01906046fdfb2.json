@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8c62b3b9a264d4f30fe01906046fdfb2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sturtevant Street",
+                    "short_name": "Sturtevant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2446",
+                    "short_name": "2446",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Sturtevant St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5584332,
+                        "lng": -70.89276989999999
+                    },
+                    "southwest": {
+                        "lat": 42.5582875,
+                        "lng": -70.892969
+                    }
+                },
+                "location": {
+                    "lat": 42.5583603,
+                    "lng": -70.8928695
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5597093302915,
+                        "lng": -70.89152046970848
+                    },
+                    "southwest": {
+                        "lat": 42.5570113697085,
+                        "lng": -70.8942184302915
+                    }
+                }
+            },
+            "place_id": "ChIJg8PCqKUW44kRcqVGWQQxB_Y",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8c62b3b9a264d4f30fe01906046fdfb2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:48.310698",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

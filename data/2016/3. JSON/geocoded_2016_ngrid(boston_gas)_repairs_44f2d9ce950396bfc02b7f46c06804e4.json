@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_44f2d9ce950396bfc02b7f46c06804e4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Margin Street",
+                    "short_name": "Margin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1925",
+                    "short_name": "1925",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Margin St, Peabody, MA 01960, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.53270080000001,
+                        "lng": -70.91342809999999
+                    },
+                    "southwest": {
+                        "lat": 42.5326907,
+                        "lng": -70.9134409
+                    }
+                },
+                "location": {
+                    "lat": 42.53270080000001,
+                    "lng": -70.91342809999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.53404473029151,
+                        "lng": -70.9120855197085
+                    },
+                    "southwest": {
+                        "lat": 42.53134676970851,
+                        "lng": -70.9147834802915
+                    }
+                }
+            },
+            "place_id": "EiMzIE1hcmdpbiBTdCwgUGVhYm9keSwgTUEgMDE5NjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "44f2d9ce950396bfc02b7f46c06804e4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:27.446972",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

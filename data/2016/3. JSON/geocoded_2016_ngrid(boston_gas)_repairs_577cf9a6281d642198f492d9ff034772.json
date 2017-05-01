@@ -1,0 +1,117 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_577cf9a6281d642198f492d9ff034772.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "104",
+                    "short_name": "104",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk Street",
+                    "short_name": "Norfolk St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Center",
+                    "short_name": "Dorchester Center",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3315",
+                    "short_name": "3315",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "104 Norfolk St, Dorchester Center, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2883402,
+                        "lng": -71.07580659999999
+                    },
+                    "southwest": {
+                        "lat": 42.2882215,
+                        "lng": -71.0759896
+                    }
+                },
+                "location": {
+                    "lat": 42.2882809,
+                    "lng": -71.0758981
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2896298302915,
+                        "lng": -71.0745491197085
+                    },
+                    "southwest": {
+                        "lat": 42.2869318697085,
+                        "lng": -71.0772470802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJn-EThfJ744kRKOignWa6ojQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "577cf9a6281d642198f492d9ff034772",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:29.253569",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

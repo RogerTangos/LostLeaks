@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_127e2b21b17e4de6a7e1aae2a3eae761.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "208",
+                    "short_name": "208",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jason Street",
+                    "short_name": "Jason St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8024",
+                    "short_name": "8024",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "208 Jason St, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4080725,
+                        "lng": -71.1668905
+                    },
+                    "southwest": {
+                        "lat": 42.4079882,
+                        "lng": -71.1669811
+                    }
+                },
+                "location": {
+                    "lat": 42.4080303,
+                    "lng": -71.16693579999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40937933029149,
+                        "lng": -71.1655868197085
+                    },
+                    "southwest": {
+                        "lat": 42.4066813697085,
+                        "lng": -71.1682847802915
+                    }
+                }
+            },
+            "place_id": "ChIJL3vbOLV344kRfoSZqbLBW00",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "127e2b21b17e4de6a7e1aae2a3eae761",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:25.652771",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

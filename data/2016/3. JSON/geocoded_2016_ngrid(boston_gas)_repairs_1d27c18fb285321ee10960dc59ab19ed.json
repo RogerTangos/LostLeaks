@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1d27c18fb285321ee10960dc59ab19ed.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "287",
+                    "short_name": "287",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Charles Street",
+                    "short_name": "Charles St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6402",
+                    "short_name": "6402",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "287 Charles St, Malden, MA 02148, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.423551,
+                    "lng": -71.07869800000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42489998029149,
+                        "lng": -71.07734901970852
+                    },
+                    "southwest": {
+                        "lat": 42.4222020197085,
+                        "lng": -71.08004698029153
+                    }
+                }
+            },
+            "place_id": "ChIJLV3tl1xx44kR71AqhVp7QLM",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1d27c18fb285321ee10960dc59ab19ed",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:11.063959",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

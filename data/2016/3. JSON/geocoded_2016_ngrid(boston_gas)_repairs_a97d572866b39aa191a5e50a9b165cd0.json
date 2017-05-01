@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a97d572866b39aa191a5e50a9b165cd0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Milton Avenue",
+                    "short_name": "Milton Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Milton Ave & Wilmington Ave, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2796909,
+                    "lng": -71.0752737
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.28103988029149,
+                        "lng": -71.0739247197085
+                    },
+                    "southwest": {
+                        "lat": 42.2783419197085,
+                        "lng": -71.0766226802915
+                    }
+                }
+            },
+            "place_id": "EjJNaWx0b24gQXZlICYgV2lsbWluZ3RvbiBBdmUsIEJvc3RvbiwgTUEgMDIxMjQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "a97d572866b39aa191a5e50a9b165cd0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:39.483208",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

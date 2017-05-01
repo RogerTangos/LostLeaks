@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ed596acc15e816474f789d9c637e9434.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "69",
+                    "short_name": "69",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "69 Main St, Concord, MA 01742, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4594628,
+                    "lng": -71.3508614
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4608117802915,
+                        "lng": -71.34951241970849
+                    },
+                    "southwest": {
+                        "lat": 42.4581138197085,
+                        "lng": -71.35221038029151
+                    }
+                }
+            },
+            "place_id": "ChIJu8gEmjia44kRdosL84hGnB4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ed596acc15e816474f789d9c637e9434",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:13.956776",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

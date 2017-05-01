@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e6cf5cd6b80579c8b85b7eaac6295678.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Livermore Road",
+                    "short_name": "Livermore Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4516",
+                    "short_name": "4516",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Livermore Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.38492249999999,
+                        "lng": -71.1599562
+                    },
+                    "southwest": {
+                        "lat": 42.3847893,
+                        "lng": -71.16012669999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3848559,
+                    "lng": -71.1600414
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3862048802915,
+                        "lng": -71.1586924697085
+                    },
+                    "southwest": {
+                        "lat": 42.3835069197085,
+                        "lng": -71.1613904302915
+                    }
+                }
+            },
+            "place_id": "ChIJnwCl3pZ344kROCor-hpNnBc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e6cf5cd6b80579c8b85b7eaac6295678",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:01.433648",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

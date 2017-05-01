@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0cac2b82fb99795ed375bb4d154d724e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "140",
+                    "short_name": "140",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Farrwood Drive",
+                    "short_name": "Farrwood Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01835",
+                    "short_name": "01835",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "140 Farrwood Dr, Haverhill, MA 01835, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7368157,
+                        "lng": -71.1067041
+                    },
+                    "southwest": {
+                        "lat": 42.7368031,
+                        "lng": -71.1067116
+                    }
+                },
+                "location": {
+                    "lat": 42.7368031,
+                    "lng": -71.1067116
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.73815838029149,
+                        "lng": -71.10535886970848
+                    },
+                    "southwest": {
+                        "lat": 42.7354604197085,
+                        "lng": -71.1080568302915
+                    }
+                }
+            },
+            "place_id": "EikxNDAgRmFycndvb2QgRHIsIEhhdmVyaGlsbCwgTUEgMDE4MzUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0cac2b82fb99795ed375bb4d154d724e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:05.015847",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

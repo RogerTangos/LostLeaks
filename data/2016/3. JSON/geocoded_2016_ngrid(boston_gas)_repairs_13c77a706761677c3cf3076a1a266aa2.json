@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_13c77a706761677c3cf3076a1a266aa2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chase Street",
+                    "short_name": "Chase St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4322",
+                    "short_name": "4322",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Chase St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4656871,
+                        "lng": -70.9557438
+                    },
+                    "southwest": {
+                        "lat": 42.4655144,
+                        "lng": -70.95597459999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4656008,
+                    "lng": -70.95585919999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4669497302915,
+                        "lng": -70.9545102197085
+                    },
+                    "southwest": {
+                        "lat": 42.4642517697085,
+                        "lng": -70.9572081802915
+                    }
+                }
+            },
+            "place_id": "ChIJ9cVOyR9t44kR2YDH22Uwtcc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "13c77a706761677c3cf3076a1a266aa2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:01.398602",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

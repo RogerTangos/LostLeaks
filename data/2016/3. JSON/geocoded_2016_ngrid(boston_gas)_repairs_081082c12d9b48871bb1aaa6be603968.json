@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_081082c12d9b48871bb1aaa6be603968.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Pleasant St & Highland Ave, Malden, MA 02148, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4265635,
+                    "lng": -71.0810753
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4279124802915,
+                        "lng": -71.0797263197085
+                    },
+                    "southwest": {
+                        "lat": 42.4252145197085,
+                        "lng": -71.0824242802915
+                    }
+                }
+            },
+            "place_id": "EjFQbGVhc2FudCBTdCAmIEhpZ2hsYW5kIEF2ZSwgTWFsZGVuLCBNQSAwMjE0OCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "081082c12d9b48871bb1aaa6be603968",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:31.752221",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

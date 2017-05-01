@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3c5cda76e09c220180b16da4e52529b6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lovett Street",
+                    "short_name": "Lovett St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5833",
+                    "short_name": "5833",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Lovett St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5451373,
+                        "lng": -70.8769973
+                    },
+                    "southwest": {
+                        "lat": 42.5451259,
+                        "lng": -70.8770079
+                    }
+                },
+                "location": {
+                    "lat": 42.5451259,
+                    "lng": -70.8769973
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.54648058029149,
+                        "lng": -70.87565361970849
+                    },
+                    "southwest": {
+                        "lat": 42.54378261970849,
+                        "lng": -70.87835158029151
+                    }
+                }
+            },
+            "place_id": "EiQ1OSBMb3ZldHQgU3QsIEJldmVybHksIE1BIDAxOTE1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3c5cda76e09c220180b16da4e52529b6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:14.789061",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

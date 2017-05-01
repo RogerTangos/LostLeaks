@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fdd210c71ca009a963d97cffef6edd4e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "192",
+                    "short_name": "192",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elliot Street",
+                    "short_name": "Elliot St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Upper Falls",
+                    "short_name": "Newton Upper Falls",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02464",
+                    "short_name": "02464",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1250",
+                    "short_name": "1250",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "192 Elliot St, Newton, MA 02464, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3132103,
+                        "lng": -71.2171192
+                    },
+                    "southwest": {
+                        "lat": 42.3132011,
+                        "lng": -71.21713319999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3132011,
+                    "lng": -71.2171192
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3145546802915,
+                        "lng": -71.2157772197085
+                    },
+                    "southwest": {
+                        "lat": 42.3118567197085,
+                        "lng": -71.2184751802915
+                    }
+                }
+            },
+            "place_id": "EiQxOTIgRWxsaW90IFN0LCBOZXd0b24sIE1BIDAyNDY0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fdd210c71ca009a963d97cffef6edd4e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:53.616367",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

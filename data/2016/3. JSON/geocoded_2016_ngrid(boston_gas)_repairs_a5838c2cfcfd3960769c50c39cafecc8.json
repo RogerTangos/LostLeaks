@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a5838c2cfcfd3960769c50c39cafecc8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "18",
+                    "short_name": "18",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Townly Road",
+                    "short_name": "Townly Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3118",
+                    "short_name": "3118",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "18 Townly Rd, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3817469,
+                        "lng": -71.1968828
+                    },
+                    "southwest": {
+                        "lat": 42.3816385,
+                        "lng": -71.1970276
+                    }
+                },
+                "location": {
+                    "lat": 42.38169269999999,
+                    "lng": -71.19695519999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3830416802915,
+                        "lng": -71.19560621970848
+                    },
+                    "southwest": {
+                        "lat": 42.3803437197085,
+                        "lng": -71.1983041802915
+                    }
+                }
+            },
+            "place_id": "ChIJ905Cvlad44kRzoXRB8IgsI4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a5838c2cfcfd3960769c50c39cafecc8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:33.614155",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

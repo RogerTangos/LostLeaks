@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dd7d4ac88aa909b1ea74bf72e73326ba.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "74",
+                    "short_name": "74",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Street",
+                    "short_name": "East St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "74 East St, Dorchester, MA 02122, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3075134,
+                        "lng": -71.06206759999999
+                    },
+                    "southwest": {
+                        "lat": 42.3073613,
+                        "lng": -71.062322
+                    }
+                },
+                "location": {
+                    "lat": 42.3074373,
+                    "lng": -71.0621948
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3087863302915,
+                        "lng": -71.06084581970849
+                    },
+                    "southwest": {
+                        "lat": 42.3060883697085,
+                        "lng": -71.0635437802915
+                    }
+                }
+            },
+            "place_id": "ChIJVcnwLrB744kRFg_2n-E7PU0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dd7d4ac88aa909b1ea74bf72e73326ba",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:39.241919",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

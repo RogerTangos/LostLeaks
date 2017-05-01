@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_813175d51f1cf97be2ea51edaaa6e8c3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "358",
+                    "short_name": "358",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Manet Avenue",
+                    "short_name": "Manet Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "358 Manet Ave, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2655041,
+                        "lng": -70.95662089999999
+                    },
+                    "southwest": {
+                        "lat": 42.2654091,
+                        "lng": -70.9568134
+                    }
+                },
+                "location": {
+                    "lat": 42.2654566,
+                    "lng": -70.9567172
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2668055802915,
+                        "lng": -70.95536816970849
+                    },
+                    "southwest": {
+                        "lat": 42.2641076197085,
+                        "lng": -70.9580661302915
+                    }
+                }
+            },
+            "place_id": "ChIJP-o0Dodk44kRci49yCk1LhI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "813175d51f1cf97be2ea51edaaa6e8c3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:28.450787",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

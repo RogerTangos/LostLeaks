@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ea20a18497e312fb425920faf865c440.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "100",
+                    "short_name": "100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Messina Drive",
+                    "short_name": "Messina Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6719",
+                    "short_name": "6719",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "100 Messina Dr, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.19322,
+                        "lng": -71.0328103
+                    },
+                    "southwest": {
+                        "lat": 42.1922281,
+                        "lng": -71.0352956
+                    }
+                },
+                "location": {
+                    "lat": 42.1927241,
+                    "lng": -71.034053
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.19407303029151,
+                        "lng": -71.0327039697085
+                    },
+                    "southwest": {
+                        "lat": 42.19137506970851,
+                        "lng": -71.03540193029151
+                    }
+                }
+            },
+            "place_id": "ChIJPYjuRJyC5IkRBqRrbFw8dBE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ea20a18497e312fb425920faf865c440",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:19.137575",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

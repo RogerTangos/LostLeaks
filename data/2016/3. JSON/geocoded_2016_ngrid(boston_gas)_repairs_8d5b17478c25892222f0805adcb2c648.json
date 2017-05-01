@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8d5b17478c25892222f0805adcb2c648.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02421",
+                    "short_name": "02421",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Massachusetts Ave & Locust Ave, Lexington, MA 02421, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.433872,
+                    "lng": -71.2092159
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4352209802915,
+                        "lng": -71.2078669197085
+                    },
+                    "southwest": {
+                        "lat": 42.4325230197085,
+                        "lng": -71.21056488029151
+                    }
+                }
+            },
+            "place_id": "EjhNYXNzYWNodXNldHRzIEF2ZSAmIExvY3VzdCBBdmUsIExleGluZ3RvbiwgTUEgMDI0MjEsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "8d5b17478c25892222f0805adcb2c648",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:37.917770",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

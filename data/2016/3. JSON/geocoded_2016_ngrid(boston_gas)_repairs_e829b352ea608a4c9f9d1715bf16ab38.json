@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e829b352ea608a4c9f9d1715bf16ab38.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "635",
+                    "short_name": "635",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boston Avenue",
+                    "short_name": "Boston Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford",
+                    "short_name": "Medford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02155",
+                    "short_name": "02155",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1375",
+                    "short_name": "1375",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "635 Boston Ave, Medford, MA 02155, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4007869,
+                        "lng": -71.1123839
+                    },
+                    "southwest": {
+                        "lat": 42.4006601,
+                        "lng": -71.1126022
+                    }
+                },
+                "location": {
+                    "lat": 42.4007235,
+                    "lng": -71.1124931
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40207248029149,
+                        "lng": -71.11114406970849
+                    },
+                    "southwest": {
+                        "lat": 42.39937451970849,
+                        "lng": -71.1138420302915
+                    }
+                }
+            },
+            "place_id": "ChIJa0RFi9h244kRidWattjVMiM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e829b352ea608a4c9f9d1715bf16ab38",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:48.990199",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

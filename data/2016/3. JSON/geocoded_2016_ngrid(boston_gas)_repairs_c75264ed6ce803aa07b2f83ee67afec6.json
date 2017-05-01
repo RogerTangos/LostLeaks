@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c75264ed6ce803aa07b2f83ee67afec6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "357",
+                    "short_name": "357",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jefferson Avenue",
+                    "short_name": "Jefferson Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4438",
+                    "short_name": "4438",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "357 Jefferson Ave, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5007526,
+                        "lng": -70.8978399
+                    },
+                    "southwest": {
+                        "lat": 42.5005944,
+                        "lng": -70.89804389999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5006735,
+                    "lng": -70.89794189999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50202248029149,
+                        "lng": -70.8965929197085
+                    },
+                    "southwest": {
+                        "lat": 42.49932451970849,
+                        "lng": -70.8992908802915
+                    }
+                }
+            },
+            "place_id": "ChIJpU1pLJoU44kRrPawvgBU2Ig",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c75264ed6ce803aa07b2f83ee67afec6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:28.107260",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e5a27ff399852e7e3fe20cf712d68ad6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dorset Lane",
+                    "short_name": "Dorset Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02482",
+                    "short_name": "02482",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4510",
+                    "short_name": "4510",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Dorset Ln, Wellesley, MA 02482, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3027788,
+                        "lng": -71.30679529999999
+                    },
+                    "southwest": {
+                        "lat": 42.3026582,
+                        "lng": -71.30697959999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3027185,
+                    "lng": -71.3068874
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3040674802915,
+                        "lng": -71.30553846970848
+                    },
+                    "southwest": {
+                        "lat": 42.3013695197085,
+                        "lng": -71.30823643029149
+                    }
+                }
+            },
+            "place_id": "ChIJfbMz6r6G44kRHzT4gZ3KB6c",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e5a27ff399852e7e3fe20cf712d68ad6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:00.688923",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

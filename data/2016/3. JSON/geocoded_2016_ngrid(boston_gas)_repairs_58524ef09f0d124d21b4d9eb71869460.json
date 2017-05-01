@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_58524ef09f0d124d21b4d9eb71869460.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Juniper Road",
+                    "short_name": "Juniper Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02482",
+                    "short_name": "02482",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7112",
+                    "short_name": "7112",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Juniper Rd, Wellesley, MA 02482, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2915715,
+                        "lng": -71.27888050000001
+                    },
+                    "southwest": {
+                        "lat": 42.29143089999999,
+                        "lng": -71.2790313
+                    }
+                },
+                "location": {
+                    "lat": 42.2915012,
+                    "lng": -71.2789559
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29285018029149,
+                        "lng": -71.2776069197085
+                    },
+                    "southwest": {
+                        "lat": 42.2901522197085,
+                        "lng": -71.28030488029152
+                    }
+                }
+            },
+            "place_id": "ChIJwzlp5DaB44kRlEHaJCi2eLs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "58524ef09f0d124d21b4d9eb71869460",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:19.208531",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

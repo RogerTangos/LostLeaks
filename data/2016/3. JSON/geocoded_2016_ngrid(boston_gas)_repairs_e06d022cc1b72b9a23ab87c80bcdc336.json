@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e06d022cc1b72b9a23ab87c80bcdc336.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "88",
+                    "short_name": "88",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lexington Street",
+                    "short_name": "Lexington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1752",
+                    "short_name": "1752",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "88 Lexington St, Watertown, MA 02472, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.372549,
+                    "lng": -71.194762
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3738979802915,
+                        "lng": -71.19341301970849
+                    },
+                    "southwest": {
+                        "lat": 42.3712000197085,
+                        "lng": -71.19611098029151
+                    }
+                }
+            },
+            "place_id": "ChIJnzDOT6qC44kRs4mvdNbLoyc",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e06d022cc1b72b9a23ab87c80bcdc336",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:30.969189",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

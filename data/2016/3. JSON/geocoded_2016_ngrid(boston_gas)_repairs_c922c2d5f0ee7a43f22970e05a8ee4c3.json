@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c922c2d5f0ee7a43f22970e05a8ee4c3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "45",
+                    "short_name": "45",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Glendale Road",
+                    "short_name": "Glendale Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2921",
+                    "short_name": "2921",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "45 Glendale Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3910816,
+                        "lng": -71.1715013
+                    },
+                    "southwest": {
+                        "lat": 42.3910061,
+                        "lng": -71.1716663
+                    }
+                },
+                "location": {
+                    "lat": 42.3910439,
+                    "lng": -71.1715838
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3923928302915,
+                        "lng": -71.1702348197085
+                    },
+                    "southwest": {
+                        "lat": 42.3896948697085,
+                        "lng": -71.17293278029152
+                    }
+                }
+            },
+            "place_id": "ChIJUUEy08F344kRJ9VzvOHggtc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c922c2d5f0ee7a43f22970e05a8ee4c3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:47.482589",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

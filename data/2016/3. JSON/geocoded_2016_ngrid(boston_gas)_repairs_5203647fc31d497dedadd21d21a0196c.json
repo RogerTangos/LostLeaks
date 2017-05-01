@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5203647fc31d497dedadd21d21a0196c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "North Avenue",
+                    "short_name": "North Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weston",
+                    "short_name": "Weston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02493",
+                    "short_name": "02493",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "North Ave & Round Hill Rd, Weston, MA 02493, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3993584,
+                    "lng": -71.3017942
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4007073802915,
+                        "lng": -71.30044521970851
+                    },
+                    "southwest": {
+                        "lat": 42.3980094197085,
+                        "lng": -71.30314318029151
+                    }
+                }
+            },
+            "place_id": "EjBOb3J0aCBBdmUgJiBSb3VuZCBIaWxsIFJkLCBXZXN0b24sIE1BIDAyNDkzLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "5203647fc31d497dedadd21d21a0196c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:42.149864",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

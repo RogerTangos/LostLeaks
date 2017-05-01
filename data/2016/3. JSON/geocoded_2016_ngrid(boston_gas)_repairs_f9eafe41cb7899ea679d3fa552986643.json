@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f9eafe41cb7899ea679d3fa552986643.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "182",
+                    "short_name": "182",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Canton Street",
+                    "short_name": "W Canton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Columbus",
+                    "short_name": "Columbus",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02116",
+                    "short_name": "02116",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "182 W Canton St, Boston, MA 02116, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.34372,
+                    "lng": -71.076095
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34506898029149,
+                        "lng": -71.0747460197085
+                    },
+                    "southwest": {
+                        "lat": 42.34237101970849,
+                        "lng": -71.0774439802915
+                    }
+                }
+            },
+            "place_id": "ChIJCb4X_BJ644kR2ifYI51I-bc",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f9eafe41cb7899ea679d3fa552986643",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:37.081409",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

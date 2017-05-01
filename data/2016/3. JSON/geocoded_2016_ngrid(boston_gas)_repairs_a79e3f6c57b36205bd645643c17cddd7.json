@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a79e3f6c57b36205bd645643c17cddd7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "261",
+                    "short_name": "261",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Orchard Street",
+                    "short_name": "Orchard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1821",
+                    "short_name": "1821",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "261 Orchard St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.37734469999999,
+                        "lng": -71.1874544
+                    },
+                    "southwest": {
+                        "lat": 42.377193,
+                        "lng": -71.18760739999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3772688,
+                    "lng": -71.1875309
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3786178302915,
+                        "lng": -71.18618191970849
+                    },
+                    "southwest": {
+                        "lat": 42.3759198697085,
+                        "lng": -71.18887988029151
+                    }
+                }
+            },
+            "place_id": "ChIJv_dZ2_5344kRP0IHPuWPHrI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a79e3f6c57b36205bd645643c17cddd7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:46.519108",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f4ebc859c5d2cf09a3c24adc784d9bdf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Revere Street",
+                    "short_name": "Revere St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Revere St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3821012,
+                        "lng": -70.981139
+                    },
+                    "southwest": {
+                        "lat": 42.3820893,
+                        "lng": -70.9811485
+                    }
+                },
+                "location": {
+                    "lat": 42.3821012,
+                    "lng": -70.9811485
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3834442302915,
+                        "lng": -70.97979476970849
+                    },
+                    "southwest": {
+                        "lat": 42.3807462697085,
+                        "lng": -70.98249273029151
+                    }
+                }
+            },
+            "place_id": "EiUzNiBSZXZlcmUgU3QsIFdpbnRocm9wLCBNQSAwMjE1MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f4ebc859c5d2cf09a3c24adc784d9bdf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:32.991939",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

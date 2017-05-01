@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0497434358ed3a9349d0e23823fa3ffe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Juniper Wood Drive",
+                    "short_name": "Juniper Wood Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1527",
+                    "short_name": "1527",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Juniper Wood Dr, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7974784,
+                        "lng": -71.1274214
+                    },
+                    "southwest": {
+                        "lat": 42.7974679,
+                        "lng": -71.1274336
+                    }
+                },
+                "location": {
+                    "lat": 42.7974679,
+                    "lng": -71.1274336
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7988221302915,
+                        "lng": -71.12607851970849
+                    },
+                    "southwest": {
+                        "lat": 42.79612416970851,
+                        "lng": -71.1287764802915
+                    }
+                }
+            },
+            "place_id": "Eis2IEp1bmlwZXIgV29vZCBEciwgSGF2ZXJoaWxsLCBNQSAwMTgzMiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0497434358ed3a9349d0e23823fa3ffe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:22.418187",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

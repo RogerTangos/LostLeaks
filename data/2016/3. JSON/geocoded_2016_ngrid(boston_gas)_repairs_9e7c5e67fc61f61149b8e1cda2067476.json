@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9e7c5e67fc61f61149b8e1cda2067476.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Dane Street",
+                    "short_name": "W Dane St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "14 W Dane St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.552103,
+                        "lng": -70.880254
+                    },
+                    "southwest": {
+                        "lat": 42.5520892,
+                        "lng": -70.8802544
+                    }
+                },
+                "location": {
+                    "lat": 42.5520892,
+                    "lng": -70.8802544
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5534450802915,
+                        "lng": -70.8789052197085
+                    },
+                    "southwest": {
+                        "lat": 42.5507471197085,
+                        "lng": -70.8816031802915
+                    }
+                }
+            },
+            "place_id": "EiQxNCBXIERhbmUgU3QsIEJldmVybHksIE1BIDAxOTE1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9e7c5e67fc61f61149b8e1cda2067476",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:03.082190",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

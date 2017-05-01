@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3692265ff30ae9a8fda5aa9fdc89cbcc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Salem Street",
+                    "short_name": "Salem St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Salem St & Pierce St, Malden, MA 02148, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4309039,
+                    "lng": -71.0579996
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43225288029149,
+                        "lng": -71.0566506197085
+                    },
+                    "southwest": {
+                        "lat": 42.42955491970849,
+                        "lng": -71.05934858029151
+                    }
+                }
+            },
+            "place_id": "EitTYWxlbSBTdCAmIFBpZXJjZSBTdCwgTWFsZGVuLCBNQSAwMjE0OCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "3692265ff30ae9a8fda5aa9fdc89cbcc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:44.568851",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8eb3b580d1a7c9bb225f7df2fd3b9645.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Glen Street",
+                    "short_name": "Glen St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Glen St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1350807,
+                        "lng": -70.9123134
+                    },
+                    "southwest": {
+                        "lat": 42.1349368,
+                        "lng": -70.9125378
+                    }
+                },
+                "location": {
+                    "lat": 42.1350088,
+                    "lng": -70.91242559999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.13635773029149,
+                        "lng": -70.9110766197085
+                    },
+                    "southwest": {
+                        "lat": 42.13365976970849,
+                        "lng": -70.9137745802915
+                    }
+                }
+            },
+            "place_id": "ChIJ72Pzeiuc5IkRE8Pk1S8_6yI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8eb3b580d1a7c9bb225f7df2fd3b9645",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:45.832435",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f6be9ad76d1d230231d09222cddec393.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hundreds Road",
+                    "short_name": "Hundreds Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02481",
+                    "short_name": "02481",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1422",
+                    "short_name": "1422",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Hundreds Rd, Wellesley, MA 02481, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3232525,
+                        "lng": -71.27243899999999
+                    },
+                    "southwest": {
+                        "lat": 42.3232524,
+                        "lng": -71.2724578
+                    }
+                },
+                "location": {
+                    "lat": 42.3232524,
+                    "lng": -71.2724578
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3246014302915,
+                        "lng": -71.27109941970849
+                    },
+                    "southwest": {
+                        "lat": 42.3219034697085,
+                        "lng": -71.2737973802915
+                    }
+                }
+            },
+            "place_id": "EiczIEh1bmRyZWRzIFJkLCBXZWxsZXNsZXksIE1BIDAyNDgxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f6be9ad76d1d230231d09222cddec393",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:26.571552",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

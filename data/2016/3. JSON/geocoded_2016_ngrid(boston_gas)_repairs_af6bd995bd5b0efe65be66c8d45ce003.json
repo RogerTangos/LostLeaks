@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_af6bd995bd5b0efe65be66c8d45ce003.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "399",
+                    "short_name": "399",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Squire Road",
+                    "short_name": "Squire Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "399 Squire Rd, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4287108,
+                        "lng": -71.01473969999999
+                    },
+                    "southwest": {
+                        "lat": 42.4284006,
+                        "lng": -71.01515359999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4285557,
+                    "lng": -71.0149467
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42990468029149,
+                        "lng": -71.01359766970847
+                    },
+                    "southwest": {
+                        "lat": 42.4272067197085,
+                        "lng": -71.0162956302915
+                    }
+                }
+            },
+            "place_id": "ChIJb_aw2hpy44kRsXDi_IiVWww",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "af6bd995bd5b0efe65be66c8d45ce003",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:58.731883",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

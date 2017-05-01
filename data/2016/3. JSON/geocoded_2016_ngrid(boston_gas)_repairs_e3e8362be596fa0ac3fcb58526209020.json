@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e3e8362be596fa0ac3fcb58526209020.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2143",
+                    "short_name": "2143",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2143 Commonwealth Avenue, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3483094,
+                        "lng": -71.24956449999999
+                    },
+                    "southwest": {
+                        "lat": 42.34822800000001,
+                        "lng": -71.2496907
+                    }
+                },
+                "location": {
+                    "lat": 42.3482687,
+                    "lng": -71.2496276
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3496176802915,
+                        "lng": -71.24827861970849
+                    },
+                    "southwest": {
+                        "lat": 42.34691971970851,
+                        "lng": -71.2509765802915
+                    }
+                }
+            },
+            "place_id": "ChIJcyClvAeD44kR75SAXgqOhxo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e3e8362be596fa0ac3fcb58526209020",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:39.664021",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

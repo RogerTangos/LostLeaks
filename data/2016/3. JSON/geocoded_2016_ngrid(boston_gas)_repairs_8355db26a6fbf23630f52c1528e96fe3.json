@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8355db26a6fbf23630f52c1528e96fe3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Washington St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4183908,
+                        "lng": -71.05554579999999
+                    },
+                    "southwest": {
+                        "lat": 42.4182438,
+                        "lng": -71.055717
+                    }
+                },
+                "location": {
+                    "lat": 42.4183173,
+                    "lng": -71.0556314
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4196662802915,
+                        "lng": -71.0542824197085
+                    },
+                    "southwest": {
+                        "lat": 42.4169683197085,
+                        "lng": -71.0569803802915
+                    }
+                }
+            },
+            "place_id": "ChIJx9dcVXdx44kRhYc9Cb3BjQI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8355db26a6fbf23630f52c1528e96fe3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:19.019378",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

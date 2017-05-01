@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_482ada2c820c13c872e7e35cbef2edeb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "71",
+                    "short_name": "71",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "McLellan Street",
+                    "short_name": "McLellan St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02121",
+                    "short_name": "02121",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4010",
+                    "short_name": "4010",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "71 McLellan St, Dorchester, MA 02121, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2992722,
+                        "lng": -71.083488
+                    },
+                    "southwest": {
+                        "lat": 42.2990917,
+                        "lng": -71.0837683
+                    }
+                },
+                "location": {
+                    "lat": 42.2991819,
+                    "lng": -71.0836281
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3005309302915,
+                        "lng": -71.08227916970849
+                    },
+                    "southwest": {
+                        "lat": 42.2978329697085,
+                        "lng": -71.0849771302915
+                    }
+                }
+            },
+            "place_id": "ChIJ92CbI-h744kRryku21Mxpkg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "482ada2c820c13c872e7e35cbef2edeb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:29.398274",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

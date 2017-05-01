@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f9ac90dd602a79d3f59238ab4c40a23e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Colon Street",
+                    "short_name": "Colon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Colon St & Heather St, Beverly, MA 01915, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.560772,
+                    "lng": -70.874416
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5621209802915,
+                        "lng": -70.8730670197085
+                    },
+                    "southwest": {
+                        "lat": 42.5594230197085,
+                        "lng": -70.8757649802915
+                    }
+                }
+            },
+            "place_id": "Ei1Db2xvbiBTdCAmIEhlYXRoZXIgU3QsIEJldmVybHksIE1BIDAxOTE1LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "f9ac90dd602a79d3f59238ab4c40a23e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:31.299258",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

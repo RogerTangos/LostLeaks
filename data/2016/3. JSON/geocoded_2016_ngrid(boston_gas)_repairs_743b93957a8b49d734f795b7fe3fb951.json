@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_743b93957a8b49d734f795b7fe3fb951.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newburyport",
+                    "short_name": "Newburyport",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01950",
+                    "short_name": "01950",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2309",
+                    "short_name": "2309",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Elm St, Newburyport, MA 01950, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.8140489,
+                    "lng": -70.878068
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8153978802915,
+                        "lng": -70.87671901970849
+                    },
+                    "southwest": {
+                        "lat": 42.8126999197085,
+                        "lng": -70.87941698029151
+                    }
+                }
+            },
+            "place_id": "ChIJzXUeGgrh4okResP6nfTQRI8",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "743b93957a8b49d734f795b7fe3fb951",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:43.149744",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

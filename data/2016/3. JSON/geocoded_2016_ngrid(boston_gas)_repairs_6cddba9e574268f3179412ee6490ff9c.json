@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6cddba9e574268f3179412ee6490ff9c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "76",
+                    "short_name": "76",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walden Street",
+                    "short_name": "Walden St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2121",
+                    "short_name": "2121",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "76 Walden St, Newton, MA 02460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.34453,
+                        "lng": -71.2130244
+                    },
+                    "southwest": {
+                        "lat": 42.3445294,
+                        "lng": -71.2130431
+                    }
+                },
+                "location": {
+                    "lat": 42.34453,
+                    "lng": -71.2130244
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3458786802915,
+                        "lng": -71.21168476970848
+                    },
+                    "southwest": {
+                        "lat": 42.3431807197085,
+                        "lng": -71.21438273029149
+                    }
+                }
+            },
+            "place_id": "EiM3NiBXYWxkZW4gU3QsIE5ld3RvbiwgTUEgMDI0NjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6cddba9e574268f3179412ee6490ff9c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:46.572199",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

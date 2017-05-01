@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a848cde9b07174dc2531b58a9ae3e0b3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gunrock Avenue",
+                    "short_name": "Gunrock Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Gunrock Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2678472,
+                        "lng": -70.8378476
+                    },
+                    "southwest": {
+                        "lat": 42.26783409999999,
+                        "lng": -70.8378541
+                    }
+                },
+                "location": {
+                    "lat": 42.2678472,
+                    "lng": -70.8378476
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2691896302915,
+                        "lng": -70.8365018697085
+                    },
+                    "southwest": {
+                        "lat": 42.2664916697085,
+                        "lng": -70.8391998302915
+                    }
+                }
+            },
+            "place_id": "EiMyMiBHdW5yb2NrIEF2ZSwgSHVsbCwgTUEgMDIwNDUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a848cde9b07174dc2531b58a9ae3e0b3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:44.601244",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

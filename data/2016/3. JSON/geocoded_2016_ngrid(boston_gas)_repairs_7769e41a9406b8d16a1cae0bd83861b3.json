@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7769e41a9406b8d16a1cae0bd83861b3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chester Street",
+                    "short_name": "Chester St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4003",
+                    "short_name": "4003",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Chester St, Watertown, MA 02472, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3679741,
+                    "lng": -71.1772701
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3693230802915,
+                        "lng": -71.1759211197085
+                    },
+                    "southwest": {
+                        "lat": 42.3666251197085,
+                        "lng": -71.17861908029151
+                    }
+                }
+            },
+            "place_id": "ChIJFQkcfxx444kRHU2MDR8eMsE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7769e41a9406b8d16a1cae0bd83861b3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:58.109189",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

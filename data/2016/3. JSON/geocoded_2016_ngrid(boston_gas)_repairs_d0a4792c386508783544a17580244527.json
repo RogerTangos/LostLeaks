@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d0a4792c386508783544a17580244527.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Lake Avenue",
+                    "short_name": "Lake Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Lake Ave & Lake Terrace, Newton, MA 02459, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.32803,
+                    "lng": -71.20295899999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32937898029149,
+                        "lng": -71.20161001970848
+                    },
+                    "southwest": {
+                        "lat": 42.3266810197085,
+                        "lng": -71.2043079802915
+                    }
+                }
+            },
+            "place_id": "Ei5MYWtlIEF2ZSAmIExha2UgVGVycmFjZSwgTmV3dG9uLCBNQSAwMjQ1OSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d0a4792c386508783544a17580244527",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:34.436873",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

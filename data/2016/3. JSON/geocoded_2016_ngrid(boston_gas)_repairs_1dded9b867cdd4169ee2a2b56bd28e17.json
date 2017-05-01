@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1dded9b867cdd4169ee2a2b56bd28e17.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "530",
+                    "short_name": "530",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lowell Avenue",
+                    "short_name": "Lowell Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newtonville",
+                    "short_name": "Newtonville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2353",
+                    "short_name": "2353",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "530 Lowell Ave, Newton, MA 02460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3392037,
+                        "lng": -71.211674
+                    },
+                    "southwest": {
+                        "lat": 42.3392036,
+                        "lng": -71.2116928
+                    }
+                },
+                "location": {
+                    "lat": 42.3392036,
+                    "lng": -71.211674
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3405526302915,
+                        "lng": -71.2103344197085
+                    },
+                    "southwest": {
+                        "lat": 42.33785466970851,
+                        "lng": -71.21303238029151
+                    }
+                }
+            },
+            "place_id": "EiU1MzAgTG93ZWxsIEF2ZSwgTmV3dG9uLCBNQSAwMjQ2MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1dded9b867cdd4169ee2a2b56bd28e17",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:45.336211",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

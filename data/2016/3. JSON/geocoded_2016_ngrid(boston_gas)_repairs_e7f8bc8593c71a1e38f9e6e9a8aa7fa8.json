@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e7f8bc8593c71a1e38f9e6e9a8aa7fa8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cottage Street",
+                    "short_name": "Cottage St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3619",
+                    "short_name": "3619",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Cottage St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.407151,
+                        "lng": -71.0545432
+                    },
+                    "southwest": {
+                        "lat": 42.40698889999999,
+                        "lng": -71.05473959999999
+                    }
+                },
+                "location": {
+                    "lat": 42.40707,
+                    "lng": -71.0546414
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4084189302915,
+                        "lng": -71.0532924197085
+                    },
+                    "southwest": {
+                        "lat": 42.4057209697085,
+                        "lng": -71.0559903802915
+                    }
+                }
+            },
+            "place_id": "ChIJVeGHbgtx44kRqHtBALejwIw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e7f8bc8593c71a1e38f9e6e9a8aa7fa8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:36.833011",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

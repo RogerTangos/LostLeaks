@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2e879ee941b6d18384342b152b01eb89.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Overlook Road",
+                    "short_name": "Overlook Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Piety Corner",
+                    "short_name": "Piety Corner",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "0818",
+                    "short_name": "0818",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Overlook Rd, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4039002,
+                        "lng": -71.24447769999999
+                    },
+                    "southwest": {
+                        "lat": 42.4038865,
+                        "lng": -71.2444811
+                    }
+                },
+                "location": {
+                    "lat": 42.4039002,
+                    "lng": -71.24447769999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4052423302915,
+                        "lng": -71.24313041970848
+                    },
+                    "southwest": {
+                        "lat": 42.4025443697085,
+                        "lng": -71.2458283802915
+                    }
+                }
+            },
+            "place_id": "EiYxNyBPdmVybG9vayBSZCwgV2FsdGhhbSwgTUEgMDI0NTEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2e879ee941b6d18384342b152b01eb89",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:14.187905",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

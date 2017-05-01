@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0ec492962c4e64e6786eba7aaa9a996f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1115",
+                    "short_name": "1115",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fellsway",
+                    "short_name": "Fellsway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1115 Fellsway, Malden, MA 02148, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4190617,
+                    "lng": -71.0857978
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4204106802915,
+                        "lng": -71.0844488197085
+                    },
+                    "southwest": {
+                        "lat": 42.4177127197085,
+                        "lng": -71.0871467802915
+                    }
+                }
+            },
+            "place_id": "ChIJT5WqVk9x44kR9iNK1_IdQPE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0ec492962c4e64e6786eba7aaa9a996f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:54.233234",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

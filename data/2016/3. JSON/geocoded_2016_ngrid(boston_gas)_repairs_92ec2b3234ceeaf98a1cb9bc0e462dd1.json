@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_92ec2b3234ceeaf98a1cb9bc0e462dd1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "156",
+                    "short_name": "156",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Upham Street",
+                    "short_name": "Upham St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3548",
+                    "short_name": "3548",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "156 Upham St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4578833,
+                        "lng": -71.0574444
+                    },
+                    "southwest": {
+                        "lat": 42.45772119999999,
+                        "lng": -71.05760599999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4578022,
+                    "lng": -71.0575252
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4591512302915,
+                        "lng": -71.05617621970848
+                    },
+                    "southwest": {
+                        "lat": 42.4564532697085,
+                        "lng": -71.0588741802915
+                    }
+                }
+            },
+            "place_id": "ChIJgchZP65z44kRoegVPa8g71k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "92ec2b3234ceeaf98a1cb9bc0e462dd1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:43.635633",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

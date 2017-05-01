@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ef69d348f34b61eb4b57726cdc4b6dbc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "118",
+                    "short_name": "118",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Almont Street",
+                    "short_name": "Almont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02126",
+                    "short_name": "02126",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1491",
+                    "short_name": "1491",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "118 Almont St, Mattapan, MA 02126, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2767358,
+                        "lng": -71.09774209999999
+                    },
+                    "southwest": {
+                        "lat": 42.27660849999999,
+                        "lng": -71.09790699999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2766722,
+                    "lng": -71.0978246
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27802113029149,
+                        "lng": -71.09647556970849
+                    },
+                    "southwest": {
+                        "lat": 42.2753231697085,
+                        "lng": -71.0991735302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJdyW926l-44kRaVDRZBAFFPE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ef69d348f34b61eb4b57726cdc4b6dbc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:06.413649",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

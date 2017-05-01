@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_28681b6fcb9219d10e4beff9404fd388.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Patten Street",
+                    "short_name": "Patten St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3933",
+                    "short_name": "3933",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Patten St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3659985,
+                        "lng": -71.1807821
+                    },
+                    "southwest": {
+                        "lat": 42.3658396,
+                        "lng": -71.1810572
+                    }
+                },
+                "location": {
+                    "lat": 42.365919,
+                    "lng": -71.1809196
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3672680302915,
+                        "lng": -71.1795706697085
+                    },
+                    "southwest": {
+                        "lat": 42.3645700697085,
+                        "lng": -71.18226863029152
+                    }
+                }
+            },
+            "place_id": "ChIJKUV3KQV444kR8LFfgzWeuvg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "28681b6fcb9219d10e4beff9404fd388",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:14.549998",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

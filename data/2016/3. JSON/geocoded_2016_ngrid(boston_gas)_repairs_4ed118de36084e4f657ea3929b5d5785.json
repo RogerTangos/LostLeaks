@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4ed118de36084e4f657ea3929b5d5785.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dale Avenue",
+                    "short_name": "Dale Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1713",
+                    "short_name": "1713",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Dale Ave, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5565485,
+                        "lng": -71.731627
+                    },
+                    "southwest": {
+                        "lat": 42.5565406,
+                        "lng": -71.7316424
+                    }
+                },
+                "location": {
+                    "lat": 42.5565406,
+                    "lng": -71.7316424
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.55789353029149,
+                        "lng": -71.73028571970849
+                    },
+                    "southwest": {
+                        "lat": 42.5551955697085,
+                        "lng": -71.73298368029151
+                    }
+                }
+            },
+            "place_id": "EiYzNSBEYWxlIEF2ZSwgTGVvbWluc3RlciwgTUEgMDE0NTMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4ed118de36084e4f657ea3929b5d5785",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:18.413585",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

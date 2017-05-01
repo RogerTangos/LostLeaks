@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bcc8574327ef9bd9eae63c77da577242.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Greystone Road",
+                    "short_name": "Greystone Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2829",
+                    "short_name": "2829",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Greystone Rd, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4869952,
+                        "lng": -70.86652959999999
+                    },
+                    "southwest": {
+                        "lat": 42.486853,
+                        "lng": -70.86674409999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4869241,
+                    "lng": -70.8666369
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.48827308029149,
+                        "lng": -70.8652878697085
+                    },
+                    "southwest": {
+                        "lat": 42.48557511970849,
+                        "lng": -70.8679858302915
+                    }
+                }
+            },
+            "place_id": "ChIJ1TlUOdwU44kRPcx2PxG7QXY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bcc8574327ef9bd9eae63c77da577242",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:12.063772",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

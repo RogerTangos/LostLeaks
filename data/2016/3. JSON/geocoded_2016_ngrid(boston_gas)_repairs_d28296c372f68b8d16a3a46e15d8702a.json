@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d28296c372f68b8d16a3a46e15d8702a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "264",
+                    "short_name": "264",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Weston Road",
+                    "short_name": "Weston Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02482",
+                    "short_name": "02482",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4565",
+                    "short_name": "4565",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "264 Weston Rd, Wellesley, MA 02482, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.30196189999999,
+                        "lng": -71.3100992
+                    },
+                    "southwest": {
+                        "lat": 42.3017817,
+                        "lng": -71.31035949999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3018718,
+                    "lng": -71.3102294
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3032207802915,
+                        "lng": -71.30888036970849
+                    },
+                    "southwest": {
+                        "lat": 42.3005228197085,
+                        "lng": -71.31157833029151
+                    }
+                }
+            },
+            "place_id": "ChIJ25wBz7-G44kRKMU6uDLj5-A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d28296c372f68b8d16a3a46e15d8702a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:47.690892",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

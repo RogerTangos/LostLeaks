@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5316daf7fa85a2eacfb918188a06f01e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Talbot Street",
+                    "short_name": "Talbot St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3418",
+                    "short_name": "3418",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Talbot St, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4626354,
+                        "lng": -71.0169815
+                    },
+                    "southwest": {
+                        "lat": 42.4626217,
+                        "lng": -71.01698449999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4626217,
+                    "lng": -71.01698449999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46397753029149,
+                        "lng": -71.01563401970849
+                    },
+                    "southwest": {
+                        "lat": 42.46127956970849,
+                        "lng": -71.01833198029149
+                    }
+                }
+            },
+            "place_id": "EiMxOSBUYWxib3QgU3QsIFNhdWd1cywgTUEgMDE5MDYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5316daf7fa85a2eacfb918188a06f01e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:51.314894",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

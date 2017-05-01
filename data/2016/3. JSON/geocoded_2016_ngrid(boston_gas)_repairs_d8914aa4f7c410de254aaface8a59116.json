@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d8914aa4f7c410de254aaface8a59116.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "47",
+                    "short_name": "47",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Amherst Road",
+                    "short_name": "Amherst Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02482",
+                    "short_name": "02482",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6611",
+                    "short_name": "6611",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "47 Amherst Rd, Wellesley, MA 02482, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.29747,
+                        "lng": -71.28541249999999
+                    },
+                    "southwest": {
+                        "lat": 42.2972506,
+                        "lng": -71.2856532
+                    }
+                },
+                "location": {
+                    "lat": 42.2973603,
+                    "lng": -71.28553289999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2987092802915,
+                        "lng": -71.28418386970849
+                    },
+                    "southwest": {
+                        "lat": 42.29601131970851,
+                        "lng": -71.28688183029149
+                    }
+                }
+            },
+            "place_id": "ChIJKxjJ7kqB44kRxisqIo26elI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d8914aa4f7c410de254aaface8a59116",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:57.736300",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

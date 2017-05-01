@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_608d75290ca1abe4a64535bf35dc6e51.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "155",
+                    "short_name": "155",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pearl Street",
+                    "short_name": "Pearl St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "155 Pearl St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2026637,
+                        "lng": -71.0005711
+                    },
+                    "southwest": {
+                        "lat": 42.2026504,
+                        "lng": -71.0005765
+                    }
+                },
+                "location": {
+                    "lat": 42.2026504,
+                    "lng": -71.0005711
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.20400603029149,
+                        "lng": -70.99922481970849
+                    },
+                    "southwest": {
+                        "lat": 42.2013080697085,
+                        "lng": -71.0019227802915
+                    }
+                }
+            },
+            "place_id": "EiYxNTUgUGVhcmwgU3QsIEJyYWludHJlZSwgTUEgMDIxODQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "608d75290ca1abe4a64535bf35dc6e51",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:41.123614",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

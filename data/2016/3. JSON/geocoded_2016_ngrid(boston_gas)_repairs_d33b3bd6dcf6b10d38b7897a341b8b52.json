@@ -1,0 +1,94 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d33b3bd6dcf6b10d38b7897a341b8b52.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Polk Street",
+                    "short_name": "Polk St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Polk St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.761136,
+                        "lng": -71.0471812
+                    },
+                    "southwest": {
+                        "lat": 42.760234,
+                        "lng": -71.04743359999999
+                    }
+                },
+                "location": {
+                    "lat": 42.761136,
+                    "lng": -71.0471812
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7620339802915,
+                        "lng": -71.0459584197085
+                    },
+                    "southwest": {
+                        "lat": 42.7593360197085,
+                        "lng": -71.0486563802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJf7mvKwcD44kRMqjtjjROdXQ",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "d33b3bd6dcf6b10d38b7897a341b8b52",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:16.632161",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

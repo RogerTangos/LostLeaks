@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_50a8a38a88eebbfabfef0297089696d9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Tremont Street",
+                    "short_name": "Tremont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Tremont St & W Brookline St, Boston, MA 02118, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.34198629999999,
+                    "lng": -71.07532080000001
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3433352802915,
+                        "lng": -71.07397181970852
+                    },
+                    "southwest": {
+                        "lat": 42.3406373197085,
+                        "lng": -71.07666978029152
+                    }
+                }
+            },
+            "place_id": "EjJUcmVtb250IFN0ICYgVyBCcm9va2xpbmUgU3QsIEJvc3RvbiwgTUEgMDIxMTgsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "50a8a38a88eebbfabfef0297089696d9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:55.556826",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

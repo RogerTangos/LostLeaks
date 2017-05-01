@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f64706425a44157a591d59bc5a719423.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "154",
+                    "short_name": "154",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Maverick Street",
+                    "short_name": "Maverick St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jeffries Point",
+                    "short_name": "Jeffries Point",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2367",
+                    "short_name": "2367",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "154 Maverick St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3700227,
+                        "lng": -71.0377694
+                    },
+                    "southwest": {
+                        "lat": 42.36980519999999,
+                        "lng": -71.0380522
+                    }
+                },
+                "location": {
+                    "lat": 42.369914,
+                    "lng": -71.03791079999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37126293029149,
+                        "lng": -71.0365618197085
+                    },
+                    "southwest": {
+                        "lat": 42.36856496970849,
+                        "lng": -71.0392597802915
+                    }
+                }
+            },
+            "place_id": "ChIJRT5VK11w44kR4IscE8xkoIE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f64706425a44157a591d59bc5a719423",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:38.854704",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

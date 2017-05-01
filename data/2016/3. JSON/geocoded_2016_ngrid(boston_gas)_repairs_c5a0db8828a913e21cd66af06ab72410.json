@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c5a0db8828a913e21cd66af06ab72410.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "173",
+                    "short_name": "173",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mystic Street",
+                    "short_name": "Mystic St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1145",
+                    "short_name": "1145",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "173 Mystic St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4213698,
+                        "lng": -71.1533464
+                    },
+                    "southwest": {
+                        "lat": 42.42127360000001,
+                        "lng": -71.1535522
+                    }
+                },
+                "location": {
+                    "lat": 42.4213217,
+                    "lng": -71.15344929999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4226706802915,
+                        "lng": -71.1521003197085
+                    },
+                    "southwest": {
+                        "lat": 42.4199727197085,
+                        "lng": -71.1547982802915
+                    }
+                }
+            },
+            "place_id": "ChIJR5u7fFx244kR0320kSY8hag",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c5a0db8828a913e21cd66af06ab72410",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:19.710521",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

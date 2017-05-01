@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dca145ba763b882fae86609751b2a02d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Solar Avenue",
+                    "short_name": "Solar Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6940",
+                    "short_name": "6940",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Solar Ave, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1982769,
+                        "lng": -71.02152699999999
+                    },
+                    "southwest": {
+                        "lat": 42.1982767,
+                        "lng": -71.0215458
+                    }
+                },
+                "location": {
+                    "lat": 42.1982767,
+                    "lng": -71.0215458
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1996257802915,
+                        "lng": -71.02018741970849
+                    },
+                    "southwest": {
+                        "lat": 42.1969278197085,
+                        "lng": -71.0228853802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiUxIFNvbGFyIEF2ZSwgQnJhaW50cmVlLCBNQSAwMjE4NCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dca145ba763b882fae86609751b2a02d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:07.051756",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

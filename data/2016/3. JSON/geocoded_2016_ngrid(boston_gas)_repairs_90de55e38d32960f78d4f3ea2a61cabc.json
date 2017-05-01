@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_90de55e38d32960f78d4f3ea2a61cabc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Avon Street",
+                    "short_name": "Avon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4301",
+                    "short_name": "4301",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Avon St, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4463905,
+                        "lng": -71.0125503
+                    },
+                    "southwest": {
+                        "lat": 42.4463839,
+                        "lng": -71.0125668
+                    }
+                },
+                "location": {
+                    "lat": 42.4463905,
+                    "lng": -71.0125668
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4477361802915,
+                        "lng": -71.0112095697085
+                    },
+                    "southwest": {
+                        "lat": 42.4450382197085,
+                        "lng": -71.0139075302915
+                    }
+                }
+            },
+            "place_id": "EiExNSBBdm9uIFN0LCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "90de55e38d32960f78d4f3ea2a61cabc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:17.641660",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

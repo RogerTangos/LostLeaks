@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9d25e537b795c082fbd5c0d4eb420775.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "29",
+                    "short_name": "29",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Everett Avenue",
+                    "short_name": "Everett Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3544",
+                    "short_name": "3544",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "29 Everett Ave, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4443977,
+                        "lng": -71.1486262
+                    },
+                    "southwest": {
+                        "lat": 42.44417019999999,
+                        "lng": -71.1489198
+                    }
+                },
+                "location": {
+                    "lat": 42.44428389999999,
+                    "lng": -71.14877299999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4456329302915,
+                        "lng": -71.1474240197085
+                    },
+                    "southwest": {
+                        "lat": 42.4429349697085,
+                        "lng": -71.1501219802915
+                    }
+                }
+            },
+            "place_id": "ChIJTQEzjtV144kRlRzz6RwLBk4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9d25e537b795c082fbd5c0d4eb420775",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:14.584709",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

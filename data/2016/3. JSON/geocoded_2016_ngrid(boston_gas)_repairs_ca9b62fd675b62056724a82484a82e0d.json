@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ca9b62fd675b62056724a82484a82e0d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Eugene Road",
+                    "short_name": "Eugene Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5134",
+                    "short_name": "5134",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Eugene Rd, Burlington, MA 01803, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.471776,
+                    "lng": -71.202304
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47312498029149,
+                        "lng": -71.20095501970849
+                    },
+                    "southwest": {
+                        "lat": 42.4704270197085,
+                        "lng": -71.20365298029151
+                    }
+                }
+            },
+            "place_id": "ChIJMbshdhie44kR78ySWwTW3fs",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ca9b62fd675b62056724a82484a82e0d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:51.817250",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

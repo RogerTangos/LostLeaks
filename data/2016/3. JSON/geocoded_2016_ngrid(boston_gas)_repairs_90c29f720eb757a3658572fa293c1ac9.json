@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_90c29f720eb757a3658572fa293c1ac9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pond Street",
+                    "short_name": "Pond St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Pond St, Whitman, MA 02382, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0837993,
+                        "lng": -70.9245711
+                    },
+                    "southwest": {
+                        "lat": 42.0836491,
+                        "lng": -70.9247558
+                    }
+                },
+                "location": {
+                    "lat": 42.0837242,
+                    "lng": -70.9246634
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.08507318029149,
+                        "lng": -70.92331446970849
+                    },
+                    "southwest": {
+                        "lat": 42.0823752197085,
+                        "lng": -70.92601243029151
+                    }
+                }
+            },
+            "place_id": "ChIJQ9lhhumb5IkR3yqNsgkWHAg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "90c29f720eb757a3658572fa293c1ac9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:16.292872",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3dc12472ca33845df06bfe80d6cfb07e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pepperell Road",
+                    "short_name": "Pepperell Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Groton",
+                    "short_name": "Groton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Groton",
+                    "short_name": "Groton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01450",
+                    "short_name": "01450",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Pepperell Rd, Groton, MA 01450, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6041472,
+                        "lng": -71.62646699999999
+                    },
+                    "southwest": {
+                        "lat": 42.6041456,
+                        "lng": -71.6264857
+                    }
+                },
+                "location": {
+                    "lat": 42.6041472,
+                    "lng": -71.6264857
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.60549538029149,
+                        "lng": -71.6251273697085
+                    },
+                    "southwest": {
+                        "lat": 42.60279741970849,
+                        "lng": -71.6278253302915
+                    }
+                }
+            },
+            "place_id": "EiYyNSBQZXBwZXJlbGwgUmQsIEdyb3RvbiwgTUEgMDE0NTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3dc12472ca33845df06bfe80d6cfb07e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:31.826282",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

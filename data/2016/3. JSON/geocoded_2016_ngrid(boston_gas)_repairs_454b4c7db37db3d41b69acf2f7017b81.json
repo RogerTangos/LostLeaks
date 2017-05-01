@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_454b4c7db37db3d41b69acf2f7017b81.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Adams Street",
+                    "short_name": "Adams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Adams St & Pierce Ave, Boston, MA 02122, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2870877,
+                    "lng": -71.0545557
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2884366802915,
+                        "lng": -71.0532067197085
+                    },
+                    "southwest": {
+                        "lat": 42.2857387197085,
+                        "lng": -71.0559046802915
+                    }
+                }
+            },
+            "place_id": "EixBZGFtcyBTdCAmIFBpZXJjZSBBdmUsIEJvc3RvbiwgTUEgMDIxMjIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "454b4c7db37db3d41b69acf2f7017b81",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:44.382333",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

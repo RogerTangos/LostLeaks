@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_09eb8f6fb3737c7a857fd34af16e1bb4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Willow Street",
+                    "short_name": "Willow St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "27 Willow St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.38066449999999,
+                        "lng": -71.1722891
+                    },
+                    "southwest": {
+                        "lat": 42.3805753,
+                        "lng": -71.17246999999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3806199,
+                    "lng": -71.1723796
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3819688802915,
+                        "lng": -71.1710305697085
+                    },
+                    "southwest": {
+                        "lat": 42.3792709197085,
+                        "lng": -71.17372853029151
+                    }
+                }
+            },
+            "place_id": "ChIJwU-Jb_J344kR2iw_KBWkjBw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "09eb8f6fb3737c7a857fd34af16e1bb4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:55.347991",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_406366ef616be5192477076a16d71e9b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "102",
+                    "short_name": "102",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ocean Avenue",
+                    "short_name": "Ocean Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3642",
+                    "short_name": "3642",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "102 Ocean Ave, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4919404,
+                        "lng": -70.8569389
+                    },
+                    "southwest": {
+                        "lat": 42.4919276,
+                        "lng": -70.85694579999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4919404,
+                    "lng": -70.8569389
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4932829802915,
+                        "lng": -70.8555933697085
+                    },
+                    "southwest": {
+                        "lat": 42.4905850197085,
+                        "lng": -70.85829133029151
+                    }
+                }
+            },
+            "place_id": "EigxMDIgT2NlYW4gQXZlLCBNYXJibGVoZWFkLCBNQSAwMTk0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "406366ef616be5192477076a16d71e9b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:24.778996",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

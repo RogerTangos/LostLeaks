@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_986ea143707c68f622c3289641f43e1f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Winthrop Street",
+                    "short_name": "Winthrop St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Winthrop St & Washington St, Winchester, MA 01890, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4516084,
+                    "lng": -71.133732
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4529573802915,
+                        "lng": -71.1323830197085
+                    },
+                    "southwest": {
+                        "lat": 42.4502594197085,
+                        "lng": -71.1350809802915
+                    }
+                }
+            },
+            "place_id": "EjZXaW50aHJvcCBTdCAmIFdhc2hpbmd0b24gU3QsIFdpbmNoZXN0ZXIsIE1BIDAxODkwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "986ea143707c68f622c3289641f43e1f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:59.725731",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

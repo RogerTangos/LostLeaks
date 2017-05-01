@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ee168f470ee2e18886cd9b498ee1c920.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brookline Street",
+                    "short_name": "Brookline St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Brookline St, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0476263,
+                        "lng": -71.8819975
+                    },
+                    "southwest": {
+                        "lat": 42.0476131,
+                        "lng": -71.88200379999999
+                    }
+                },
+                "location": {
+                    "lat": 42.0476263,
+                    "lng": -71.88200379999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0489686802915,
+                        "lng": -71.88065166970848
+                    },
+                    "southwest": {
+                        "lat": 42.0462707197085,
+                        "lng": -71.88334963029149
+                    }
+                }
+            },
+            "place_id": "EicxMSBCcm9va2xpbmUgU3QsIFdlYnN0ZXIsIE1BIDAxNTcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ee168f470ee2e18886cd9b498ee1c920",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:41.745260",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

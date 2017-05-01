@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_769a284d9520952f6997d8f710fff494.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Monument Square",
+                    "short_name": "Monument Sq",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Charlestown",
+                    "short_name": "Charlestown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02129",
+                    "short_name": "02129",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Monument Sq, Boston, MA 02129, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3771651,
+                        "lng": -71.06111800000001
+                    },
+                    "southwest": {
+                        "lat": 42.3771526,
+                        "lng": -71.061126
+                    }
+                },
+                "location": {
+                    "lat": 42.3771651,
+                    "lng": -71.06111800000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3785078302915,
+                        "lng": -71.05977301970852
+                    },
+                    "southwest": {
+                        "lat": 42.3758098697085,
+                        "lng": -71.06247098029152
+                    }
+                }
+            },
+            "place_id": "EiUyMiBNb251bWVudCBTcSwgQm9zdG9uLCBNQSAwMjEyOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "769a284d9520952f6997d8f710fff494",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:46.509101",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

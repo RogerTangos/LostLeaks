@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a87a6062eb3dadc74cdfb547655115a8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kerr Way",
+                    "short_name": "Kerr Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02120",
+                    "short_name": "02120",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2405",
+                    "short_name": "2405",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Kerr Way, Boston, MA 02120, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3334852,
+                        "lng": -71.0858239
+                    },
+                    "southwest": {
+                        "lat": 42.3333815,
+                        "lng": -71.0859902
+                    }
+                },
+                "location": {
+                    "lat": 42.3334333,
+                    "lng": -71.0859071
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3347823302915,
+                        "lng": -71.08455806970849
+                    },
+                    "southwest": {
+                        "lat": 42.3320843697085,
+                        "lng": -71.08725603029151
+                    }
+                }
+            },
+            "place_id": "ChIJd3n1ViN644kRe2ysP0eXZwI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a87a6062eb3dadc74cdfb547655115a8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:47.080887",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

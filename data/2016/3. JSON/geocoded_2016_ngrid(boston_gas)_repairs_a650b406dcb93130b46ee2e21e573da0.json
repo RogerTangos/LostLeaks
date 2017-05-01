@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a650b406dcb93130b46ee2e21e573da0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "58",
+                    "short_name": "58",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Appleton Street",
+                    "short_name": "Appleton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1630",
+                    "short_name": "1630",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "58 Appleton St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5329541,
+                        "lng": -70.9061569
+                    },
+                    "southwest": {
+                        "lat": 42.5328202,
+                        "lng": -70.906362
+                    }
+                },
+                "location": {
+                    "lat": 42.5328872,
+                    "lng": -70.9062594
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5342361302915,
+                        "lng": -70.9049104697085
+                    },
+                    "southwest": {
+                        "lat": 42.5315381697085,
+                        "lng": -70.9076084302915
+                    }
+                }
+            },
+            "place_id": "ChIJH1LdcHUU44kRdqGLJ91GNAE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a650b406dcb93130b46ee2e21e573da0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:06.717060",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

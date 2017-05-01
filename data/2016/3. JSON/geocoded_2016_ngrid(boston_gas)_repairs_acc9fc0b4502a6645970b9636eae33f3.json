@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_acc9fc0b4502a6645970b9636eae33f3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "76",
+                    "short_name": "76",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gledhill Avenue",
+                    "short_name": "Gledhill Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "76 Gledhill Ave, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4153245,
+                        "lng": -71.0437525
+                    },
+                    "southwest": {
+                        "lat": 42.41517899999999,
+                        "lng": -71.0439513
+                    }
+                },
+                "location": {
+                    "lat": 42.4152517,
+                    "lng": -71.0438519
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4166007302915,
+                        "lng": -71.0425029197085
+                    },
+                    "southwest": {
+                        "lat": 42.4139027697085,
+                        "lng": -71.0452008802915
+                    }
+                }
+            },
+            "place_id": "ChIJyTVxoJxx44kRzmGxjv6slMI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "acc9fc0b4502a6645970b9636eae33f3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:45.503624",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

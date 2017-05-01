@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e588bfd46fe0b42df9dcfac6228b930f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gardner Terrace",
+                    "short_name": "Gardner Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6316",
+                    "short_name": "6316",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Gardner Terrace, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2113133,
+                        "lng": -71.004581
+                    },
+                    "southwest": {
+                        "lat": 42.211164,
+                        "lng": -71.0047226
+                    }
+                },
+                "location": {
+                    "lat": 42.2112386,
+                    "lng": -71.00465179999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2125876302915,
+                        "lng": -71.0033028197085
+                    },
+                    "southwest": {
+                        "lat": 42.2098896697085,
+                        "lng": -71.0060007802915
+                    }
+                }
+            },
+            "place_id": "ChIJvz_iDDV944kRFuT1Xrum_K0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e588bfd46fe0b42df9dcfac6228b930f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:59.659623",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

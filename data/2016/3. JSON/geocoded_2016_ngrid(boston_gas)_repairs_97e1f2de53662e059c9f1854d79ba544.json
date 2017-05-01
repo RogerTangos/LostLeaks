@@ -1,0 +1,117 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_97e1f2de53662e059c9f1854d79ba544.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Semont Road",
+                    "short_name": "Semont Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Center",
+                    "short_name": "Dorchester Center",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2505",
+                    "short_name": "2505",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Semont Rd, Dorchester Center, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2906871,
+                        "lng": -71.0620777
+                    },
+                    "southwest": {
+                        "lat": 42.2905136,
+                        "lng": -71.062258
+                    }
+                },
+                "location": {
+                    "lat": 42.2906004,
+                    "lng": -71.0621678
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2919493302915,
+                        "lng": -71.0608188697085
+                    },
+                    "southwest": {
+                        "lat": 42.2892513697085,
+                        "lng": -71.06351683029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJN8Jir5B744kRfOiuJW2vAss",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "97e1f2de53662e059c9f1854d79ba544",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:27.693842",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

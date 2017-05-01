@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cb14e199955a189b52e99d1538e87885.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "120",
+                    "short_name": "120",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grant Street",
+                    "short_name": "Grant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Weymouth",
+                    "short_name": "East Weymouth",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02189",
+                    "short_name": "02189",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3061",
+                    "short_name": "3061",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "120 Grant St, East Weymouth, MA 02189, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2189459,
+                        "lng": -70.9196903
+                    },
+                    "southwest": {
+                        "lat": 42.2188542,
+                        "lng": -70.91980749999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2189,
+                    "lng": -70.9197489
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.22024903029149,
+                        "lng": -70.91839991970849
+                    },
+                    "southwest": {
+                        "lat": 42.2175510697085,
+                        "lng": -70.9210978802915
+                    }
+                }
+            },
+            "place_id": "ChIJ2WWr_M1j44kRs8DLJWsnWlE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cb14e199955a189b52e99d1538e87885",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:19.854098",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5f6f8bbb37c2ef92274bb098ca2d427a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "87",
+                    "short_name": "87",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bellevue Road",
+                    "short_name": "Bellevue Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2807",
+                    "short_name": "2807",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "87 Bellevue Rd, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.47102719999999,
+                        "lng": -70.966459
+                    },
+                    "southwest": {
+                        "lat": 42.4708623,
+                        "lng": -70.9667004
+                    }
+                },
+                "location": {
+                    "lat": 42.4709448,
+                    "lng": -70.9665797
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4722937302915,
+                        "lng": -70.9652307197085
+                    },
+                    "southwest": {
+                        "lat": 42.4695957697085,
+                        "lng": -70.96792868029151
+                    }
+                }
+            },
+            "place_id": "ChIJsyZTyyJt44kRy3ItxBSjDG4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5f6f8bbb37c2ef92274bb098ca2d427a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:28.470802",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

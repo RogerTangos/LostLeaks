@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fb4691fc68a157f425924bba9d6ee090.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Greenough Street",
+                    "short_name": "Greenough St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Greenough St & Somerset Rd, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.33480369999999,
+                    "lng": -71.1258083
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33615268029149,
+                        "lng": -71.12445931970849
+                    },
+                    "southwest": {
+                        "lat": 42.3334547197085,
+                        "lng": -71.1271572802915
+                    }
+                }
+            },
+            "place_id": "EjRHcmVlbm91Z2ggU3QgJiBTb21lcnNldCBSZCwgQnJvb2tsaW5lLCBNQSAwMjQ0NSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "fb4691fc68a157f425924bba9d6ee090",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:29.574257",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

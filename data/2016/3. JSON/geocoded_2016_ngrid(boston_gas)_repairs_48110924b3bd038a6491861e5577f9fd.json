@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_48110924b3bd038a6491861e5577f9fd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "186",
+                    "short_name": "186",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wright Road",
+                    "short_name": "Wright Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Concord",
+                    "short_name": "West Concord",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "186 Wright Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4637245,
+                        "lng": -71.4078025
+                    },
+                    "southwest": {
+                        "lat": 42.4637176,
+                        "lng": -71.4078188
+                    }
+                },
+                "location": {
+                    "lat": 42.4637176,
+                    "lng": -71.4078025
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4650700302915,
+                        "lng": -71.40646166970849
+                    },
+                    "southwest": {
+                        "lat": 42.4623720697085,
+                        "lng": -71.40915963029151
+                    }
+                }
+            },
+            "place_id": "EiUxODYgV3JpZ2h0IFJkLCBDb25jb3JkLCBNQSAwMTc0MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "48110924b3bd038a6491861e5577f9fd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:40.574210",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9df914e27adba833c7f9c46d96e6fe5e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "46",
+                    "short_name": "46",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bennington Street",
+                    "short_name": "Bennington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central-Maverick Square / Paris Street",
+                    "short_name": "Central-Maverick Square / Paris Street",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "46 Bennington St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3758141,
+                        "lng": -71.0372649
+                    },
+                    "southwest": {
+                        "lat": 42.3755442,
+                        "lng": -71.037503
+                    }
+                },
+                "location": {
+                    "lat": 42.3756792,
+                    "lng": -71.0373839
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3770281302915,
+                        "lng": -71.0360349697085
+                    },
+                    "southwest": {
+                        "lat": 42.3743301697085,
+                        "lng": -71.0387329302915
+                    }
+                }
+            },
+            "place_id": "ChIJWxYTMUVw44kRfxzpuTUhCdc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9df914e27adba833c7f9c46d96e6fe5e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:53.380676",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

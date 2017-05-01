@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72d66a7f610d9cc8576a46c4218afa27.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Proctor Road",
+                    "short_name": "Proctor Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7636",
+                    "short_name": "7636",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Proctor Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1862794,
+                        "lng": -70.9934852
+                    },
+                    "southwest": {
+                        "lat": 42.1861957,
+                        "lng": -70.9936417
+                    }
+                },
+                "location": {
+                    "lat": 42.1862376,
+                    "lng": -70.9935635
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1875865302915,
+                        "lng": -70.99221446970849
+                    },
+                    "southwest": {
+                        "lat": 42.1848885697085,
+                        "lng": -70.99491243029149
+                    }
+                }
+            },
+            "place_id": "ChIJZ29H_Fad5IkRNSNbcja3y10",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "72d66a7f610d9cc8576a46c4218afa27",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:26.718962",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

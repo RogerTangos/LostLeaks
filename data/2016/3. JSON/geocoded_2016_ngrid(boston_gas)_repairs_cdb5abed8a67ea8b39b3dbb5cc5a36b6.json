@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cdb5abed8a67ea8b39b3dbb5cc5a36b6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "942",
+                    "short_name": "942",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Southbridge",
+                    "short_name": "Southbridge",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Southbridge",
+                    "short_name": "Southbridge",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01550",
+                    "short_name": "01550",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "942 Main St, Southbridge, MA 01550, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.083174,
+                        "lng": -72.0470486
+                    },
+                    "southwest": {
+                        "lat": 42.0826838,
+                        "lng": -72.04847280000001
+                    }
+                },
+                "location": {
+                    "lat": 42.0829289,
+                    "lng": -72.0477607
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.08427788029149,
+                        "lng": -72.0464117197085
+                    },
+                    "southwest": {
+                        "lat": 42.0815799197085,
+                        "lng": -72.04910968029151
+                    }
+                }
+            },
+            "place_id": "ChIJy0VnTyei5okRDJN7woj6X-A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cdb5abed8a67ea8b39b3dbb5cc5a36b6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:58.031835",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

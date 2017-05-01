@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b63f9697fb5514f474fbd68cea685733.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Forest Street",
+                    "short_name": "Forest St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Forest St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.423158,
+                        "lng": -71.6817178
+                    },
+                    "southwest": {
+                        "lat": 42.4231496,
+                        "lng": -71.68173279999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4231496,
+                    "lng": -71.6817178
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4245027802915,
+                        "lng": -71.68037631970849
+                    },
+                    "southwest": {
+                        "lat": 42.42180481970851,
+                        "lng": -71.68307428029149
+                    }
+                }
+            },
+            "place_id": "EiM1IEZvcmVzdCBTdCwgQ2xpbnRvbiwgTUEgMDE1MTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b63f9697fb5514f474fbd68cea685733",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:18.129750",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c700b40ac84c852764e29931280747b8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1026",
+                    "short_name": "1026",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Blue Hill Avenue",
+                    "short_name": "Blue Hill Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1026 Blue Hill Avenue, Boston, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.28926540000001,
+                        "lng": -71.0894546
+                    },
+                    "southwest": {
+                        "lat": 42.2889491,
+                        "lng": -71.0896746
+                    }
+                },
+                "location": {
+                    "lat": 42.2891072,
+                    "lng": -71.0895646
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2904562302915,
+                        "lng": -71.08821561970849
+                    },
+                    "southwest": {
+                        "lat": 42.2877582697085,
+                        "lng": -71.0909135802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ6XEiDPt744kRnQS8AFDE3QE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c700b40ac84c852764e29931280747b8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:26.173327",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

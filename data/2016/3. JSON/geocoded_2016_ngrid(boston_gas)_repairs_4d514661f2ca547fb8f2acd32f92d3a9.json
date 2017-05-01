@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4d514661f2ca547fb8f2acd32f92d3a9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "69",
+                    "short_name": "69",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Emerson Street",
+                    "short_name": "W Emerson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "69 W Emerson St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4589528,
+                        "lng": -71.06626969999999
+                    },
+                    "southwest": {
+                        "lat": 42.458939,
+                        "lng": -71.06627139999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4589528,
+                    "lng": -71.06626969999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4602948802915,
+                        "lng": -71.06492156970849
+                    },
+                    "southwest": {
+                        "lat": 42.4575969197085,
+                        "lng": -71.0676195302915
+                    }
+                }
+            },
+            "place_id": "Eic2OSBXIEVtZXJzb24gU3QsIE1lbHJvc2UsIE1BIDAyMTc2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4d514661f2ca547fb8f2acd32f92d3a9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:14.930909",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

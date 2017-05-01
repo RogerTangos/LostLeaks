@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b2006470db0638fa4d979a281f4d6971.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "186",
+                    "short_name": "186",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Payson Road",
+                    "short_name": "Payson Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2834",
+                    "short_name": "2834",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "186 Payson Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.383782,
+                        "lng": -71.1672378
+                    },
+                    "southwest": {
+                        "lat": 42.38355749999999,
+                        "lng": -71.1674634
+                    }
+                },
+                "location": {
+                    "lat": 42.3836697,
+                    "lng": -71.16735059999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3850187302915,
+                        "lng": -71.16600161970848
+                    },
+                    "southwest": {
+                        "lat": 42.3823207697085,
+                        "lng": -71.1686995802915
+                    }
+                }
+            },
+            "place_id": "ChIJA7IpPJN344kRxEreFuIDOqk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b2006470db0638fa4d979a281f4d6971",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:40.287539",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

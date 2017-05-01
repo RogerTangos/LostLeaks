@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_598fc4bc943d851200d6b18f44ee7f40.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "42",
+                    "short_name": "42",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Winslow Road",
+                    "short_name": "Winslow Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2264",
+                    "short_name": "2264",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "42 Winslow Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3841676,
+                        "lng": -71.1784486
+                    },
+                    "southwest": {
+                        "lat": 42.3840691,
+                        "lng": -71.1786667
+                    }
+                },
+                "location": {
+                    "lat": 42.3841183,
+                    "lng": -71.1785577
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3854673302915,
+                        "lng": -71.17720866970849
+                    },
+                    "southwest": {
+                        "lat": 42.3827693697085,
+                        "lng": -71.1799066302915
+                    }
+                }
+            },
+            "place_id": "ChIJkay1pO9344kR5uyAHic6zRE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "598fc4bc943d851200d6b18f44ee7f40",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:26.891420",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

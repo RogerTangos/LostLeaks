@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d85f50567a888eeaf4a342a1641331fc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Centre Avenue",
+                    "short_name": "Centre Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Centre Ave & Willow Pond Dr, Rockland, MA 02370, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1163466,
+                    "lng": -70.9208637
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1176955802915,
+                        "lng": -70.9195147197085
+                    },
+                    "southwest": {
+                        "lat": 42.1149976197085,
+                        "lng": -70.92221268029151
+                    }
+                }
+            },
+            "place_id": "EjRDZW50cmUgQXZlICYgV2lsbG93IFBvbmQgRHIsIFJvY2tsYW5kLCBNQSAwMjM3MCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d85f50567a888eeaf4a342a1641331fc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:20.413574",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

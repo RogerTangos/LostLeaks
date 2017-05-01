@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_871deb06b5d9131d9bba944367ef9e56.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "414",
+                    "short_name": "414",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Western Avenue",
+                    "short_name": "Western Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brighton",
+                    "short_name": "Brighton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02135",
+                    "short_name": "02135",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1015",
+                    "short_name": "1015",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "414 Western Ave, Brighton, MA 02135, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3624486,
+                        "lng": -71.13989
+                    },
+                    "southwest": {
+                        "lat": 42.3622561,
+                        "lng": -71.14008969999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3623523,
+                    "lng": -71.1399899
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36370133029151,
+                        "lng": -71.13864086970848
+                    },
+                    "southwest": {
+                        "lat": 42.36100336970851,
+                        "lng": -71.1413388302915
+                    }
+                }
+            },
+            "place_id": "ChIJTeRYEdR544kRtloBb8IsWy0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "871deb06b5d9131d9bba944367ef9e56",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:21.889896",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

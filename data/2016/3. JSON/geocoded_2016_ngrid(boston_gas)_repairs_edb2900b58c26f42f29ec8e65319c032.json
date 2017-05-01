@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_edb2900b58c26f42f29ec8e65319c032.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "347",
+                    "short_name": "347",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lebanon Street",
+                    "short_name": "Lebanon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1705",
+                    "short_name": "1705",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "347 Lebanon St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.439908,
+                        "lng": -71.04815169999999
+                    },
+                    "southwest": {
+                        "lat": 42.4397945,
+                        "lng": -71.04832309999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4398512,
+                    "lng": -71.04823739999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4412002302915,
+                        "lng": -71.0468884197085
+                    },
+                    "southwest": {
+                        "lat": 42.43850226970851,
+                        "lng": -71.0495863802915
+                    }
+                }
+            },
+            "place_id": "ChIJhxNtajNy44kRPTfO9Z49E4g",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "edb2900b58c26f42f29ec8e65319c032",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:16.672673",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

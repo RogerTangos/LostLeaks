@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_57c0c94f951baa486a31306f415b1aaf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Saint Michael Road",
+                    "short_name": "St Michael Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6903",
+                    "short_name": "6903",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "30 St Michael Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.19728620000001,
+                        "lng": -71.0142278
+                    },
+                    "southwest": {
+                        "lat": 42.1971576,
+                        "lng": -71.0144348
+                    }
+                },
+                "location": {
+                    "lat": 42.1972219,
+                    "lng": -71.0143313
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.19857088029151,
+                        "lng": -71.0129823197085
+                    },
+                    "southwest": {
+                        "lat": 42.19587291970851,
+                        "lng": -71.0156802802915
+                    }
+                }
+            },
+            "place_id": "ChIJfaMO_1l944kRUK1NY0RFZV8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "57c0c94f951baa486a31306f415b1aaf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:38.378433",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

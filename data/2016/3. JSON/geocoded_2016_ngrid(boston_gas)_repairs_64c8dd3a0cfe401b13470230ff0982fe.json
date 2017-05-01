@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_64c8dd3a0cfe401b13470230ff0982fe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harvard Road",
+                    "short_name": "Harvard Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Littleton",
+                    "short_name": "Littleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01460",
+                    "short_name": "01460",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Harvard Rd, Littleton, MA 01460, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5381581,
+                    "lng": -71.5154885
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5395070802915,
+                        "lng": -71.5141395197085
+                    },
+                    "southwest": {
+                        "lat": 42.5368091197085,
+                        "lng": -71.51683748029151
+                    }
+                }
+            },
+            "place_id": "ChIJGUjkhFGU44kR-oxuHoR-13E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "64c8dd3a0cfe401b13470230ff0982fe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:12.437260",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

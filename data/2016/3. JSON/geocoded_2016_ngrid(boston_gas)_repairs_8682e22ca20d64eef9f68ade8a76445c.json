@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8682e22ca20d64eef9f68ade8a76445c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth Street",
+                    "short_name": "Plymouth St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1727",
+                    "short_name": "1727",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "14 Plymouth St, Abington, MA 02351, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1270296,
+                    "lng": -70.9432631
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1283785802915,
+                        "lng": -70.9419141197085
+                    },
+                    "southwest": {
+                        "lat": 42.1256806197085,
+                        "lng": -70.9446120802915
+                    }
+                }
+            },
+            "place_id": "ChIJh8zKtlyc5IkRc6FkMoS6TBM",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8682e22ca20d64eef9f68ade8a76445c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:59.894317",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

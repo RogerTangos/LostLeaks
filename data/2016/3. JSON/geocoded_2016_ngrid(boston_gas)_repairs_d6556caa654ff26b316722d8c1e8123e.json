@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d6556caa654ff26b316722d8c1e8123e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crescent Place",
+                    "short_name": "Crescent Pl",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3900",
+                    "short_name": "3900",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Crescent Pl, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.45369970000001,
+                        "lng": -71.0630271
+                    },
+                    "southwest": {
+                        "lat": 42.4536091,
+                        "lng": -71.06316149999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4536544,
+                    "lng": -71.0630943
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4550033802915,
+                        "lng": -71.06174531970849
+                    },
+                    "southwest": {
+                        "lat": 42.45230541970851,
+                        "lng": -71.0644432802915
+                    }
+                }
+            },
+            "place_id": "ChIJddwXFrpz44kRczhHk6va9Rg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d6556caa654ff26b316722d8c1e8123e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:21.082407",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

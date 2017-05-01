@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_52c7238e3657a92f09e2a49a7d41845c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Malden Street",
+                    "short_name": "Malden St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Malden St & Augustus St, Revere, MA 02151, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.424266,
+                    "lng": -71.01845999999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42561498029151,
+                        "lng": -71.01711101970848
+                    },
+                    "southwest": {
+                        "lat": 42.42291701970851,
+                        "lng": -71.0198089802915
+                    }
+                }
+            },
+            "place_id": "Ei5NYWxkZW4gU3QgJiBBdWd1c3R1cyBTdCwgUmV2ZXJlLCBNQSAwMjE1MSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "52c7238e3657a92f09e2a49a7d41845c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:36.750916",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

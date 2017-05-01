@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b5f1bcbdeff43f9d8dd780354ec93836.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Beechwood Street",
+                    "short_name": "Beechwood St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Beechwood St & Doane St, Cohasset, MA 02025, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.21015939999999,
+                    "lng": -70.8199206
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2115083802915,
+                        "lng": -70.8185716197085
+                    },
+                    "southwest": {
+                        "lat": 42.2088104197085,
+                        "lng": -70.8212695802915
+                    }
+                }
+            },
+            "place_id": "EjBCZWVjaHdvb2QgU3QgJiBEb2FuZSBTdCwgQ29oYXNzZXQsIE1BIDAyMDI1LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "b5f1bcbdeff43f9d8dd780354ec93836",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:13.824840",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

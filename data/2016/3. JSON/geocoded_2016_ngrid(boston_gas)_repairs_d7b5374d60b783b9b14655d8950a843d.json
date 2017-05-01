@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d7b5374d60b783b9b14655d8950a843d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "125",
+                    "short_name": "125",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Common Street",
+                    "short_name": "Common St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "125 Common St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2256749,
+                        "lng": -71.0102814
+                    },
+                    "southwest": {
+                        "lat": 42.2256611,
+                        "lng": -71.0102833
+                    }
+                },
+                "location": {
+                    "lat": 42.2256749,
+                    "lng": -71.0102833
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2270169802915,
+                        "lng": -71.00893336970849
+                    },
+                    "southwest": {
+                        "lat": 42.2243190197085,
+                        "lng": -71.01163133029151
+                    }
+                }
+            },
+            "place_id": "EicxMjUgQ29tbW9uIFN0LCBCcmFpbnRyZWUsIE1BIDAyMTg0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d7b5374d60b783b9b14655d8950a843d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:28.490135",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

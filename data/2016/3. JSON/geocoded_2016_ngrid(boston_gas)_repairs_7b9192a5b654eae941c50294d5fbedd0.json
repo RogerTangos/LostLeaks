@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7b9192a5b654eae941c50294d5fbedd0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "145",
+                    "short_name": "145",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brighton Street",
+                    "short_name": "Brighton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4109",
+                    "short_name": "4109",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "145 Brighton St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3988113,
+                        "lng": -71.1615144
+                    },
+                    "southwest": {
+                        "lat": 42.3986251,
+                        "lng": -71.16181449999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3987182,
+                    "lng": -71.16166439999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4000671802915,
+                        "lng": -71.1603154697085
+                    },
+                    "southwest": {
+                        "lat": 42.3973692197085,
+                        "lng": -71.1630134302915
+                    }
+                }
+            },
+            "place_id": "ChIJW-eYprB344kROpnxLUzkBGk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7b9192a5b654eae941c50294d5fbedd0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:12.227108",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

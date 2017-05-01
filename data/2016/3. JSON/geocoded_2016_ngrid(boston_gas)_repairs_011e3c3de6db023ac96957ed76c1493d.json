@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_011e3c3de6db023ac96957ed76c1493d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "124",
+                    "short_name": "124",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Terrace Avenue",
+                    "short_name": "Terrace Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2523",
+                    "short_name": "2523",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "124 Terrace Ave, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3668146,
+                        "lng": -70.96852779999999
+                    },
+                    "southwest": {
+                        "lat": 42.366801,
+                        "lng": -70.9685315
+                    }
+                },
+                "location": {
+                    "lat": 42.3668146,
+                    "lng": -70.96852779999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3681567802915,
+                        "lng": -70.96718066970848
+                    },
+                    "southwest": {
+                        "lat": 42.3654588197085,
+                        "lng": -70.96987863029149
+                    }
+                }
+            },
+            "place_id": "EigxMjQgVGVycmFjZSBBdmUsIFdpbnRocm9wLCBNQSAwMjE1MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "011e3c3de6db023ac96957ed76c1493d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:27.756652",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

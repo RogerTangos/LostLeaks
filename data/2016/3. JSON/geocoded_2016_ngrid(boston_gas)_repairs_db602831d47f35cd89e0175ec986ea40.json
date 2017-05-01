@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_db602831d47f35cd89e0175ec986ea40.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "133",
+                    "short_name": "133",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Salem Street",
+                    "short_name": "Salem St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Woburn",
+                    "short_name": "Woburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01801",
+                    "short_name": "01801",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3118",
+                    "short_name": "3118",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "133 Salem St, Woburn, MA 01801, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4871714,
+                        "lng": -71.141814
+                    },
+                    "southwest": {
+                        "lat": 42.4870624,
+                        "lng": -71.1419294
+                    }
+                },
+                "location": {
+                    "lat": 42.4871169,
+                    "lng": -71.1418717
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.48846588029151,
+                        "lng": -71.1405227197085
+                    },
+                    "southwest": {
+                        "lat": 42.48576791970851,
+                        "lng": -71.1432206802915
+                    }
+                }
+            },
+            "place_id": "ChIJX0vOUvx044kRWVh0wfbpNsY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "db602831d47f35cd89e0175ec986ea40",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:46.387525",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

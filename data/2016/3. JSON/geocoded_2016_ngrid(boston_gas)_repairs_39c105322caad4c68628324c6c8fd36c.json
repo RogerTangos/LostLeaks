@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_39c105322caad4c68628324c6c8fd36c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "830",
+                    "short_name": "830",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tremont Street",
+                    "short_name": "Tremont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "830 Tremont St, Boston, MA 02118, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.338283,
+                        "lng": -71.0817726
+                    },
+                    "southwest": {
+                        "lat": 42.3379261,
+                        "lng": -71.08229519999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3381045,
+                    "lng": -71.0820339
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33945353029149,
+                        "lng": -71.08068491970847
+                    },
+                    "southwest": {
+                        "lat": 42.3367555697085,
+                        "lng": -71.0833828802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJq628MRZ644kRxFZdaP2qqvA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "39c105322caad4c68628324c6c8fd36c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:18.510520",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6b40c7cba57dcfe1c3ec61b0b2700fe0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hobart Street",
+                    "short_name": "Hobart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1943",
+                    "short_name": "1943",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Hobart St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5653352,
+                        "lng": -70.9439033
+                    },
+                    "southwest": {
+                        "lat": 42.565268,
+                        "lng": -70.94411590000001
+                    }
+                },
+                "location": {
+                    "lat": 42.5653016,
+                    "lng": -70.9440096
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5666505802915,
+                        "lng": -70.9426606197085
+                    },
+                    "southwest": {
+                        "lat": 42.5639526197085,
+                        "lng": -70.94535858029153
+                    }
+                }
+            },
+            "place_id": "ChIJrU2YXnsR44kRaC7Rx_bqEQ8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6b40c7cba57dcfe1c3ec61b0b2700fe0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:52.108005",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

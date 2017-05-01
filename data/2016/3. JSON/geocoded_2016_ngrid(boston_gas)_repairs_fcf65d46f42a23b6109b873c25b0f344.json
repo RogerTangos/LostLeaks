@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fcf65d46f42a23b6109b873c25b0f344.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "64",
+                    "short_name": "64",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Magnolia Road",
+                    "short_name": "Magnolia Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2224",
+                    "short_name": "2224",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "64 Magnolia Rd, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4718366,
+                        "lng": -70.9063091
+                    },
+                    "southwest": {
+                        "lat": 42.4717349,
+                        "lng": -70.9064332
+                    }
+                },
+                "location": {
+                    "lat": 42.4717858,
+                    "lng": -70.9063712
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4731347302915,
+                        "lng": -70.90502216970849
+                    },
+                    "southwest": {
+                        "lat": 42.4704367697085,
+                        "lng": -70.9077201302915
+                    }
+                }
+            },
+            "place_id": "ChIJ-YJKO1Zr44kRiERejtmSzCc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fcf65d46f42a23b6109b873c25b0f344",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:52.181692",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

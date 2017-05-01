@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_53f917126a9956ad9f637d33e0220d59.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Old Connecticut Path",
+                    "short_name": "Old Connecticut Path",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wayland",
+                    "short_name": "Wayland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01778",
+                    "short_name": "01778",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Old Connecticut Path & Cart Path, Wayland, MA 01778, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3538889,
+                    "lng": -71.3477524
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3552378802915,
+                        "lng": -71.34640341970851
+                    },
+                    "southwest": {
+                        "lat": 42.35253991970851,
+                        "lng": -71.34910138029151
+                    }
+                }
+            },
+            "place_id": "EjhPbGQgQ29ubmVjdGljdXQgUGF0aCAmIENhcnQgUGF0aCwgV2F5bGFuZCwgTUEgMDE3NzgsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "53f917126a9956ad9f637d33e0220d59",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:42.705652",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

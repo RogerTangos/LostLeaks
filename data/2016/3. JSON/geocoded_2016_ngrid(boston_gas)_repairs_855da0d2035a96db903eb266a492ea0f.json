@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_855da0d2035a96db903eb266a492ea0f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "286",
+                    "short_name": "286",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "School Street",
+                    "short_name": "School St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Groveland",
+                    "short_name": "Groveland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01834",
+                    "short_name": "01834",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2022",
+                    "short_name": "2022",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "286 School St, Groveland, MA 01834, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.73966240000001,
+                        "lng": -71.0208294
+                    },
+                    "southwest": {
+                        "lat": 42.73965889999999,
+                        "lng": -71.0208476
+                    }
+                },
+                "location": {
+                    "lat": 42.73966240000001,
+                    "lng": -71.0208294
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7410096302915,
+                        "lng": -71.0194895197085
+                    },
+                    "southwest": {
+                        "lat": 42.7383116697085,
+                        "lng": -71.0221874802915
+                    }
+                }
+            },
+            "place_id": "EicyODYgU2Nob29sIFN0LCBHcm92ZWxhbmQsIE1BIDAxODM0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "855da0d2035a96db903eb266a492ea0f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:10.987591",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

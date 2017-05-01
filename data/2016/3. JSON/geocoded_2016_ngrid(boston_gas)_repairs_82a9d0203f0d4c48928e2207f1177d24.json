@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_82a9d0203f0d4c48928e2207f1177d24.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Calthrope Road",
+                    "short_name": "Calthrope Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2505",
+                    "short_name": "2505",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Calthrope Rd, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5110541,
+                        "lng": -70.8497337
+                    },
+                    "southwest": {
+                        "lat": 42.5109388,
+                        "lng": -70.8498925
+                    }
+                },
+                "location": {
+                    "lat": 42.5109964,
+                    "lng": -70.84981309999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5123454302915,
+                        "lng": -70.8484641197085
+                    },
+                    "southwest": {
+                        "lat": 42.5096474697085,
+                        "lng": -70.85116208029152
+                    }
+                }
+            },
+            "place_id": "ChIJD5i_Mq8V44kREteS92mj-to",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "82a9d0203f0d4c48928e2207f1177d24",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:17.923833",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

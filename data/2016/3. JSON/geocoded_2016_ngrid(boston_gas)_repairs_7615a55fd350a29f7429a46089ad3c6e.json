@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7615a55fd350a29f7429a46089ad3c6e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1072",
+                    "short_name": "1072",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nantasket Avenue",
+                    "short_name": "Nantasket Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1308",
+                    "short_name": "1308",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1072 Nantasket Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3055561,
+                        "lng": -70.8960494
+                    },
+                    "southwest": {
+                        "lat": 42.3055425,
+                        "lng": -70.8960535
+                    }
+                },
+                "location": {
+                    "lat": 42.3055561,
+                    "lng": -70.8960535
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30689828029151,
+                        "lng": -70.89470246970849
+                    },
+                    "southwest": {
+                        "lat": 42.30420031970851,
+                        "lng": -70.8974004302915
+                    }
+                }
+            },
+            "place_id": "EicxMDcyIE5hbnRhc2tldCBBdmUsIEh1bGwsIE1BIDAyMDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7615a55fd350a29f7429a46089ad3c6e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:35.510345",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

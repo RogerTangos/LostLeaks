@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3166dab9c6f302a759b371e96d9b774d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "133",
+                    "short_name": "133",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wilmington Road",
+                    "short_name": "Wilmington Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "133 Wilmington Rd, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5368195,
+                        "lng": -71.2025797
+                    },
+                    "southwest": {
+                        "lat": 42.5368163,
+                        "lng": -71.202598
+                    }
+                },
+                "location": {
+                    "lat": 42.5368195,
+                    "lng": -71.202598
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5381668802915,
+                        "lng": -71.20123986970849
+                    },
+                    "southwest": {
+                        "lat": 42.53546891970851,
+                        "lng": -71.20393783029151
+                    }
+                }
+            },
+            "place_id": "EiwxMzMgV2lsbWluZ3RvbiBSZCwgQnVybGluZ3RvbiwgTUEgMDE4MDMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3166dab9c6f302a759b371e96d9b774d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:46.269712",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

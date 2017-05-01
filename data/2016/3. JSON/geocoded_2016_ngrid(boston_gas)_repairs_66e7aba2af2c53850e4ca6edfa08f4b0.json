@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_66e7aba2af2c53850e4ca6edfa08f4b0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "86",
+                    "short_name": "86",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "George Street",
+                    "short_name": "George St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford",
+                    "short_name": "Medford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02155",
+                    "short_name": "02155",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5519",
+                    "short_name": "5519",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "86 George St, Medford, MA 02155, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4123815,
+                        "lng": -71.1153376
+                    },
+                    "southwest": {
+                        "lat": 42.4122074,
+                        "lng": -71.1155369
+                    }
+                },
+                "location": {
+                    "lat": 42.4122944,
+                    "lng": -71.1154373
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4136434302915,
+                        "lng": -71.11408826970849
+                    },
+                    "southwest": {
+                        "lat": 42.4109454697085,
+                        "lng": -71.1167862302915
+                    }
+                }
+            },
+            "place_id": "ChIJ9Ra5hsN244kR9I7pg-sos3M",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "66e7aba2af2c53850e4ca6edfa08f4b0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:26.277554",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

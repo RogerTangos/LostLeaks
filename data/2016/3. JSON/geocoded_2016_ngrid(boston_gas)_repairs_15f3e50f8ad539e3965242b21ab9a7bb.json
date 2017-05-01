@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_15f3e50f8ad539e3965242b21ab9a7bb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "212",
+                    "short_name": "212",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Street",
+                    "short_name": "North St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1645",
+                    "short_name": "1645",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "212 North St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.53147329999999,
+                        "lng": -70.9097893
+                    },
+                    "southwest": {
+                        "lat": 42.5313473,
+                        "lng": -70.9099502
+                    }
+                },
+                "location": {
+                    "lat": 42.5314103,
+                    "lng": -70.9098697
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.53275928029149,
+                        "lng": -70.90852076970849
+                    },
+                    "southwest": {
+                        "lat": 42.5300613197085,
+                        "lng": -70.9112187302915
+                    }
+                }
+            },
+            "place_id": "ChIJ6cFlMooT44kR3Dh-jJQmGFo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "15f3e50f8ad539e3965242b21ab9a7bb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:38.029969",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

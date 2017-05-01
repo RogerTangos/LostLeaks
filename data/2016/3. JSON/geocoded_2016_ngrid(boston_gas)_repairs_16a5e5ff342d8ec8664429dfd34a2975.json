@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_16a5e5ff342d8ec8664429dfd34a2975.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cameron Street",
+                    "short_name": "Cameron St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7667",
+                    "short_name": "7667",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Cameron St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.33135350000001,
+                        "lng": -71.1235269
+                    },
+                    "southwest": {
+                        "lat": 42.3311862,
+                        "lng": -71.12373649999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3312698,
+                    "lng": -71.12363169999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3326188302915,
+                        "lng": -71.1222827197085
+                    },
+                    "southwest": {
+                        "lat": 42.3299208697085,
+                        "lng": -71.1249806802915
+                    }
+                }
+            },
+            "place_id": "ChIJ3TZwNqJ544kRFPr6tQv2wK8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "16a5e5ff342d8ec8664429dfd34a2975",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:08.254534",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

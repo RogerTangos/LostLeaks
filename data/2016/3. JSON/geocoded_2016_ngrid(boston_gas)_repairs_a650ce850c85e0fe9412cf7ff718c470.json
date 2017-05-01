@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a650ce850c85e0fe9412cf7ff718c470.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Summer Street",
+                    "short_name": "Summer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Seaport District",
+                    "short_name": "Seaport District",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02210",
+                    "short_name": "02210",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Summer St & Fargo St, Boston, MA 02210, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3446516,
+                    "lng": -71.0394884
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3460005802915,
+                        "lng": -71.03813941970849
+                    },
+                    "southwest": {
+                        "lat": 42.3433026197085,
+                        "lng": -71.0408373802915
+                    }
+                }
+            },
+            "place_id": "EitTdW1tZXIgU3QgJiBGYXJnbyBTdCwgQm9zdG9uLCBNQSAwMjIxMCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "a650ce850c85e0fe9412cf7ff718c470",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:52.633691",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

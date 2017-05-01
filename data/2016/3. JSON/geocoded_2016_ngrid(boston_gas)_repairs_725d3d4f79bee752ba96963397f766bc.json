@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_725d3d4f79bee752ba96963397f766bc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kent Street",
+                    "short_name": "Kent St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6411",
+                    "short_name": "6411",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Kent St, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2412249,
+                    "lng": -71.0172303
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24257388029149,
+                        "lng": -71.01588131970848
+                    },
+                    "southwest": {
+                        "lat": 42.2398759197085,
+                        "lng": -71.01857928029149
+                    }
+                }
+            },
+            "place_id": "ChIJMQ-j18R844kRL9qhMpYYGJQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "725d3d4f79bee752ba96963397f766bc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:45.465280",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c62225e2413ca1a8ec7af58f1931e391.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "310",
+                    "short_name": "310",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lynn Street",
+                    "short_name": "Lynn St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Peabody",
+                    "short_name": "South Peabody",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6534",
+                    "short_name": "6534",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "310 Lynn St, Peabody, MA 01960, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4966371,
+                        "lng": -70.9568634
+                    },
+                    "southwest": {
+                        "lat": 42.4965361,
+                        "lng": -70.9570332
+                    }
+                },
+                "location": {
+                    "lat": 42.4965866,
+                    "lng": -70.9569483
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4979355802915,
+                        "lng": -70.9555993197085
+                    },
+                    "southwest": {
+                        "lat": 42.4952376197085,
+                        "lng": -70.9582972802915
+                    }
+                }
+            },
+            "place_id": "ChIJvc1WL9gS44kRZlpZLvBw-kc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c62225e2413ca1a8ec7af58f1931e391",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:50.988379",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

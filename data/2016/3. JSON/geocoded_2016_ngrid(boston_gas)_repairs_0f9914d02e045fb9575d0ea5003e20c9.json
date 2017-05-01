@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0f9914d02e045fb9575d0ea5003e20c9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Old Stagecoach Road",
+                    "short_name": "Old Stagecoach Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Old Stagecoach Rd, Bedford, MA 01730, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5035847,
+                        "lng": -71.2609109
+                    },
+                    "southwest": {
+                        "lat": 42.5035837,
+                        "lng": -71.2609296
+                    }
+                },
+                "location": {
+                    "lat": 42.5035847,
+                    "lng": -71.2609109
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50493318029149,
+                        "lng": -71.2595712697085
+                    },
+                    "southwest": {
+                        "lat": 42.5022352197085,
+                        "lng": -71.26226923029151
+                    }
+                }
+            },
+            "place_id": "EiwxNiBPbGQgU3RhZ2Vjb2FjaCBSZCwgQmVkZm9yZCwgTUEgMDE3MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0f9914d02e045fb9575d0ea5003e20c9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:55.122713",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_32e4d7e59c797e5f4db87e8bb4fb45cd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lloyd Street",
+                    "short_name": "Lloyd St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2910",
+                    "short_name": "2910",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Lloyd St, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4467866,
+                        "lng": -71.13579519999999
+                    },
+                    "southwest": {
+                        "lat": 42.4466887,
+                        "lng": -71.1359499
+                    }
+                },
+                "location": {
+                    "lat": 42.4467377,
+                    "lng": -71.13587249999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4480866302915,
+                        "lng": -71.13452356970849
+                    },
+                    "southwest": {
+                        "lat": 42.4453886697085,
+                        "lng": -71.1372215302915
+                    }
+                }
+            },
+            "place_id": "ChIJqVoxKC9044kRrUYOqBfRC8Y",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "32e4d7e59c797e5f4db87e8bb4fb45cd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:13.364975",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

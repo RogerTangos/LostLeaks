@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8fbab8b611456af8da6d23ab6c70a777.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Middleby Road",
+                    "short_name": "Middleby Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02421",
+                    "short_name": "02421",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6921",
+                    "short_name": "6921",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Middleby Rd, Lexington, MA 02421, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4405632,
+                        "lng": -71.2443755
+                    },
+                    "southwest": {
+                        "lat": 42.4405523,
+                        "lng": -71.244387
+                    }
+                },
+                "location": {
+                    "lat": 42.4405632,
+                    "lng": -71.2443755
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44190673029151,
+                        "lng": -71.24303226970851
+                    },
+                    "southwest": {
+                        "lat": 42.43920876970851,
+                        "lng": -71.24573023029151
+                    }
+                }
+            },
+            "place_id": "EigyMCBNaWRkbGVieSBSZCwgTGV4aW5ndG9uLCBNQSAwMjQyMSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8fbab8b611456af8da6d23ab6c70a777",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:14.022645",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

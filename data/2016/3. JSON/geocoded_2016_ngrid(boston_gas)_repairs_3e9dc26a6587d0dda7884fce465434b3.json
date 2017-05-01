@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3e9dc26a6587d0dda7884fce465434b3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop Avenue",
+                    "short_name": "Winthrop Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3332",
+                    "short_name": "3332",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Winthrop Ave, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2631223,
+                        "lng": -71.0209464
+                    },
+                    "southwest": {
+                        "lat": 42.2629721,
+                        "lng": -71.0211595
+                    }
+                },
+                "location": {
+                    "lat": 42.2630472,
+                    "lng": -71.021053
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2643961802915,
+                        "lng": -71.0197039697085
+                    },
+                    "southwest": {
+                        "lat": 42.2616982197085,
+                        "lng": -71.02240193029151
+                    }
+                }
+            },
+            "place_id": "ChIJkd6Jm6N844kR5gP0NSmnJa4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3e9dc26a6587d0dda7884fce465434b3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:35.294738",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

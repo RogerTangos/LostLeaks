@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_848a87cd15c6c2732b68685171ba4b32.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kernwood Avenue",
+                    "short_name": "Kernwood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2903",
+                    "short_name": "2903",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Kernwood Ave, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5500176,
+                        "lng": -70.8919184
+                    },
+                    "southwest": {
+                        "lat": 42.5500091,
+                        "lng": -70.89193329999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5500176,
+                    "lng": -70.89193329999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.55136233029149,
+                        "lng": -70.8905768697085
+                    },
+                    "southwest": {
+                        "lat": 42.54866436970849,
+                        "lng": -70.8932748302915
+                    }
+                }
+            },
+            "place_id": "EiYxIEtlcm53b29kIEF2ZSwgQmV2ZXJseSwgTUEgMDE5MTUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "848a87cd15c6c2732b68685171ba4b32",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:03.684898",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

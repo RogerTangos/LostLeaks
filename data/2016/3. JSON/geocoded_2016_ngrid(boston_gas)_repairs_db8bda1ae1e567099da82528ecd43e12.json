@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_db8bda1ae1e567099da82528ecd43e12.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ames Drive",
+                    "short_name": "Ames Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gloucester",
+                    "short_name": "Gloucester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01930",
+                    "short_name": "01930",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1291",
+                    "short_name": "1291",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Ames Dr, Gloucester, MA 01930, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6655215,
+                        "lng": -70.67096819999999
+                    },
+                    "southwest": {
+                        "lat": 42.6653212,
+                        "lng": -70.6712233
+                    }
+                },
+                "location": {
+                    "lat": 42.6654213,
+                    "lng": -70.6710957
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6667703302915,
+                        "lng": -70.66974676970848
+                    },
+                    "southwest": {
+                        "lat": 42.6640723697085,
+                        "lng": -70.6724447302915
+                    }
+                }
+            },
+            "place_id": "ChIJB5XRQIAm44kRcdt_XVcKI-4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "db8bda1ae1e567099da82528ecd43e12",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:48.558972",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

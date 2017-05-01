@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f720ee5373c74bb5736a5f943bc403e0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Eliot Avenue",
+                    "short_name": "Eliot Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1455",
+                    "short_name": "1455",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Eliot Ave, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3264871,
+                        "lng": -71.1463112
+                    },
+                    "southwest": {
+                        "lat": 42.3264865,
+                        "lng": -71.14632999999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3264865,
+                    "lng": -71.1463112
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3278357802915,
+                        "lng": -71.14497161970849
+                    },
+                    "southwest": {
+                        "lat": 42.3251378197085,
+                        "lng": -71.14766958029149
+                    }
+                }
+            },
+            "place_id": "EikxIEVsaW90IEF2ZSwgQ2hlc3RudXQgSGlsbCwgTUEgMDI0NjcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f720ee5373c74bb5736a5f943bc403e0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:02.325746",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

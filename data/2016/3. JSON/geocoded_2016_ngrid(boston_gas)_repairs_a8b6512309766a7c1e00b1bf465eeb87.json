@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a8b6512309766a7c1e00b1bf465eeb87.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "43",
+                    "short_name": "43",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Norman Street",
+                    "short_name": "Norman St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2672",
+                    "short_name": "2672",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "43 Norman St, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5116774,
+                        "lng": -70.847265
+                    },
+                    "southwest": {
+                        "lat": 42.5115158,
+                        "lng": -70.8474863
+                    }
+                },
+                "location": {
+                    "lat": 42.5115966,
+                    "lng": -70.84737559999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.51294558029149,
+                        "lng": -70.8460266697085
+                    },
+                    "southwest": {
+                        "lat": 42.51024761970849,
+                        "lng": -70.8487246302915
+                    }
+                }
+            },
+            "place_id": "ChIJtb6Z9KUV44kRTVZGVpWIRPE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a8b6512309766a7c1e00b1bf465eeb87",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:32.902075",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

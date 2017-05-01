@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0ea610af20b1d1a5918c3664f6229cdd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "53",
+                    "short_name": "53",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Campbell Road",
+                    "short_name": "Campbell Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wayland",
+                    "short_name": "Wayland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01778",
+                    "short_name": "01778",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1020",
+                    "short_name": "1020",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "53 Campbell Rd, Wayland, MA 01778, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4055542,
+                        "lng": -71.3540896
+                    },
+                    "southwest": {
+                        "lat": 42.4053505,
+                        "lng": -71.3543514
+                    }
+                },
+                "location": {
+                    "lat": 42.4054523,
+                    "lng": -71.3542205
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40680133029149,
+                        "lng": -71.35287151970849
+                    },
+                    "southwest": {
+                        "lat": 42.40410336970849,
+                        "lng": -71.3555694802915
+                    }
+                }
+            },
+            "place_id": "ChIJLT9Wvcua44kRMK3IGQcve0w",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0ea610af20b1d1a5918c3664f6229cdd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:42.671432",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9b6df0f7e8ade9595a22dce9a2217b89.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Smith Street",
+                    "short_name": "Smith St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2928",
+                    "short_name": "2928",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Smith St, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4930198,
+                        "lng": -70.86472169999999
+                    },
+                    "southwest": {
+                        "lat": 42.4928984,
+                        "lng": -70.864871
+                    }
+                },
+                "location": {
+                    "lat": 42.4929591,
+                    "lng": -70.8647963
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4943080802915,
+                        "lng": -70.8634473697085
+                    },
+                    "southwest": {
+                        "lat": 42.4916101197085,
+                        "lng": -70.8661453302915
+                    }
+                }
+            },
+            "place_id": "ChIJTYpiMOEU44kRwdcYnc_wBhw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9b6df0f7e8ade9595a22dce9a2217b89",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:17.620319",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

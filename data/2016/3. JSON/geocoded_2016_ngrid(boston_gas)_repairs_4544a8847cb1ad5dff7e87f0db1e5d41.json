@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4544a8847cb1ad5dff7e87f0db1e5d41.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Barretts Mill Road",
+                    "short_name": "Barretts Mill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Barretts Mill Rd & Strawberry Hill Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.473043,
+                    "lng": -71.378153
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47439198029149,
+                        "lng": -71.37680401970849
+                    },
+                    "southwest": {
+                        "lat": 42.47169401970849,
+                        "lng": -71.37950198029151
+                    }
+                }
+            },
+            "place_id": "Ej1CYXJyZXR0cyBNaWxsIFJkICYgU3RyYXdiZXJyeSBIaWxsIFJkLCBDb25jb3JkLCBNQSAwMTc0MiwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "4544a8847cb1ad5dff7e87f0db1e5d41",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:51.529495",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

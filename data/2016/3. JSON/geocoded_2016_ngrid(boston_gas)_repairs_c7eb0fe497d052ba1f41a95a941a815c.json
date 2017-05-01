@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c7eb0fe497d052ba1f41a95a941a815c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Prouty Road",
+                    "short_name": "Prouty Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1344",
+                    "short_name": "1344",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Prouty Rd, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5311008,
+                        "lng": -71.2103709
+                    },
+                    "southwest": {
+                        "lat": 42.5309112,
+                        "lng": -71.2106171
+                    }
+                },
+                "location": {
+                    "lat": 42.531006,
+                    "lng": -71.210494
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5323549802915,
+                        "lng": -71.20914501970849
+                    },
+                    "southwest": {
+                        "lat": 42.5296570197085,
+                        "lng": -71.2118429802915
+                    }
+                }
+            },
+            "place_id": "ChIJOc3OCx6g44kRqz13S6A3DmI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c7eb0fe497d052ba1f41a95a941a815c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:47.552658",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

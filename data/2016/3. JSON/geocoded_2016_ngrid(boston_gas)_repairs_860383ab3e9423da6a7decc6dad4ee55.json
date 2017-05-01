@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_860383ab3e9423da6a7decc6dad4ee55.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Somerville",
+                    "short_name": "East Somerville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3301",
+                    "short_name": "3301",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Broadway, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3858575,
+                        "lng": -71.0776602
+                    },
+                    "southwest": {
+                        "lat": 42.3858445,
+                        "lng": -71.0776666
+                    }
+                },
+                "location": {
+                    "lat": 42.3858445,
+                    "lng": -71.0776666
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38719998029151,
+                        "lng": -71.07631441970848
+                    },
+                    "southwest": {
+                        "lat": 42.38450201970851,
+                        "lng": -71.0790123802915
+                    }
+                }
+            },
+            "place_id": "EiU2IEJyb2Fkd2F5LCBTb21lcnZpbGxlLCBNQSAwMjE0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "860383ab3e9423da6a7decc6dad4ee55",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:19.437392",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

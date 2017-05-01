@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ec342adb770a04665f6e088e0dea05a8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "151",
+                    "short_name": "151",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Davis Avenue",
+                    "short_name": "Davis Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6001",
+                    "short_name": "6001",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "151 Davis Ave, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3322488,
+                        "lng": -71.12535489999999
+                    },
+                    "southwest": {
+                        "lat": 42.332089,
+                        "lng": -71.125608
+                    }
+                },
+                "location": {
+                    "lat": 42.3321689,
+                    "lng": -71.12548149999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3335178802915,
+                        "lng": -71.1241324697085
+                    },
+                    "southwest": {
+                        "lat": 42.3308199197085,
+                        "lng": -71.1268304302915
+                    }
+                }
+            },
+            "place_id": "ChIJZ3p2vaN544kR2FNl9ckM4q0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ec342adb770a04665f6e088e0dea05a8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:34.401751",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

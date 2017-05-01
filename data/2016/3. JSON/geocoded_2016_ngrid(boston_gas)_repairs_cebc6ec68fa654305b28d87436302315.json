@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cebc6ec68fa654305b28d87436302315.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "599",
+                    "short_name": "599",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brookline Avenue",
+                    "short_name": "Brookline Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7212",
+                    "short_name": "7212",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "599 Brookline Ave, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3339244,
+                        "lng": -71.1129077
+                    },
+                    "southwest": {
+                        "lat": 42.333695,
+                        "lng": -71.11319499999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3338097,
+                    "lng": -71.1130514
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33515868029149,
+                        "lng": -71.1117023697085
+                    },
+                    "southwest": {
+                        "lat": 42.3324607197085,
+                        "lng": -71.1144003302915
+                    }
+                }
+            },
+            "place_id": "ChIJES5hkJB544kR8953czjxxi4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cebc6ec68fa654305b28d87436302315",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:17.834256",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

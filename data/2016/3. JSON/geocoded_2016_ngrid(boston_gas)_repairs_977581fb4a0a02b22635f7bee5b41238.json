@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_977581fb4a0a02b22635f7bee5b41238.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Quimby Street",
+                    "short_name": "Quimby St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2730",
+                    "short_name": "2730",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Quimby St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7889272,
+                        "lng": -71.0732864
+                    },
+                    "southwest": {
+                        "lat": 42.7889139,
+                        "lng": -71.07329109999999
+                    }
+                },
+                "location": {
+                    "lat": 42.7889139,
+                    "lng": -71.0732864
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7902695302915,
+                        "lng": -71.07193976970848
+                    },
+                    "southwest": {
+                        "lat": 42.7875715697085,
+                        "lng": -71.0746377302915
+                    }
+                }
+            },
+            "place_id": "EiYzNSBRdWltYnkgU3QsIEhhdmVyaGlsbCwgTUEgMDE4MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "977581fb4a0a02b22635f7bee5b41238",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:22.120302",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

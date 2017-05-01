@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3f9ba9ccea4e1183ed1e7eefcb8854d3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Robert Street",
+                    "short_name": "Robert St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Robert St & S Fairview St, Boston, MA 02131, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2874144,
+                    "lng": -71.1322957
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2887633802915,
+                        "lng": -71.1309467197085
+                    },
+                    "southwest": {
+                        "lat": 42.2860654197085,
+                        "lng": -71.13364468029151
+                    }
+                }
+            },
+            "place_id": "EjBSb2JlcnQgU3QgJiBTIEZhaXJ2aWV3IFN0LCBCb3N0b24sIE1BIDAyMTMxLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "3f9ba9ccea4e1183ed1e7eefcb8854d3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:46.883094",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

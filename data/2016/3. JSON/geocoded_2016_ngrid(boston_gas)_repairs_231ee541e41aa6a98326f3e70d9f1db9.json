@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_231ee541e41aa6a98326f3e70d9f1db9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "39",
+                    "short_name": "39",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mountain Avenue",
+                    "short_name": "Mountain Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1345",
+                    "short_name": "1345",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "39 Mountain Ave, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4742405,
+                        "lng": -70.92611149999999
+                    },
+                    "southwest": {
+                        "lat": 42.4741293,
+                        "lng": -70.9263009
+                    }
+                },
+                "location": {
+                    "lat": 42.4741849,
+                    "lng": -70.9262062
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4755338802915,
+                        "lng": -70.92485721970849
+                    },
+                    "southwest": {
+                        "lat": 42.4728359197085,
+                        "lng": -70.9275551802915
+                    }
+                }
+            },
+            "place_id": "ChIJlR8SIbds44kRxI4_VubPEBM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "231ee541e41aa6a98326f3e70d9f1db9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:53.638672",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

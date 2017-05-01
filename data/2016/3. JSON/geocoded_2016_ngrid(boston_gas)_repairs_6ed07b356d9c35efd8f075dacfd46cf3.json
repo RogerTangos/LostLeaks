@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6ed07b356d9c35efd8f075dacfd46cf3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "29",
+                    "short_name": "29",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Franklin Street",
+                    "short_name": "Franklin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2537",
+                    "short_name": "2537",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "29 Franklin St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5279661,
+                        "lng": -70.8983476
+                    },
+                    "southwest": {
+                        "lat": 42.52784940000001,
+                        "lng": -70.89847329999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5279077,
+                    "lng": -70.8984104
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5292567302915,
+                        "lng": -70.89706146970849
+                    },
+                    "southwest": {
+                        "lat": 42.52655876970851,
+                        "lng": -70.8997594302915
+                    }
+                }
+            },
+            "place_id": "ChIJR-uBdnEU44kRhsLZ6NAt3qE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6ed07b356d9c35efd8f075dacfd46cf3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:14.778439",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

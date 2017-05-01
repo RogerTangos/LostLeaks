@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8fd89ef77ebbd39d5c2bfcdef39922b6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Shurtleff Street",
+                    "short_name": "Shurtleff St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Shurtleff St & Essex St, Chelsea, MA 02150, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3886459,
+                    "lng": -71.0355905
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3899948802915,
+                        "lng": -71.0342415197085
+                    },
+                    "southwest": {
+                        "lat": 42.3872969197085,
+                        "lng": -71.03693948029151
+                    }
+                }
+            },
+            "place_id": "Ei9TaHVydGxlZmYgU3QgJiBFc3NleCBTdCwgQ2hlbHNlYSwgTUEgMDIxNTAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "8fd89ef77ebbd39d5c2bfcdef39922b6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:27.061866",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

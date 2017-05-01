@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f6f7ee29bb1244b4d8eb9c7b0d5ed122.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Edgewater Drive",
+                    "short_name": "Edgewater Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wakefield",
+                    "short_name": "Wakefield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01880",
+                    "short_name": "01880",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Edgewater Dr, Wakefield, MA 01880, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5188043,
+                        "lng": -71.04321569999999
+                    },
+                    "southwest": {
+                        "lat": 42.5178254,
+                        "lng": -71.0439725
+                    }
+                },
+                "location": {
+                    "lat": 42.5183149,
+                    "lng": -71.04359409999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.51966383029149,
+                        "lng": -71.04224511970848
+                    },
+                    "southwest": {
+                        "lat": 42.5169658697085,
+                        "lng": -71.0449430802915
+                    }
+                }
+            },
+            "place_id": "ChIJtcURKyIN44kRw8Nz6Dajg3c",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f6f7ee29bb1244b4d8eb9c7b0d5ed122",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:21.199026",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

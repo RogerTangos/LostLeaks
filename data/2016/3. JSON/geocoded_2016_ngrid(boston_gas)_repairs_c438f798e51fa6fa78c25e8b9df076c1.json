@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c438f798e51fa6fa78c25e8b9df076c1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "62",
+                    "short_name": "62",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hogg Memorial Drive",
+                    "short_name": "Hogg Memorial Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "62 Hogg Memorial Dr, Whitman, MA 02382, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.0721415,
+                    "lng": -70.95403850000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0734904802915,
+                        "lng": -70.95268951970851
+                    },
+                    "southwest": {
+                        "lat": 42.0707925197085,
+                        "lng": -70.95538748029152
+                    }
+                }
+            },
+            "place_id": "ChIJ_zGVBKqb5IkR6e6yUvO_NdQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c438f798e51fa6fa78c25e8b9df076c1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:40.529587",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0ae6ab5e0283e214a4ece27d90916fcf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Churchill Avenue",
+                    "short_name": "Churchill Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6325",
+                    "short_name": "6325",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Churchill Ave, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.41543679999999,
+                        "lng": -71.16238469999999
+                    },
+                    "southwest": {
+                        "lat": 42.4154282,
+                        "lng": -71.1623994
+                    }
+                },
+                "location": {
+                    "lat": 42.4154282,
+                    "lng": -71.16238469999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4167814802915,
+                        "lng": -71.16104306970848
+                    },
+                    "southwest": {
+                        "lat": 42.4140835197085,
+                        "lng": -71.1637410302915
+                    }
+                }
+            },
+            "place_id": "EiozMCBDaHVyY2hpbGwgQXZlLCBBcmxpbmd0b24sIE1BIDAyNDc2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0ae6ab5e0283e214a4ece27d90916fcf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:33.389170",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

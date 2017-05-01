@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3fa3d6bc81b3086564ce41d44c31707a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "42",
+                    "short_name": "42",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Street",
+                    "short_name": "Chestnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynnfield",
+                    "short_name": "Lynnfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01940",
+                    "short_name": "01940",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2532",
+                    "short_name": "2532",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "42 Chestnut St, Lynnfield, MA 01940, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5374893,
+                        "lng": -71.0595397
+                    },
+                    "southwest": {
+                        "lat": 42.5373473,
+                        "lng": -71.0598723
+                    }
+                },
+                "location": {
+                    "lat": 42.5374183,
+                    "lng": -71.05970599999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5387672802915,
+                        "lng": -71.05835701970848
+                    },
+                    "southwest": {
+                        "lat": 42.5360693197085,
+                        "lng": -71.0610549802915
+                    }
+                }
+            },
+            "place_id": "ChIJeQ0fJ_oM44kRK-1Tx4kYU70",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3fa3d6bc81b3086564ce41d44c31707a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:23.831275",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

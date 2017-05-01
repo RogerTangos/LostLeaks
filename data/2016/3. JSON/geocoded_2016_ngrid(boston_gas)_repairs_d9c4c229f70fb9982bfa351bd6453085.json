@@ -1,0 +1,79 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d9c4c229f70fb9982bfa351bd6453085.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Boylston St, Boston, MA, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3528234,
+                        "lng": -71.0626032
+                    },
+                    "southwest": {
+                        "lat": 42.3429347,
+                        "lng": -71.1026167
+                    }
+                },
+                "location": {
+                    "lat": 42.3486464,
+                    "lng": -71.0827003
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3528234,
+                        "lng": -71.0626032
+                    },
+                    "southwest": {
+                        "lat": 42.3429347,
+                        "lng": -71.1026167
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EhxCb3lsc3RvbiBTdCwgQm9zdG9uLCBNQSwgVVNB",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "d9c4c229f70fb9982bfa351bd6453085",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:37.807309",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

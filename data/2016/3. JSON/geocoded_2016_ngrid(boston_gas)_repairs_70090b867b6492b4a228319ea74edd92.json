@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_70090b867b6492b4a228319ea74edd92.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "42",
+                    "short_name": "42",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fairmont Avenue",
+                    "short_name": "Fairmont Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Corner",
+                    "short_name": "Newton Corner",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02458",
+                    "short_name": "02458",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2506",
+                    "short_name": "2506",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "42 Fairmont Ave, Newton, MA 02458, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.349585,
+                        "lng": -71.18946319999999
+                    },
+                    "southwest": {
+                        "lat": 42.3494099,
+                        "lng": -71.1896994
+                    }
+                },
+                "location": {
+                    "lat": 42.3494974,
+                    "lng": -71.1895813
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3508464302915,
+                        "lng": -71.18823231970849
+                    },
+                    "southwest": {
+                        "lat": 42.3481484697085,
+                        "lng": -71.1909302802915
+                    }
+                }
+            },
+            "place_id": "ChIJX68hX3Z444kRK9uV65ekc_I",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "70090b867b6492b4a228319ea74edd92",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:24.425560",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

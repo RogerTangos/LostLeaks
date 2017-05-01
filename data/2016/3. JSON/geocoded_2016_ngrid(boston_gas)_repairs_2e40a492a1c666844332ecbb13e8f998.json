@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2e40a492a1c666844332ecbb13e8f998.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "172",
+                    "short_name": "172",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wilson Avenue",
+                    "short_name": "Wilson Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1025",
+                    "short_name": "1025",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "172 Wilson Ave, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2673921,
+                        "lng": -71.03132959999999
+                    },
+                    "southwest": {
+                        "lat": 42.2672567,
+                        "lng": -71.03150330000001
+                    }
+                },
+                "location": {
+                    "lat": 42.2673244,
+                    "lng": -71.03141649999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2686733802915,
+                        "lng": -71.0300674697085
+                    },
+                    "southwest": {
+                        "lat": 42.2659754197085,
+                        "lng": -71.0327654302915
+                    }
+                }
+            },
+            "place_id": "ChIJKdflrp5844kRFoDhOjM38zQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2e40a492a1c666844332ecbb13e8f998",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:19.121027",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

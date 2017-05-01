@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_60bb7ca37a2e441f2ec2fbdb43be3e37.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "543",
+                    "short_name": "543",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East 1st Street",
+                    "short_name": "E 1st St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1402",
+                    "short_name": "1402",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "543 E 1st St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3380447,
+                        "lng": -71.0380172
+                    },
+                    "southwest": {
+                        "lat": 42.3379652,
+                        "lng": -71.0381735
+                    }
+                },
+                "location": {
+                    "lat": 42.3380049,
+                    "lng": -71.0380954
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3393539302915,
+                        "lng": -71.0367463697085
+                    },
+                    "southwest": {
+                        "lat": 42.3366559697085,
+                        "lng": -71.0394443302915
+                    }
+                }
+            },
+            "place_id": "ChIJ99ji3o9644kROlrFMuMh5yE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "60bb7ca37a2e441f2ec2fbdb43be3e37",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:49.947057",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

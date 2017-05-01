@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8c3d11df269212c18af81b25ed12a04d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "62",
+                    "short_name": "62",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cleveland Street",
+                    "short_name": "Cleveland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6916",
+                    "short_name": "6916",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "62 Cleveland St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4079079,
+                        "lng": -71.13878869999999
+                    },
+                    "southwest": {
+                        "lat": 42.4077371,
+                        "lng": -71.1390219
+                    }
+                },
+                "location": {
+                    "lat": 42.40782249999999,
+                    "lng": -71.13890529999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4091714802915,
+                        "lng": -71.13755631970848
+                    },
+                    "southwest": {
+                        "lat": 42.40647351970851,
+                        "lng": -71.1402542802915
+                    }
+                }
+            },
+            "place_id": "ChIJXTKdoP5244kRngjS2qh3g5I",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8c3d11df269212c18af81b25ed12a04d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:40.007401",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

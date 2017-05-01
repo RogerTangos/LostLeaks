@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_73d6274515c66a26285ebe3443e1f0b5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Essex Street",
+                    "short_name": "Essex St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Essex St, Saugus, MA 01906, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4487291,
+                    "lng": -71.01007589999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4500780802915,
+                        "lng": -71.0087269197085
+                    },
+                    "southwest": {
+                        "lat": 42.44738011970851,
+                        "lng": -71.0114248802915
+                    }
+                }
+            },
+            "place_id": "ChIJvQeYdnpy44kRliEA5ffM3MI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "73d6274515c66a26285ebe3443e1f0b5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:17.601580",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

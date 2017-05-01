@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7a8007f4d9914dc7bb30e996679b4150.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "65",
+                    "short_name": "65",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Revere Street",
+                    "short_name": "Revere St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4742",
+                    "short_name": "4742",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "65 Revere St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4351494,
+                        "lng": -71.0242471
+                    },
+                    "southwest": {
+                        "lat": 42.435143,
+                        "lng": -71.02426369999999
+                    }
+                },
+                "location": {
+                    "lat": 42.435143,
+                    "lng": -71.02426369999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4364951802915,
+                        "lng": -71.02290641970849
+                    },
+                    "southwest": {
+                        "lat": 42.4337972197085,
+                        "lng": -71.0256043802915
+                    }
+                }
+            },
+            "place_id": "EiM2NSBSZXZlcmUgU3QsIE1hbGRlbiwgTUEgMDIxNDgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7a8007f4d9914dc7bb30e996679b4150",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:58.167431",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

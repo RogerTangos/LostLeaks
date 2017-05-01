@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dee8a728a4d50467db76a8b75b9037cc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "70",
+                    "short_name": "70",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pierce Road",
+                    "short_name": "Pierce Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02188",
+                    "short_name": "02188",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2714",
+                    "short_name": "2714",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "70 Pierce Rd, Weymouth, MA 02188, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2196031,
+                        "lng": -70.95960769999999
+                    },
+                    "southwest": {
+                        "lat": 42.219452,
+                        "lng": -70.95975330000002
+                    }
+                },
+                "location": {
+                    "lat": 42.2195276,
+                    "lng": -70.95968049999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.22087653029149,
+                        "lng": -70.95833151970851
+                    },
+                    "southwest": {
+                        "lat": 42.2181785697085,
+                        "lng": -70.96102948029151
+                    }
+                }
+            },
+            "place_id": "ChIJcyV8b_5i44kRliiJNig9Z5E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dee8a728a4d50467db76a8b75b9037cc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:25.434358",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

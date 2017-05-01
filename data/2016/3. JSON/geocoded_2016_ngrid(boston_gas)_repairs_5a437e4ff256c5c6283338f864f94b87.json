@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5a437e4ff256c5c6283338f864f94b87.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "212",
+                    "short_name": "212",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Concord Road",
+                    "short_name": "Concord Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2352",
+                    "short_name": "2352",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "212 Concord Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3759874,
+                        "lng": -71.415446
+                    },
+                    "southwest": {
+                        "lat": 42.3759835,
+                        "lng": -71.415464
+                    }
+                },
+                "location": {
+                    "lat": 42.3759835,
+                    "lng": -71.415446
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3773344302915,
+                        "lng": -71.4141060197085
+                    },
+                    "southwest": {
+                        "lat": 42.37463646970851,
+                        "lng": -71.4168039802915
+                    }
+                }
+            },
+            "place_id": "EiYyMTIgQ29uY29yZCBSZCwgU3VkYnVyeSwgTUEgMDE3NzYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5a437e4ff256c5c6283338f864f94b87",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:37.384567",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

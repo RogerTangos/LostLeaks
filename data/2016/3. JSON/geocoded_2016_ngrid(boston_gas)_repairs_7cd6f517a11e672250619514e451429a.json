@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7cd6f517a11e672250619514e451429a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "230",
+                    "short_name": "230",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5231",
+                    "short_name": "5231",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "230 Main St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4486202,
+                        "lng": -71.0681929
+                    },
+                    "southwest": {
+                        "lat": 42.4485353,
+                        "lng": -71.06838909999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4485777,
+                    "lng": -71.068291
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4499267302915,
+                        "lng": -71.06694201970849
+                    },
+                    "southwest": {
+                        "lat": 42.4472287697085,
+                        "lng": -71.0696399802915
+                    }
+                }
+            },
+            "place_id": "ChIJ8c1vr8Bz44kRmDiBsMeZ4uQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7cd6f517a11e672250619514e451429a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:05.545115",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a9916f3640b5cf0cfcc8bbbc588cf87b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "383",
+                    "short_name": "383",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Linwood Avenue",
+                    "short_name": "Linwood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1342",
+                    "short_name": "1342",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "383 Linwood Ave, Newton, MA 02460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3556618,
+                        "lng": -71.2114738
+                    },
+                    "southwest": {
+                        "lat": 42.3556557,
+                        "lng": -71.2114907
+                    }
+                },
+                "location": {
+                    "lat": 42.3556557,
+                    "lng": -71.2114907
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3570077302915,
+                        "lng": -71.21013326970849
+                    },
+                    "southwest": {
+                        "lat": 42.3543097697085,
+                        "lng": -71.2128312302915
+                    }
+                }
+            },
+            "place_id": "EiYzODMgTGlud29vZCBBdmUsIE5ld3RvbiwgTUEgMDI0NjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a9916f3640b5cf0cfcc8bbbc588cf87b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:49.871763",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

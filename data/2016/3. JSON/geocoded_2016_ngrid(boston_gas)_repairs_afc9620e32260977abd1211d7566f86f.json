@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_afc9620e32260977abd1211d7566f86f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gertrude Street",
+                    "short_name": "Gertrude St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1176",
+                    "short_name": "1176",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Gertrude St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.376158,
+                        "lng": -71.18912519999999
+                    },
+                    "southwest": {
+                        "lat": 42.3759914,
+                        "lng": -71.1893073
+                    }
+                },
+                "location": {
+                    "lat": 42.3760747,
+                    "lng": -71.18921619999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37742368029149,
+                        "lng": -71.18786726970849
+                    },
+                    "southwest": {
+                        "lat": 42.37472571970849,
+                        "lng": -71.1905652302915
+                    }
+                }
+            },
+            "place_id": "ChIJZePSC_9344kRg0eGqkw7ubo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "afc9620e32260977abd1211d7566f86f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:11.491977",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

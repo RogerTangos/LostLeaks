@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7a96d7c63e715a419e16528bf59f2bed.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "123",
+                    "short_name": "123",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Galen Street",
+                    "short_name": "Galen St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "123 Galen St, Watertown, MA 02472, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.36067389999999,
+                    "lng": -71.18576039999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36202288029149,
+                        "lng": -71.18441141970848
+                    },
+                    "southwest": {
+                        "lat": 42.35932491970849,
+                        "lng": -71.1871093802915
+                    }
+                }
+            },
+            "place_id": "ChIJGfexsA5444kR40SLzFOlY9Q",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7a96d7c63e715a419e16528bf59f2bed",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:25.625018",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

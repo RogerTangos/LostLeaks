@@ -1,0 +1,71 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f41689aed4d2ab2830edf97815b700de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Massachusetts Ave, Massachusetts, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3588825,
+                        "lng": -71.07300049999999
+                    },
+                    "southwest": {
+                        "lat": 42.3326717,
+                        "lng": -71.09497689999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3451601,
+                    "lng": -71.08667600000001
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3588825,
+                        "lng": -71.07300049999999
+                    },
+                    "southwest": {
+                        "lat": 42.3326717,
+                        "lng": -71.09497689999999
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiVNYXNzYWNodXNldHRzIEF2ZSwgTWFzc2FjaHVzZXR0cywgVVNB",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "f41689aed4d2ab2830edf97815b700de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:16.103528",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e5b193a1531614330cd3b1ad46e6e58b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Acorn Street",
+                    "short_name": "Acorn St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3852",
+                    "short_name": "3852",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Acorn St, Lynn, MA 01902, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.46986099999999,
+                    "lng": -70.947406
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4712099802915,
+                        "lng": -70.94605701970849
+                    },
+                    "southwest": {
+                        "lat": 42.4685120197085,
+                        "lng": -70.94875498029151
+                    }
+                }
+            },
+            "place_id": "ChIJ678FFdxs44kRNdJHKdsyzUw",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e5b193a1531614330cd3b1ad46e6e58b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:09.512969",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

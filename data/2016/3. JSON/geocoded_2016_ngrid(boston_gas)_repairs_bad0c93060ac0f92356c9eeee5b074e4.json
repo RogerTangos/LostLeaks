@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bad0c93060ac0f92356c9eeee5b074e4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Ontario Street",
+                    "short_name": "Ontario St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Ontario St & Winthrop St, Lynn, MA 01904, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.475953,
+                    "lng": -70.96412699999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4773019802915,
+                        "lng": -70.9627780197085
+                    },
+                    "southwest": {
+                        "lat": 42.4746040197085,
+                        "lng": -70.9654759802915
+                    }
+                }
+            },
+            "place_id": "Ei1PbnRhcmlvIFN0ICYgV2ludGhyb3AgU3QsIEx5bm4sIE1BIDAxOTA0LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "bad0c93060ac0f92356c9eeee5b074e4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:42.930302",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

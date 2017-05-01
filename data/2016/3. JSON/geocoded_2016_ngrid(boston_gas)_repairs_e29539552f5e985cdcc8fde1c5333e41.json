@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e29539552f5e985cdcc8fde1c5333e41.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "236",
+                    "short_name": "236",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Berkeley Street",
+                    "short_name": "Berkeley St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Back Bay East",
+                    "short_name": "Back Bay East",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02116",
+                    "short_name": "02116",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3126",
+                    "short_name": "3126",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "236 Berkeley St, Boston, MA 02116, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3516207,
+                        "lng": -71.0732475
+                    },
+                    "southwest": {
+                        "lat": 42.3516163,
+                        "lng": -71.0732653
+                    }
+                },
+                "location": {
+                    "lat": 42.3516163,
+                    "lng": -71.0732653
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3529674802915,
+                        "lng": -71.0719074197085
+                    },
+                    "southwest": {
+                        "lat": 42.3502695197085,
+                        "lng": -71.0746053802915
+                    }
+                }
+            },
+            "place_id": "EiYyMzYgQmVya2VsZXkgU3QsIEJvc3RvbiwgTUEgMDIxMTYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e29539552f5e985cdcc8fde1c5333e41",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:08.996146",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

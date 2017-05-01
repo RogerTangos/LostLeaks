@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cdba2ec887dc4cfc2b739f876d6a5699.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "156",
+                    "short_name": "156",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Waltham Street",
+                    "short_name": "Waltham St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1333",
+                    "short_name": "1333",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "156 Waltham St, Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3599793,
+                        "lng": -71.2225473
+                    },
+                    "southwest": {
+                        "lat": 42.3599738,
+                        "lng": -71.22256449999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3599793,
+                    "lng": -71.2225473
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3613255302915,
+                        "lng": -71.2212069197085
+                    },
+                    "southwest": {
+                        "lat": 42.3586275697085,
+                        "lng": -71.2239048802915
+                    }
+                }
+            },
+            "place_id": "EiUxNTYgV2FsdGhhbSBTdCwgTmV3dG9uLCBNQSAwMjQ2NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cdba2ec887dc4cfc2b739f876d6a5699",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:43.828796",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

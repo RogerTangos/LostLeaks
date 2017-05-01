@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8911390667e046c13d6acd93810dac7f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "160",
+                    "short_name": "160",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ocean Avenue",
+                    "short_name": "Ocean Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "160 Ocean Ave, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5076785,
+                        "lng": -70.8972869
+                    },
+                    "southwest": {
+                        "lat": 42.5076648,
+                        "lng": -70.8972892
+                    }
+                },
+                "location": {
+                    "lat": 42.5076785,
+                    "lng": -70.8972892
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5090206302915,
+                        "lng": -70.8959390697085
+                    },
+                    "southwest": {
+                        "lat": 42.5063226697085,
+                        "lng": -70.89863703029151
+                    }
+                }
+            },
+            "place_id": "EiMxNjAgT2NlYW4gQXZlLCBTYWxlbSwgTUEgMDE5NzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8911390667e046c13d6acd93810dac7f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:59.986442",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

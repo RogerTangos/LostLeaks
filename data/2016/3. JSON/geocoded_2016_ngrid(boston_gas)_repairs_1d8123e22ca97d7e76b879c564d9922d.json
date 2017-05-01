@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1d8123e22ca97d7e76b879c564d9922d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "75",
+                    "short_name": "75",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Block Street",
+                    "short_name": "Block St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1909",
+                    "short_name": "1909",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "75 Block St, Abington, MA 02351, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.107588,
+                    "lng": -70.9511156
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1089369802915,
+                        "lng": -70.94976661970848
+                    },
+                    "southwest": {
+                        "lat": 42.1062390197085,
+                        "lng": -70.9524645802915
+                    }
+                }
+            },
+            "place_id": "ChIJHfLmAn-c5IkR3JAefN8clIE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1d8123e22ca97d7e76b879c564d9922d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:41.097077",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

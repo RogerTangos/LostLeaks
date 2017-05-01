@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_16f5207df050119057d79d9a06743ef2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Milford Street",
+                    "short_name": "Milford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3646",
+                    "short_name": "3646",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Milford St, Boston, MA 02118, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.343942,
+                    "lng": -71.068975
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3452909802915,
+                        "lng": -71.0676260197085
+                    },
+                    "southwest": {
+                        "lat": 42.3425930197085,
+                        "lng": -71.0703239802915
+                    }
+                }
+            },
+            "place_id": "ChIJyYoZ7W1644kRimrI429qO3U",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "16f5207df050119057d79d9a06743ef2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:24.732551",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

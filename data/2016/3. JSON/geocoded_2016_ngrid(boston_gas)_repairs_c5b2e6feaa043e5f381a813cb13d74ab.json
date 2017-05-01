@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c5b2e6feaa043e5f381a813cb13d74ab.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Bedford Street",
+                    "short_name": "Bedford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Bedford St & May St, Whitman, MA 02382, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.0730681,
+                    "lng": -70.9474853
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0744170802915,
+                        "lng": -70.9461363197085
+                    },
+                    "southwest": {
+                        "lat": 42.0717191197085,
+                        "lng": -70.9488342802915
+                    }
+                }
+            },
+            "place_id": "EitCZWRmb3JkIFN0ICYgTWF5IFN0LCBXaGl0bWFuLCBNQSAwMjM4MiwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "c5b2e6feaa043e5f381a813cb13d74ab",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:13.462894",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c2442e12f9f5ce0573a07f1a91b52b18.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "76",
+                    "short_name": "76",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lawrence Lane",
+                    "short_name": "Lawrence Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3336",
+                    "short_name": "3336",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "76 Lawrence Ln, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.40665010000001,
+                        "lng": -71.1699538
+                    },
+                    "southwest": {
+                        "lat": 42.4064973,
+                        "lng": -71.17016
+                    }
+                },
+                "location": {
+                    "lat": 42.4065737,
+                    "lng": -71.1700569
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40792268029151,
+                        "lng": -71.1687079197085
+                    },
+                    "southwest": {
+                        "lat": 42.40522471970851,
+                        "lng": -71.1714058802915
+                    }
+                }
+            },
+            "place_id": "ChIJ43l6Z8p344kRXy1jP1UN6UA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c2442e12f9f5ce0573a07f1a91b52b18",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:45.759829",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

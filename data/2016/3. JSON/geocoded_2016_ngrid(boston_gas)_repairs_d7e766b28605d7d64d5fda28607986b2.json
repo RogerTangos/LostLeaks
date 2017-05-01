@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d7e766b28605d7d64d5fda28607986b2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oak Square",
+                    "short_name": "Oak Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02135",
+                    "short_name": "02135",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Washington St & Dickinson Rd, Boston, MA 02135, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3489509,
+                    "lng": -71.1614153
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3502998802915,
+                        "lng": -71.1600663197085
+                    },
+                    "southwest": {
+                        "lat": 42.3476019197085,
+                        "lng": -71.16276428029151
+                    }
+                }
+            },
+            "place_id": "EjNXYXNoaW5ndG9uIFN0ICYgRGlja2luc29uIFJkLCBCb3N0b24sIE1BIDAyMTM1LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d7e766b28605d7d64d5fda28607986b2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:24.451527",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2a28a034d94cf7aef0199850815d035c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "98",
+                    "short_name": "98",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ashland Street",
+                    "short_name": "Ashland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1201",
+                    "short_name": "1201",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "98 Ashland St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.46903750000001,
+                        "lng": -71.06601429999999
+                    },
+                    "southwest": {
+                        "lat": 42.46903650000001,
+                        "lng": -71.0660331
+                    }
+                },
+                "location": {
+                    "lat": 42.46903650000001,
+                    "lng": -71.0660331
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47038598029151,
+                        "lng": -71.06467471970849
+                    },
+                    "southwest": {
+                        "lat": 42.46768801970851,
+                        "lng": -71.0673726802915
+                    }
+                }
+            },
+            "place_id": "EiU5OCBBc2hsYW5kIFN0LCBNZWxyb3NlLCBNQSAwMjE3NiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2a28a034d94cf7aef0199850815d035c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:04.671656",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

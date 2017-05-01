@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ffb07e8c6026edd2d6092600bfa3c828.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "219",
+                    "short_name": "219",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Forest Street",
+                    "short_name": "Forest St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford",
+                    "short_name": "Medford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02155",
+                    "short_name": "02155",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2548",
+                    "short_name": "2548",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "219 Forest St, Medford, MA 02155, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.42666610000001,
+                        "lng": -71.1046909
+                    },
+                    "southwest": {
+                        "lat": 42.4265493,
+                        "lng": -71.1049997
+                    }
+                },
+                "location": {
+                    "lat": 42.4266077,
+                    "lng": -71.1048453
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4279566802915,
+                        "lng": -71.10349631970848
+                    },
+                    "southwest": {
+                        "lat": 42.4252587197085,
+                        "lng": -71.1061942802915
+                    }
+                }
+            },
+            "place_id": "ChIJZTG137F244kReKLAeX7uW_g",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ffb07e8c6026edd2d6092600bfa3c828",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:41.720783",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

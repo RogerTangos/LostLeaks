@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_88fa9bc9fbba1747fda5686c45eb7ad3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "26",
+                    "short_name": "26",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gorham Road",
+                    "short_name": "Gorham Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2248",
+                    "short_name": "2248",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "26 Gorham Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3832339,
+                        "lng": -71.1775614
+                    },
+                    "southwest": {
+                        "lat": 42.3830824,
+                        "lng": -71.1777359
+                    }
+                },
+                "location": {
+                    "lat": 42.3831582,
+                    "lng": -71.17764869999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3845071302915,
+                        "lng": -71.1762996697085
+                    },
+                    "southwest": {
+                        "lat": 42.3818091697085,
+                        "lng": -71.1789976302915
+                    }
+                }
+            },
+            "place_id": "ChIJfbsQy-9344kRubzLK_IV2sI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "88fa9bc9fbba1747fda5686c45eb7ad3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:41.279030",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

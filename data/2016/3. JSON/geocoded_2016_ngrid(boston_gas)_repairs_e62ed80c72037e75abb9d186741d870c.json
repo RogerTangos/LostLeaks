@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e62ed80c72037e75abb9d186741d870c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "217",
+                    "short_name": "217",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Avenue",
+                    "short_name": "Highland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1614",
+                    "short_name": "1614",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "217 Highland Ave, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3762444,
+                        "lng": -71.20331809999999
+                    },
+                    "southwest": {
+                        "lat": 42.3761297,
+                        "lng": -71.20353349999999
+                    }
+                },
+                "location": {
+                    "lat": 42.376187,
+                    "lng": -71.20342579999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37753603029149,
+                        "lng": -71.20207681970848
+                    },
+                    "southwest": {
+                        "lat": 42.3748380697085,
+                        "lng": -71.20477478029149
+                    }
+                }
+            },
+            "place_id": "ChIJ5yCWRK2C44kRVlewC1w1lO8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e62ed80c72037e75abb9d186741d870c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:41.135398",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

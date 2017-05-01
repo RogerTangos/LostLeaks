@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d570b2e27b7a60f19f3e3c6865b1963a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "134",
+                    "short_name": "134",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Avenue",
+                    "short_name": "Highland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2725",
+                    "short_name": "2725",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "134 Highland Ave, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5086338,
+                        "lng": -70.9126342
+                    },
+                    "southwest": {
+                        "lat": 42.5084506,
+                        "lng": -70.9128424
+                    }
+                },
+                "location": {
+                    "lat": 42.5085422,
+                    "lng": -70.9127383
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5098911802915,
+                        "lng": -70.91138931970849
+                    },
+                    "southwest": {
+                        "lat": 42.5071932197085,
+                        "lng": -70.9140872802915
+                    }
+                }
+            },
+            "place_id": "ChIJ09tGoXwT44kRibBuaoeGNkk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d570b2e27b7a60f19f3e3c6865b1963a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:47.011838",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

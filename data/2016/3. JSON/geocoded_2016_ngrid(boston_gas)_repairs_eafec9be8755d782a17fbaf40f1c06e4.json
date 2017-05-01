@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eafec9be8755d782a17fbaf40f1c06e4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "61",
+                    "short_name": "61",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Riverview Avenue",
+                    "short_name": "Riverview Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "The Island",
+                    "short_name": "The Island",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "61 Riverview Ave, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3612276,
+                        "lng": -71.2484289
+                    },
+                    "southwest": {
+                        "lat": 42.361219,
+                        "lng": -71.24844360000002
+                    }
+                },
+                "location": {
+                    "lat": 42.3612276,
+                    "lng": -71.24844360000002
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3625722802915,
+                        "lng": -71.24708726970852
+                    },
+                    "southwest": {
+                        "lat": 42.3598743197085,
+                        "lng": -71.24978523029152
+                    }
+                }
+            },
+            "place_id": "Eig2MSBSaXZlcnZpZXcgQXZlLCBXYWx0aGFtLCBNQSAwMjQ1MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "eafec9be8755d782a17fbaf40f1c06e4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:36.594146",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

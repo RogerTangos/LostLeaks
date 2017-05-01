@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a6b4f1160b09ec82d12d52c55c62d839.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Piedmont Street",
+                    "short_name": "Piedmont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5632",
+                    "short_name": "5632",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Piedmont St, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4205645,
+                        "lng": -71.1939976
+                    },
+                    "southwest": {
+                        "lat": 42.4204419,
+                        "lng": -71.1941555
+                    }
+                },
+                "location": {
+                    "lat": 42.4205032,
+                    "lng": -71.1940765
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4218521802915,
+                        "lng": -71.1927275697085
+                    },
+                    "southwest": {
+                        "lat": 42.4191542197085,
+                        "lng": -71.1954255302915
+                    }
+                }
+            },
+            "place_id": "ChIJN85mCoed44kRrLnLnOUyea4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a6b4f1160b09ec82d12d52c55c62d839",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:31.275778",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

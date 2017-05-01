@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6fd0fadd4593e1246b6ed97f201af14b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Appaloosa Lane",
+                    "short_name": "Appaloosa Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Hamilton",
+                    "short_name": "South Hamilton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hamilton",
+                    "short_name": "Hamilton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01982",
+                    "short_name": "01982",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Appaloosa Ln, South Hamilton, MA 01982, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.61509299999999,
+                        "lng": -70.8226177
+                    },
+                    "southwest": {
+                        "lat": 42.6150805,
+                        "lng": -70.8226255
+                    }
+                },
+                "location": {
+                    "lat": 42.61509299999999,
+                    "lng": -70.8226177
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.61643573029149,
+                        "lng": -70.82127261970848
+                    },
+                    "southwest": {
+                        "lat": 42.61373776970849,
+                        "lng": -70.8239705802915
+                    }
+                }
+            },
+            "place_id": "Ei04IEFwcGFsb29zYSBMbiwgU291dGggSGFtaWx0b24sIE1BIDAxOTgyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6fd0fadd4593e1246b6ed97f201af14b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:56.053010",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

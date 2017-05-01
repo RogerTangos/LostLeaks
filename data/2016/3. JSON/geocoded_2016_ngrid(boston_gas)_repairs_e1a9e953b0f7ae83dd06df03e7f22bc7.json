@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e1a9e953b0f7ae83dd06df03e7f22bc7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "715",
+                    "short_name": "715",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Belmont Street",
+                    "short_name": "Belmont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "715 Belmont St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3803607,
+                        "lng": -71.1827192
+                    },
+                    "southwest": {
+                        "lat": 42.3803469,
+                        "lng": -71.1827206
+                    }
+                },
+                "location": {
+                    "lat": 42.3803607,
+                    "lng": -71.1827192
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3817027802915,
+                        "lng": -71.18137091970848
+                    },
+                    "southwest": {
+                        "lat": 42.37900481970851,
+                        "lng": -71.1840688802915
+                    }
+                }
+            },
+            "place_id": "EiY3MTUgQmVsbW9udCBTdCwgQmVsbW9udCwgTUEgMDI0NzgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e1a9e953b0f7ae83dd06df03e7f22bc7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:31.019035",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

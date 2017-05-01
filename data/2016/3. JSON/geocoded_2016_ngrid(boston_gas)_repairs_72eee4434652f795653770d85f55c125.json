@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72eee4434652f795653770d85f55c125.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Westview Street",
+                    "short_name": "Westview St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Westview St & Ames St, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2907372,
+                    "lng": -71.08649199999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29208618029149,
+                        "lng": -71.08514301970848
+                    },
+                    "southwest": {
+                        "lat": 42.28938821970849,
+                        "lng": -71.08784098029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EixXZXN0dmlldyBTdCAmIEFtZXMgU3QsIEJvc3RvbiwgTUEgMDIxMjQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "72eee4434652f795653770d85f55c125",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:58.097542",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

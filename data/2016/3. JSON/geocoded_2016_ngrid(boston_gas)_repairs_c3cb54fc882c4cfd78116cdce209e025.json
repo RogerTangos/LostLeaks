@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c3cb54fc882c4cfd78116cdce209e025.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "181",
+                    "short_name": "181",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harvard Street",
+                    "short_name": "Harvard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Coolidge Corner South Side",
+                    "short_name": "Coolidge Corner South Side",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02446",
+                    "short_name": "02446",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "181 Harvard St, Brookline, MA 02446, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.338929,
+                    "lng": -71.1210759
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3402779802915,
+                        "lng": -71.1197269197085
+                    },
+                    "southwest": {
+                        "lat": 42.3375800197085,
+                        "lng": -71.1224248802915
+                    }
+                }
+            },
+            "place_id": "ChIJP6MJApZ544kRp2EMuAfv0ec",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c3cb54fc882c4cfd78116cdce209e025",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:36.118479",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

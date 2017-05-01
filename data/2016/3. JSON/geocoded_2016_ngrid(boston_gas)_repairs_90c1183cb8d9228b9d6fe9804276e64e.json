@@ -1,0 +1,106 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_90c1183cb8d9228b9d6fe9804276e64e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "939",
+                    "short_name": "939",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Morton Street",
+                    "short_name": "Morton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02126",
+                    "short_name": "02126",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2620",
+                    "short_name": "2620",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "939 Morton St, Mattapan, MA 02126, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.28019,
+                    "lng": -71.082773
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.28153898029149,
+                        "lng": -71.08142401970849
+                    },
+                    "southwest": {
+                        "lat": 42.2788410197085,
+                        "lng": -71.08412198029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJO9HuKwh844kRWiiyeEQ5m_E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "90c1183cb8d9228b9d6fe9804276e64e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:55.632219",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

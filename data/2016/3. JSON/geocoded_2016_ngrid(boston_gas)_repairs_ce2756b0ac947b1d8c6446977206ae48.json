@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ce2756b0ac947b1d8c6446977206ae48.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "110",
+                    "short_name": "110",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "K Street",
+                    "short_name": "K St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "D Street / West Broadway",
+                    "short_name": "D Street / West Broadway",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "110 K St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3387585,
+                        "lng": -71.0371811
+                    },
+                    "southwest": {
+                        "lat": 42.3381807,
+                        "lng": -71.0374227
+                    }
+                },
+                "location": {
+                    "lat": 42.3384696,
+                    "lng": -71.0373019
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33981858029149,
+                        "lng": -71.03595291970849
+                    },
+                    "southwest": {
+                        "lat": 42.33712061970849,
+                        "lng": -71.03865088029151
+                    }
+                }
+            },
+            "place_id": "ChIJoQhRGpB644kR94Tcj6u3-ds",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ce2756b0ac947b1d8c6446977206ae48",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:50.109611",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_62d0cfd2eb1d72561242c16aa0cb6cd8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "473",
+                    "short_name": "473",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Broadway",
+                    "short_name": "W Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Telegraph Hill",
+                    "short_name": "Telegraph Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "473 W Broadway, Boston, MA 02127, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3355438,
+                    "lng": -71.04617089999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3368927802915,
+                        "lng": -71.0448219197085
+                    },
+                    "southwest": {
+                        "lat": 42.3341948197085,
+                        "lng": -71.0475198802915
+                    }
+                }
+            },
+            "place_id": "ChIJkbqC0It644kR4JKvYYcTCHA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "62d0cfd2eb1d72561242c16aa0cb6cd8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:02.736247",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

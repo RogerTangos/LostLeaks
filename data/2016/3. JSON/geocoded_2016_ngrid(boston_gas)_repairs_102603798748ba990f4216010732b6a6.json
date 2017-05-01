@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_102603798748ba990f4216010732b6a6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Cabot Street",
+                    "short_name": "Cabot St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cabot St & Balch St, Beverly, MA 01915, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5625357,
+                    "lng": -70.8840696
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5638846802915,
+                        "lng": -70.8827206197085
+                    },
+                    "southwest": {
+                        "lat": 42.5611867197085,
+                        "lng": -70.8854185802915
+                    }
+                }
+            },
+            "place_id": "EitDYWJvdCBTdCAmIEJhbGNoIFN0LCBCZXZlcmx5LCBNQSAwMTkxNSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "102603798748ba990f4216010732b6a6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:18.802643",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

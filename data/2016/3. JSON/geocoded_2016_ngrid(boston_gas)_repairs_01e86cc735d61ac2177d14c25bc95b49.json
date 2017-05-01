@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_01e86cc735d61ac2177d14c25bc95b49.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Russell Street",
+                    "short_name": "Russell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Russell St & Whipple Rd, Peabody, MA 01960, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.55891500000001,
+                    "lng": -71.012273
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.56026398029151,
+                        "lng": -71.01092401970848
+                    },
+                    "southwest": {
+                        "lat": 42.55756601970851,
+                        "lng": -71.01362198029149
+                    }
+                }
+            },
+            "place_id": "Ei9SdXNzZWxsIFN0ICYgV2hpcHBsZSBSZCwgUGVhYm9keSwgTUEgMDE5NjAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "01e86cc735d61ac2177d14c25bc95b49",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:58.279931",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

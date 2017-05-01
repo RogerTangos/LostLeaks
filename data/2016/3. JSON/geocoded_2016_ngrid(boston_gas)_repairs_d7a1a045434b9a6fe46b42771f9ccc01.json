@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d7a1a045434b9a6fe46b42771f9ccc01.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "34",
+                    "short_name": "34",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harrison Avenue",
+                    "short_name": "Harrison Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chinatown",
+                    "short_name": "Chinatown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02111",
+                    "short_name": "02111",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "34 Harrison Ave, Boston, MA 02111, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3519041,
+                        "lng": -71.0609085
+                    },
+                    "southwest": {
+                        "lat": 42.3518039,
+                        "lng": -71.0610935
+                    }
+                },
+                "location": {
+                    "lat": 42.351854,
+                    "lng": -71.06100099999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3532029802915,
+                        "lng": -71.0596520197085
+                    },
+                    "southwest": {
+                        "lat": 42.3505050197085,
+                        "lng": -71.0623499802915
+                    }
+                }
+            },
+            "place_id": "ChIJwffsGXh644kRq9F-qllLydY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d7a1a045434b9a6fe46b42771f9ccc01",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:13.003277",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

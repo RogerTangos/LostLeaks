@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b80819e5b2eb189a41bc5aa938e006e4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "80",
+                    "short_name": "80",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bartlett Street",
+                    "short_name": "Bartlett St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Charlestown",
+                    "short_name": "Charlestown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02129",
+                    "short_name": "02129",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "80 Bartlett St, Boston, MA 02129, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.37852059999999,
+                    "lng": -71.0646199
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3798695802915,
+                        "lng": -71.06327091970849
+                    },
+                    "southwest": {
+                        "lat": 42.3771716197085,
+                        "lng": -71.0659688802915
+                    }
+                }
+            },
+            "place_id": "ChIJ0zF8X-5w44kRo2jGmHVtgbA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b80819e5b2eb189a41bc5aa938e006e4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:06.506633",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0a5f2dc48636da50b8c9baf5238cd8d7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "590",
+                    "short_name": "590",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01901",
+                    "short_name": "01901",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "590 Washington St, Lynn, MA 01901, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.46316760000001,
+                        "lng": -70.94380989999999
+                    },
+                    "southwest": {
+                        "lat": 42.4629017,
+                        "lng": -70.94417159999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4630347,
+                    "lng": -70.9439907
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4643836302915,
+                        "lng": -70.94264176970849
+                    },
+                    "southwest": {
+                        "lat": 42.4616856697085,
+                        "lng": -70.94533973029151
+                    }
+                }
+            },
+            "place_id": "ChIJ77tuNOZs44kR3DS1nuqIQbA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0a5f2dc48636da50b8c9baf5238cd8d7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:16.226497",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

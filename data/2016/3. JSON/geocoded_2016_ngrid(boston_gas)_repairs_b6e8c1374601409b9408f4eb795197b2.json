@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b6e8c1374601409b9408f4eb795197b2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Belmont Road",
+                    "short_name": "Belmont Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5102",
+                    "short_name": "5102",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Belmont Rd, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4698036,
+                        "lng": -71.2010304
+                    },
+                    "southwest": {
+                        "lat": 42.4696484,
+                        "lng": -71.20128679999999
+                    }
+                },
+                "location": {
+                    "lat": 42.469726,
+                    "lng": -71.2011586
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4710749802915,
+                        "lng": -71.19980961970847
+                    },
+                    "southwest": {
+                        "lat": 42.46837701970851,
+                        "lng": -71.2025075802915
+                    }
+                }
+            },
+            "place_id": "ChIJl2xG-Bie44kRHjUOVKjikAs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b6e8c1374601409b9408f4eb795197b2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:17.053285",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_346b27bff6065c71015496ebcb966786.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "406",
+                    "short_name": "406",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ferry Street",
+                    "short_name": "Ferry St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7809",
+                    "short_name": "7809",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "406 Ferry St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4212351,
+                        "lng": -71.05715459999999
+                    },
+                    "southwest": {
+                        "lat": 42.4211039,
+                        "lng": -71.05734269999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4211695,
+                    "lng": -71.0572486
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4225184802915,
+                        "lng": -71.05589966970848
+                    },
+                    "southwest": {
+                        "lat": 42.4198205197085,
+                        "lng": -71.0585976302915
+                    }
+                }
+            },
+            "place_id": "ChIJ_1aDtXtx44kRSSqSreVaFTk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "346b27bff6065c71015496ebcb966786",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:15.689903",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

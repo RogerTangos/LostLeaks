@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fd5d6eee7ab2990e0b2812ea4d61a241.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Medford Street",
+                    "short_name": "Medford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Medford",
+                    "short_name": "South Medford",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Medford St, Somerville, MA 02145, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3977374,
+                    "lng": -71.1043711
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39908638029149,
+                        "lng": -71.10302211970848
+                    },
+                    "southwest": {
+                        "lat": 42.39638841970849,
+                        "lng": -71.1057200802915
+                    }
+                }
+            },
+            "place_id": "ChIJnYPV5Sl344kRuC1tACaDtUI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fd5d6eee7ab2990e0b2812ea4d61a241",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:22.325017",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

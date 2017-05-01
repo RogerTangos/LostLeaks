@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e348f533c6907863a534558163775c7a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "247",
+                    "short_name": "247",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hardy Pond Road",
+                    "short_name": "Hardy Pond Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lakeview",
+                    "short_name": "Lakeview",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2203",
+                    "short_name": "2203",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "247 Hardy Pond Rd, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4115456,
+                        "lng": -71.24873579999999
+                    },
+                    "southwest": {
+                        "lat": 42.411533,
+                        "lng": -71.2487436
+                    }
+                },
+                "location": {
+                    "lat": 42.4115456,
+                    "lng": -71.24873579999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4128882802915,
+                        "lng": -71.24739071970849
+                    },
+                    "southwest": {
+                        "lat": 42.4101903197085,
+                        "lng": -71.2500886802915
+                    }
+                }
+            },
+            "place_id": "EikyNDcgSGFyZHkgUG9uZCBSZCwgV2FsdGhhbSwgTUEgMDI0NTEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e348f533c6907863a534558163775c7a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:23.431890",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

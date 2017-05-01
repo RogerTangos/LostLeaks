@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dd9bd2c97bc5a3d2def7b6d3604b4d3f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "139",
+                    "short_name": "139",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Belmont Street",
+                    "short_name": "Belmont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "139 Belmont St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1310736,
+                        "lng": -70.9212604
+                    },
+                    "southwest": {
+                        "lat": 42.1310607,
+                        "lng": -70.92126739999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1310736,
+                    "lng": -70.92126739999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1324161302915,
+                        "lng": -70.91991491970849
+                    },
+                    "southwest": {
+                        "lat": 42.1297181697085,
+                        "lng": -70.9226128802915
+                    }
+                }
+            },
+            "place_id": "EicxMzkgQmVsbW9udCBTdCwgUm9ja2xhbmQsIE1BIDAyMzcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dd9bd2c97bc5a3d2def7b6d3604b4d3f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:53.331199",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

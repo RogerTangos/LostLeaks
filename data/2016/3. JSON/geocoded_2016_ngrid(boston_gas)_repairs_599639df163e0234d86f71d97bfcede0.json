@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_599639df163e0234d86f71d97bfcede0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "231",
+                    "short_name": "231",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elsinore Street",
+                    "short_name": "Elsinore St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2339",
+                    "short_name": "2339",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "231 Elsinore St, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4571595,
+                        "lng": -71.36490080000002
+                    },
+                    "southwest": {
+                        "lat": 42.4569742,
+                        "lng": -71.36513149999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4570668,
+                    "lng": -71.3650162
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4584158302915,
+                        "lng": -71.36366716970849
+                    },
+                    "southwest": {
+                        "lat": 42.4557178697085,
+                        "lng": -71.3663651302915
+                    }
+                }
+            },
+            "place_id": "ChIJEzHhBWya44kROCHIoWvcXFM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "599639df163e0234d86f71d97bfcede0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:06.092844",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

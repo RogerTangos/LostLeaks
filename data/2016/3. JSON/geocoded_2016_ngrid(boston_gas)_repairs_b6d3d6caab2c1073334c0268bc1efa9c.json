@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b6d3d6caab2c1073334c0268bc1efa9c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Otis Street",
+                    "short_name": "Otis St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Otis St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3586143,
+                        "lng": -70.9711914
+                    },
+                    "southwest": {
+                        "lat": 42.3584861,
+                        "lng": -70.9713826
+                    }
+                },
+                "location": {
+                    "lat": 42.3585502,
+                    "lng": -70.971287
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3598991802915,
+                        "lng": -70.96993801970848
+                    },
+                    "southwest": {
+                        "lat": 42.3572012197085,
+                        "lng": -70.97263598029149
+                    }
+                }
+            },
+            "place_id": "ChIJMVDCy71v44kR0wLub9kT8Hw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b6d3d6caab2c1073334c0268bc1efa9c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:52.648160",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

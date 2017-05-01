@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0b1dfea2cae873dd8d6848384a166021.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jonathan Lane",
+                    "short_name": "Jonathan Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1848",
+                    "short_name": "1848",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Jonathan Ln, Bedford, MA 01730, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4908887,
+                        "lng": -71.2622895
+                    },
+                    "southwest": {
+                        "lat": 42.4908759,
+                        "lng": -71.2622964
+                    }
+                },
+                "location": {
+                    "lat": 42.4908887,
+                    "lng": -71.2622895
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4922312802915,
+                        "lng": -71.26094396970849
+                    },
+                    "southwest": {
+                        "lat": 42.4895333197085,
+                        "lng": -71.2636419302915
+                    }
+                }
+            },
+            "place_id": "EiU4IEpvbmF0aGFuIExuLCBCZWRmb3JkLCBNQSAwMTczMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0b1dfea2cae873dd8d6848384a166021",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:00.465018",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

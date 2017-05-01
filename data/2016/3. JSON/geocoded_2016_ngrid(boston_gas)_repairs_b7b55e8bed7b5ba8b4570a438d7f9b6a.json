@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b7b55e8bed7b5ba8b4570a438d7f9b6a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "61",
+                    "short_name": "61",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Saint Andrew Road",
+                    "short_name": "St Andrew Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "61 St Andrew Rd, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3843547,
+                        "lng": -71.0024238
+                    },
+                    "southwest": {
+                        "lat": 42.3841802,
+                        "lng": -71.0026219
+                    }
+                },
+                "location": {
+                    "lat": 42.3842674,
+                    "lng": -71.0025229
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38561643029149,
+                        "lng": -71.0011738697085
+                    },
+                    "southwest": {
+                        "lat": 42.3829184697085,
+                        "lng": -71.00387183029152
+                    }
+                }
+            },
+            "place_id": "ChIJf2Rqi9Vx44kRPL5cva9i08k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b7b55e8bed7b5ba8b4570a438d7f9b6a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:36.633323",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

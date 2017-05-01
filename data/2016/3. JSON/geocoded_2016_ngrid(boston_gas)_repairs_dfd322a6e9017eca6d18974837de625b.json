@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dfd322a6e9017eca6d18974837de625b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "439",
+                    "short_name": "439",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pond Street",
+                    "short_name": "Pond St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6821",
+                    "short_name": "6821",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "439 Pond St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.19793689999999,
+                        "lng": -71.02698769999999
+                    },
+                    "southwest": {
+                        "lat": 42.1976778,
+                        "lng": -71.0273206
+                    }
+                },
+                "location": {
+                    "lat": 42.1978073,
+                    "lng": -71.02715409999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1991563302915,
+                        "lng": -71.02580516970849
+                    },
+                    "southwest": {
+                        "lat": 42.1964583697085,
+                        "lng": -71.02850313029151
+                    }
+                }
+            },
+            "place_id": "ChIJvbYikmB944kRDCyvL0JnuuE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dfd322a6e9017eca6d18974837de625b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:36.371861",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

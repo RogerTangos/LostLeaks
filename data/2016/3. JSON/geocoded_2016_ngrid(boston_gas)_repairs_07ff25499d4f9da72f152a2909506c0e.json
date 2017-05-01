@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_07ff25499d4f9da72f152a2909506c0e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Highlands",
+                    "short_name": "Newton Highlands",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02461",
+                    "short_name": "02461",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Boylston St & Woodcliff Rd, Newton, MA 02461, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3192791,
+                    "lng": -71.2020077
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3206280802915,
+                        "lng": -71.20065871970849
+                    },
+                    "southwest": {
+                        "lat": 42.3179301197085,
+                        "lng": -71.20335668029149
+                    }
+                }
+            },
+            "place_id": "EjFCb3lsc3RvbiBTdCAmIFdvb2RjbGlmZiBSZCwgTmV3dG9uLCBNQSAwMjQ2MSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "07ff25499d4f9da72f152a2909506c0e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:16.752158",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

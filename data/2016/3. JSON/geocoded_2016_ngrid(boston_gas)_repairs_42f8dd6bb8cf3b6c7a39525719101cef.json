@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_42f8dd6bb8cf3b6c7a39525719101cef.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "805",
+                    "short_name": "805",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nantasket Avenue",
+                    "short_name": "Nantasket Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "805 Nantasket Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3016599,
+                        "lng": -70.8835569
+                    },
+                    "southwest": {
+                        "lat": 42.3014795,
+                        "lng": -70.8837479
+                    }
+                },
+                "location": {
+                    "lat": 42.30156969999999,
+                    "lng": -70.88365240000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3029186802915,
+                        "lng": -70.88230341970849
+                    },
+                    "southwest": {
+                        "lat": 42.3002207197085,
+                        "lng": -70.8850013802915
+                    }
+                }
+            },
+            "place_id": "ChIJB6BLg2pm44kRBPyG_MR5a0Q",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "42f8dd6bb8cf3b6c7a39525719101cef",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:09.776022",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

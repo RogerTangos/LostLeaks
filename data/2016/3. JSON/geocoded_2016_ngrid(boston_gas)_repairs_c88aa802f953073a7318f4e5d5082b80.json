@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c88aa802f953073a7318f4e5d5082b80.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cookson Terrace",
+                    "short_name": "Cookson Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Southern Mattapan",
+                    "short_name": "Southern Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02126",
+                    "short_name": "02126",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Cookson Terrace, Boston, MA 02126, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2717905,
+                        "lng": -71.0900888
+                    },
+                    "southwest": {
+                        "lat": 42.271779,
+                        "lng": -71.09009929999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2717905,
+                    "lng": -71.0900888
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2731337302915,
+                        "lng": -71.0887450697085
+                    },
+                    "southwest": {
+                        "lat": 42.2704357697085,
+                        "lng": -71.0914430302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eik0NCBDb29rc29uIFRlcnJhY2UsIEJvc3RvbiwgTUEgMDIxMjYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c88aa802f953073a7318f4e5d5082b80",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:37.327469",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

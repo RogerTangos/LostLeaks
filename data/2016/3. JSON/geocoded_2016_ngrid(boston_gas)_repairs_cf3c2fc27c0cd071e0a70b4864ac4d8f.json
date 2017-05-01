@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cf3c2fc27c0cd071e0a70b4864ac4d8f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "138",
+                    "short_name": "138",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Forest Avenue",
+                    "short_name": "Forest Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2730",
+                    "short_name": "2730",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "138 Forest Ave, Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3444251,
+                        "lng": -71.2160567
+                    },
+                    "southwest": {
+                        "lat": 42.3444231,
+                        "lng": -71.2160753
+                    }
+                },
+                "location": {
+                    "lat": 42.3444251,
+                    "lng": -71.2160567
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34577308029149,
+                        "lng": -71.2147170197085
+                    },
+                    "southwest": {
+                        "lat": 42.3430751197085,
+                        "lng": -71.21741498029151
+                    }
+                }
+            },
+            "place_id": "EiUxMzggRm9yZXN0IEF2ZSwgTmV3dG9uLCBNQSAwMjQ2NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cf3c2fc27c0cd071e0a70b4864ac4d8f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:52.235602",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

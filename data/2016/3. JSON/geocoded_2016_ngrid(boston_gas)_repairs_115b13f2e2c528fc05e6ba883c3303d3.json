@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_115b13f2e2c528fc05e6ba883c3303d3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lauriat Street",
+                    "short_name": "Lauriat St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Franklin Field South",
+                    "short_name": "Franklin Field South",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3217",
+                    "short_name": "3217",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Lauriat St, Boston, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.288294,
+                        "lng": -71.0803957
+                    },
+                    "southwest": {
+                        "lat": 42.2882901,
+                        "lng": -71.0804137
+                    }
+                },
+                "location": {
+                    "lat": 42.2882901,
+                    "lng": -71.0804137
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.28964103029151,
+                        "lng": -71.07905571970849
+                    },
+                    "southwest": {
+                        "lat": 42.28694306970851,
+                        "lng": -71.0817536802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiM4IExhdXJpYXQgU3QsIEJvc3RvbiwgTUEgMDIxMjQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "115b13f2e2c528fc05e6ba883c3303d3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:00.917706",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

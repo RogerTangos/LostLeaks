@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_065f2d8cca32b44feb4483f16e275ac6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "108",
+                    "short_name": "108",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Farragut Road",
+                    "short_name": "Farragut Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1949",
+                    "short_name": "1949",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "108 Farragut Rd, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4746177,
+                        "lng": -70.9150658
+                    },
+                    "southwest": {
+                        "lat": 42.4745261,
+                        "lng": -70.9151657
+                    }
+                },
+                "location": {
+                    "lat": 42.4745719,
+                    "lng": -70.9151157
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47592088029149,
+                        "lng": -70.91376676970849
+                    },
+                    "southwest": {
+                        "lat": 42.4732229197085,
+                        "lng": -70.91646473029151
+                    }
+                }
+            },
+            "place_id": "ChIJ_x6HnK5s44kRQdahf4lgw3E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "065f2d8cca32b44feb4483f16e275ac6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:36.252852",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

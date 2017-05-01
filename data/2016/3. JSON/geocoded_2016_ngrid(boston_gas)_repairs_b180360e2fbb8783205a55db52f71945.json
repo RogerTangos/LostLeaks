@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b180360e2fbb8783205a55db52f71945.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "93",
+                    "short_name": "93",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "7 Sister Road",
+                    "short_name": "Seven Sister Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "93 Seven Sister Rd, Haverhill, MA 01830, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.7757613,
+                    "lng": -71.03419170000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7771102802915,
+                        "lng": -71.03284271970851
+                    },
+                    "southwest": {
+                        "lat": 42.7744123197085,
+                        "lng": -71.03554068029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJHxPXD-8C44kRW69jRGFNTuU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b180360e2fbb8783205a55db52f71945",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:54.290191",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

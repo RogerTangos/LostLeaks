@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f8ab0962cd64337edb311604aec82d8c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fallon Way",
+                    "short_name": "Fallon Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nahant",
+                    "short_name": "Nahant",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01908",
+                    "short_name": "01908",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1035",
+                    "short_name": "1035",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Fallon Way, Nahant, MA 01908, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4364563,
+                        "lng": -70.93530779999999
+                    },
+                    "southwest": {
+                        "lat": 42.4363292,
+                        "lng": -70.9354881
+                    }
+                },
+                "location": {
+                    "lat": 42.4363927,
+                    "lng": -70.93539799999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4377417302915,
+                        "lng": -70.93404896970848
+                    },
+                    "southwest": {
+                        "lat": 42.4350437697085,
+                        "lng": -70.93674693029149
+                    }
+                }
+            },
+            "place_id": "ChIJu7l6uFxs44kRMw0gn0ztHhc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f8ab0962cd64337edb311604aec82d8c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:17.705785",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

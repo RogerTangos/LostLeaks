@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5699e90c4919fcc339616097b1219f46.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lynn Avenue",
+                    "short_name": "Lynn Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2215",
+                    "short_name": "2215",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Lynn Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2857719,
+                        "lng": -70.87895739999999
+                    },
+                    "southwest": {
+                        "lat": 42.2857597,
+                        "lng": -70.8789664
+                    }
+                },
+                "location": {
+                    "lat": 42.2857719,
+                    "lng": -70.8789664
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2871147802915,
+                        "lng": -70.87761291970848
+                    },
+                    "southwest": {
+                        "lat": 42.2844168197085,
+                        "lng": -70.88031088029149
+                    }
+                }
+            },
+            "place_id": "EiA1MSBMeW5uIEF2ZSwgSHVsbCwgTUEgMDIwNDUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5699e90c4919fcc339616097b1219f46",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:33.149591",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

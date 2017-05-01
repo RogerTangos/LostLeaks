@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_77ded17adff5a381f5595fd0be8fc7ab.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "73",
+                    "short_name": "73",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Thoreau Street",
+                    "short_name": "Thoreau St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "73 Thoreau St, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.457168,
+                        "lng": -71.35734099999999
+                    },
+                    "southwest": {
+                        "lat": 42.4569784,
+                        "lng": -71.3575896
+                    }
+                },
+                "location": {
+                    "lat": 42.4570732,
+                    "lng": -71.3574653
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4584221802915,
+                        "lng": -71.35611631970849
+                    },
+                    "southwest": {
+                        "lat": 42.4557242197085,
+                        "lng": -71.3588142802915
+                    }
+                }
+            },
+            "place_id": "ChIJs6afyEGa44kRWcBMvxgYFxk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "77ded17adff5a381f5595fd0be8fc7ab",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:37.747044",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

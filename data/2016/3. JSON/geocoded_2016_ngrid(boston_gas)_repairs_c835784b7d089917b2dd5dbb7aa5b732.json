@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c835784b7d089917b2dd5dbb7aa5b732.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "64",
+                    "short_name": "64",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "American Legion Highway",
+                    "short_name": "American Legion Hwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "64 American Legion Hwy, Boston, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2972319,
+                        "lng": -71.090552
+                    },
+                    "southwest": {
+                        "lat": 42.29721929999999,
+                        "lng": -71.0905599
+                    }
+                },
+                "location": {
+                    "lat": 42.29721929999999,
+                    "lng": -71.090552
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29857458029149,
+                        "lng": -71.0892069697085
+                    },
+                    "southwest": {
+                        "lat": 42.29587661970849,
+                        "lng": -71.0919049302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei02NCBBbWVyaWNhbiBMZWdpb24gSHd5LCBCb3N0b24sIE1BIDAyMTI0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c835784b7d089917b2dd5dbb7aa5b732",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:50.810643",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

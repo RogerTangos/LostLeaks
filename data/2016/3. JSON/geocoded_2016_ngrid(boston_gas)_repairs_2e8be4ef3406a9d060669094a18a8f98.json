@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2e8be4ef3406a9d060669094a18a8f98.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "62",
+                    "short_name": "62",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Neponset Avenue",
+                    "short_name": "Neponset Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2148",
+                    "short_name": "2148",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "62 Neponset Ave, Roslindale, MA 02131, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2866814,
+                        "lng": -71.11559489999999
+                    },
+                    "southwest": {
+                        "lat": 42.28652839999999,
+                        "lng": -71.115707
+                    }
+                },
+                "location": {
+                    "lat": 42.2866049,
+                    "lng": -71.115651
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2879538802915,
+                        "lng": -71.11430196970849
+                    },
+                    "southwest": {
+                        "lat": 42.2852559197085,
+                        "lng": -71.1169999302915
+                    }
+                }
+            },
+            "place_id": "ChIJHwybUEt544kRL8ojRKg4RCk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2e8be4ef3406a9d060669094a18a8f98",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:40.935323",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

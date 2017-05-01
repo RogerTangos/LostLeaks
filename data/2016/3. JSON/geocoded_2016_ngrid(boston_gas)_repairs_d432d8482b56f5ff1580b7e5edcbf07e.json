@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d432d8482b56f5ff1580b7e5edcbf07e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fellsview Avenue",
+                    "short_name": "Fellsview Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Medford",
+                    "short_name": "Medford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02155",
+                    "short_name": "02155",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1807",
+                    "short_name": "1807",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Fellsview Ave, Medford, MA 02155, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.43101980000001,
+                        "lng": -71.1009505
+                    },
+                    "southwest": {
+                        "lat": 42.4310183,
+                        "lng": -71.1009691
+                    }
+                },
+                "location": {
+                    "lat": 42.43101980000001,
+                    "lng": -71.1009691
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4323680302915,
+                        "lng": -71.0996108197085
+                    },
+                    "southwest": {
+                        "lat": 42.4296700697085,
+                        "lng": -71.10230878029151
+                    }
+                }
+            },
+            "place_id": "EigzMCBGZWxsc3ZpZXcgQXZlLCBNZWRmb3JkLCBNQSAwMjE1NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d432d8482b56f5ff1580b7e5edcbf07e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:36.013058",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

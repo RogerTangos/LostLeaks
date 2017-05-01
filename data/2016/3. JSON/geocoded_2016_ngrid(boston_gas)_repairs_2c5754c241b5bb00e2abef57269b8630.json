@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2c5754c241b5bb00e2abef57269b8630.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "932",
+                    "short_name": "932",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lynnfield Street",
+                    "short_name": "Lynnfield St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynnfield",
+                    "short_name": "Lynnfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01940",
+                    "short_name": "01940",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "932 Lynnfield St, Lynnfield, MA 01940, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5119554,
+                        "lng": -70.99180969999999
+                    },
+                    "southwest": {
+                        "lat": 42.5118477,
+                        "lng": -70.9919633
+                    }
+                },
+                "location": {
+                    "lat": 42.5119015,
+                    "lng": -70.99188649999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5132505302915,
+                        "lng": -70.99053751970848
+                    },
+                    "southwest": {
+                        "lat": 42.5105525697085,
+                        "lng": -70.99323548029149
+                    }
+                }
+            },
+            "place_id": "ChIJIY3XdJgS44kRgFa5NUSKdvk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2c5754c241b5bb00e2abef57269b8630",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:55.529512",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_37592399ff099c9f5a68468641b9eddb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "North Great Road",
+                    "short_name": "N Great Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln",
+                    "short_name": "Lincoln",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01773",
+                    "short_name": "01773",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "N Great Rd & Old Bedford Rd, Lincoln, MA 01773, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.45240769999999,
+                    "lng": -71.3018025
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4537566802915,
+                        "lng": -71.30045351970848
+                    },
+                    "southwest": {
+                        "lat": 42.4510587197085,
+                        "lng": -71.3031514802915
+                    }
+                }
+            },
+            "place_id": "EjNOIEdyZWF0IFJkICYgT2xkIEJlZGZvcmQgUmQsIExpbmNvbG4sIE1BIDAxNzczLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "37592399ff099c9f5a68468641b9eddb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:41.126846",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

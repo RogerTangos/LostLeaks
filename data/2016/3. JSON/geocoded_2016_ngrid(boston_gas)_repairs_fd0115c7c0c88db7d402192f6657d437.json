@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fd0115c7c0c88db7d402192f6657d437.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Walnut Street",
+                    "short_name": "Walnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Walnut St & Oakcrest St, Saugus, MA 01906, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4757429,
+                    "lng": -70.99817639999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4770918802915,
+                        "lng": -70.99682741970848
+                    },
+                    "southwest": {
+                        "lat": 42.4743939197085,
+                        "lng": -70.9995253802915
+                    }
+                }
+            },
+            "place_id": "Ei5XYWxudXQgU3QgJiBPYWtjcmVzdCBTdCwgU2F1Z3VzLCBNQSAwMTkwNiwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "fd0115c7c0c88db7d402192f6657d437",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:55.846752",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

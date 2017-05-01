@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5af8074275dc7406d9a3b85b676aa6bb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "47",
+                    "short_name": "47",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hillside Avenue",
+                    "short_name": "Hillside Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Brookfield",
+                    "short_name": "West Brookfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01585",
+                    "short_name": "01585",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "47 Hillside Ave, West Brookfield, MA 01585, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2177845,
+                        "lng": -72.1958669
+                    },
+                    "southwest": {
+                        "lat": 42.2177766,
+                        "lng": -72.1958824
+                    }
+                },
+                "location": {
+                    "lat": 42.2177766,
+                    "lng": -72.1958669
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2191295302915,
+                        "lng": -72.19452566970848
+                    },
+                    "southwest": {
+                        "lat": 42.2164315697085,
+                        "lng": -72.1972236302915
+                    }
+                }
+            },
+            "place_id": "Ei80NyBIaWxsc2lkZSBBdmUsIFdlc3QgQnJvb2tmaWVsZCwgTUEgMDE1ODUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5af8074275dc7406d9a3b85b676aa6bb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:59.019490",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_06e322cc16eab4354d911a0f86780b99.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "420",
+                    "short_name": "420",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Central Street",
+                    "short_name": "Central St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "420 Central St, Saugus, MA 01906, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4566209,
+                    "lng": -71.008988
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4579698802915,
+                        "lng": -71.00763901970849
+                    },
+                    "southwest": {
+                        "lat": 42.4552719197085,
+                        "lng": -71.01033698029151
+                    }
+                }
+            },
+            "place_id": "ChIJjwge6H1y44kRrU4s_Z-jbNM",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "06e322cc16eab4354d911a0f86780b99",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:27.259933",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

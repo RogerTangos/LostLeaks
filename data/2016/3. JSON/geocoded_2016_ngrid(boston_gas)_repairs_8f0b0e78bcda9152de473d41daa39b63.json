@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8f0b0e78bcda9152de473d41daa39b63.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "170",
+                    "short_name": "170",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beech Avenue",
+                    "short_name": "Beech Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4904",
+                    "short_name": "4904",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "170 Beech Ave, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4525037,
+                        "lng": -71.05255369999999
+                    },
+                    "southwest": {
+                        "lat": 42.4523584,
+                        "lng": -71.0527127
+                    }
+                },
+                "location": {
+                    "lat": 42.4524311,
+                    "lng": -71.0526332
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4537800302915,
+                        "lng": -71.05128421970849
+                    },
+                    "southwest": {
+                        "lat": 42.4510820697085,
+                        "lng": -71.0539821802915
+                    }
+                }
+            },
+            "place_id": "ChIJF3NoCrNz44kRbwycrjOZoww",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8f0b0e78bcda9152de473d41daa39b63",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:16.865363",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

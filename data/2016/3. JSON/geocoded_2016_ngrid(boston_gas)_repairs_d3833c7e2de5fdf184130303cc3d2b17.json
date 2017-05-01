@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d3833c7e2de5fdf184130303cc3d2b17.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Parsons Street",
+                    "short_name": "Parsons St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2136",
+                    "short_name": "2136",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Parsons St, Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3507616,
+                        "lng": -71.2172856
+                    },
+                    "southwest": {
+                        "lat": 42.35075399999999,
+                        "lng": -71.2173013
+                    }
+                },
+                "location": {
+                    "lat": 42.3507616,
+                    "lng": -71.2172856
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3521067802915,
+                        "lng": -71.21594446970849
+                    },
+                    "southwest": {
+                        "lat": 42.3494088197085,
+                        "lng": -71.2186424302915
+                    }
+                }
+            },
+            "place_id": "EiQ1NiBQYXJzb25zIFN0LCBOZXd0b24sIE1BIDAyNDY1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d3833c7e2de5fdf184130303cc3d2b17",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:58.687179",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

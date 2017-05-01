@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fecc0c30855aaca5f3c56452265d9b83.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "182",
+                    "short_name": "182",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wilson Road",
+                    "short_name": "Wilson Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nahant",
+                    "short_name": "Nahant",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01908",
+                    "short_name": "01908",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1022",
+                    "short_name": "1022",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "182 Wilson Rd, Nahant, MA 01908, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4376764,
+                        "lng": -70.93182519999999
+                    },
+                    "southwest": {
+                        "lat": 42.4375293,
+                        "lng": -70.9319819
+                    }
+                },
+                "location": {
+                    "lat": 42.43760289999999,
+                    "lng": -70.9319036
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43895183029149,
+                        "lng": -70.93055456970849
+                    },
+                    "southwest": {
+                        "lat": 42.4362538697085,
+                        "lng": -70.9332525302915
+                    }
+                }
+            },
+            "place_id": "ChIJr6tWnF1s44kRNUTblpS0r38",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fecc0c30855aaca5f3c56452265d9b83",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:37.154707",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

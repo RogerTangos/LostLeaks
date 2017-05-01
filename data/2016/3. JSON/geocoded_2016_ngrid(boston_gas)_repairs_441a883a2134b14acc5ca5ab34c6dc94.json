@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_441a883a2134b14acc5ca5ab34c6dc94.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Magdala Street",
+                    "short_name": "Magdala St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4805",
+                    "short_name": "4805",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Magdala St, Boston, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.281156,
+                        "lng": -71.063723
+                    },
+                    "southwest": {
+                        "lat": 42.2811499,
+                        "lng": -71.0637399
+                    }
+                },
+                "location": {
+                    "lat": 42.2811499,
+                    "lng": -71.0637399
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2825019302915,
+                        "lng": -71.06238246970848
+                    },
+                    "southwest": {
+                        "lat": 42.2798039697085,
+                        "lng": -71.0650804302915
+                    }
+                }
+            },
+            "place_id": "EiQzNSBNYWdkYWxhIFN0LCBCb3N0b24sIE1BIDAyMTI0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "441a883a2134b14acc5ca5ab34c6dc94",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:21.092761",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

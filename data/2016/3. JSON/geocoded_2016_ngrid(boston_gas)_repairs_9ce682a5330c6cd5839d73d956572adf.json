@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9ce682a5330c6cd5839d73d956572adf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "433",
+                    "short_name": "433",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Avenue",
+                    "short_name": "North Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2135",
+                    "short_name": "2135",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "433 North Ave, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1293061,
+                        "lng": -70.9315392
+                    },
+                    "southwest": {
+                        "lat": 42.1292932,
+                        "lng": -70.9315464
+                    }
+                },
+                "location": {
+                    "lat": 42.1293061,
+                    "lng": -70.9315464
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1306486302915,
+                        "lng": -70.93019381970849
+                    },
+                    "southwest": {
+                        "lat": 42.1279506697085,
+                        "lng": -70.93289178029151
+                    }
+                }
+            },
+            "place_id": "EiY0MzMgTm9ydGggQXZlLCBSb2NrbGFuZCwgTUEgMDIzNzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9ce682a5330c6cd5839d73d956572adf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:34.519548",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

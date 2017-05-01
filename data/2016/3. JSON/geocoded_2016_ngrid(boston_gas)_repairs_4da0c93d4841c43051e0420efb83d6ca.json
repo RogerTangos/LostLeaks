@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4da0c93d4841c43051e0420efb83d6ca.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "75",
+                    "short_name": "75",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cherry Street",
+                    "short_name": "Cherry St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "75 Cherry St, Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.36126429999999,
+                        "lng": -71.2267583
+                    },
+                    "southwest": {
+                        "lat": 42.3612636,
+                        "lng": -71.226777
+                    }
+                },
+                "location": {
+                    "lat": 42.36126429999999,
+                    "lng": -71.226777
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3626129302915,
+                        "lng": -71.22541866970849
+                    },
+                    "southwest": {
+                        "lat": 42.3599149697085,
+                        "lng": -71.22811663029151
+                    }
+                }
+            },
+            "place_id": "EiM3NSBDaGVycnkgU3QsIE5ld3RvbiwgTUEgMDI0NjUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4da0c93d4841c43051e0420efb83d6ca",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:41.378184",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

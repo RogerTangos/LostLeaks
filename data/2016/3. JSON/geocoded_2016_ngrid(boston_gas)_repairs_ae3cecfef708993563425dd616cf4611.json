@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ae3cecfef708993563425dd616cf4611.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Endicott Street",
+                    "short_name": "Endicott St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North End",
+                    "short_name": "North End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02113",
+                    "short_name": "02113",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Endicott St & Thacher St, Boston, MA 02113, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3652995,
+                    "lng": -71.05740879999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3666484802915,
+                        "lng": -71.0560598197085
+                    },
+                    "southwest": {
+                        "lat": 42.3639505197085,
+                        "lng": -71.0587577802915
+                    }
+                }
+            },
+            "place_id": "Ei9FbmRpY290dCBTdCAmIFRoYWNoZXIgU3QsIEJvc3RvbiwgTUEgMDIxMTMsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "ae3cecfef708993563425dd616cf4611",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:53.865843",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

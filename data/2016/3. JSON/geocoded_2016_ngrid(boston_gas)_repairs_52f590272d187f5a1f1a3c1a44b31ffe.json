@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_52f590272d187f5a1f1a3c1a44b31ffe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Star Road",
+                    "short_name": "Star Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Groveland",
+                    "short_name": "Groveland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01834",
+                    "short_name": "01834",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Star Rd, Groveland, MA 01834, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.740983,
+                    "lng": -70.996991
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7423319802915,
+                        "lng": -70.99564201970848
+                    },
+                    "southwest": {
+                        "lat": 42.7396340197085,
+                        "lng": -70.9983399802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJJ6G3JMoc44kRkzLkHBM_MzA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "52f590272d187f5a1f1a3c1a44b31ffe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:33.566216",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a1f5319af25d8c94a266ce83a7a5443b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "90",
+                    "short_name": "90",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cadish Avenue",
+                    "short_name": "Cadish Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "90 Cadish Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.298056,
+                        "lng": -70.8863087
+                    },
+                    "southwest": {
+                        "lat": 42.298054,
+                        "lng": -70.88632729999999
+                    }
+                },
+                "location": {
+                    "lat": 42.298056,
+                    "lng": -70.8863087
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29940398029149,
+                        "lng": -70.88496901970848
+                    },
+                    "southwest": {
+                        "lat": 42.29670601970849,
+                        "lng": -70.8876669802915
+                    }
+                }
+            },
+            "place_id": "EiI5MCBDYWRpc2ggQXZlLCBIdWxsLCBNQSAwMjA0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a1f5319af25d8c94a266ce83a7a5443b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:44.649338",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

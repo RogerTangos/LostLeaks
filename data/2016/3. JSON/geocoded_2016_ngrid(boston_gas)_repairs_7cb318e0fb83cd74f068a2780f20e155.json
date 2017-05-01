@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7cb318e0fb83cd74f068a2780f20e155.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walcott Street",
+                    "short_name": "Walcott St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5442",
+                    "short_name": "5442",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Walcott St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5446484,
+                        "lng": -71.77944970000001
+                    },
+                    "southwest": {
+                        "lat": 42.54463579999999,
+                        "lng": -71.7794574
+                    }
+                },
+                "location": {
+                    "lat": 42.5446484,
+                    "lng": -71.7794574
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.54599108029149,
+                        "lng": -71.77810456970849
+                    },
+                    "southwest": {
+                        "lat": 42.54329311970849,
+                        "lng": -71.78080253029151
+                    }
+                }
+            },
+            "place_id": "EigxNiBXYWxjb3R0IFN0LCBMZW9taW5zdGVyLCBNQSAwMTQ1MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7cb318e0fb83cd74f068a2780f20e155",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:57.494192",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

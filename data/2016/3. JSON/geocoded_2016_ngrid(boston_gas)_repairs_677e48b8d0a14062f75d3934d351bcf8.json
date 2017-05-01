@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_677e48b8d0a14062f75d3934d351bcf8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "412",
+                    "short_name": "412",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brook Road",
+                    "short_name": "Brook Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2847",
+                    "short_name": "2847",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "412 Brook Rd, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2589865,
+                        "lng": -71.082582
+                    },
+                    "southwest": {
+                        "lat": 42.2588467,
+                        "lng": -71.0827954
+                    }
+                },
+                "location": {
+                    "lat": 42.2589166,
+                    "lng": -71.08268869999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2602655802915,
+                        "lng": -71.0813397197085
+                    },
+                    "southwest": {
+                        "lat": 42.2575676197085,
+                        "lng": -71.0840376802915
+                    }
+                }
+            },
+            "place_id": "ChIJK0xI_jx844kRdbwjqeM4W4k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "677e48b8d0a14062f75d3934d351bcf8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:21.640867",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

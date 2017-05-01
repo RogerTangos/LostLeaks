@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dd5f149e79d0e2544162367e2a7d736e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Warren Street",
+                    "short_name": "Warren St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1641",
+                    "short_name": "1641",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Warren St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4685288,
+                        "lng": -71.0741632
+                    },
+                    "southwest": {
+                        "lat": 42.4683901,
+                        "lng": -71.07439459999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4684595,
+                    "lng": -71.0742789
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4698084302915,
+                        "lng": -71.07292991970849
+                    },
+                    "southwest": {
+                        "lat": 42.4671104697085,
+                        "lng": -71.0756278802915
+                    }
+                }
+            },
+            "place_id": "ChIJgYrK-p9z44kRoEEiEZmwJqQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dd5f149e79d0e2544162367e2a7d736e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:29.832371",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

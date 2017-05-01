@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ce05bd6cb3479d69fc76417b3bde2dc9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "52",
+                    "short_name": "52",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Baltimore Street",
+                    "short_name": "Baltimore St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3277",
+                    "short_name": "3277",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "52 Baltimore St, Lynn, MA 01902, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.46188,
+                    "lng": -70.936109
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4632289802915,
+                        "lng": -70.93476001970849
+                    },
+                    "southwest": {
+                        "lat": 42.4605310197085,
+                        "lng": -70.9374579802915
+                    }
+                }
+            },
+            "place_id": "ChIJtUdVLeps44kRhWsYT84wIqY",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ce05bd6cb3479d69fc76417b3bde2dc9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:37.006876",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

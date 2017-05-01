@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0db913da49d7c3d79c8537b529ba5829.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "131",
+                    "short_name": "131",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Central Street",
+                    "short_name": "Central St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "131 Central St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1159976,
+                        "lng": -70.9257887
+                    },
+                    "southwest": {
+                        "lat": 42.1159837,
+                        "lng": -70.9257897
+                    }
+                },
+                "location": {
+                    "lat": 42.1159976,
+                    "lng": -70.9257887
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1173396302915,
+                        "lng": -70.9244402197085
+                    },
+                    "southwest": {
+                        "lat": 42.1146416697085,
+                        "lng": -70.92713818029151
+                    }
+                }
+            },
+            "place_id": "EicxMzEgQ2VudHJhbCBTdCwgUm9ja2xhbmQsIE1BIDAyMzcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0db913da49d7c3d79c8537b529ba5829",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:41.221744",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

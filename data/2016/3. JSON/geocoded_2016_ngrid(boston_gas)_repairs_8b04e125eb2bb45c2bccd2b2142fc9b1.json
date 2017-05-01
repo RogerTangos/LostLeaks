@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8b04e125eb2bb45c2bccd2b2142fc9b1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "76",
+                    "short_name": "76",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Radcliffe Road",
+                    "short_name": "Radcliffe Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weston",
+                    "short_name": "Weston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02493",
+                    "short_name": "02493",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1026",
+                    "short_name": "1026",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "76 Radcliffe Rd, Weston, MA 02493, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3243567,
+                        "lng": -71.31611939999999
+                    },
+                    "southwest": {
+                        "lat": 42.3240521,
+                        "lng": -71.3165887
+                    }
+                },
+                "location": {
+                    "lat": 42.3242044,
+                    "lng": -71.3163541
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3255533802915,
+                        "lng": -71.31500506970849
+                    },
+                    "southwest": {
+                        "lat": 42.3228554197085,
+                        "lng": -71.31770303029151
+                    }
+                }
+            },
+            "place_id": "ChIJddLuWiGE44kRJcIDdJBEsRQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8b04e125eb2bb45c2bccd2b2142fc9b1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:46.279175",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

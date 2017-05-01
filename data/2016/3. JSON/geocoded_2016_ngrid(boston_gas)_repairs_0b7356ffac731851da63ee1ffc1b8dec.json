@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0b7356ffac731851da63ee1ffc1b8dec.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hillcrest Parkway",
+                    "short_name": "Hillcrest Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Hillcrest Pkwy, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4636401,
+                        "lng": -71.12035089999999
+                    },
+                    "southwest": {
+                        "lat": 42.463638,
+                        "lng": -71.1203695
+                    }
+                },
+                "location": {
+                    "lat": 42.4636401,
+                    "lng": -71.1203695
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46498803029149,
+                        "lng": -71.1190112197085
+                    },
+                    "southwest": {
+                        "lat": 42.4622900697085,
+                        "lng": -71.1217091802915
+                    }
+                }
+            },
+            "place_id": "EisyIEhpbGxjcmVzdCBQa3d5LCBXaW5jaGVzdGVyLCBNQSAwMTg5MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0b7356ffac731851da63ee1ffc1b8dec",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:02.956265",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

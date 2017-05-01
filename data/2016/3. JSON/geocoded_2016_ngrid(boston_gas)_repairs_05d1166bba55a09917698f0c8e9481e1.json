@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_05d1166bba55a09917698f0c8e9481e1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "200",
+                    "short_name": "200",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lake Street",
+                    "short_name": "Lake St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8806",
+                    "short_name": "8806",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "200 Lake St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.402675,
+                        "lng": -71.15570389999999
+                    },
+                    "southwest": {
+                        "lat": 42.4026613,
+                        "lng": -71.15570629999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4026613,
+                    "lng": -71.15570389999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40401713029149,
+                        "lng": -71.15435611970848
+                    },
+                    "southwest": {
+                        "lat": 42.40131916970849,
+                        "lng": -71.15705408029149
+                    }
+                }
+            },
+            "place_id": "EiUyMDAgTGFrZSBTdCwgQXJsaW5ndG9uLCBNQSAwMjQ3NCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "05d1166bba55a09917698f0c8e9481e1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:18.245120",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

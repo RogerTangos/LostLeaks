@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c00247ac1ae7db549593a58d23e05c02.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32",
+                    "short_name": "32",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Olive Avenue",
+                    "short_name": "Olive Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1922",
+                    "short_name": "1922",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "32 Olive Ave, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.43925240000001,
+                        "lng": -71.0413437
+                    },
+                    "southwest": {
+                        "lat": 42.4392436,
+                        "lng": -71.04135819999999
+                    }
+                },
+                "location": {
+                    "lat": 42.43925240000001,
+                    "lng": -71.04135819999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4405969802915,
+                        "lng": -71.04000196970848
+                    },
+                    "southwest": {
+                        "lat": 42.4378990197085,
+                        "lng": -71.0426999302915
+                    }
+                }
+            },
+            "place_id": "EiMzMiBPbGl2ZSBBdmUsIE1hbGRlbiwgTUEgMDIxNDgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c00247ac1ae7db549593a58d23e05c02",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:56.264429",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

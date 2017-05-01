@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_edcb2c0d6e0a73283cf8020e963b70d8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Calthrope Road",
+                    "short_name": "Calthrope Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Calthrope Rd & Togan Way, Marblehead, MA 01945, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5108982,
+                    "lng": -70.8498501
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5122471802915,
+                        "lng": -70.84850111970849
+                    },
+                    "southwest": {
+                        "lat": 42.5095492197085,
+                        "lng": -70.85119908029151
+                    }
+                }
+            },
+            "place_id": "EjNDYWx0aHJvcGUgUmQgJiBUb2dhbiBXYXksIE1hcmJsZWhlYWQsIE1BIDAxOTQ1LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "edcb2c0d6e0a73283cf8020e963b70d8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:54.304326",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_99640969f1a48829bafd78ce2bf23be3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "302",
+                    "short_name": "302",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Broadway",
+                    "short_name": "W Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1931",
+                    "short_name": "1931",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "302 W Broadway, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3387439,
+                        "lng": -71.0507113
+                    },
+                    "southwest": {
+                        "lat": 42.3387334,
+                        "lng": -71.0507236
+                    }
+                },
+                "location": {
+                    "lat": 42.3387439,
+                    "lng": -71.0507113
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34008763029149,
+                        "lng": -71.0493684697085
+                    },
+                    "southwest": {
+                        "lat": 42.3373896697085,
+                        "lng": -71.05206643029152
+                    }
+                }
+            },
+            "place_id": "EiUzMDIgVyBCcm9hZHdheSwgQm9zdG9uLCBNQSAwMjEyNywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "99640969f1a48829bafd78ce2bf23be3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:41.089829",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

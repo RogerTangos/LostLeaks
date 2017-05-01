@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_12e72d964f81111c67783ba12944c976.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "126",
+                    "short_name": "126",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sherman Street",
+                    "short_name": "Sherman St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1313",
+                    "short_name": "1313",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "126 Sherman St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2644508,
+                        "lng": -71.03052679999999
+                    },
+                    "southwest": {
+                        "lat": 42.2643225,
+                        "lng": -71.0306962
+                    }
+                },
+                "location": {
+                    "lat": 42.26438659999999,
+                    "lng": -71.03061149999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26573563029149,
+                        "lng": -71.0292625197085
+                    },
+                    "southwest": {
+                        "lat": 42.2630376697085,
+                        "lng": -71.0319604802915
+                    }
+                }
+            },
+            "place_id": "ChIJt8Xen5l844kRIiFbEXcnDUM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "12e72d964f81111c67783ba12944c976",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:32.025256",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

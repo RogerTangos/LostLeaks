@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3cd49831a7c3d82659d18e910aa4c746.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "351",
+                    "short_name": "351",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Avenue",
+                    "short_name": "North Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "351 North Ave, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1303677,
+                        "lng": -70.9289316
+                    },
+                    "southwest": {
+                        "lat": 42.1302172,
+                        "lng": -70.92910909999999
+                    }
+                },
+                "location": {
+                    "lat": 42.13029239999999,
+                    "lng": -70.92902029999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1316414302915,
+                        "lng": -70.92767136970849
+                    },
+                    "southwest": {
+                        "lat": 42.1289434697085,
+                        "lng": -70.93036933029151
+                    }
+                }
+            },
+            "place_id": "ChIJrQb6iTec5IkR5QgDJWz1WkM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3cd49831a7c3d82659d18e910aa4c746",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:25.411699",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

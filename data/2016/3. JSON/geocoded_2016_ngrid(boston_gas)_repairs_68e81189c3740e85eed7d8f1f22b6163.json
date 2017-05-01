@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_68e81189c3740e85eed7d8f1f22b6163.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "123",
+                    "short_name": "123",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Draper Road",
+                    "short_name": "Draper Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wayland",
+                    "short_name": "Wayland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01778",
+                    "short_name": "01778",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "123 Draper Rd, Wayland, MA 01778, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3849627,
+                        "lng": -71.3415736
+                    },
+                    "southwest": {
+                        "lat": 42.3847377,
+                        "lng": -71.3418293
+                    }
+                },
+                "location": {
+                    "lat": 42.3848502,
+                    "lng": -71.3417015
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3861991802915,
+                        "lng": -71.34035246970849
+                    },
+                    "southwest": {
+                        "lat": 42.3835012197085,
+                        "lng": -71.34305043029151
+                    }
+                }
+            },
+            "place_id": "ChIJ_U_rwiOF44kR71hqpSg0G2k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "68e81189c3740e85eed7d8f1f22b6163",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:25.560896",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

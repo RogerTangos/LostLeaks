@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b72aa2cb2e21164c1ba7c41b721b2c84.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "78",
+                    "short_name": "78",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lebanon Street",
+                    "short_name": "Lebanon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "78 Lebanon St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.442963,
+                        "lng": -71.0537188
+                    },
+                    "southwest": {
+                        "lat": 42.4428628,
+                        "lng": -71.0538818
+                    }
+                },
+                "location": {
+                    "lat": 42.4429129,
+                    "lng": -71.05380029999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4442618802915,
+                        "lng": -71.0524513197085
+                    },
+                    "southwest": {
+                        "lat": 42.4415639197085,
+                        "lng": -71.0551492802915
+                    }
+                }
+            },
+            "place_id": "ChIJh3Yalstz44kRcRdzIYcNfYo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b72aa2cb2e21164c1ba7c41b721b2c84",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:52.335841",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

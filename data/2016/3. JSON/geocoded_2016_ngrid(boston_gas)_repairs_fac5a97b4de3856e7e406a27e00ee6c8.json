@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fac5a97b4de3856e7e406a27e00ee6c8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Winter Street",
+                    "short_name": "Winter St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weston",
+                    "short_name": "Weston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02493",
+                    "short_name": "02493",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Winter St & Dickson Ln, Weston, MA 02493, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3330291,
+                    "lng": -71.3147044
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33437808029149,
+                        "lng": -71.31335541970849
+                    },
+                    "southwest": {
+                        "lat": 42.3316801197085,
+                        "lng": -71.3160533802915
+                    }
+                }
+            },
+            "place_id": "Ei1XaW50ZXIgU3QgJiBEaWNrc29uIExuLCBXZXN0b24sIE1BIDAyNDkzLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "fac5a97b4de3856e7e406a27e00ee6c8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:59.202119",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

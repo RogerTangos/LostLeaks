@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5f1eb8389028e8e5d607d3886272b157.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Vale Street",
+                    "short_name": "Vale St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3022",
+                    "short_name": "3022",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Vale St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5157251,
+                        "lng": -70.9027758
+                    },
+                    "southwest": {
+                        "lat": 42.5155855,
+                        "lng": -70.9029427
+                    }
+                },
+                "location": {
+                    "lat": 42.51565530000001,
+                    "lng": -70.9028592
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5170042802915,
+                        "lng": -70.90151026970848
+                    },
+                    "southwest": {
+                        "lat": 42.5143063197085,
+                        "lng": -70.9042082302915
+                    }
+                }
+            },
+            "place_id": "ChIJL08pIn4U44kREXaaQ3eIzdo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5f1eb8389028e8e5d607d3886272b157",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:39.183639",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

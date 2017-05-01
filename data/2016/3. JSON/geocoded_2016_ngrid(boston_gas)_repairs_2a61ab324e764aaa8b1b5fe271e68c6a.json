@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2a61ab324e764aaa8b1b5fe271e68c6a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hillside Avenue",
+                    "short_name": "Hillside Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1061",
+                    "short_name": "1061",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Hillside Ave, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4946782,
+                        "lng": -71.0924823
+                    },
+                    "southwest": {
+                        "lat": 42.4945844,
+                        "lng": -71.09272949999999
+                    }
+                },
+                "location": {
+                    "lat": 42.49463129999999,
+                    "lng": -71.0926059
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4959802802915,
+                        "lng": -71.0912569197085
+                    },
+                    "southwest": {
+                        "lat": 42.4932823197085,
+                        "lng": -71.0939548802915
+                    }
+                }
+            },
+            "place_id": "ChIJq1Qhvl5z44kRb9b3pPZLOXM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2a61ab324e764aaa8b1b5fe271e68c6a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:53.183517",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

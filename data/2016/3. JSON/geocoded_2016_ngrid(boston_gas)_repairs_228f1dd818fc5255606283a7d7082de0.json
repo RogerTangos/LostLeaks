@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_228f1dd818fc5255606283a7d7082de0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1515",
+                    "short_name": "1515",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brighton",
+                    "short_name": "Brighton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02135",
+                    "short_name": "02135",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3617",
+                    "short_name": "3617",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1515 Commonwealth Avenue, Brighton, MA 02135, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3468556,
+                        "lng": -71.1415635
+                    },
+                    "southwest": {
+                        "lat": 42.3463333,
+                        "lng": -71.14214799999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3465944,
+                    "lng": -71.1418557
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34794343029149,
+                        "lng": -71.1405067697085
+                    },
+                    "southwest": {
+                        "lat": 42.34524546970849,
+                        "lng": -71.1432047302915
+                    }
+                }
+            },
+            "place_id": "ChIJRxCbdbV544kRzvTsDF9BDCY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "228f1dd818fc5255606283a7d7082de0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:36.059307",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

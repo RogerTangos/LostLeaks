@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dcbb6920cb128c2cc7a712377ef3eec3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Poplar Street",
+                    "short_name": "Poplar St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gloucester",
+                    "short_name": "Gloucester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01930",
+                    "short_name": "01930",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2247",
+                    "short_name": "2247",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Poplar St, Gloucester, MA 01930, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6247759,
+                        "lng": -70.6718513
+                    },
+                    "southwest": {
+                        "lat": 42.6247623,
+                        "lng": -70.67185429999999
+                    }
+                },
+                "location": {
+                    "lat": 42.6247759,
+                    "lng": -70.67185429999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6261180802915,
+                        "lng": -70.67050381970849
+                    },
+                    "southwest": {
+                        "lat": 42.6234201197085,
+                        "lng": -70.6732017802915
+                    }
+                }
+            },
+            "place_id": "Eic0NCBQb3BsYXIgU3QsIEdsb3VjZXN0ZXIsIE1BIDAxOTMwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dcbb6920cb128c2cc7a712377ef3eec3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:39.979391",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72f94d69c384d5cbbfd2f273f7186eac.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "48",
+                    "short_name": "48",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gilford Road",
+                    "short_name": "Gilford Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1016",
+                    "short_name": "1016",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "48 Gilford Rd, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2584977,
+                        "lng": -70.8691262
+                    },
+                    "southwest": {
+                        "lat": 42.258495,
+                        "lng": -70.86914460000001
+                    }
+                },
+                "location": {
+                    "lat": 42.2584977,
+                    "lng": -70.86914460000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2598453302915,
+                        "lng": -70.8677864197085
+                    },
+                    "southwest": {
+                        "lat": 42.2571473697085,
+                        "lng": -70.8704843802915
+                    }
+                }
+            },
+            "place_id": "EiU0OCBHaWxmb3JkIFJkLCBIaW5naGFtLCBNQSAwMjA0MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "72f94d69c384d5cbbfd2f273f7186eac",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:05.502867",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

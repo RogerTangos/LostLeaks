@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d10f15883d59f1afa0dd209605d5c128.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "84",
+                    "short_name": "84",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arsenal Street",
+                    "short_name": "Arsenal St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "84 Arsenal St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3652556,
+                        "lng": -71.1797672
+                    },
+                    "southwest": {
+                        "lat": 42.365028,
+                        "lng": -71.18008080000001
+                    }
+                },
+                "location": {
+                    "lat": 42.3651418,
+                    "lng": -71.179924
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36649078029151,
+                        "lng": -71.1785750197085
+                    },
+                    "southwest": {
+                        "lat": 42.36379281970851,
+                        "lng": -71.18127298029151
+                    }
+                }
+            },
+            "place_id": "ChIJmzgCzxp444kRVmYvwrJTrnA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d10f15883d59f1afa0dd209605d5c128",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:19.361404",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

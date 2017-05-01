@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fa9b4ac286cc5d0940c20b92cf028a9d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lilly Drive",
+                    "short_name": "Lilly Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2130",
+                    "short_name": "2130",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Lilly Dr, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.54478779999999,
+                        "lng": -71.7648157
+                    },
+                    "southwest": {
+                        "lat": 42.544774,
+                        "lng": -71.7648171
+                    }
+                },
+                "location": {
+                    "lat": 42.54478779999999,
+                    "lng": -71.7648171
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5461298802915,
+                        "lng": -71.7634674197085
+                    },
+                    "southwest": {
+                        "lat": 42.5434319197085,
+                        "lng": -71.76616538029151
+                    }
+                }
+            },
+            "place_id": "EiYxNiBMaWxseSBEciwgTGVvbWluc3RlciwgTUEgMDE0NTMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fa9b4ac286cc5d0940c20b92cf028a9d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:53.731015",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

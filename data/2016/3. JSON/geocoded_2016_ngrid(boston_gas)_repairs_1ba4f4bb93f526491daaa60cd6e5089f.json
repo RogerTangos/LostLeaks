@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1ba4f4bb93f526491daaa60cd6e5089f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Village Road",
+                    "short_name": "Village Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Middleton",
+                    "short_name": "Middleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01949",
+                    "short_name": "01949",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Village Rd, Middleton, MA 01949, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.6033889,
+                    "lng": -70.97794259999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6047378802915,
+                        "lng": -70.97659361970848
+                    },
+                    "southwest": {
+                        "lat": 42.6020399197085,
+                        "lng": -70.9792915802915
+                    }
+                }
+            },
+            "place_id": "ChIJDdCCULUR44kRbzkbk13bZGI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1ba4f4bb93f526491daaa60cd6e5089f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:17.548700",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

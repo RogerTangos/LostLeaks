@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9a1d1cc30f82c4ae0ca5acbed16a07c5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hartswood Drive",
+                    "short_name": "Hartswood Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2284",
+                    "short_name": "2284",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Hartswood Dr, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.807072,
+                        "lng": -71.07311700000001
+                    },
+                    "southwest": {
+                        "lat": 42.8070655,
+                        "lng": -71.07313359999999
+                    }
+                },
+                "location": {
+                    "lat": 42.807072,
+                    "lng": -71.07313359999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8084177302915,
+                        "lng": -71.0717763197085
+                    },
+                    "southwest": {
+                        "lat": 42.8057197697085,
+                        "lng": -71.07447428029151
+                    }
+                }
+            },
+            "place_id": "Eig4IEhhcnRzd29vZCBEciwgSGF2ZXJoaWxsLCBNQSAwMTgzMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9a1d1cc30f82c4ae0ca5acbed16a07c5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:00.175319",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

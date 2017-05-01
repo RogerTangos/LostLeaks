@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8f5af41db5d654d07b1e457c82610cb7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lewis Street",
+                    "short_name": "Lewis St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Lewis St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.7796286,
+                    "lng": -71.08636980000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7809775802915,
+                        "lng": -71.08502081970852
+                    },
+                    "southwest": {
+                        "lat": 42.7782796197085,
+                        "lng": -71.08771878029152
+                    }
+                }
+            },
+            "place_id": "ChIJ8YepPS4C44kRQSWiLTUTtAE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8f5af41db5d654d07b1e457c82610cb7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:21.079944",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

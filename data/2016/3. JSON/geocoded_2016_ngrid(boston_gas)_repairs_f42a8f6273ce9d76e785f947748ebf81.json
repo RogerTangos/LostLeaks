@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f42a8f6273ce9d76e785f947748ebf81.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "964",
+                    "short_name": "964",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Saratoga Street",
+                    "short_name": "Saratoga St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "964 Saratoga St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.38727,
+                        "lng": -71.00845269999999
+                    },
+                    "southwest": {
+                        "lat": 42.3870313,
+                        "lng": -71.008684
+                    }
+                },
+                "location": {
+                    "lat": 42.3871507,
+                    "lng": -71.0085684
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3884996302915,
+                        "lng": -71.00721936970848
+                    },
+                    "southwest": {
+                        "lat": 42.3858016697085,
+                        "lng": -71.0099173302915
+                    }
+                }
+            },
+            "place_id": "ChIJ86cCTtFx44kRh14mIGe0l38",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f42a8f6273ce9d76e785f947748ebf81",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:02.020867",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

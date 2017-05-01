@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c00e5935c3d704ef9efb862bd72087c1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "111",
+                    "short_name": "111",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Montclair Avenue",
+                    "short_name": "Montclair Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Roxbury",
+                    "short_name": "West Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02132",
+                    "short_name": "02132",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7803",
+                    "short_name": "7803",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "111 Montclair Ave, West Roxbury, MA 02132, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2926363,
+                        "lng": -71.1393272
+                    },
+                    "southwest": {
+                        "lat": 42.292495,
+                        "lng": -71.1395136
+                    }
+                },
+                "location": {
+                    "lat": 42.2925656,
+                    "lng": -71.13942039999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2939146302915,
+                        "lng": -71.13807141970848
+                    },
+                    "southwest": {
+                        "lat": 42.2912166697085,
+                        "lng": -71.1407693802915
+                    }
+                }
+            },
+            "place_id": "ChIJQzNFgit544kRnJrVfxMYHW8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c00e5935c3d704ef9efb862bd72087c1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:53.054775",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

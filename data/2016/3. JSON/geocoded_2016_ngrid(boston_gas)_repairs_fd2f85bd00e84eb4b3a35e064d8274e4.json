@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fd2f85bd00e84eb4b3a35e064d8274e4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gage Street",
+                    "short_name": "Gage St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3107",
+                    "short_name": "3107",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Gage St, Beverly, MA 01915, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.55712279999999,
+                    "lng": -70.8837606
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.55847178029149,
+                        "lng": -70.88241161970849
+                    },
+                    "southwest": {
+                        "lat": 42.5557738197085,
+                        "lng": -70.88510958029151
+                    }
+                }
+            },
+            "place_id": "ChIJp-cwh6IW44kRmSv8402tZqA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fd2f85bd00e84eb4b3a35e064d8274e4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:30.446723",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

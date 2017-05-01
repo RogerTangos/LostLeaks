@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7408d79ff93abfe3f8a0b68200cd34f5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "142",
+                    "short_name": "142",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3317",
+                    "short_name": "3317",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "142 Elm St, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5044958,
+                        "lng": -70.85512589999999
+                    },
+                    "southwest": {
+                        "lat": 42.5043148,
+                        "lng": -70.8554202
+                    }
+                },
+                "location": {
+                    "lat": 42.50440529999999,
+                    "lng": -70.855273
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5057542802915,
+                        "lng": -70.85392406970848
+                    },
+                    "southwest": {
+                        "lat": 42.5030563197085,
+                        "lng": -70.85662203029149
+                    }
+                }
+            },
+            "place_id": "ChIJezvhGAEV44kRDU5vRg_7qtU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7408d79ff93abfe3f8a0b68200cd34f5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:08.561133",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

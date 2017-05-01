@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d596a8781cfd41e2564f6b364954dc3a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "516",
+                    "short_name": "516",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sea Street",
+                    "short_name": "Sea St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "516 Sea St, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.261275,
+                    "lng": -70.979079
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26262398029149,
+                        "lng": -70.97773001970849
+                    },
+                    "southwest": {
+                        "lat": 42.25992601970849,
+                        "lng": -70.9804279802915
+                    }
+                }
+            },
+            "place_id": "ChIJcWmT3F9j44kRCJQFDayFQzg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d596a8781cfd41e2564f6b364954dc3a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:36.425198",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_06dda3ce44c05ebd25a665f2308856dd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Thacher Street",
+                    "short_name": "Thacher St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North End",
+                    "short_name": "North End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02113",
+                    "short_name": "02113",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Thacher St & Lombard Pl, Boston, MA 02113, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.36555449999999,
+                    "lng": -71.0565656
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3669034802915,
+                        "lng": -71.05521661970849
+                    },
+                    "southwest": {
+                        "lat": 42.3642055197085,
+                        "lng": -71.05791458029151
+                    }
+                }
+            },
+            "place_id": "Ei5UaGFjaGVyIFN0ICYgTG9tYmFyZCBQbCwgQm9zdG9uLCBNQSAwMjExMywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "06dda3ce44c05ebd25a665f2308856dd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:35.667582",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

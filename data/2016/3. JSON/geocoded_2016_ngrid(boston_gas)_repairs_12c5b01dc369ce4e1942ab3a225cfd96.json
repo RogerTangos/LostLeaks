@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_12c5b01dc369ce4e1942ab3a225cfd96.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Berry Street",
+                    "short_name": "Berry St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3261",
+                    "short_name": "3261",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Berry St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5661816,
+                        "lng": -70.93325399999999
+                    },
+                    "southwest": {
+                        "lat": 42.5659112,
+                        "lng": -70.9335263
+                    }
+                },
+                "location": {
+                    "lat": 42.5660464,
+                    "lng": -70.93339019999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.56739538029149,
+                        "lng": -70.93204116970848
+                    },
+                    "southwest": {
+                        "lat": 42.5646974197085,
+                        "lng": -70.9347391302915
+                    }
+                }
+            },
+            "place_id": "ChIJe49crmcR44kRhcRmHr-GYHk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "12c5b01dc369ce4e1942ab3a225cfd96",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:19.154065",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

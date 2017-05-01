@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7e1104a06fec702b4e4184a6887e57d7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1776",
+                    "short_name": "1776",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brighton",
+                    "short_name": "Brighton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02135",
+                    "short_name": "02135",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1776 Commonwealth Avenue, Brighton, MA 02135, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3406104,
+                        "lng": -71.15010029999999
+                    },
+                    "southwest": {
+                        "lat": 42.3403766,
+                        "lng": -71.15043469999999
+                    }
+                },
+                "location": {
+                    "lat": 42.34049350000001,
+                    "lng": -71.1502675
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3418424802915,
+                        "lng": -71.1489185197085
+                    },
+                    "southwest": {
+                        "lat": 42.3391445197085,
+                        "lng": -71.15161648029151
+                    }
+                }
+            },
+            "place_id": "ChIJ84nx5k1444kRuYq4UIC-nok",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7e1104a06fec702b4e4184a6887e57d7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:24.888926",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

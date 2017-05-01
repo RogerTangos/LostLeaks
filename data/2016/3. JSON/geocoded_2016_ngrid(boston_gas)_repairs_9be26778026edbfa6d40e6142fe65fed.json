@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9be26778026edbfa6d40e6142fe65fed.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "251",
+                    "short_name": "251",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Faneuil Street",
+                    "short_name": "Faneuil St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brighton",
+                    "short_name": "Brighton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02135",
+                    "short_name": "02135",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1821",
+                    "short_name": "1821",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "251 Faneuil St, Brighton, MA 02135, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3528629,
+                        "lng": -71.1605593
+                    },
+                    "southwest": {
+                        "lat": 42.3527507,
+                        "lng": -71.1607003
+                    }
+                },
+                "location": {
+                    "lat": 42.3528068,
+                    "lng": -71.16062980000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35415578029149,
+                        "lng": -71.1592808197085
+                    },
+                    "southwest": {
+                        "lat": 42.3514578197085,
+                        "lng": -71.1619787802915
+                    }
+                }
+            },
+            "place_id": "ChIJZyiG5Dh444kRVxjzzSIE5yI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9be26778026edbfa6d40e6142fe65fed",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:36.459793",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

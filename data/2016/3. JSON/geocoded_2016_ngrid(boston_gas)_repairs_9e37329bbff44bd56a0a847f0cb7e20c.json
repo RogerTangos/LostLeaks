@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9e37329bbff44bd56a0a847f0cb7e20c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1100",
+                    "short_name": "1100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1302",
+                    "short_name": "1302",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1100 Main St, Reading, MA 01867, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5424496,
+                        "lng": -71.1040853
+                    },
+                    "southwest": {
+                        "lat": 42.542449,
+                        "lng": -71.1041041
+                    }
+                },
+                "location": {
+                    "lat": 42.542449,
+                    "lng": -71.1041041
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5437982802915,
+                        "lng": -71.1027457197085
+                    },
+                    "southwest": {
+                        "lat": 42.5411003197085,
+                        "lng": -71.1054436802915
+                    }
+                }
+            },
+            "place_id": "EiQxMTAwIE1haW4gU3QsIFJlYWRpbmcsIE1BIDAxODY3LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9e37329bbff44bd56a0a847f0cb7e20c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:51.061931",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

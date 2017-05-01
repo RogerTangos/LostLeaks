@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_423bcff4765a1a529e209c08ccb351d9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "223",
+                    "short_name": "223",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "School Street",
+                    "short_name": "School St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "223 School St, Whitman, MA 02382, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.0762343,
+                    "lng": -70.9439081
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0775832802915,
+                        "lng": -70.9425591197085
+                    },
+                    "southwest": {
+                        "lat": 42.0748853197085,
+                        "lng": -70.94525708029151
+                    }
+                }
+            },
+            "place_id": "ChIJTeRhQ6Wb5IkRrH2Z49Ic9yQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "423bcff4765a1a529e209c08ccb351d9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:52.273949",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

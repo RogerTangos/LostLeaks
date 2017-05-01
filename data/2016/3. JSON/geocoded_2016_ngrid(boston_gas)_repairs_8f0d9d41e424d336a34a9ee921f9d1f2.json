@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8f0d9d41e424d336a34a9ee921f9d1f2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Butler Street",
+                    "short_name": "Butler St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3106",
+                    "short_name": "3106",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Butler St, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4081298,
+                        "lng": -71.0054376
+                    },
+                    "southwest": {
+                        "lat": 42.4080225,
+                        "lng": -71.0055622
+                    }
+                },
+                "location": {
+                    "lat": 42.4080761,
+                    "lng": -71.0054999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4094251302915,
+                        "lng": -71.0041509197085
+                    },
+                    "southwest": {
+                        "lat": 42.4067271697085,
+                        "lng": -71.00684888029151
+                    }
+                }
+            },
+            "place_id": "ChIJF8mVHONx44kRojuUT0jYR5Q",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8f0d9d41e424d336a34a9ee921f9d1f2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:28.554370",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

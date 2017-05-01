@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1c17f15d04e20eeca1fa0b91c478c3f7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "140",
+                    "short_name": "140",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harvard Street",
+                    "short_name": "Harvard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "140 Harvard St, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2963074,
+                    "lng": -71.0805676
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29765638029149,
+                        "lng": -71.07921861970848
+                    },
+                    "southwest": {
+                        "lat": 42.2949584197085,
+                        "lng": -71.0819165802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJFwRlcel744kRps3WEzTUrbk",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1c17f15d04e20eeca1fa0b91c478c3f7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:05.168082",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

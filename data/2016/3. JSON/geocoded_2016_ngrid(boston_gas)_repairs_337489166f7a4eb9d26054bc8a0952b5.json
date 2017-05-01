@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_337489166f7a4eb9d26054bc8a0952b5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jackson Street",
+                    "short_name": "Jackson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Thompsonville",
+                    "short_name": "Thompsonville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2511",
+                    "short_name": "2511",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Jackson St, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3195061,
+                        "lng": -71.18388809999999
+                    },
+                    "southwest": {
+                        "lat": 42.3194922,
+                        "lng": -71.1838887
+                    }
+                },
+                "location": {
+                    "lat": 42.3195061,
+                    "lng": -71.1838887
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3208481302915,
+                        "lng": -71.18253941970849
+                    },
+                    "southwest": {
+                        "lat": 42.3181501697085,
+                        "lng": -71.1852373802915
+                    }
+                }
+            },
+            "place_id": "EiQzNSBKYWNrc29uIFN0LCBOZXd0b24sIE1BIDAyNDU5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "337489166f7a4eb9d26054bc8a0952b5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:20.585100",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

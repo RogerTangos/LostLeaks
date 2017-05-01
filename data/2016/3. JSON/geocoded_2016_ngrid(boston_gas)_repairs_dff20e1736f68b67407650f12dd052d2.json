@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dff20e1736f68b67407650f12dd052d2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "232",
+                    "short_name": "232",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mokema Avenue",
+                    "short_name": "Mokema Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lakeview",
+                    "short_name": "Lakeview",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "232 Mokema Ave, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4107439,
+                        "lng": -71.2471326
+                    },
+                    "southwest": {
+                        "lat": 42.4107438,
+                        "lng": -71.24715139999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4107439,
+                    "lng": -71.24715139999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4120928302915,
+                        "lng": -71.24579301970849
+                    },
+                    "southwest": {
+                        "lat": 42.4093948697085,
+                        "lng": -71.24849098029149
+                    }
+                }
+            },
+            "place_id": "EiYyMzIgTW9rZW1hIEF2ZSwgV2FsdGhhbSwgTUEgMDI0NTEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dff20e1736f68b67407650f12dd052d2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:06.801963",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

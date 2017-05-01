@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_64f4a36d85d6b32cfad7ec7db4a178cc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Western Avenue",
+                    "short_name": "Western Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3828",
+                    "short_name": "3828",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Western Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4463981,
+                        "lng": -71.0082042
+                    },
+                    "southwest": {
+                        "lat": 42.4462859,
+                        "lng": -71.0083579
+                    }
+                },
+                "location": {
+                    "lat": 42.446342,
+                    "lng": -71.00828109999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44769098029149,
+                        "lng": -71.00693206970848
+                    },
+                    "southwest": {
+                        "lat": 42.4449930197085,
+                        "lng": -71.0096300302915
+                    }
+                }
+            },
+            "place_id": "ChIJ5Rjr0nBy44kRe0390xdpGUw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "64f4a36d85d6b32cfad7ec7db4a178cc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:12.923573",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

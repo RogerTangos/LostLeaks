@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c6bc2bb55d669367f756145af146445d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Collins Street",
+                    "short_name": "Collins St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1956",
+                    "short_name": "1956",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Collins St, Peabody, MA 01960, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5310952,
+                        "lng": -70.9190365
+                    },
+                    "southwest": {
+                        "lat": 42.5309392,
+                        "lng": -70.91917509999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5310172,
+                    "lng": -70.9191058
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5323661802915,
+                        "lng": -70.91775681970849
+                    },
+                    "southwest": {
+                        "lat": 42.5296682197085,
+                        "lng": -70.92045478029151
+                    }
+                }
+            },
+            "place_id": "ChIJD1cE35ET44kR8lqFMFmN7z8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c6bc2bb55d669367f756145af146445d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:43.440410",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

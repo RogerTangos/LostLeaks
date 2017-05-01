@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_714fe0ab6d7a4751023d020ccd69dced.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Street",
+                    "short_name": "Pine St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Manchester-by-the-Sea",
+                    "short_name": "Manchester-by-the-Sea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01944",
+                    "short_name": "01944",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1046",
+                    "short_name": "1046",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Pine St, Manchester-by-the-Sea, MA 01944, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5755209,
+                        "lng": -70.7753182
+                    },
+                    "southwest": {
+                        "lat": 42.5753436,
+                        "lng": -70.7756026
+                    }
+                },
+                "location": {
+                    "lat": 42.5754323,
+                    "lng": -70.7754604
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.57678123029149,
+                        "lng": -70.7741114197085
+                    },
+                    "southwest": {
+                        "lat": 42.5740832697085,
+                        "lng": -70.77680938029151
+                    }
+                }
+            },
+            "place_id": "ChIJE8NmBwU944kR368dtVwB26Y",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "714fe0ab6d7a4751023d020ccd69dced",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:15.750562",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

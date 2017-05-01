@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0be081001bece702064fe9eff6b45ad2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "167",
+                    "short_name": "167",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Essex Street",
+                    "short_name": "Essex St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3641",
+                    "short_name": "3641",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "167 Essex St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5610285,
+                        "lng": -70.869271
+                    },
+                    "southwest": {
+                        "lat": 42.5608583,
+                        "lng": -70.869501
+                    }
+                },
+                "location": {
+                    "lat": 42.5609434,
+                    "lng": -70.86938599999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5622923802915,
+                        "lng": -70.86803701970851
+                    },
+                    "southwest": {
+                        "lat": 42.5595944197085,
+                        "lng": -70.87073498029152
+                    }
+                }
+            },
+            "place_id": "ChIJbSm1b44W44kR3OUSoVYuiy8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0be081001bece702064fe9eff6b45ad2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:07.353606",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

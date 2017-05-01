@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_234d3ed193f709e995e6c3b385e7ab0c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brooks Drive",
+                    "short_name": "Brooks Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Brooks Dr, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2108352,
+                        "lng": -71.0378841
+                    },
+                    "southwest": {
+                        "lat": 42.2104177,
+                        "lng": -71.03853769999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2106264,
+                    "lng": -71.0382109
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2119754302915,
+                        "lng": -71.03686191970849
+                    },
+                    "southwest": {
+                        "lat": 42.2092774697085,
+                        "lng": -71.0395598802915
+                    }
+                }
+            },
+            "place_id": "ChIJ-xMd_HF944kRnF1UYK1fbQs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "234d3ed193f709e995e6c3b385e7ab0c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:19.467182",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

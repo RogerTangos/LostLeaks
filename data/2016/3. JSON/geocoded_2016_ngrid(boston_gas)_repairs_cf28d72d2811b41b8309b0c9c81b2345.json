@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cf28d72d2811b41b8309b0c9c81b2345.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "118",
+                    "short_name": "118",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "118 Main St, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.04903059999999,
+                        "lng": -71.88496649999999
+                    },
+                    "southwest": {
+                        "lat": 42.0490167,
+                        "lng": -71.8849675
+                    }
+                },
+                "location": {
+                    "lat": 42.0490167,
+                    "lng": -71.8849675
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.05037263029149,
+                        "lng": -71.88361801970849
+                    },
+                    "southwest": {
+                        "lat": 42.0476746697085,
+                        "lng": -71.88631598029151
+                    }
+                }
+            },
+            "place_id": "EiMxMTggTWFpbiBTdCwgV2Vic3RlciwgTUEgMDE1NzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cf28d72d2811b41b8309b0c9c81b2345",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:06.511084",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

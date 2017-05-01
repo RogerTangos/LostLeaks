@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d4739907b57d89b6863ea89645bb3bf7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Spring Lane",
+                    "short_name": "Spring Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1431",
+                    "short_name": "1431",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Spring Ln, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4817523,
+                        "lng": -71.0857633
+                    },
+                    "southwest": {
+                        "lat": 42.48162869999999,
+                        "lng": -71.0859802
+                    }
+                },
+                "location": {
+                    "lat": 42.4816905,
+                    "lng": -71.0858717
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4830394802915,
+                        "lng": -71.0845227697085
+                    },
+                    "southwest": {
+                        "lat": 42.4803415197085,
+                        "lng": -71.0872207302915
+                    }
+                }
+            },
+            "place_id": "ChIJf4tHZ2Vz44kRfAAJfYtqqqE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d4739907b57d89b6863ea89645bb3bf7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:07.552863",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_36f5690700e82abfafc62b0c6d70dca1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Winter Street",
+                    "short_name": "Winter St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nahant",
+                    "short_name": "Nahant",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01908",
+                    "short_name": "01908",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Winter St & Cottage St, Nahant, MA 01908, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.426702,
+                    "lng": -70.916992
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4280509802915,
+                        "lng": -70.91564301970848
+                    },
+                    "southwest": {
+                        "lat": 42.4253530197085,
+                        "lng": -70.9183409802915
+                    }
+                }
+            },
+            "place_id": "Ei1XaW50ZXIgU3QgJiBDb3R0YWdlIFN0LCBOYWhhbnQsIE1BIDAxOTA4LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "36f5690700e82abfafc62b0c6d70dca1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:23.890677",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f496c75ef9858fdfde3038e02fe235d4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Great Elm Way",
+                    "short_name": "Great Elm Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01718",
+                    "short_name": "01718",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Great Elm Way & Pinecone Strand, Acton, MA 01718, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5192235,
+                    "lng": -71.4291322
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5205724802915,
+                        "lng": -71.42778321970849
+                    },
+                    "southwest": {
+                        "lat": 42.5178745197085,
+                        "lng": -71.4304811802915
+                    }
+                }
+            },
+            "place_id": "EjVHcmVhdCBFbG0gV2F5ICYgUGluZWNvbmUgU3RyYW5kLCBBY3RvbiwgTUEgMDE3MTgsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "f496c75ef9858fdfde3038e02fe235d4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:44.703552",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

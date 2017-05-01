@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_291f54b081ea6268454885feae651c2d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "72",
+                    "short_name": "72",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Collins Street",
+                    "short_name": "Collins St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2638",
+                    "short_name": "2638",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "72 Collins St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5559176,
+                        "lng": -70.952603
+                    },
+                    "southwest": {
+                        "lat": 42.5557662,
+                        "lng": -70.9528297
+                    }
+                },
+                "location": {
+                    "lat": 42.5558419,
+                    "lng": -70.95271640000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.55719088029149,
+                        "lng": -70.9513673697085
+                    },
+                    "southwest": {
+                        "lat": 42.5544929197085,
+                        "lng": -70.95406533029151
+                    }
+                }
+            },
+            "place_id": "ChIJXZI5E9MT44kRUfSxLbsCjjI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "291f54b081ea6268454885feae651c2d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:32.063251",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

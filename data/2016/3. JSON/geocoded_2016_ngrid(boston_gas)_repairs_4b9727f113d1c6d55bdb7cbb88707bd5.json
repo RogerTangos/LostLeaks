@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4b9727f113d1c6d55bdb7cbb88707bd5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "797",
+                    "short_name": "797",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "797 Main St, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4593991,
+                        "lng": -71.1396607
+                    },
+                    "southwest": {
+                        "lat": 42.4592608,
+                        "lng": -71.13994819999999
+                    }
+                },
+                "location": {
+                    "lat": 42.45933,
+                    "lng": -71.1398045
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46067893029149,
+                        "lng": -71.13845546970849
+                    },
+                    "southwest": {
+                        "lat": 42.4579809697085,
+                        "lng": -71.1411534302915
+                    }
+                }
+            },
+            "place_id": "ChIJeV-ZzzV044kRb9GVg67y7yY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4b9727f113d1c6d55bdb7cbb88707bd5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:55.895051",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

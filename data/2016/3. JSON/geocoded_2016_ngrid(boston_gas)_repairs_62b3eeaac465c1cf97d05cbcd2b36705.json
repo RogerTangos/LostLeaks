@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_62b3eeaac465c1cf97d05cbcd2b36705.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "465",
+                    "short_name": "465",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2039",
+                    "short_name": "2039",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "465 Washington St, Boston, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2951333,
+                        "lng": -71.0722182
+                    },
+                    "southwest": {
+                        "lat": 42.29499209999999,
+                        "lng": -71.0724918
+                    }
+                },
+                "location": {
+                    "lat": 42.2950627,
+                    "lng": -71.072355
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29641168029149,
+                        "lng": -71.07100601970849
+                    },
+                    "southwest": {
+                        "lat": 42.29371371970849,
+                        "lng": -71.0737039802915
+                    }
+                }
+            },
+            "place_id": "ChIJP1m83pR744kR7GFaDmjBWl8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "62b3eeaac465c1cf97d05cbcd2b36705",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:56.338211",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

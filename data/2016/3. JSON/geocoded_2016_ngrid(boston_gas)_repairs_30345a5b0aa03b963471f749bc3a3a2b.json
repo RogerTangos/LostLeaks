@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_30345a5b0aa03b963471f749bc3a3a2b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Gray Street",
+                    "short_name": "Gray St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Gray St & Walnut St, Arlington, MA 02476, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.416898,
+                    "lng": -71.172164
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41824698029149,
+                        "lng": -71.17081501970848
+                    },
+                    "southwest": {
+                        "lat": 42.41554901970849,
+                        "lng": -71.1735129802915
+                    }
+                }
+            },
+            "place_id": "Ei1HcmF5IFN0ICYgV2FsbnV0IFN0LCBBcmxpbmd0b24sIE1BIDAyNDc2LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "30345a5b0aa03b963471f749bc3a3a2b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:29.378772",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

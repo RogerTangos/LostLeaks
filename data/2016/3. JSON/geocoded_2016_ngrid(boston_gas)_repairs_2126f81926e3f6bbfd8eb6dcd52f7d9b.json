@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2126f81926e3f6bbfd8eb6dcd52f7d9b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crestview Road",
+                    "short_name": "Crestview Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North Waltham",
+                    "short_name": "North Waltham",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1314",
+                    "short_name": "1314",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "27 Crestview Rd, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4205388,
+                        "lng": -71.2635184
+                    },
+                    "southwest": {
+                        "lat": 42.4205332,
+                        "lng": -71.2635355
+                    }
+                },
+                "location": {
+                    "lat": 42.4205332,
+                    "lng": -71.2635184
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4218849802915,
+                        "lng": -71.26217796970849
+                    },
+                    "southwest": {
+                        "lat": 42.4191870197085,
+                        "lng": -71.26487593029151
+                    }
+                }
+            },
+            "place_id": "EicyNyBDcmVzdHZpZXcgUmQsIFdhbHRoYW0sIE1BIDAyNDUxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2126f81926e3f6bbfd8eb6dcd52f7d9b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:51.092007",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

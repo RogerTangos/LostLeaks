@@ -1,0 +1,124 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e0015ba65504ae4602e8f937b3ce4e03.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Street",
+                    "short_name": "West St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2017",
+                    "short_name": "2017",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 West St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4213536,
+                        "lng": -71.6847227
+                    },
+                    "southwest": {
+                        "lat": 42.4213529,
+                        "lng": -71.6847415
+                    }
+                },
+                "location": {
+                    "lat": 42.4213529,
+                    "lng": -71.6847227
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42270223029149,
+                        "lng": -71.6833831197085
+                    },
+                    "southwest": {
+                        "lat": 42.4200042697085,
+                        "lng": -71.6860810802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiE1IFdlc3QgU3QsIENsaW50b24sIE1BIDAxNTEwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e0015ba65504ae4602e8f937b3ce4e03",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:22.534150",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

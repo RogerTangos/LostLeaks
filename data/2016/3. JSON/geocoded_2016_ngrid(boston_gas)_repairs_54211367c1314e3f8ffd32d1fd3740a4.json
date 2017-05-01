@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_54211367c1314e3f8ffd32d1fd3740a4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "75",
+                    "short_name": "75",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Paul Revere Road",
+                    "short_name": "Paul Revere Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02421",
+                    "short_name": "02421",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6636",
+                    "short_name": "6636",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "75 Paul Revere Rd, Lexington, MA 02421, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4502538,
+                        "lng": -71.24573819999999
+                    },
+                    "southwest": {
+                        "lat": 42.4499819,
+                        "lng": -71.2461376
+                    }
+                },
+                "location": {
+                    "lat": 42.4501179,
+                    "lng": -71.2459379
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.45146683029149,
+                        "lng": -71.24458891970849
+                    },
+                    "southwest": {
+                        "lat": 42.4487688697085,
+                        "lng": -71.2472868802915
+                    }
+                }
+            },
+            "place_id": "ChIJnRwg-DGc44kRrX01h6L-MZM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "54211367c1314e3f8ffd32d1fd3740a4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:43.200144",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

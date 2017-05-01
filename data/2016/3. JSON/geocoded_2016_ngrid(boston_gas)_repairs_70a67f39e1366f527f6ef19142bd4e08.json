@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_70a67f39e1366f527f6ef19142bd4e08.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wakefield Avenue",
+                    "short_name": "Wakefield Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2711",
+                    "short_name": "2711",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Wakefield Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.45609959999999,
+                        "lng": -70.9946329
+                    },
+                    "southwest": {
+                        "lat": 42.4560866,
+                        "lng": -70.9946392
+                    }
+                },
+                "location": {
+                    "lat": 42.4560866,
+                    "lng": -70.9946329
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4574420802915,
+                        "lng": -70.99328706970849
+                    },
+                    "southwest": {
+                        "lat": 42.4547441197085,
+                        "lng": -70.99598503029151
+                    }
+                }
+            },
+            "place_id": "EiYxIFdha2VmaWVsZCBBdmUsIFNhdWd1cywgTUEgMDE5MDYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "70a67f39e1366f527f6ef19142bd4e08",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:07.830062",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

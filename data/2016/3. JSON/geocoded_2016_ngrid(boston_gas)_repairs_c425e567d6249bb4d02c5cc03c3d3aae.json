@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c425e567d6249bb4d02c5cc03c3d3aae.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "68",
+                    "short_name": "68",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Captain Standish Drive",
+                    "short_name": "Captain Standish Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "68 Captain Standish Dr, Abington, MA 02351, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1054275,
+                    "lng": -70.92448449999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1067764802915,
+                        "lng": -70.92313551970848
+                    },
+                    "southwest": {
+                        "lat": 42.1040785197085,
+                        "lng": -70.92583348029149
+                    }
+                }
+            },
+            "place_id": "ChIJFy69Uwmc5IkRr6lz8Nz2Ftw",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c425e567d6249bb4d02c5cc03c3d3aae",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:09.649442",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_36d2d9167fa667bc7603853281521d35.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Olive Drive",
+                    "short_name": "Olive Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5140",
+                    "short_name": "5140",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Olive Dr, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4955726,
+                        "lng": -71.7624354
+                    },
+                    "southwest": {
+                        "lat": 42.4955664,
+                        "lng": -71.7624522
+                    }
+                },
+                "location": {
+                    "lat": 42.4955664,
+                    "lng": -71.7624354
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4969184802915,
+                        "lng": -71.76109481970849
+                    },
+                    "southwest": {
+                        "lat": 42.4942205197085,
+                        "lng": -71.76379278029151
+                    }
+                }
+            },
+            "place_id": "EiU4IE9saXZlIERyLCBMZW9taW5zdGVyLCBNQSAwMTQ1MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "36d2d9167fa667bc7603853281521d35",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:02.783826",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d2b1988a9ced19888773f57ec8bcef52.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Garfield Avenue",
+                    "short_name": "Garfield Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3942",
+                    "short_name": "3942",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Garfield Ave, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5506718,
+                        "lng": -70.9082889
+                    },
+                    "southwest": {
+                        "lat": 42.5505386,
+                        "lng": -70.9084562
+                    }
+                },
+                "location": {
+                    "lat": 42.5506052,
+                    "lng": -70.90837250000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5519541802915,
+                        "lng": -70.9070235697085
+                    },
+                    "southwest": {
+                        "lat": 42.5492562197085,
+                        "lng": -70.9097215302915
+                    }
+                }
+            },
+            "place_id": "ChIJ3wzaQf8T44kRiFwZ-O_EdYM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d2b1988a9ced19888773f57ec8bcef52",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:45.514807",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

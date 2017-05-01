@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9f832b9113ba58ad804b7d401e531611.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "23",
+                    "short_name": "23",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stone Root Lane",
+                    "short_name": "Stone Root Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "23 Stone Root Ln, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4092604,
+                        "lng": -71.420129
+                    },
+                    "southwest": {
+                        "lat": 42.4092549,
+                        "lng": -71.4201463
+                    }
+                },
+                "location": {
+                    "lat": 42.4092549,
+                    "lng": -71.4201463
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4106066302915,
+                        "lng": -71.4187886697085
+                    },
+                    "southwest": {
+                        "lat": 42.4079086697085,
+                        "lng": -71.42148663029151
+                    }
+                }
+            },
+            "place_id": "EigyMyBTdG9uZSBSb290IExuLCBTdWRidXJ5LCBNQSAwMTc3NiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9f832b9113ba58ad804b7d401e531611",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:03.023835",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_50fb800a307efc36fb6ae59bdd207a36.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hollingsworth Street",
+                    "short_name": "Hollingsworth St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02126",
+                    "short_name": "02126",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2021",
+                    "short_name": "2021",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Hollingsworth St, Mattapan, MA 02126, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2673395,
+                        "lng": -71.100198
+                    },
+                    "southwest": {
+                        "lat": 42.2672262,
+                        "lng": -71.1003533
+                    }
+                },
+                "location": {
+                    "lat": 42.2672829,
+                    "lng": -71.10027560000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2686318302915,
+                        "lng": -71.0989266697085
+                    },
+                    "southwest": {
+                        "lat": 42.2659338697085,
+                        "lng": -71.10162463029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJXyxe_aB-44kR_SNtY1sZpJY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "50fb800a307efc36fb6ae59bdd207a36",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:21.996076",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

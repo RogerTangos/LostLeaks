@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5c72d7b2e78965429c73b64cf71c2e0b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "65",
+                    "short_name": "65",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Drive",
+                    "short_name": "Washington Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2935",
+                    "short_name": "2935",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "65 Washington Dr, Sudbury, MA 01776, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.362793,
+                    "lng": -71.451607
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3641419802915,
+                        "lng": -71.4502580197085
+                    },
+                    "southwest": {
+                        "lat": 42.3614440197085,
+                        "lng": -71.4529559802915
+                    }
+                }
+            },
+            "place_id": "ChIJbTL6kuqO44kRiq55840TR6o",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5c72d7b2e78965429c73b64cf71c2e0b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:58.442920",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

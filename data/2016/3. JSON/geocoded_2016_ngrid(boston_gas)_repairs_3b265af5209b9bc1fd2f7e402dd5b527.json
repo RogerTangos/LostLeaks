@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3b265af5209b9bc1fd2f7e402dd5b527.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Central Street",
+                    "short_name": "Central St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Central St & Arlington St, Acton, MA 01720, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.47646880000001,
+                    "lng": -71.4747601
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47781778029151,
+                        "lng": -71.47341111970849
+                    },
+                    "southwest": {
+                        "lat": 42.47511981970851,
+                        "lng": -71.47610908029151
+                    }
+                }
+            },
+            "place_id": "Ei9DZW50cmFsIFN0ICYgQXJsaW5ndG9uIFN0LCBBY3RvbiwgTUEgMDE3MjAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "3b265af5209b9bc1fd2f7e402dd5b527",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:20.097242",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

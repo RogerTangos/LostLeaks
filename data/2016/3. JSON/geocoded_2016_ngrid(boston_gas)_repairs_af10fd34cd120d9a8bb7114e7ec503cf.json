@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_af10fd34cd120d9a8bb7114e7ec503cf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1712",
+                    "short_name": "1712",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Avenue",
+                    "short_name": "Dorchester Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1712 Dorchester Ave, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2914873,
+                    "lng": -71.0625214
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2928362802915,
+                        "lng": -71.06117241970848
+                    },
+                    "southwest": {
+                        "lat": 42.2901383197085,
+                        "lng": -71.0638703802915
+                    }
+                }
+            },
+            "place_id": "ChIJU_g2TJd744kRbBOWSk2L0Rw",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "af10fd34cd120d9a8bb7114e7ec503cf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:18.518911",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

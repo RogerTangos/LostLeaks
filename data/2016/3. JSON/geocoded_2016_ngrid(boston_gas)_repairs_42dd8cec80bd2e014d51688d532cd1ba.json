@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_42dd8cec80bd2e014d51688d532cd1ba.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Westmoreland Avenue",
+                    "short_name": "Westmoreland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2539",
+                    "short_name": "2539",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Westmoreland Ave, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4296253,
+                        "lng": -71.1846659
+                    },
+                    "southwest": {
+                        "lat": 42.4296129,
+                        "lng": -71.1846742
+                    }
+                },
+                "location": {
+                    "lat": 42.4296129,
+                    "lng": -71.1846659
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4309680802915,
+                        "lng": -71.1833210697085
+                    },
+                    "southwest": {
+                        "lat": 42.4282701197085,
+                        "lng": -71.1860190302915
+                    }
+                }
+            },
+            "place_id": "Ei00OSBXZXN0bW9yZWxhbmQgQXZlLCBBcmxpbmd0b24sIE1BIDAyNDc0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "42dd8cec80bd2e014d51688d532cd1ba",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:13.469382",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

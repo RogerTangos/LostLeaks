@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4c361056c569d9b854e4f301981105d9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "151",
+                    "short_name": "151",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Western Avenue",
+                    "short_name": "Western Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gloucester",
+                    "short_name": "Gloucester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01930",
+                    "short_name": "01930",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "151 Western Ave, Gloucester, MA 01930, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6081446,
+                        "lng": -70.680162
+                    },
+                    "southwest": {
+                        "lat": 42.6080027,
+                        "lng": -70.68039089999999
+                    }
+                },
+                "location": {
+                    "lat": 42.6080736,
+                    "lng": -70.68027649999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6094226302915,
+                        "lng": -70.67892746970848
+                    },
+                    "southwest": {
+                        "lat": 42.6067246697085,
+                        "lng": -70.6816254302915
+                    }
+                }
+            },
+            "place_id": "ChIJmb1VRt0k44kR-yYZ1hsw8M8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4c361056c569d9b854e4f301981105d9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:35.657374",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

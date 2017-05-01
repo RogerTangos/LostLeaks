@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f31eb09d410200899cd57829fe127b5b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sandy Lane",
+                    "short_name": "Sandy Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salisbury",
+                    "short_name": "Salisbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01952",
+                    "short_name": "01952",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2023",
+                    "short_name": "2023",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Sandy Ln, Salisbury, MA 01952, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8409315,
+                        "lng": -70.8514538
+                    },
+                    "southwest": {
+                        "lat": 42.8407615,
+                        "lng": -70.85172109999999
+                    }
+                },
+                "location": {
+                    "lat": 42.8408465,
+                    "lng": -70.8515874
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.84219548029149,
+                        "lng": -70.8502384697085
+                    },
+                    "southwest": {
+                        "lat": 42.83949751970849,
+                        "lng": -70.8529364302915
+                    }
+                }
+            },
+            "place_id": "ChIJ3eQIb9Hg4okRNoKvKbz_P5o",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f31eb09d410200899cd57829fe127b5b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:06.540892",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

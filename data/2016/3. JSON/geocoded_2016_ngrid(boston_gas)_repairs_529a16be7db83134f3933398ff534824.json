@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_529a16be7db83134f3933398ff534824.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Estey Street",
+                    "short_name": "Estey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5343",
+                    "short_name": "5343",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Estey St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4254141,
+                        "lng": -71.0834758
+                    },
+                    "southwest": {
+                        "lat": 42.4254007,
+                        "lng": -71.0834806
+                    }
+                },
+                "location": {
+                    "lat": 42.4254007,
+                    "lng": -71.0834758
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4267563802915,
+                        "lng": -71.08212921970849
+                    },
+                    "southwest": {
+                        "lat": 42.4240584197085,
+                        "lng": -71.08482718029151
+                    }
+                }
+            },
+            "place_id": "EiIyNSBFc3RleSBTdCwgTWFsZGVuLCBNQSAwMjE0OCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "529a16be7db83134f3933398ff534824",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:28.163227",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

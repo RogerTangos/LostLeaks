@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8f74aed7ba703d0a227809c71a1ad6d3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wallace Road",
+                    "short_name": "Wallace Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wayland",
+                    "short_name": "Wayland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01778",
+                    "short_name": "01778",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3015",
+                    "short_name": "3015",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Wallace Rd, Wayland, MA 01778, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3349529,
+                        "lng": -71.3807008
+                    },
+                    "southwest": {
+                        "lat": 42.3348107,
+                        "lng": -71.380916
+                    }
+                },
+                "location": {
+                    "lat": 42.3348818,
+                    "lng": -71.38080839999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33623078029149,
+                        "lng": -71.37945941970848
+                    },
+                    "southwest": {
+                        "lat": 42.33353281970849,
+                        "lng": -71.3821573802915
+                    }
+                }
+            },
+            "place_id": "ChIJw9xROP-F44kRYKppjqFNSIs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8f74aed7ba703d0a227809c71a1ad6d3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:29.771219",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6a8876a2e3584970c453c4a0e26e0902.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wamesit Avenue",
+                    "short_name": "Wamesit Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3824",
+                    "short_name": "3824",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Wamesit Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.44556499999999,
+                        "lng": -71.0089239
+                    },
+                    "southwest": {
+                        "lat": 42.4455567,
+                        "lng": -71.00893889999999
+                    }
+                },
+                "location": {
+                    "lat": 42.44556499999999,
+                    "lng": -71.0089239
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4469098302915,
+                        "lng": -71.0075824197085
+                    },
+                    "southwest": {
+                        "lat": 42.4442118697085,
+                        "lng": -71.0102803802915
+                    }
+                }
+            },
+            "place_id": "EiQ2IFdhbWVzaXQgQXZlLCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6a8876a2e3584970c453c4a0e26e0902",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:26.927082",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

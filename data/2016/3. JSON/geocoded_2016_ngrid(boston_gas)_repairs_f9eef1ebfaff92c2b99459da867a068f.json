@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f9eef1ebfaff92c2b99459da867a068f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wellington Street",
+                    "short_name": "Wellington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Banks Square",
+                    "short_name": "Banks Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Wellington St, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3775844,
+                        "lng": -71.2484104
+                    },
+                    "southwest": {
+                        "lat": 42.3775842,
+                        "lng": -71.2484291
+                    }
+                },
+                "location": {
+                    "lat": 42.3775844,
+                    "lng": -71.2484104
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3789332802915,
+                        "lng": -71.2470707697085
+                    },
+                    "southwest": {
+                        "lat": 42.3762353197085,
+                        "lng": -71.2497687302915
+                    }
+                }
+            },
+            "place_id": "EigzMSBXZWxsaW5ndG9uIFN0LCBXYWx0aGFtLCBNQSAwMjQ1MSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f9eef1ebfaff92c2b99459da867a068f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:49.957870",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

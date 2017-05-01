@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e767f6602dfffdc18b341efc5b77b389.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "772",
+                    "short_name": "772",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Depot Road",
+                    "short_name": "Depot Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boxborough",
+                    "short_name": "Boxborough",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01719",
+                    "short_name": "01719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "772 Depot Rd, Boxborough, MA 01719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4921497,
+                        "lng": -71.5054085
+                    },
+                    "southwest": {
+                        "lat": 42.4921371,
+                        "lng": -71.5054164
+                    }
+                },
+                "location": {
+                    "lat": 42.4921371,
+                    "lng": -71.5054085
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4934923802915,
+                        "lng": -71.50406346970848
+                    },
+                    "southwest": {
+                        "lat": 42.4907944197085,
+                        "lng": -71.5067614302915
+                    }
+                }
+            },
+            "place_id": "Eic3NzIgRGVwb3QgUmQsIEJveGJvcm91Z2gsIE1BIDAxNzE5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e767f6602dfffdc18b341efc5b77b389",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:50.259590",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

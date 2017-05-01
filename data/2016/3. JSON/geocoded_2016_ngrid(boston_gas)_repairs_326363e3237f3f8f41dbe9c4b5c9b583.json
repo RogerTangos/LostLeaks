@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_326363e3237f3f8f41dbe9c4b5c9b583.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "William Street",
+                    "short_name": "William St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "William St & Lee St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4895396,
+                    "lng": -71.1106618
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4908885802915,
+                        "lng": -71.1093128197085
+                    },
+                    "southwest": {
+                        "lat": 42.4881906197085,
+                        "lng": -71.11201078029151
+                    }
+                }
+            },
+            "place_id": "EixXaWxsaWFtIFN0ICYgTGVlIFN0LCBTdG9uZWhhbSwgTUEgMDIxODAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "326363e3237f3f8f41dbe9c4b5c9b583",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:34.657070",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

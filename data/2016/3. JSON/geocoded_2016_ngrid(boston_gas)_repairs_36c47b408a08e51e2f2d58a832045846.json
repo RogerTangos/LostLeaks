@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_36c47b408a08e51e2f2d58a832045846.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "54",
+                    "short_name": "54",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "McBride Street",
+                    "short_name": "McBride St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3227",
+                    "short_name": "3227",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "54 McBride St, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3061903,
+                        "lng": -71.11292259999999
+                    },
+                    "southwest": {
+                        "lat": 42.3060926,
+                        "lng": -71.1130486
+                    }
+                },
+                "location": {
+                    "lat": 42.3061414,
+                    "lng": -71.1129856
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3074904302915,
+                        "lng": -71.11163661970848
+                    },
+                    "southwest": {
+                        "lat": 42.3047924697085,
+                        "lng": -71.1143345802915
+                    }
+                }
+            },
+            "place_id": "ChIJ2exruml544kRV5qXZ7MLE_s",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "36c47b408a08e51e2f2d58a832045846",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:48.704511",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

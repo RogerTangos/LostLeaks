@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_52f656405c12915c17cc6efdfced8ea3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Davitt Street",
+                    "short_name": "Davitt St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1048",
+                    "short_name": "1048",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Davitt St, Boston, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3125737,
+                        "lng": -71.04962119999999
+                    },
+                    "southwest": {
+                        "lat": 42.31257220000001,
+                        "lng": -71.0496398
+                    }
+                },
+                "location": {
+                    "lat": 42.3125737,
+                    "lng": -71.0496398
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31392193029151,
+                        "lng": -71.0482815197085
+                    },
+                    "southwest": {
+                        "lat": 42.31122396970851,
+                        "lng": -71.0509794802915
+                    }
+                }
+            },
+            "place_id": "EiIyIERhdml0dCBTdCwgQm9zdG9uLCBNQSAwMjEyNSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "52f656405c12915c17cc6efdfced8ea3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:02.212437",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

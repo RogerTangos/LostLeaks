@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e916835cb5be1151bb808488001e495f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "37",
+                    "short_name": "37",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk Street",
+                    "short_name": "Suffolk St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3424",
+                    "short_name": "3424",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "37 Suffolk St, Chelsea, MA 02150, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3873136,
+                    "lng": -71.0345138
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3886625802915,
+                        "lng": -71.03316481970849
+                    },
+                    "southwest": {
+                        "lat": 42.3859646197085,
+                        "lng": -71.03586278029151
+                    }
+                }
+            },
+            "place_id": "ChIJU0wsIrNx44kRj20klqI-tI4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e916835cb5be1151bb808488001e495f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:38.568252",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

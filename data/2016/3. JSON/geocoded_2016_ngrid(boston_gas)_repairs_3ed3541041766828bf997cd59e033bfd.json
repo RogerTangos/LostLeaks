@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3ed3541041766828bf997cd59e033bfd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Braman Street",
+                    "short_name": "Braman St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1907",
+                    "short_name": "1907",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Braman St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5626048,
+                        "lng": -70.9453791
+                    },
+                    "southwest": {
+                        "lat": 42.5625075,
+                        "lng": -70.9455037
+                    }
+                },
+                "location": {
+                    "lat": 42.5625562,
+                    "lng": -70.94544139999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5639051302915,
+                        "lng": -70.94409241970848
+                    },
+                    "southwest": {
+                        "lat": 42.5612071697085,
+                        "lng": -70.9467903802915
+                    }
+                }
+            },
+            "place_id": "ChIJ_yW9Bn0R44kRCC_72uDAkCI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3ed3541041766828bf997cd59e033bfd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:09.716883",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

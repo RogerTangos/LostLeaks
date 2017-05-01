@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d49e257e9c2f9a12072c0c5010c592a8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cedar Hill Terrace",
+                    "short_name": "Cedar Hill Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2666",
+                    "short_name": "2666",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Cedar Hill Terrace, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4687406,
+                        "lng": -70.9076723
+                    },
+                    "southwest": {
+                        "lat": 42.4685607,
+                        "lng": -70.907911
+                    }
+                },
+                "location": {
+                    "lat": 42.4686506,
+                    "lng": -70.90779169999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4699996302915,
+                        "lng": -70.9064426697085
+                    },
+                    "southwest": {
+                        "lat": 42.4673016697085,
+                        "lng": -70.9091406302915
+                    }
+                }
+            },
+            "place_id": "ChIJaW3B_Kds44kR28SOm1FK32c",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d49e257e9c2f9a12072c0c5010c592a8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:36.253996",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

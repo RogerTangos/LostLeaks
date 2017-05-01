@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_41960903de79a999e840f764df1965ef.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "761",
+                    "short_name": "761",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Newton Street",
+                    "short_name": "Newton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2605",
+                    "short_name": "2605",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "761 Newton St, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.309011,
+                        "lng": -71.1655835
+                    },
+                    "southwest": {
+                        "lat": 42.308999,
+                        "lng": -71.1655928
+                    }
+                },
+                "location": {
+                    "lat": 42.309011,
+                    "lng": -71.1655928
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3103539802915,
+                        "lng": -71.1642391697085
+                    },
+                    "southwest": {
+                        "lat": 42.3076560197085,
+                        "lng": -71.1669371302915
+                    }
+                }
+            },
+            "place_id": "Eis3NjEgTmV3dG9uIFN0LCBDaGVzdG51dCBIaWxsLCBNQSAwMjQ2NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "41960903de79a999e840f764df1965ef",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:46.844408",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

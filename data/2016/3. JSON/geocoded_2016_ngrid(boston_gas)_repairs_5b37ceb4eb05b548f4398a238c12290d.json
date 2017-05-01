@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5b37ceb4eb05b548f4398a238c12290d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "405",
+                    "short_name": "405",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "405 Broadway, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4866694,
+                        "lng": -71.0186919
+                    },
+                    "southwest": {
+                        "lat": 42.4862924,
+                        "lng": -71.0191165
+                    }
+                },
+                "location": {
+                    "lat": 42.4864809,
+                    "lng": -71.0189042
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.48782988029149,
+                        "lng": -71.0175552197085
+                    },
+                    "southwest": {
+                        "lat": 42.4851319197085,
+                        "lng": -71.0202531802915
+                    }
+                }
+            },
+            "place_id": "ChIJKQ-uPrpy44kR2_rWidEmxyI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5b37ceb4eb05b548f4398a238c12290d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:15.667861",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

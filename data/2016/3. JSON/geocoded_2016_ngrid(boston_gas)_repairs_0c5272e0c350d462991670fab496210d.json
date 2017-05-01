@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0c5272e0c350d462991670fab496210d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "281",
+                    "short_name": "281",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4102",
+                    "short_name": "4102",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "281 Union St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5123895,
+                        "lng": -71.7610916
+                    },
+                    "southwest": {
+                        "lat": 42.5123876,
+                        "lng": -71.76111019999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5123876,
+                    "lng": -71.76111019999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5137375302915,
+                        "lng": -71.75975191970849
+                    },
+                    "southwest": {
+                        "lat": 42.5110395697085,
+                        "lng": -71.7624498802915
+                    }
+                }
+            },
+            "place_id": "EicyODEgVW5pb24gU3QsIExlb21pbnN0ZXIsIE1BIDAxNDUzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0c5272e0c350d462991670fab496210d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:08.460135",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

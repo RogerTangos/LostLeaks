@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7b3c0422cb4ce00ffe4826f107c258ad.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "93",
+                    "short_name": "93",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Locust Street",
+                    "short_name": "Locust St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2205",
+                    "short_name": "2205",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "93 Locust St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5755695,
+                        "lng": -70.93680979999999
+                    },
+                    "southwest": {
+                        "lat": 42.575473,
+                        "lng": -70.9369292
+                    }
+                },
+                "location": {
+                    "lat": 42.5755213,
+                    "lng": -70.9368695
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5768702302915,
+                        "lng": -70.93552051970849
+                    },
+                    "southwest": {
+                        "lat": 42.5741722697085,
+                        "lng": -70.9382184802915
+                    }
+                }
+            },
+            "place_id": "ChIJh6qIf2wR44kRbDMXPnXq5a0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7b3c0422cb4ce00ffe4826f107c258ad",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:53.811118",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

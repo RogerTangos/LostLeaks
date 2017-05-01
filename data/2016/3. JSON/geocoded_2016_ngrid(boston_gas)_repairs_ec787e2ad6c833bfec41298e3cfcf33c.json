@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ec787e2ad6c833bfec41298e3cfcf33c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mohawk Way",
+                    "short_name": "Mohawk Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1875",
+                    "short_name": "1875",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Mohawk Way, Cohasset, MA 02025, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2491245,
+                        "lng": -70.7955511
+                    },
+                    "southwest": {
+                        "lat": 42.24912279999999,
+                        "lng": -70.7955697
+                    }
+                },
+                "location": {
+                    "lat": 42.2491245,
+                    "lng": -70.7955697
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2504726302915,
+                        "lng": -70.7942114197085
+                    },
+                    "southwest": {
+                        "lat": 42.2477746697085,
+                        "lng": -70.79690938029151
+                    }
+                }
+            },
+            "place_id": "EiYxNyBNb2hhd2sgV2F5LCBDb2hhc3NldCwgTUEgMDIwMjUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ec787e2ad6c833bfec41298e3cfcf33c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:13.651661",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

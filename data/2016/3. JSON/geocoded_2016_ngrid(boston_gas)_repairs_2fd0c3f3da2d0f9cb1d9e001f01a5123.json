@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2fd0c3f3da2d0f9cb1d9e001f01a5123.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gledhill Avenue",
+                    "short_name": "Gledhill Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4015",
+                    "short_name": "4015",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Gledhill Ave, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4162414,
+                        "lng": -71.0455121
+                    },
+                    "southwest": {
+                        "lat": 42.4160759,
+                        "lng": -71.0457098
+                    }
+                },
+                "location": {
+                    "lat": 42.4161586,
+                    "lng": -71.0456109
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41750763029149,
+                        "lng": -71.04426196970849
+                    },
+                    "southwest": {
+                        "lat": 42.4148096697085,
+                        "lng": -71.04695993029151
+                    }
+                }
+            },
+            "place_id": "ChIJmyvDyJxx44kRgh-dhM6auUo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2fd0c3f3da2d0f9cb1d9e001f01a5123",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:45.519565",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

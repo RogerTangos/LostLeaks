@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1db74c06097344dd73b404fb2496217e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crehore Drive",
+                    "short_name": "Crehore Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Lower Falls",
+                    "short_name": "Newton Lower Falls",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02462",
+                    "short_name": "02462",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Crehore Dr, Newton, MA 02462, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3321633,
+                        "lng": -71.2589428
+                    },
+                    "southwest": {
+                        "lat": 42.33215329999999,
+                        "lng": -71.2589557
+                    }
+                },
+                "location": {
+                    "lat": 42.3321633,
+                    "lng": -71.2589557
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33350728029149,
+                        "lng": -71.2576002697085
+                    },
+                    "southwest": {
+                        "lat": 42.3308093197085,
+                        "lng": -71.26029823029151
+                    }
+                }
+            },
+            "place_id": "EiQxNiBDcmVob3JlIERyLCBOZXd0b24sIE1BIDAyNDYyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1db74c06097344dd73b404fb2496217e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:50.997824",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

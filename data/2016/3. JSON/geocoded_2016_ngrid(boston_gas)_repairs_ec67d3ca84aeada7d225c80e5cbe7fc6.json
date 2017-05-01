@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ec67d3ca84aeada7d225c80e5cbe7fc6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Street",
+                    "short_name": "Walnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nonantum",
+                    "short_name": "Nonantum",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1323",
+                    "short_name": "1323",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Walnut St, Newton, MA 02460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3581843,
+                        "lng": -71.2114113
+                    },
+                    "southwest": {
+                        "lat": 42.3579805,
+                        "lng": -71.2116803
+                    }
+                },
+                "location": {
+                    "lat": 42.3580824,
+                    "lng": -71.2115458
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3594313802915,
+                        "lng": -71.21019681970849
+                    },
+                    "southwest": {
+                        "lat": 42.3567334197085,
+                        "lng": -71.2128947802915
+                    }
+                }
+            },
+            "place_id": "ChIJwQlkwJWC44kRcIyyb-l-Els",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ec67d3ca84aeada7d225c80e5cbe7fc6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:23.293241",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

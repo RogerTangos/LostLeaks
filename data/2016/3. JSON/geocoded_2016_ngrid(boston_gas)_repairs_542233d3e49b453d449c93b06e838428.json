@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_542233d3e49b453d449c93b06e838428.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Henry Street",
+                    "short_name": "Henry St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5435",
+                    "short_name": "5435",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Henry St, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3992942,
+                        "lng": -70.9881262
+                    },
+                    "southwest": {
+                        "lat": 42.399202,
+                        "lng": -70.9882461
+                    }
+                },
+                "location": {
+                    "lat": 42.3992481,
+                    "lng": -70.9881861
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4005970802915,
+                        "lng": -70.9868371697085
+                    },
+                    "southwest": {
+                        "lat": 42.3978991197085,
+                        "lng": -70.9895351302915
+                    }
+                }
+            },
+            "place_id": "ChIJZQqZpRdu44kRUoRNXH_NvOw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "542233d3e49b453d449c93b06e838428",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:44.291990",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

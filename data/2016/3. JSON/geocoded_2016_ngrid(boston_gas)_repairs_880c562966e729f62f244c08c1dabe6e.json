@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_880c562966e729f62f244c08c1dabe6e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Choate Road",
+                    "short_name": "Choate Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Choate Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3805402,
+                        "lng": -71.1595543
+                    },
+                    "southwest": {
+                        "lat": 42.3805264,
+                        "lng": -71.15955559999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3805264,
+                    "lng": -71.15955559999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3818822802915,
+                        "lng": -71.15820596970849
+                    },
+                    "southwest": {
+                        "lat": 42.3791843197085,
+                        "lng": -71.16090393029151
+                    }
+                }
+            },
+            "place_id": "EiQyMSBDaG9hdGUgUmQsIEJlbG1vbnQsIE1BIDAyNDc4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "880c562966e729f62f244c08c1dabe6e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:28.089987",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

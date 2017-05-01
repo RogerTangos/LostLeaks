@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ccbea82affefd73fae0836e27375f51b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ravine Road",
+                    "short_name": "Ravine Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4339",
+                    "short_name": "4339",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Ravine Rd, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4544182,
+                        "lng": -71.0800935
+                    },
+                    "southwest": {
+                        "lat": 42.4542857,
+                        "lng": -71.0802716
+                    }
+                },
+                "location": {
+                    "lat": 42.454352,
+                    "lng": -71.0801826
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4557009302915,
+                        "lng": -71.0788335697085
+                    },
+                    "southwest": {
+                        "lat": 42.4530029697085,
+                        "lng": -71.08153153029151
+                    }
+                }
+            },
+            "place_id": "ChIJk5byjZNz44kRISBrBcpewCo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ccbea82affefd73fae0836e27375f51b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:37.865600",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

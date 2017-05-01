@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_82a5fbc808f77bb1cc3f031a4858a06a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fairmount Avenue",
+                    "short_name": "Fairmount Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1426",
+                    "short_name": "1426",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Fairmount Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4730776,
+                        "lng": -70.9972155
+                    },
+                    "southwest": {
+                        "lat": 42.47294309999999,
+                        "lng": -70.9974174
+                    }
+                },
+                "location": {
+                    "lat": 42.4730103,
+                    "lng": -70.9973164
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4743593302915,
+                        "lng": -70.99596746970849
+                    },
+                    "southwest": {
+                        "lat": 42.4716613697085,
+                        "lng": -70.99866543029151
+                    }
+                }
+            },
+            "place_id": "ChIJl061xGBt44kRP4EU8aeCySA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "82a5fbc808f77bb1cc3f031a4858a06a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:57.808408",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

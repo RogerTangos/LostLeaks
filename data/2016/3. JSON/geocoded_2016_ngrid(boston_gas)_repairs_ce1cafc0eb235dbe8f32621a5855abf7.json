@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ce1cafc0eb235dbe8f32621a5855abf7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "503",
+                    "short_name": "503",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Humphrey Street",
+                    "short_name": "Humphrey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "503 Humphrey St, Swampscott, MA 01907, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4676756,
+                    "lng": -70.90607709999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4690245802915,
+                        "lng": -70.90472811970848
+                    },
+                    "southwest": {
+                        "lat": 42.4663266197085,
+                        "lng": -70.90742608029149
+                    }
+                }
+            },
+            "place_id": "ChIJqTZZEVhr44kR_aRZhW2IcTE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ce1cafc0eb235dbe8f32621a5855abf7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:28.346646",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

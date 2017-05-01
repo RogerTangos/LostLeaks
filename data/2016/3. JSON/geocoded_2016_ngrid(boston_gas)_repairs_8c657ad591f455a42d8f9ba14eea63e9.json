@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8c657ad591f455a42d8f9ba14eea63e9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pilgrim Road",
+                    "short_name": "Pilgrim Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5616",
+                    "short_name": "5616",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Pilgrim Rd, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2566457,
+                        "lng": -71.0354782
+                    },
+                    "southwest": {
+                        "lat": 42.256513,
+                        "lng": -71.0356839
+                    }
+                },
+                "location": {
+                    "lat": 42.2565793,
+                    "lng": -71.0355811
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2579283302915,
+                        "lng": -71.03423206970848
+                    },
+                    "southwest": {
+                        "lat": 42.2552303697085,
+                        "lng": -71.0369300302915
+                    }
+                }
+            },
+            "place_id": "ChIJyXhPT5J844kRq70pOhisFqI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8c657ad591f455a42d8f9ba14eea63e9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:15.556565",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d0f4622d5d9db4c58d45ed8a434d4a10.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Regis Road",
+                    "short_name": "Regis Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6605",
+                    "short_name": "6605",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Regis Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1968158,
+                        "lng": -71.0324795
+                    },
+                    "southwest": {
+                        "lat": 42.1966287,
+                        "lng": -71.0326755
+                    }
+                },
+                "location": {
+                    "lat": 42.1967222,
+                    "lng": -71.0325775
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1980712302915,
+                        "lng": -71.03122851970849
+                    },
+                    "southwest": {
+                        "lat": 42.1953732697085,
+                        "lng": -71.0339264802915
+                    }
+                }
+            },
+            "place_id": "ChIJq2hLGGJ944kRvYYCghtAanM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d0f4622d5d9db4c58d45ed8a434d4a10",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:23.211864",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

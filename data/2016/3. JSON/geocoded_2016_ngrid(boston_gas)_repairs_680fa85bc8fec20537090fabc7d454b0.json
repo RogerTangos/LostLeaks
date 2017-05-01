@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_680fa85bc8fec20537090fabc7d454b0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hurd Avenue",
+                    "short_name": "Hurd Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2514",
+                    "short_name": "2514",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Hurd Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4536412,
+                        "lng": -71.00753019999999
+                    },
+                    "southwest": {
+                        "lat": 42.4536287,
+                        "lng": -71.0075382
+                    }
+                },
+                "location": {
+                    "lat": 42.4536412,
+                    "lng": -71.0075382
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4549839302915,
+                        "lng": -71.0061852197085
+                    },
+                    "southwest": {
+                        "lat": 42.45228596970851,
+                        "lng": -71.0088831802915
+                    }
+                }
+            },
+            "place_id": "EiEyIEh1cmQgQXZlLCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "680fa85bc8fec20537090fabc7d454b0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:03.396947",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

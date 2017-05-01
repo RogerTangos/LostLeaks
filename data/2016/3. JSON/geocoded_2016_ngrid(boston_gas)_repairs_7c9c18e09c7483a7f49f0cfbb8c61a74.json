@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7c9c18e09c7483a7f49f0cfbb8c61a74.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "139",
+                    "short_name": "139",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5416",
+                    "short_name": "5416",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "139 Elm St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2489518,
+                        "lng": -70.9965136
+                    },
+                    "southwest": {
+                        "lat": 42.2487868,
+                        "lng": -70.9966527
+                    }
+                },
+                "location": {
+                    "lat": 42.2488693,
+                    "lng": -70.9965832
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2502182802915,
+                        "lng": -70.9952341697085
+                    },
+                    "southwest": {
+                        "lat": 42.2475203197085,
+                        "lng": -70.99793213029152
+                    }
+                }
+            },
+            "place_id": "ChIJIziZK0pj44kRFG62roE-oBw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7c9c18e09c7483a7f49f0cfbb8c61a74",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:53.402322",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_46b77d93871cfd48552187b5046975b2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "130",
+                    "short_name": "130",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Parmenter Road",
+                    "short_name": "Parmenter Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "130 Parmenter Rd, West Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3618548,
+                        "lng": -71.2309791
+                    },
+                    "southwest": {
+                        "lat": 42.3617601,
+                        "lng": -71.2311252
+                    }
+                },
+                "location": {
+                    "lat": 42.3618074,
+                    "lng": -71.23105210000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3631564302915,
+                        "lng": -71.2297031697085
+                    },
+                    "southwest": {
+                        "lat": 42.3604584697085,
+                        "lng": -71.2324011302915
+                    }
+                }
+            },
+            "place_id": "ChIJd8sJdueC44kROEkn3DVrjNQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "46b77d93871cfd48552187b5046975b2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:40.353916",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

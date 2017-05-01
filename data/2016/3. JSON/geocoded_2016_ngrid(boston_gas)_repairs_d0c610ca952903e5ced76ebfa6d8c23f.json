@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d0c610ca952903e5ced76ebfa6d8c23f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "42",
+                    "short_name": "42",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Orchard Road",
+                    "short_name": "Orchard Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brighton",
+                    "short_name": "Brighton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2152",
+                    "short_name": "2152",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "42 Orchard Rd, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3416975,
+                    "lng": -71.1411263
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34304648029149,
+                        "lng": -71.13977731970849
+                    },
+                    "southwest": {
+                        "lat": 42.34034851970849,
+                        "lng": -71.1424752802915
+                    }
+                }
+            },
+            "place_id": "ChIJMbNjl7N544kR36BOxTmMR5o",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d0c610ca952903e5ced76ebfa6d8c23f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:26.094145",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

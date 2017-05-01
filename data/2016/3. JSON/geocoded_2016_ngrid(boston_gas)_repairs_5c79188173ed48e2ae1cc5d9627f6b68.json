@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5c79188173ed48e2ae1cc5d9627f6b68.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rainbow Drive",
+                    "short_name": "Rainbow Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01835",
+                    "short_name": "01835",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6978",
+                    "short_name": "6978",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Rainbow Dr, Haverhill, MA 01835, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7596743,
+                        "lng": -71.1013188
+                    },
+                    "southwest": {
+                        "lat": 42.7596676,
+                        "lng": -71.1013351
+                    }
+                },
+                "location": {
+                    "lat": 42.7596676,
+                    "lng": -71.1013188
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7610199302915,
+                        "lng": -71.0999779697085
+                    },
+                    "southwest": {
+                        "lat": 42.7583219697085,
+                        "lng": -71.10267593029151
+                    }
+                }
+            },
+            "place_id": "EiY2IFJhaW5ib3cgRHIsIEhhdmVyaGlsbCwgTUEgMDE4MzUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5c79188173ed48e2ae1cc5d9627f6b68",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:25.233305",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

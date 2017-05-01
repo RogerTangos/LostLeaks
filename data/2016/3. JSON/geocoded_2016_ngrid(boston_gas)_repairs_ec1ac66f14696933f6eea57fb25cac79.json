@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ec1ac66f14696933f6eea57fb25cac79.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "52",
+                    "short_name": "52",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stoney Brook Road",
+                    "short_name": "Stony Brook Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1725",
+                    "short_name": "1725",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "52 Stony Brook Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.411359,
+                    "lng": -71.19433099999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4127079802915,
+                        "lng": -71.19298201970848
+                    },
+                    "southwest": {
+                        "lat": 42.4100100197085,
+                        "lng": -71.19567998029149
+                    }
+                }
+            },
+            "place_id": "ChIJa3TCs3-d44kRizIgVtA7PNM",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ec1ac66f14696933f6eea57fb25cac79",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:40.562279",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

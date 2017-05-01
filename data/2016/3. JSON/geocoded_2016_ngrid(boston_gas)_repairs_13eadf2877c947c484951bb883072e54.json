@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_13eadf2877c947c484951bb883072e54.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Union St & Independence Way, Norwood, MA 02062, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.158942,
+                    "lng": -71.199343
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.16029098029149,
+                        "lng": -71.19799401970849
+                    },
+                    "southwest": {
+                        "lat": 42.15759301970849,
+                        "lng": -71.2006919802915
+                    }
+                }
+            },
+            "place_id": "EjNVbmlvbiBTdCAmIEluZGVwZW5kZW5jZSBXYXksIE5vcndvb2QsIE1BIDAyMDYyLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "13eadf2877c947c484951bb883072e54",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:32.825664",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

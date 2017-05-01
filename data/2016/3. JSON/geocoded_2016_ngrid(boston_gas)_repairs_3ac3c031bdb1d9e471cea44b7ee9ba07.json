@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3ac3c031bdb1d9e471cea44b7ee9ba07.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "48",
+                    "short_name": "48",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Peninsula Place",
+                    "short_name": "Peninsula Pl",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "48 Peninsula Pl, Boston, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3195805,
+                        "lng": -71.0446903
+                    },
+                    "southwest": {
+                        "lat": 42.3195758,
+                        "lng": -71.04470789999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3195805,
+                    "lng": -71.0446903
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32092713029149,
+                        "lng": -71.04335011970848
+                    },
+                    "southwest": {
+                        "lat": 42.31822916970849,
+                        "lng": -71.0460480802915
+                    }
+                }
+            },
+            "place_id": "EiY0OCBQZW5pbnN1bGEgUGwsIEJvc3RvbiwgTUEgMDIxMjUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3ac3c031bdb1d9e471cea44b7ee9ba07",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:06.612031",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

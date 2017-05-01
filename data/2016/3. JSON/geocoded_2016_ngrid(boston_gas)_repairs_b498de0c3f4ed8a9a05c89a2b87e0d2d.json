@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b498de0c3f4ed8a9a05c89a2b87e0d2d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Ruggles Street",
+                    "short_name": "Ruggles St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Ruggles St & Murdock Ave, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.24738749999999,
+                    "lng": -70.9844976
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24873648029149,
+                        "lng": -70.98314861970849
+                    },
+                    "southwest": {
+                        "lat": 42.24603851970849,
+                        "lng": -70.9858465802915
+                    }
+                }
+            },
+            "place_id": "Ei9SdWdnbGVzIFN0ICYgTXVyZG9jayBBdmUsIFF1aW5jeSwgTUEgMDIxNjksIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "b498de0c3f4ed8a9a05c89a2b87e0d2d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:40.022491",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

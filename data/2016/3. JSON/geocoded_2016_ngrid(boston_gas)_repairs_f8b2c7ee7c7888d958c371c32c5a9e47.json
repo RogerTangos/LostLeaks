@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f8b2c7ee7c7888d958c371c32c5a9e47.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "64",
+                    "short_name": "64",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dudley Street",
+                    "short_name": "Dudley St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5937",
+                    "short_name": "5937",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "64 Dudley St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3261565,
+                        "lng": -71.1350726
+                    },
+                    "southwest": {
+                        "lat": 42.3261429,
+                        "lng": -71.1350763
+                    }
+                },
+                "location": {
+                    "lat": 42.3261429,
+                    "lng": -71.1350763
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3274986802915,
+                        "lng": -71.1337254697085
+                    },
+                    "southwest": {
+                        "lat": 42.3248007197085,
+                        "lng": -71.13642343029152
+                    }
+                }
+            },
+            "place_id": "EiY2NCBEdWRsZXkgU3QsIEJyb29rbGluZSwgTUEgMDI0NDUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f8b2c7ee7c7888d958c371c32c5a9e47",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:50.860047",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

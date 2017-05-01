@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c14c2394983ecdaa84f41a9a9391c2eb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "715",
+                    "short_name": "715",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hale Street",
+                    "short_name": "Hale St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "715 Hale St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5623038,
+                        "lng": -70.8144113
+                    },
+                    "southwest": {
+                        "lat": 42.5619602,
+                        "lng": -70.8148762
+                    }
+                },
+                "location": {
+                    "lat": 42.562132,
+                    "lng": -70.81464369999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5634809802915,
+                        "lng": -70.81329476970849
+                    },
+                    "southwest": {
+                        "lat": 42.5607830197085,
+                        "lng": -70.8159927302915
+                    }
+                }
+            },
+            "place_id": "ChIJM16iKCcW44kRqygUsGeYl6w",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c14c2394983ecdaa84f41a9a9391c2eb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:31.365937",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

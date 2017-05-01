@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_84b8ac5f934b23a1d9195e2aa3cd0041.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elsinore Street",
+                    "short_name": "Elsinore St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Elsinore St, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4560797,
+                        "lng": -71.3592101
+                    },
+                    "southwest": {
+                        "lat": 42.4560662,
+                        "lng": -71.3592141
+                    }
+                },
+                "location": {
+                    "lat": 42.4560662,
+                    "lng": -71.3592101
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4574219302915,
+                        "lng": -71.3578631197085
+                    },
+                    "southwest": {
+                        "lat": 42.4547239697085,
+                        "lng": -71.3605610802915
+                    }
+                }
+            },
+            "place_id": "EiYxMSBFbHNpbm9yZSBTdCwgQ29uY29yZCwgTUEgMDE3NDIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "84b8ac5f934b23a1d9195e2aa3cd0041",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:43.206532",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

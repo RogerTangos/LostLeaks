@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bee12d68663df646ea40f37900845607.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Courtland Circle",
+                    "short_name": "Courtland Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4303",
+                    "short_name": "4303",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Courtland Cir, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.274175,
+                        "lng": -71.0473303
+                    },
+                    "southwest": {
+                        "lat": 42.27406149999999,
+                        "lng": -71.0474948
+                    }
+                },
+                "location": {
+                    "lat": 42.2741182,
+                    "lng": -71.0474126
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2754672302915,
+                        "lng": -71.04606356970848
+                    },
+                    "southwest": {
+                        "lat": 42.2727692697085,
+                        "lng": -71.0487615302915
+                    }
+                }
+            },
+            "place_id": "ChIJdc_PKIB844kRKAIZOUO2X5M",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bee12d68663df646ea40f37900845607",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:11.342192",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

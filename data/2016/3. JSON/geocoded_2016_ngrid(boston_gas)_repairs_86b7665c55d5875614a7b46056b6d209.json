@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_86b7665c55d5875614a7b46056b6d209.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "89",
+                    "short_name": "89",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beech Street",
+                    "short_name": "Beech St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2030",
+                    "short_name": "2030",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "89 Beech St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2264445,
+                        "lng": -70.9818882
+                    },
+                    "southwest": {
+                        "lat": 42.22633,
+                        "lng": -70.9820076
+                    }
+                },
+                "location": {
+                    "lat": 42.2263873,
+                    "lng": -70.9819479
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.22773623029151,
+                        "lng": -70.9805989197085
+                    },
+                    "southwest": {
+                        "lat": 42.22503826970851,
+                        "lng": -70.98329688029152
+                    }
+                }
+            },
+            "place_id": "ChIJ75kZ8yBj44kRcsL-JHj00ms",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "86b7665c55d5875614a7b46056b6d209",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:31.852275",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

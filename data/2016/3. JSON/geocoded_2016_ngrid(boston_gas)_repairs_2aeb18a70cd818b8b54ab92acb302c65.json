@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2aeb18a70cd818b8b54ab92acb302c65.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Groveland Road",
+                    "short_name": "Groveland Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5119",
+                    "short_name": "5119",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Groveland Rd, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4462997,
+                        "lng": -71.07364989999999
+                    },
+                    "southwest": {
+                        "lat": 42.4461575,
+                        "lng": -71.0737885
+                    }
+                },
+                "location": {
+                    "lat": 42.4462286,
+                    "lng": -71.0737192
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4475775802915,
+                        "lng": -71.07237021970849
+                    },
+                    "southwest": {
+                        "lat": 42.4448796197085,
+                        "lng": -71.07506818029151
+                    }
+                }
+            },
+            "place_id": "ChIJx0j8Cupz44kRvQkQZ0erwHg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2aeb18a70cd818b8b54ab92acb302c65",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:02.221622",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

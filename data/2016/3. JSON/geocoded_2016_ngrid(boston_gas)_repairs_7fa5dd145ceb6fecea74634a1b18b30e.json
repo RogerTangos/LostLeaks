@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7fa5dd145ceb6fecea74634a1b18b30e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "River Street",
+                    "short_name": "River St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "River St & Maxwell St, Haverhill, MA 01832, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.765292,
+                    "lng": -71.1033392
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.76664098029149,
+                        "lng": -71.1019902197085
+                    },
+                    "southwest": {
+                        "lat": 42.7639430197085,
+                        "lng": -71.1046881802915
+                    }
+                }
+            },
+            "place_id": "Ei9SaXZlciBTdCAmIE1heHdlbGwgU3QsIEhhdmVyaGlsbCwgTUEgMDE4MzIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "7fa5dd145ceb6fecea74634a1b18b30e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:38.088497",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b79d7b2edf84f86de777e775cad0e4fd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "598",
+                    "short_name": "598",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cabot Street",
+                    "short_name": "Cabot St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2552",
+                    "short_name": "2552",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "598 Cabot St, Beverly, MA 01915, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5723745,
+                    "lng": -70.8939233
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5737234802915,
+                        "lng": -70.8925743197085
+                    },
+                    "southwest": {
+                        "lat": 42.5710255197085,
+                        "lng": -70.89527228029151
+                    }
+                }
+            },
+            "place_id": "ChIJEyKwyccW44kR5yy7oka3duA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b79d7b2edf84f86de777e775cad0e4fd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:17.283443",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

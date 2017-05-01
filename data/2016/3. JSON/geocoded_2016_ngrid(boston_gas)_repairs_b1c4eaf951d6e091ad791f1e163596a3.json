@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b1c4eaf951d6e091ad791f1e163596a3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "144",
+                    "short_name": "144",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Moody Street",
+                    "short_name": "Moody St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bleachery",
+                    "short_name": "Bleachery",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "144 Moody St, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.37397319999999,
+                        "lng": -71.235595
+                    },
+                    "southwest": {
+                        "lat": 42.3737865,
+                        "lng": -71.2358278
+                    }
+                },
+                "location": {
+                    "lat": 42.3738798,
+                    "lng": -71.2357114
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3752288302915,
+                        "lng": -71.23436241970849
+                    },
+                    "southwest": {
+                        "lat": 42.3725308697085,
+                        "lng": -71.23706038029151
+                    }
+                }
+            },
+            "place_id": "ChIJOUzna9eC44kRssXeuL246pY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b1c4eaf951d6e091ad791f1e163596a3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:11.292265",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1b33e316a7a60ff7fe4dcbc35149babb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hancock Street",
+                    "short_name": "Hancock St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1706",
+                    "short_name": "1706",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "150 Hancock St, Quincy, MA 02171, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2798096,
+                        "lng": -71.0329704
+                    },
+                    "southwest": {
+                        "lat": 42.279595,
+                        "lng": -71.03317679999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2797023,
+                    "lng": -71.0330736
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2810512802915,
+                        "lng": -71.0317246197085
+                    },
+                    "southwest": {
+                        "lat": 42.2783533197085,
+                        "lng": -71.0344225802915
+                    }
+                }
+            },
+            "place_id": "ChIJIZD8xWV744kRgA35KIxGXiI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1b33e316a7a60ff7fe4dcbc35149babb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:32.681094",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

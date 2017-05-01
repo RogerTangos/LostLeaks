@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3b98c6acdc4ed439202f545477da77c5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Walsh Avenue",
+                    "short_name": "Walsh Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Walsh Ave & Englewood Rd, Peabody, MA 01960, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.533521,
+                    "lng": -70.91749
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5348699802915,
+                        "lng": -70.91614101970849
+                    },
+                    "southwest": {
+                        "lat": 42.5321720197085,
+                        "lng": -70.91883898029151
+                    }
+                }
+            },
+            "place_id": "EjBXYWxzaCBBdmUgJiBFbmdsZXdvb2QgUmQsIFBlYWJvZHksIE1BIDAxOTYwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "3b98c6acdc4ed439202f545477da77c5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:56.065011",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

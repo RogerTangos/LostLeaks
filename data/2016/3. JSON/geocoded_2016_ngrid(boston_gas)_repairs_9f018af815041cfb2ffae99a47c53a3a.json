@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9f018af815041cfb2ffae99a47c53a3a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brockton Avenue",
+                    "short_name": "Brockton Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3312",
+                    "short_name": "3312",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Brockton Ave, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7895235,
+                        "lng": -71.0799169
+                    },
+                    "southwest": {
+                        "lat": 42.789388,
+                        "lng": -71.0801026
+                    }
+                },
+                "location": {
+                    "lat": 42.7894557,
+                    "lng": -71.08000969999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7908047302915,
+                        "lng": -71.07866076970849
+                    },
+                    "southwest": {
+                        "lat": 42.78810676970851,
+                        "lng": -71.08135873029151
+                    }
+                }
+            },
+            "place_id": "ChIJ5Y0C0T0C44kREBLiq0heKOE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9f018af815041cfb2ffae99a47c53a3a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:29.547998",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

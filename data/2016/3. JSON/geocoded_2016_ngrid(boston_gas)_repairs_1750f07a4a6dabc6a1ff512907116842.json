@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1750f07a4a6dabc6a1ff512907116842.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Felton Street",
+                    "short_name": "Felton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Banks Square",
+                    "short_name": "Banks Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Felton St, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3740393,
+                        "lng": -71.2387753
+                    },
+                    "southwest": {
+                        "lat": 42.3735782,
+                        "lng": -71.2394453
+                    }
+                },
+                "location": {
+                    "lat": 42.3738088,
+                    "lng": -71.2391103
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3751577302915,
+                        "lng": -71.2377613197085
+                    },
+                    "southwest": {
+                        "lat": 42.3724597697085,
+                        "lng": -71.24045928029152
+                    }
+                }
+            },
+            "place_id": "ChIJzzRZ99eC44kR_au-IIJG7y4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1750f07a4a6dabc6a1ff512907116842",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:57.952456",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

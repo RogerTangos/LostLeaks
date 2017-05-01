@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_516461afcba61ce83458e1a74ad7c09a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beacon Street",
+                    "short_name": "Beacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Beacon St, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3316439,
+                        "lng": -71.15830749999999
+                    },
+                    "southwest": {
+                        "lat": 42.3314115,
+                        "lng": -71.15863519999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3315277,
+                    "lng": -71.1584714
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3328766802915,
+                        "lng": -71.15712236970849
+                    },
+                    "southwest": {
+                        "lat": 42.3301787197085,
+                        "lng": -71.1598203302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ0ZrIdVh444kRsuON8n5VKa4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "516461afcba61ce83458e1a74ad7c09a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:09.982898",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

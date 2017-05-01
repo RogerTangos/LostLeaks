@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c65aae0ced13b267225340e130108afd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "105",
+                    "short_name": "105",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Auburn Street",
+                    "short_name": "Auburn St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "105 Auburn St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.34482910000001,
+                        "lng": -71.2391781
+                    },
+                    "southwest": {
+                        "lat": 42.3446704,
+                        "lng": -71.23932839999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3447498,
+                    "lng": -71.2392533
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3460987302915,
+                        "lng": -71.23790426970848
+                    },
+                    "southwest": {
+                        "lat": 42.3434007697085,
+                        "lng": -71.2406022302915
+                    }
+                }
+            },
+            "place_id": "ChIJ2f61UFWC44kR9Es6-gmugCQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c65aae0ced13b267225340e130108afd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:30.615874",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

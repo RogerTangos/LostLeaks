@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c8ece73b70c2d64b681ea42d544830d3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "300",
+                    "short_name": "300",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commercial Street",
+                    "short_name": "Commercial Street",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North End",
+                    "short_name": "North End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02113",
+                    "short_name": "02113",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "300 Commercial Street, Boston, MA 02113, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3652789,
+                        "lng": -71.0512127
+                    },
+                    "southwest": {
+                        "lat": 42.3648852,
+                        "lng": -71.0517124
+                    }
+                },
+                "location": {
+                    "lat": 42.365082,
+                    "lng": -71.0514625
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3664310302915,
+                        "lng": -71.0501135697085
+                    },
+                    "southwest": {
+                        "lat": 42.3637330697085,
+                        "lng": -71.0528115302915
+                    }
+                }
+            },
+            "place_id": "ChIJ73Gfi4lw44kRK4rn33qlpak",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c8ece73b70c2d64b681ea42d544830d3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:40.008129",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

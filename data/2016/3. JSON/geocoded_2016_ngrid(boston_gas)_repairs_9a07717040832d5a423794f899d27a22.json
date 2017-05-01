@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9a07717040832d5a423794f899d27a22.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "58",
+                    "short_name": "58",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Prospect Avenue",
+                    "short_name": "Prospect Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "58 Prospect Ave, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3680516,
+                        "lng": -70.96868409999999
+                    },
+                    "southwest": {
+                        "lat": 42.3680379,
+                        "lng": -70.9686864
+                    }
+                },
+                "location": {
+                    "lat": 42.3680516,
+                    "lng": -70.96868409999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36939373029149,
+                        "lng": -70.9673362697085
+                    },
+                    "southwest": {
+                        "lat": 42.3666957697085,
+                        "lng": -70.9700342302915
+                    }
+                }
+            },
+            "place_id": "Eig1OCBQcm9zcGVjdCBBdmUsIFdpbnRocm9wLCBNQSAwMjE1MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9a07717040832d5a423794f899d27a22",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:09.262473",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

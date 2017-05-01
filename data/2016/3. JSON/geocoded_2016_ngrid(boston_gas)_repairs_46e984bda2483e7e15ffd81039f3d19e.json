@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_46e984bda2483e7e15ffd81039f3d19e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Marginal Street",
+                    "short_name": "Marginal St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central-Maverick Square / Paris Street",
+                    "short_name": "Central-Maverick Square / Paris Street",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Marginal St & Lewis St, Boston, MA 02128, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.36747769999999,
+                    "lng": -71.04084209999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36882668029149,
+                        "lng": -71.03949311970848
+                    },
+                    "southwest": {
+                        "lat": 42.36612871970849,
+                        "lng": -71.0421910802915
+                    }
+                }
+            },
+            "place_id": "Ei1NYXJnaW5hbCBTdCAmIExld2lzIFN0LCBCb3N0b24sIE1BIDAyMTI4LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "46e984bda2483e7e15ffd81039f3d19e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:34.959411",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

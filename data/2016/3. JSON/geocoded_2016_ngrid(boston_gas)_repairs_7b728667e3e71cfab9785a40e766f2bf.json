@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7b728667e3e71cfab9785a40e766f2bf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "606",
+                    "short_name": "606",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Watertown Street",
+                    "short_name": "Watertown St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newtonville",
+                    "short_name": "Newtonville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1316",
+                    "short_name": "1316",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "606 Watertown St, Newtonville, MA 02460, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3555107,
+                    "lng": -71.2096621
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35685968029149,
+                        "lng": -71.2083131197085
+                    },
+                    "southwest": {
+                        "lat": 42.3541617197085,
+                        "lng": -71.21101108029151
+                    }
+                }
+            },
+            "place_id": "ChIJ39yBmJaC44kRHqSnTsvNW2I",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7b728667e3e71cfab9785a40e766f2bf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:33.502256",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

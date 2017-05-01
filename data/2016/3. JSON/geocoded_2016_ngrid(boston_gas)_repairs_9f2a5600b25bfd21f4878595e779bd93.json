@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9f2a5600b25bfd21f4878595e779bd93.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "57",
+                    "short_name": "57",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "L Street",
+                    "short_name": "L St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "57 L St, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2980395,
+                        "lng": -70.8816277
+                    },
+                    "southwest": {
+                        "lat": 42.2980262,
+                        "lng": -70.8816329
+                    }
+                },
+                "location": {
+                    "lat": 42.2980395,
+                    "lng": -70.8816329
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2993818302915,
+                        "lng": -70.88028131970849
+                    },
+                    "southwest": {
+                        "lat": 42.2966838697085,
+                        "lng": -70.8829792802915
+                    }
+                }
+            },
+            "place_id": "Ehw1NyBMIFN0LCBIdWxsLCBNQSAwMjA0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9f2a5600b25bfd21f4878595e779bd93",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:02.852809",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

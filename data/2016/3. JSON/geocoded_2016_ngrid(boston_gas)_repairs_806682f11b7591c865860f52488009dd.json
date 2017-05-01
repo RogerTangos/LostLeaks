@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_806682f11b7591c865860f52488009dd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "319",
+                    "short_name": "319",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth Street",
+                    "short_name": "Plymouth St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1839",
+                    "short_name": "1839",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "319 Plymouth St, Abington, MA 02351, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1201801,
+                    "lng": -70.93750059999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1215290802915,
+                        "lng": -70.93615161970848
+                    },
+                    "southwest": {
+                        "lat": 42.1188311197085,
+                        "lng": -70.93884958029149
+                    }
+                }
+            },
+            "place_id": "ChIJg2LChGmc5IkRsFWmVETQqlU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "806682f11b7591c865860f52488009dd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:53.977207",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

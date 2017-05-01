@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_80f28994335fb7e91d14d4639a6e6652.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Evans Road",
+                    "short_name": "Evans Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2446",
+                    "short_name": "2446",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Evans Rd, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.504509,
+                        "lng": -70.8577672
+                    },
+                    "southwest": {
+                        "lat": 42.5044322,
+                        "lng": -70.85787700000002
+                    }
+                },
+                "location": {
+                    "lat": 42.5044706,
+                    "lng": -70.85782209999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5058195802915,
+                        "lng": -70.8564731197085
+                    },
+                    "southwest": {
+                        "lat": 42.5031216197085,
+                        "lng": -70.85917108029152
+                    }
+                }
+            },
+            "place_id": "ChIJC4wNuQEV44kRB7bUMZaxAqQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "80f28994335fb7e91d14d4639a6e6652",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:11.629918",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

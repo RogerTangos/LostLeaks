@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_413ece9ae71f2226626bc8923d64d29c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Avenue",
+                    "short_name": "Park Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1418",
+                    "short_name": "1418",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Park Ave, Whitman, MA 02382, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.082668,
+                        "lng": -70.9377715
+                    },
+                    "southwest": {
+                        "lat": 42.0826557,
+                        "lng": -70.93778019999999
+                    }
+                },
+                "location": {
+                    "lat": 42.0826557,
+                    "lng": -70.9377715
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0840108302915,
+                        "lng": -70.9364268697085
+                    },
+                    "southwest": {
+                        "lat": 42.0813128697085,
+                        "lng": -70.9391248302915
+                    }
+                }
+            },
+            "place_id": "EiMxNyBQYXJrIEF2ZSwgV2hpdG1hbiwgTUEgMDIzODIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "413ece9ae71f2226626bc8923d64d29c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:14.183882",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

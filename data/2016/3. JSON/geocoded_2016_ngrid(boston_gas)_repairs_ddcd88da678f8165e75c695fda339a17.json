@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ddcd88da678f8165e75c695fda339a17.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cedar Street",
+                    "short_name": "Cedar St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3725",
+                    "short_name": "3725",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Cedar St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5548313,
+                        "lng": -70.8706555
+                    },
+                    "southwest": {
+                        "lat": 42.5546912,
+                        "lng": -70.8708206
+                    }
+                },
+                "location": {
+                    "lat": 42.5547613,
+                    "lng": -70.870738
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5561102302915,
+                        "lng": -70.8693890697085
+                    },
+                    "southwest": {
+                        "lat": 42.5534122697085,
+                        "lng": -70.87208703029151
+                    }
+                }
+            },
+            "place_id": "ChIJ-8D914QW44kRysK6WaXI49E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ddcd88da678f8165e75c695fda339a17",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:36.288833",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

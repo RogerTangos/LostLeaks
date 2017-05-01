@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bf21204d26e00bc02e562554de8c2b3a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "737",
+                    "short_name": "737",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lexington Road",
+                    "short_name": "Lexington Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "737 Lexington Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4588439,
+                    "lng": -71.3228309
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46019288029149,
+                        "lng": -71.3214819197085
+                    },
+                    "southwest": {
+                        "lat": 42.45749491970849,
+                        "lng": -71.32417988029151
+                    }
+                }
+            },
+            "place_id": "ChIJVybyAMab44kRnzvIqR4gV-Y",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bf21204d26e00bc02e562554de8c2b3a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:38.261582",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

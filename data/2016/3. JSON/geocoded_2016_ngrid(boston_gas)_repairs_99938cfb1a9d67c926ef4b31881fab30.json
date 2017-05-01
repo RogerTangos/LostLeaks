@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_99938cfb1a9d67c926ef4b31881fab30.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "McCusker Drive",
+                    "short_name": "McCusker Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "22 McCusker Dr, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2196804,
+                        "lng": -70.9824386
+                    },
+                    "southwest": {
+                        "lat": 42.219672,
+                        "lng": -70.98245349999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2196804,
+                    "lng": -70.9824386
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.22102518029149,
+                        "lng": -70.98109706970848
+                    },
+                    "southwest": {
+                        "lat": 42.21832721970849,
+                        "lng": -70.98379503029149
+                    }
+                }
+            },
+            "place_id": "EigyMiBNY0N1c2tlciBEciwgQnJhaW50cmVlLCBNQSAwMjE4NCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "99938cfb1a9d67c926ef4b31881fab30",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:46.363706",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

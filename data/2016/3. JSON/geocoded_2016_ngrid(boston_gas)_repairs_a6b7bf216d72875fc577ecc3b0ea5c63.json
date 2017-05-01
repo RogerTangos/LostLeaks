@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a6b7bf216d72875fc577ecc3b0ea5c63.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "308",
+                    "short_name": "308",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lexington Street",
+                    "short_name": "Lexington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "308 Lexington St, Watertown, MA 02472, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3791274,
+                    "lng": -71.1911039
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3804763802915,
+                        "lng": -71.18975491970849
+                    },
+                    "southwest": {
+                        "lat": 42.37777841970851,
+                        "lng": -71.19245288029151
+                    }
+                }
+            },
+            "place_id": "ChIJaWKDDf5344kRP8wSBC4jKsA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a6b7bf216d72875fc577ecc3b0ea5c63",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:43.245068",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

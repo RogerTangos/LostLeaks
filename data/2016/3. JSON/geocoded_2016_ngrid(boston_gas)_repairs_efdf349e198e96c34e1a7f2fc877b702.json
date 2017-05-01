@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_efdf349e198e96c34e1a7f2fc877b702.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "213",
+                    "short_name": "213",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Old Sudbury Road",
+                    "short_name": "Old Sudbury Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1842",
+                    "short_name": "1842",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "213 Old Sudbury Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3789344,
+                        "lng": -71.4057107
+                    },
+                    "southwest": {
+                        "lat": 42.3789224,
+                        "lng": -71.4057201
+                    }
+                },
+                "location": {
+                    "lat": 42.3789224,
+                    "lng": -71.4057201
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3802773802915,
+                        "lng": -71.4043664197085
+                    },
+                    "southwest": {
+                        "lat": 42.3775794197085,
+                        "lng": -71.40706438029152
+                    }
+                }
+            },
+            "place_id": "EioyMTMgT2xkIFN1ZGJ1cnkgUmQsIFN1ZGJ1cnksIE1BIDAxNzc2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "efdf349e198e96c34e1a7f2fc877b702",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:38.450477",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

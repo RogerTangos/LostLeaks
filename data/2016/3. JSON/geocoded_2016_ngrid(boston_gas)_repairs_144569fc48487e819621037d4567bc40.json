@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_144569fc48487e819621037d4567bc40.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Chestnut Avenue",
+                    "short_name": "Chestnut Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Chestnut Ave & Wyman St, Boston, MA 02130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3196624,
+                    "lng": -71.1045978
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32101138029149,
+                        "lng": -71.1032488197085
+                    },
+                    "southwest": {
+                        "lat": 42.3183134197085,
+                        "lng": -71.1059467802915
+                    }
+                }
+            },
+            "place_id": "Ei5DaGVzdG51dCBBdmUgJiBXeW1hbiBTdCwgQm9zdG9uLCBNQSAwMjEzMCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "144569fc48487e819621037d4567bc40",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:21.421699",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

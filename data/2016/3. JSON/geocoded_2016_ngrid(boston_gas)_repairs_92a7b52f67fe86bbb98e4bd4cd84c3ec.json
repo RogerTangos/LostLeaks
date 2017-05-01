@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_92a7b52f67fe86bbb98e4bd4cd84c3ec.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "86",
+                    "short_name": "86",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Copeland Street",
+                    "short_name": "Copeland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6423",
+                    "short_name": "6423",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "86 Copeland St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2426744,
+                        "lng": -71.0192677
+                    },
+                    "southwest": {
+                        "lat": 42.24254759999999,
+                        "lng": -71.0193784
+                    }
+                },
+                "location": {
+                    "lat": 42.242611,
+                    "lng": -71.0193231
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2439599802915,
+                        "lng": -71.0179740697085
+                    },
+                    "southwest": {
+                        "lat": 42.2412620197085,
+                        "lng": -71.02067203029151
+                    }
+                }
+            },
+            "place_id": "ChIJmWJ1msR844kR0Fv7juPDIRE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "92a7b52f67fe86bbb98e4bd4cd84c3ec",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:25.482268",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

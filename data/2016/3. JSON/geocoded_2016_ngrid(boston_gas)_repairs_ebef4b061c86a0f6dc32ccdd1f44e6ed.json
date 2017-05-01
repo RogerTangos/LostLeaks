@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ebef4b061c86a0f6dc32ccdd1f44e6ed.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "81",
+                    "short_name": "81",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Porter Road",
+                    "short_name": "Porter Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North Waltham",
+                    "short_name": "North Waltham",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02452",
+                    "short_name": "02452",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6495",
+                    "short_name": "6495",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "81 Porter Rd, Waltham, MA 02452, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3959986,
+                        "lng": -71.2045868
+                    },
+                    "southwest": {
+                        "lat": 42.3958757,
+                        "lng": -71.204729
+                    }
+                },
+                "location": {
+                    "lat": 42.3959371,
+                    "lng": -71.2046579
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3972861302915,
+                        "lng": -71.20330891970849
+                    },
+                    "southwest": {
+                        "lat": 42.3945881697085,
+                        "lng": -71.2060068802915
+                    }
+                }
+            },
+            "place_id": "ChIJf5usrkKd44kRJmUOkvX00bo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ebef4b061c86a0f6dc32ccdd1f44e6ed",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:11.896473",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

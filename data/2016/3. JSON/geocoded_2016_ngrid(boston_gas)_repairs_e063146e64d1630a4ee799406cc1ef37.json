@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e063146e64d1630a4ee799406cc1ef37.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "245",
+                    "short_name": "245",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Manthorne Road",
+                    "short_name": "Manthorne Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Roxbury",
+                    "short_name": "West Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02132",
+                    "short_name": "02132",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "245 Manthorne Rd, Boston, MA 02132, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2949781,
+                        "lng": -71.15635619999999
+                    },
+                    "southwest": {
+                        "lat": 42.2949697,
+                        "lng": -71.1563711
+                    }
+                },
+                "location": {
+                    "lat": 42.2949781,
+                    "lng": -71.15635619999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29632288029151,
+                        "lng": -71.15501466970849
+                    },
+                    "southwest": {
+                        "lat": 42.29362491970851,
+                        "lng": -71.1577126302915
+                    }
+                }
+            },
+            "place_id": "EicyNDUgTWFudGhvcm5lIFJkLCBCb3N0b24sIE1BIDAyMTMyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e063146e64d1630a4ee799406cc1ef37",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:21.629920",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b157c9a77f9947e616699e0e79f90f55.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "176",
+                    "short_name": "176",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "176 High St, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3258012,
+                    "lng": -71.12025220000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3271501802915,
+                        "lng": -71.11890321970851
+                    },
+                    "southwest": {
+                        "lat": 42.3244522197085,
+                        "lng": -71.12160118029152
+                    }
+                }
+            },
+            "place_id": "ChIJ1fzn7Z9544kRqTj9SssV4m0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b157c9a77f9947e616699e0e79f90f55",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:23.729589",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cbfa2950d9e5cd1a619d12c98df554b8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "72",
+                    "short_name": "72",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Prospect Avenue",
+                    "short_name": "Prospect Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2706",
+                    "short_name": "2706",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "72 Prospect Ave, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1975718,
+                        "lng": -71.2068925
+                    },
+                    "southwest": {
+                        "lat": 42.19743,
+                        "lng": -71.2070845
+                    }
+                },
+                "location": {
+                    "lat": 42.1975009,
+                    "lng": -71.2069885
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1988498802915,
+                        "lng": -71.2056395197085
+                    },
+                    "southwest": {
+                        "lat": 42.19615191970851,
+                        "lng": -71.2083374802915
+                    }
+                }
+            },
+            "place_id": "ChIJI9odd8V_5IkRecToN_5hxU0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cbfa2950d9e5cd1a619d12c98df554b8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:33.298356",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

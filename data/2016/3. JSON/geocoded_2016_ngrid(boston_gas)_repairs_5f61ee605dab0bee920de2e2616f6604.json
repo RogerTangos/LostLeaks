@@ -1,0 +1,117 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5f61ee605dab0bee920de2e2616f6604.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "66",
+                    "short_name": "66",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Floyd Street",
+                    "short_name": "Floyd St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Center",
+                    "short_name": "Dorchester Center",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2915",
+                    "short_name": "2915",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "66 Floyd St, Dorchester Center, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2889662,
+                        "lng": -71.0869475
+                    },
+                    "southwest": {
+                        "lat": 42.288776,
+                        "lng": -71.0871892
+                    }
+                },
+                "location": {
+                    "lat": 42.2888711,
+                    "lng": -71.0870683
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2902200802915,
+                        "lng": -71.08571936970849
+                    },
+                    "southwest": {
+                        "lat": 42.28752211970851,
+                        "lng": -71.0884173302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ31ac8vp744kRjzKtmnPb2cc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5f61ee605dab0bee920de2e2616f6604",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:01.289064",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

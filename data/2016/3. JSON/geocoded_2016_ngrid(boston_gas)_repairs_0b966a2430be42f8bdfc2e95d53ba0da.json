@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0b966a2430be42f8bdfc2e95d53ba0da.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Preston Street",
+                    "short_name": "Preston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1711",
+                    "short_name": "1711",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Preston St, Everett, MA 02149, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.42218,
+                    "lng": -71.04895429999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42352898029149,
+                        "lng": -71.04760531970848
+                    },
+                    "southwest": {
+                        "lat": 42.42083101970849,
+                        "lng": -71.05030328029149
+                    }
+                }
+            },
+            "place_id": "ChIJJXlq94Fx44kRdjkmctHH5Vw",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0b966a2430be42f8bdfc2e95d53ba0da",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:53.029577",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

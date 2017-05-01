@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_66d965448f8bd645620bb069538ff270.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cary Avenue",
+                    "short_name": "Cary Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2525",
+                    "short_name": "2525",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Cary Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3971566,
+                        "lng": -71.0291994
+                    },
+                    "southwest": {
+                        "lat": 42.396982,
+                        "lng": -71.02945489999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3970693,
+                    "lng": -71.0293272
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3984182802915,
+                        "lng": -71.02797816970849
+                    },
+                    "southwest": {
+                        "lat": 42.3957203197085,
+                        "lng": -71.0306761302915
+                    }
+                }
+            },
+            "place_id": "ChIJmzXJq7lx44kROuxA6gPCgmc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "66d965448f8bd645620bb069538ff270",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:33.129122",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

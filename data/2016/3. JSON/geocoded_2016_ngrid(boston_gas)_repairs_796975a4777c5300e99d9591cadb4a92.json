@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_796975a4777c5300e99d9591cadb4a92.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "373",
+                    "short_name": "373",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Avenue",
+                    "short_name": "North Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1502",
+                    "short_name": "1502",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "373 North Ave, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.806033,
+                        "lng": -71.0852491
+                    },
+                    "southwest": {
+                        "lat": 42.8060273,
+                        "lng": -71.0852661
+                    }
+                },
+                "location": {
+                    "lat": 42.806033,
+                    "lng": -71.0852491
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.80737913029149,
+                        "lng": -71.08390861970848
+                    },
+                    "southwest": {
+                        "lat": 42.80468116970849,
+                        "lng": -71.0866065802915
+                    }
+                }
+            },
+            "place_id": "EiczNzMgTm9ydGggQXZlLCBIYXZlcmhpbGwsIE1BIDAxODMwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "796975a4777c5300e99d9591cadb4a92",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:40.942451",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

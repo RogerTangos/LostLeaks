@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_318808d835a1cb8fea0561ac28339a2f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "347",
+                    "short_name": "347",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commercial Street",
+                    "short_name": "Commercial St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "347 Commercial St, Whitman, MA 02382, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.08158419999999,
+                        "lng": -70.9254819
+                    },
+                    "southwest": {
+                        "lat": 42.0815768,
+                        "lng": -70.9254978
+                    }
+                },
+                "location": {
+                    "lat": 42.0815768,
+                    "lng": -70.9254819
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0829294802915,
+                        "lng": -70.9241408697085
+                    },
+                    "southwest": {
+                        "lat": 42.0802315197085,
+                        "lng": -70.9268388302915
+                    }
+                }
+            },
+            "place_id": "EikzNDcgQ29tbWVyY2lhbCBTdCwgV2hpdG1hbiwgTUEgMDIzODIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "318808d835a1cb8fea0561ac28339a2f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:16.189723",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

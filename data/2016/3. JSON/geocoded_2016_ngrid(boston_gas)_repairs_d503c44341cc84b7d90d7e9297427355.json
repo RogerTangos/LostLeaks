@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d503c44341cc84b7d90d7e9297427355.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Railroad Avenue",
+                    "short_name": "Railroad Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salisbury",
+                    "short_name": "Salisbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01952",
+                    "short_name": "01952",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Railroad Ave, Salisbury, MA 01952, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.840123,
+                    "lng": -70.81783899999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.84147198029149,
+                        "lng": -70.81649001970848
+                    },
+                    "southwest": {
+                        "lat": 42.8387740197085,
+                        "lng": -70.81918798029149
+                    }
+                }
+            },
+            "place_id": "ChIJA7HdVavg4okRRQ696CvGczA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d503c44341cc84b7d90d7e9297427355",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:40.186556",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}
