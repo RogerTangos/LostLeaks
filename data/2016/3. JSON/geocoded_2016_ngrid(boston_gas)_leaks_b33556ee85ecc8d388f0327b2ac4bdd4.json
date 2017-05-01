@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_b33556ee85ecc8d388f0327b2ac4bdd4.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "100",
+                    "short_name": "100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Locust Street",
+                    "short_name": "Locust St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2204",
+                    "short_name": "2204",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "100 Locust St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5759148,
+                        "lng": -70.9371795
+                    },
+                    "southwest": {
+                        "lat": 42.5759133,
+                        "lng": -70.9371982
+                    }
+                },
+                "location": {
+                    "lat": 42.5759133,
+                    "lng": -70.9371982
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5772630302915,
+                        "lng": -70.93583986970849
+                    },
+                    "southwest": {
+                        "lat": 42.5745650697085,
+                        "lng": -70.93853783029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiUxMDAgTG9jdXN0IFN0LCBEYW52ZXJzLCBNQSAwMTkyMywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b33556ee85ecc8d388f0327b2ac4bdd4",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:28:25.956887",
+    "utility": "ngrid",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_668622d0d0d99c915145fff96ba5d567.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "106",
+                    "short_name": "106",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cummings Park Drive",
+                    "short_name": "Cummings Park Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Woburn",
+                    "short_name": "Woburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01801",
+                    "short_name": "01801",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "106 Cummings Park Dr, Woburn, MA 01801, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.49923649999999,
+                        "lng": -71.1251379
+                    },
+                    "southwest": {
+                        "lat": 42.4992229,
+                        "lng": -71.1251407
+                    }
+                },
+                "location": {
+                    "lat": 42.49923649999999,
+                    "lng": -71.1251407
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50057868029149,
+                        "lng": -71.1237903197085
+                    },
+                    "southwest": {
+                        "lat": 42.49788071970849,
+                        "lng": -71.12648828029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EisxMDYgQ3VtbWluZ3MgUGFyayBEciwgV29idXJuLCBNQSAwMTgwMSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "668622d0d0d99c915145fff96ba5d567",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:28:47.150589",
+    "utility": "ngrid",
+    "year": 2016
+}

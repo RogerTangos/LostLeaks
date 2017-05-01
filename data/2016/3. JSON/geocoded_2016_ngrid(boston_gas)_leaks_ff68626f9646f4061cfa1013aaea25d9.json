@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_ff68626f9646f4061cfa1013aaea25d9.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3001",
+                    "short_name": "3001",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Village Road West",
+                    "short_name": "Village Rd W",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "3001 Village Rd W, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1746445,
+                        "lng": -71.2205999
+                    },
+                    "southwest": {
+                        "lat": 42.1746316,
+                        "lng": -71.220607
+                    }
+                },
+                "location": {
+                    "lat": 42.1746445,
+                    "lng": -71.2205999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1759870302915,
+                        "lng": -71.2192544697085
+                    },
+                    "southwest": {
+                        "lat": 42.1732890697085,
+                        "lng": -71.22195243029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EikzMDAxIFZpbGxhZ2UgUmQgVywgTm9yd29vZCwgTUEgMDIwNjIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ff68626f9646f4061cfa1013aaea25d9",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:37:14.690999",
+    "utility": "ngrid",
+    "year": 2016
+}

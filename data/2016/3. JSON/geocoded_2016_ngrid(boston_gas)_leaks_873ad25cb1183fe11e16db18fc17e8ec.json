@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_873ad25cb1183fe11e16db18fc17e8ec.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Forest Street",
+                    "short_name": "Forest St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02481",
+                    "short_name": "02481",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Forest St, Wellesley, MA 02481, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3078993,
+                        "lng": -71.27842869999999
+                    },
+                    "southwest": {
+                        "lat": 42.3078964,
+                        "lng": -71.278447
+                    }
+                },
+                "location": {
+                    "lat": 42.3078964,
+                    "lng": -71.278447
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3092468302915,
+                        "lng": -71.27708886970849
+                    },
+                    "southwest": {
+                        "lat": 42.3065488697085,
+                        "lng": -71.27978683029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiUxIEZvcmVzdCBTdCwgV2VsbGVzbGV5LCBNQSAwMjQ4MSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "873ad25cb1183fe11e16db18fc17e8ec",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:28:00.277869",
+    "utility": "ngrid",
+    "year": 2016
+}
