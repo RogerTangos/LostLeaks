@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dbab8b13653dd8e4ba2c2c7844f2380b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32",
+                    "short_name": "32",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Thorndike Street",
+                    "short_name": "Thorndike St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5837",
+                    "short_name": "5837",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "32 Thorndike St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5458258,
+                        "lng": -70.87555429999999
+                    },
+                    "southwest": {
+                        "lat": 42.5456656,
+                        "lng": -70.8757619
+                    }
+                },
+                "location": {
+                    "lat": 42.5457457,
+                    "lng": -70.8756581
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.54709468029149,
+                        "lng": -70.87430911970849
+                    },
+                    "southwest": {
+                        "lat": 42.5443967197085,
+                        "lng": -70.8770070802915
+                    }
+                }
+            },
+            "place_id": "ChIJ0Tbw5iYU44kRrANYczIZn5s",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dbab8b13653dd8e4ba2c2c7844f2380b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:57.920169",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

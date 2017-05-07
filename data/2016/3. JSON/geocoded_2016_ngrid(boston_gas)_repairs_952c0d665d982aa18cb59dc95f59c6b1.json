@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_952c0d665d982aa18cb59dc95f59c6b1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Dustin Street",
+                    "short_name": "Dustin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oak Square",
+                    "short_name": "Oak Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02135",
+                    "short_name": "02135",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Dustin St & Cushman Rd, Boston, MA 02135, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3533391,
+                    "lng": -71.1450594
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3546880802915,
+                        "lng": -71.1437104197085
+                    },
+                    "southwest": {
+                        "lat": 42.3519901197085,
+                        "lng": -71.1464083802915
+                    }
+                }
+            },
+            "place_id": "Ei1EdXN0aW4gU3QgJiBDdXNobWFuIFJkLCBCb3N0b24sIE1BIDAyMTM1LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "952c0d665d982aa18cb59dc95f59c6b1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:25.227433",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

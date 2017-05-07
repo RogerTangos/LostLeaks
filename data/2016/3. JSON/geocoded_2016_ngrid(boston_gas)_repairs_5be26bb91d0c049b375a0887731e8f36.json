@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5be26bb91d0c049b375a0887731e8f36.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beechwood Road",
+                    "short_name": "Beechwood Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3710",
+                    "short_name": "3710",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Beechwood Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2262416,
+                        "lng": -70.96888899999999
+                    },
+                    "southwest": {
+                        "lat": 42.2261578,
+                        "lng": -70.9690538
+                    }
+                },
+                "location": {
+                    "lat": 42.2261997,
+                    "lng": -70.9689714
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2275486802915,
+                        "lng": -70.9676224197085
+                    },
+                    "southwest": {
+                        "lat": 42.2248507197085,
+                        "lng": -70.97032038029151
+                    }
+                }
+            },
+            "place_id": "ChIJ-9cw8hxj44kRjs8dNL23bko",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5be26bb91d0c049b375a0887731e8f36",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:22.514122",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

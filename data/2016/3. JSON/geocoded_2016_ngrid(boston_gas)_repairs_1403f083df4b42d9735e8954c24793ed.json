@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1403f083df4b42d9735e8954c24793ed.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "203",
+                    "short_name": "203",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mount Vernon Street",
+                    "short_name": "Mt Vernon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "203 Mt Vernon St, West Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.34850950000001,
+                        "lng": -71.21836189999999
+                    },
+                    "southwest": {
+                        "lat": 42.3482269,
+                        "lng": -71.21863689999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3483682,
+                    "lng": -71.2184994
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34971718029151,
+                        "lng": -71.21715041970847
+                    },
+                    "southwest": {
+                        "lat": 42.34701921970851,
+                        "lng": -71.21984838029148
+                    }
+                }
+            },
+            "place_id": "ChIJ6Y2OBPOC44kRUVFBFQwHZkg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1403f083df4b42d9735e8954c24793ed",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:22.616474",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

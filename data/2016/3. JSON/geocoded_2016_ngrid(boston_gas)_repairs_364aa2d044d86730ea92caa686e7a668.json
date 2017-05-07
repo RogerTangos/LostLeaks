@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_364aa2d044d86730ea92caa686e7a668.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "231",
+                    "short_name": "231",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "231 Broadway, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3903399,
+                        "lng": -71.0893482
+                    },
+                    "southwest": {
+                        "lat": 42.3903284,
+                        "lng": -71.0893589
+                    }
+                },
+                "location": {
+                    "lat": 42.3903399,
+                    "lng": -71.0893482
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3916831302915,
+                        "lng": -71.0880045697085
+                    },
+                    "southwest": {
+                        "lat": 42.3889851697085,
+                        "lng": -71.09070253029151
+                    }
+                }
+            },
+            "place_id": "EicyMzEgQnJvYWR3YXksIFNvbWVydmlsbGUsIE1BIDAyMTQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "364aa2d044d86730ea92caa686e7a668",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:05.486556",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

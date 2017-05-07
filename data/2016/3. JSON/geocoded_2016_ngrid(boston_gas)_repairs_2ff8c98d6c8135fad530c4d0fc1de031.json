@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2ff8c98d6c8135fad530c4d0fc1de031.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hemlock Street",
+                    "short_name": "Hemlock St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2107",
+                    "short_name": "2107",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Hemlock St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4237349,
+                        "lng": -71.1646505
+                    },
+                    "southwest": {
+                        "lat": 42.42373449999999,
+                        "lng": -71.1646693
+                    }
+                },
+                "location": {
+                    "lat": 42.42373449999999,
+                    "lng": -71.1646505
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4250836802915,
+                        "lng": -71.1633109197085
+                    },
+                    "southwest": {
+                        "lat": 42.4223857197085,
+                        "lng": -71.1660088802915
+                    }
+                }
+            },
+            "place_id": "EicxNyBIZW1sb2NrIFN0LCBBcmxpbmd0b24sIE1BIDAyNDc0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2ff8c98d6c8135fad530c4d0fc1de031",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:12.490042",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

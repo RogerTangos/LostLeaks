@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c5ac7cf55d964033e9ad28131e866738.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "399",
+                    "short_name": "399",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crescent Street",
+                    "short_name": "Crescent St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Side",
+                    "short_name": "South Side",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "399 Crescent St, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.361889,
+                        "lng": -71.2402674
+                    },
+                    "southwest": {
+                        "lat": 42.36187520000001,
+                        "lng": -71.24026839999999
+                    }
+                },
+                "location": {
+                    "lat": 42.36187520000001,
+                    "lng": -71.24026839999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36323108029151,
+                        "lng": -71.23891891970848
+                    },
+                    "southwest": {
+                        "lat": 42.36053311970851,
+                        "lng": -71.24161688029149
+                    }
+                }
+            },
+            "place_id": "EiczOTkgQ3Jlc2NlbnQgU3QsIFdhbHRoYW0sIE1BIDAyNDUzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c5ac7cf55d964033e9ad28131e866738",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:58.072392",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

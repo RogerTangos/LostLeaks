@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d7d090c2d304aeb15ffdf3fcbedd6177.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Trident Avenue",
+                    "short_name": "Trident Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Trident Ave, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.37840310000001,
+                        "lng": -70.9744399
+                    },
+                    "southwest": {
+                        "lat": 42.3783895,
+                        "lng": -70.9744432
+                    }
+                },
+                "location": {
+                    "lat": 42.3783895,
+                    "lng": -70.9744399
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3797452802915,
+                        "lng": -70.97309256970848
+                    },
+                    "southwest": {
+                        "lat": 42.3770473197085,
+                        "lng": -70.97579053029149
+                    }
+                }
+            },
+            "place_id": "EiY5IFRyaWRlbnQgQXZlLCBXaW50aHJvcCwgTUEgMDIxNTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d7d090c2d304aeb15ffdf3fcbedd6177",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:42.898132",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

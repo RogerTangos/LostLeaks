@@ -1,0 +1,117 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5aed2f9fb79e09dfba7497aade2db296.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "571",
+                    "short_name": "571",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Street",
+                    "short_name": "Park St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Center",
+                    "short_name": "Dorchester Center",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1938",
+                    "short_name": "1938",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "571 Park St, Dorchester Center, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.29502,
+                        "lng": -71.0761413
+                    },
+                    "southwest": {
+                        "lat": 42.2948594,
+                        "lng": -71.0763035
+                    }
+                },
+                "location": {
+                    "lat": 42.2949397,
+                    "lng": -71.07622239999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2962886802915,
+                        "lng": -71.0748734197085
+                    },
+                    "southwest": {
+                        "lat": 42.2935907197085,
+                        "lng": -71.0775713802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJByOcC-t744kRKEM5RO1g_cY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5aed2f9fb79e09dfba7497aade2db296",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:05.172290",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

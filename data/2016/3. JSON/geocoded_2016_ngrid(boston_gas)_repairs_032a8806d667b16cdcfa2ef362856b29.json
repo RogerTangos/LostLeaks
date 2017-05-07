@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_032a8806d667b16cdcfa2ef362856b29.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stanton Road",
+                    "short_name": "Stanton Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2014",
+                    "short_name": "2014",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Stanton Rd, Cohasset, MA 02025, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2286424,
+                        "lng": -70.7926988
+                    },
+                    "southwest": {
+                        "lat": 42.2286295,
+                        "lng": -70.7927059
+                    }
+                },
+                "location": {
+                    "lat": 42.2286295,
+                    "lng": -70.7926988
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.22998493029149,
+                        "lng": -70.79135336970849
+                    },
+                    "southwest": {
+                        "lat": 42.22728696970849,
+                        "lng": -70.79405133029151
+                    }
+                }
+            },
+            "place_id": "EiUzIFN0YW50b24gUmQsIENvaGFzc2V0LCBNQSAwMjAyNSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "032a8806d667b16cdcfa2ef362856b29",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:29.231548",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

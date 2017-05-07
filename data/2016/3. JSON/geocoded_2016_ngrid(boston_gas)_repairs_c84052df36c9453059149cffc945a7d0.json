@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c84052df36c9453059149cffc945a7d0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pinewold Avenue",
+                    "short_name": "Pinewold Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3648",
+                    "short_name": "3648",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Pinewold Ave, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5026532,
+                        "lng": -71.2118473
+                    },
+                    "southwest": {
+                        "lat": 42.5025371,
+                        "lng": -71.2119931
+                    }
+                },
+                "location": {
+                    "lat": 42.5025952,
+                    "lng": -71.2119202
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5039441302915,
+                        "lng": -71.2105712197085
+                    },
+                    "southwest": {
+                        "lat": 42.5012461697085,
+                        "lng": -71.2132691802915
+                    }
+                }
+            },
+            "place_id": "ChIJTVj3PMaf44kRcwy4UVDogkU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c84052df36c9453059149cffc945a7d0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:04.983412",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

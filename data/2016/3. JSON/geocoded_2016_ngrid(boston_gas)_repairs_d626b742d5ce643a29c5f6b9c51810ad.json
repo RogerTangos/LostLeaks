@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d626b742d5ce643a29c5f6b9c51810ad.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1083",
+                    "short_name": "1083",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brighton",
+                    "short_name": "Brighton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02215",
+                    "short_name": "02215",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1002",
+                    "short_name": "1002",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1083 Commonwealth Avenue, Boston, MA 02215, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3522186,
+                        "lng": -71.1244002
+                    },
+                    "southwest": {
+                        "lat": 42.3522048,
+                        "lng": -71.12440269999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3522186,
+                    "lng": -71.12440269999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3535606802915,
+                        "lng": -71.12305246970848
+                    },
+                    "southwest": {
+                        "lat": 42.3508627197085,
+                        "lng": -71.1257504302915
+                    }
+                }
+            },
+            "place_id": "Ei8xMDgzIENvbW1vbndlYWx0aCBBdmVudWUsIEJvc3RvbiwgTUEgMDIyMTUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d626b742d5ce643a29c5f6b9c51810ad",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:37.387448",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9a4ed451dd6dc9a58ed93c77bd8b4e09.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "245",
+                    "short_name": "245",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Forest Street",
+                    "short_name": "Forest St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Needham",
+                    "short_name": "Needham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02492",
+                    "short_name": "02492",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "245 Forest St, Needham, MA 02492, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2926879,
+                        "lng": -71.2521093
+                    },
+                    "southwest": {
+                        "lat": 42.2926741,
+                        "lng": -71.2521119
+                    }
+                },
+                "location": {
+                    "lat": 42.2926741,
+                    "lng": -71.2521119
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2940299802915,
+                        "lng": -71.2507616197085
+                    },
+                    "southwest": {
+                        "lat": 42.2913320197085,
+                        "lng": -71.2534595802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiUyNDUgRm9yZXN0IFN0LCBOZWVkaGFtLCBNQSAwMjQ5MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9a4ed451dd6dc9a58ed93c77bd8b4e09",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:21.295093",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

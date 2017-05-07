@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6b38fa3686c65f05fadb6c545d844eb1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Fenno Street",
+                    "short_name": "Fenno St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Fenno St & Thornton St, Quincy, MA 02170, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2682334,
+                    "lng": -71.0075702
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2695823802915,
+                        "lng": -71.0062212197085
+                    },
+                    "southwest": {
+                        "lat": 42.2668844197085,
+                        "lng": -71.00891918029151
+                    }
+                }
+            },
+            "place_id": "Ei1GZW5ubyBTdCAmIFRob3JudG9uIFN0LCBRdWluY3ksIE1BIDAyMTcwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "6b38fa3686c65f05fadb6c545d844eb1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:54.037677",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

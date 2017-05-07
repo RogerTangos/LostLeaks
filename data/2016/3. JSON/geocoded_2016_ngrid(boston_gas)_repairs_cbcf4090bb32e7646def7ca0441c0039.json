@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cbcf4090bb32e7646def7ca0441c0039.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Malta Street",
+                    "short_name": "Malta St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2515",
+                    "short_name": "2515",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Malta St, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2804606,
+                        "lng": -70.8707622
+                    },
+                    "southwest": {
+                        "lat": 42.2803219,
+                        "lng": -70.8709416
+                    }
+                },
+                "location": {
+                    "lat": 42.2803913,
+                    "lng": -70.87085189999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2817402302915,
+                        "lng": -70.8695029197085
+                    },
+                    "southwest": {
+                        "lat": 42.2790422697085,
+                        "lng": -70.87220088029152
+                    }
+                }
+            },
+            "place_id": "ChIJbchzJfhm44kRicnSSMxZ77M",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cbcf4090bb32e7646def7ca0441c0039",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:20.808713",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

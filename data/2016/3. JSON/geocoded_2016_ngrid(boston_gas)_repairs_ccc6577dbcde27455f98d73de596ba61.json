@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ccc6577dbcde27455f98d73de596ba61.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Copeland Road",
+                    "short_name": "Copeland Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1057",
+                    "short_name": "1057",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Copeland Rd, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5071343,
+                        "lng": -70.9894513
+                    },
+                    "southwest": {
+                        "lat": 42.5069707,
+                        "lng": -70.9897038
+                    }
+                },
+                "location": {
+                    "lat": 42.5070525,
+                    "lng": -70.98957759999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5084014802915,
+                        "lng": -70.9882285697085
+                    },
+                    "southwest": {
+                        "lat": 42.5057035197085,
+                        "lng": -70.99092653029152
+                    }
+                }
+            },
+            "place_id": "ChIJwSZ-pbwS44kRfkI7Yww5gms",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ccc6577dbcde27455f98d73de596ba61",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:12.098286",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

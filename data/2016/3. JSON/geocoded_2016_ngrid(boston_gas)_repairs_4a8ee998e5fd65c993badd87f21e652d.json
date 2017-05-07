@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4a8ee998e5fd65c993badd87f21e652d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "356",
+                    "short_name": "356",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Middle Street",
+                    "short_name": "Middle St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Weymouth",
+                    "short_name": "East Weymouth",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02189",
+                    "short_name": "02189",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1202",
+                    "short_name": "1202",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "356 Middle St, East Weymouth, MA 02189, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2117131,
+                        "lng": -70.94203259999999
+                    },
+                    "southwest": {
+                        "lat": 42.2115792,
+                        "lng": -70.9422853
+                    }
+                },
+                "location": {
+                    "lat": 42.2116461,
+                    "lng": -70.9421589
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2129951302915,
+                        "lng": -70.9408099697085
+                    },
+                    "southwest": {
+                        "lat": 42.2102971697085,
+                        "lng": -70.9435079302915
+                    }
+                }
+            },
+            "place_id": "ChIJVVG-L05i44kR9a9DkW3d-Pw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4a8ee998e5fd65c993badd87f21e652d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:27.655977",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

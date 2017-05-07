@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_94a59f324ab249e3415f91725ef663f6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "314",
+                    "short_name": "314",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Central Street",
+                    "short_name": "Central St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "314 Central St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5150641,
+                        "lng": -71.7559705
+                    },
+                    "southwest": {
+                        "lat": 42.5148732,
+                        "lng": -71.7563019
+                    }
+                },
+                "location": {
+                    "lat": 42.5149686,
+                    "lng": -71.7561362
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5163176302915,
+                        "lng": -71.75478721970849
+                    },
+                    "southwest": {
+                        "lat": 42.5136196697085,
+                        "lng": -71.75748518029151
+                    }
+                }
+            },
+            "place_id": "ChIJZwkqY3vv44kRUM8qNO11O_k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "94a59f324ab249e3415f91725ef663f6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:51.569098",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

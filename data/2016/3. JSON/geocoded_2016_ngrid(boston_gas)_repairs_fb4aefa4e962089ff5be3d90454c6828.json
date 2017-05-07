@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fb4aefa4e962089ff5be3d90454c6828.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lewis Avenue",
+                    "short_name": "Lewis Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3206",
+                    "short_name": "3206",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Lewis Ave, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4168788,
+                        "lng": -71.1462437
+                    },
+                    "southwest": {
+                        "lat": 42.4168698,
+                        "lng": -71.146258
+                    }
+                },
+                "location": {
+                    "lat": 42.4168788,
+                    "lng": -71.146258
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4182232802915,
+                        "lng": -71.14490186970849
+                    },
+                    "southwest": {
+                        "lat": 42.4155253197085,
+                        "lng": -71.14759983029151
+                    }
+                }
+            },
+            "place_id": "EiYzOCBMZXdpcyBBdmUsIEFybGluZ3RvbiwgTUEgMDI0NzQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fb4aefa4e962089ff5be3d90454c6828",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:45.647698",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

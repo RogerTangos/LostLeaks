@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2c3bf5ea7db2fc1b7580fd8744d59141.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Marshland Street",
+                    "short_name": "Marshland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3317",
+                    "short_name": "3317",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Marshland St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7873625,
+                        "lng": -71.0797761
+                    },
+                    "southwest": {
+                        "lat": 42.7873533,
+                        "lng": -71.0797901
+                    }
+                },
+                "location": {
+                    "lat": 42.7873625,
+                    "lng": -71.0797901
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7887068802915,
+                        "lng": -71.0784341197085
+                    },
+                    "southwest": {
+                        "lat": 42.7860089197085,
+                        "lng": -71.08113208029151
+                    }
+                }
+            },
+            "place_id": "EikyMCBNYXJzaGxhbmQgU3QsIEhhdmVyaGlsbCwgTUEgMDE4MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2c3bf5ea7db2fc1b7580fd8744d59141",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:13.540412",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

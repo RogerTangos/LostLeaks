@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c2610376b1150e7aac62478cf5bfd3b9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "295",
+                    "short_name": "295",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Summit Road",
+                    "short_name": "Summit Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "295 Summit Rd, Abington, MA 02351, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1350228,
+                        "lng": -70.95314809999999
+                    },
+                    "southwest": {
+                        "lat": 42.1350103,
+                        "lng": -70.9531563
+                    }
+                },
+                "location": {
+                    "lat": 42.1350103,
+                    "lng": -70.95314809999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1363655302915,
+                        "lng": -70.9518032197085
+                    },
+                    "southwest": {
+                        "lat": 42.1336675697085,
+                        "lng": -70.95450118029152
+                    }
+                }
+            },
+            "place_id": "EiYyOTUgU3VtbWl0IFJkLCBBYmluZ3RvbiwgTUEgMDIzNTEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c2610376b1150e7aac62478cf5bfd3b9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:20.383205",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ab8596266fb699e4a2f0b6a936a32052.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "656",
+                    "short_name": "656",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Adams Street",
+                    "short_name": "Adams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1958",
+                    "short_name": "1958",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "656 Adams St, Dorchester, MA 02122, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.287721,
+                        "lng": -71.0544413
+                    },
+                    "southwest": {
+                        "lat": 42.2875711,
+                        "lng": -71.0547407
+                    }
+                },
+                "location": {
+                    "lat": 42.287646,
+                    "lng": -71.054591
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2889950302915,
+                        "lng": -71.05324201970849
+                    },
+                    "southwest": {
+                        "lat": 42.2862970697085,
+                        "lng": -71.0559399802915
+                    }
+                }
+            },
+            "place_id": "ChIJu9KGYZx744kR3Amy2efaRoc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ab8596266fb699e4a2f0b6a936a32052",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:00.070410",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

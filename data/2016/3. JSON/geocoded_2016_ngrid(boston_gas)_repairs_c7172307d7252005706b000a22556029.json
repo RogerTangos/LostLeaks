@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c7172307d7252005706b000a22556029.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Parkhurst Street",
+                    "short_name": "Parkhurst St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3028",
+                    "short_name": "3028",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Parkhurst St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2694071,
+                        "lng": -70.9550469
+                    },
+                    "southwest": {
+                        "lat": 42.2693181,
+                        "lng": -70.9551893
+                    }
+                },
+                "location": {
+                    "lat": 42.2693626,
+                    "lng": -70.95511809999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2707115802915,
+                        "lng": -70.95376911970848
+                    },
+                    "southwest": {
+                        "lat": 42.2680136197085,
+                        "lng": -70.9564670802915
+                    }
+                }
+            },
+            "place_id": "ChIJ28I9Iohk44kRscsCz-BdSNM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c7172307d7252005706b000a22556029",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:26.176130",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

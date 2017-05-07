@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_91c8088afe41a9c0b163f4219a20efcf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Brook Road",
+                    "short_name": "Brook Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Brook Rd & Ridge Rd, Milton, MA 02186, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2619845,
+                    "lng": -71.0887466
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26333348029149,
+                        "lng": -71.0873976197085
+                    },
+                    "southwest": {
+                        "lat": 42.26063551970849,
+                        "lng": -71.0900955802915
+                    }
+                }
+            },
+            "place_id": "EipCcm9vayBSZCAmIFJpZGdlIFJkLCBNaWx0b24sIE1BIDAyMTg2LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "91c8088afe41a9c0b163f4219a20efcf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:18.226933",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

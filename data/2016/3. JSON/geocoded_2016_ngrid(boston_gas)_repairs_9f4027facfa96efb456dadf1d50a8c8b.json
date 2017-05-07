@@ -1,0 +1,106 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9f4027facfa96efb456dadf1d50a8c8b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1021",
+                    "short_name": "1021",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tremont Street",
+                    "short_name": "Tremont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury Crossing",
+                    "short_name": "Roxbury Crossing",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02120",
+                    "short_name": "02120",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2237",
+                    "short_name": "2237",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1021 Tremont St, Roxbury Crossing, MA 02120, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.33689930000001,
+                    "lng": -71.08526239999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33824828029151,
+                        "lng": -71.08391341970848
+                    },
+                    "southwest": {
+                        "lat": 42.33555031970851,
+                        "lng": -71.0866113802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJj_kASz1644kRc37x43-tBEY",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9f4027facfa96efb456dadf1d50a8c8b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:25.924485",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

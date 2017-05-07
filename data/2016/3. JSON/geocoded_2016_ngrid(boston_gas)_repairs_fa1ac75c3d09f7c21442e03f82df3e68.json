@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fa1ac75c3d09f7c21442e03f82df3e68.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Richard Circle",
+                    "short_name": "Richard Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Woburn",
+                    "short_name": "Woburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01801",
+                    "short_name": "01801",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1021",
+                    "short_name": "1021",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Richard Cir, Woburn, MA 01801, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5052612,
+                        "lng": -71.12357089999999
+                    },
+                    "southwest": {
+                        "lat": 42.5050936,
+                        "lng": -71.123735
+                    }
+                },
+                "location": {
+                    "lat": 42.5051774,
+                    "lng": -71.1236529
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50652638029149,
+                        "lng": -71.1223039697085
+                    },
+                    "southwest": {
+                        "lat": 42.5038284197085,
+                        "lng": -71.1250019302915
+                    }
+                }
+            },
+            "place_id": "ChIJdVgMzsd044kRa08EGpioAAw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fa1ac75c3d09f7c21442e03f82df3e68",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:40.412703",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

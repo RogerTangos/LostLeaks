@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_81e706b53ce0631a98f8cabad798c4d0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "George Street",
+                    "short_name": "George St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3110",
+                    "short_name": "3110",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 George St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3780402,
+                        "lng": -70.9829051
+                    },
+                    "southwest": {
+                        "lat": 42.37802629999999,
+                        "lng": -70.9829065
+                    }
+                },
+                "location": {
+                    "lat": 42.3780402,
+                    "lng": -70.9829051
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3793822302915,
+                        "lng": -70.9815568197085
+                    },
+                    "southwest": {
+                        "lat": 42.3766842697085,
+                        "lng": -70.98425478029151
+                    }
+                }
+            },
+            "place_id": "EiUxMiBHZW9yZ2UgU3QsIFdpbnRocm9wLCBNQSAwMjE1MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "81e706b53ce0631a98f8cabad798c4d0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:12.015560",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

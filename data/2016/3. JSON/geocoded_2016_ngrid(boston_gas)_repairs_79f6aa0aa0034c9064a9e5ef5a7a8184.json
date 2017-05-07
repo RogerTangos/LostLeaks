@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_79f6aa0aa0034c9064a9e5ef5a7a8184.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "52",
+                    "short_name": "52",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "52 High St, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7746496,
+                        "lng": -71.0901673
+                    },
+                    "southwest": {
+                        "lat": 42.7746433,
+                        "lng": -71.0901839
+                    }
+                },
+                "location": {
+                    "lat": 42.7746433,
+                    "lng": -71.0901673
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7759954302915,
+                        "lng": -71.0888266197085
+                    },
+                    "southwest": {
+                        "lat": 42.7732974697085,
+                        "lng": -71.0915245802915
+                    }
+                }
+            },
+            "place_id": "EiQ1MiBIaWdoIFN0LCBIYXZlcmhpbGwsIE1BIDAxODMyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "79f6aa0aa0034c9064a9e5ef5a7a8184",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:39.595063",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

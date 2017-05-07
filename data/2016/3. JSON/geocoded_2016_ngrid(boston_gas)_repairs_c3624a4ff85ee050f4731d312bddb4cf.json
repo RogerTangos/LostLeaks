@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c3624a4ff85ee050f4731d312bddb4cf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harvard Street",
+                    "short_name": "Harvard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central Village",
+                    "short_name": "Central Village",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "27 Harvard St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3342485,
+                        "lng": -71.1185699
+                    },
+                    "southwest": {
+                        "lat": 42.3341609,
+                        "lng": -71.1188359
+                    }
+                },
+                "location": {
+                    "lat": 42.3342047,
+                    "lng": -71.1187029
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3355536802915,
+                        "lng": -71.11735391970849
+                    },
+                    "southwest": {
+                        "lat": 42.3328557197085,
+                        "lng": -71.1200518802915
+                    }
+                }
+            },
+            "place_id": "ChIJW22jh5d544kRMlpeSB-COn8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c3624a4ff85ee050f4731d312bddb4cf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:52.760755",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

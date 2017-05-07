@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_825236ecfcfa4bc10657c8284d139b1b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "48",
+                    "short_name": "48",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hawthorne Street",
+                    "short_name": "Hawthorne St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3506",
+                    "short_name": "3506",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "48 Hawthorne St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4731186,
+                        "lng": -70.9501159
+                    },
+                    "southwest": {
+                        "lat": 42.4729686,
+                        "lng": -70.950328
+                    }
+                },
+                "location": {
+                    "lat": 42.4730436,
+                    "lng": -70.950222
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4743925802915,
+                        "lng": -70.9488729697085
+                    },
+                    "southwest": {
+                        "lat": 42.4716946197085,
+                        "lng": -70.95157093029151
+                    }
+                }
+            },
+            "place_id": "ChIJS1csbdls44kRm__Nca8WvOo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "825236ecfcfa4bc10657c8284d139b1b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:05.432157",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8c27d1019457521f905ecab852122628.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "72",
+                    "short_name": "72",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cross Street",
+                    "short_name": "Cross St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Somerville",
+                    "short_name": "East Somerville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "72 Cross St, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3856304,
+                        "lng": -71.0876147
+                    },
+                    "southwest": {
+                        "lat": 42.3854179,
+                        "lng": -71.0878836
+                    }
+                },
+                "location": {
+                    "lat": 42.3855241,
+                    "lng": -71.0877491
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3868731302915,
+                        "lng": -71.0864001697085
+                    },
+                    "southwest": {
+                        "lat": 42.3841751697085,
+                        "lng": -71.08909813029152
+                    }
+                }
+            },
+            "place_id": "ChIJjTOj0M9w44kRsjxQG6WREtk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8c27d1019457521f905ecab852122628",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:32.183418",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8ce3dcf35e2a593eaf87a444d5f9c5e0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "82",
+                    "short_name": "82",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boston Street",
+                    "short_name": "Boston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4702",
+                    "short_name": "4702",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "82 Boston St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.401671,
+                        "lng": -71.0455518
+                    },
+                    "southwest": {
+                        "lat": 42.4004523,
+                        "lng": -71.0470691
+                    }
+                },
+                "location": {
+                    "lat": 42.4010616,
+                    "lng": -71.0463104
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4024106302915,
+                        "lng": -71.0449614697085
+                    },
+                    "southwest": {
+                        "lat": 42.3997126697085,
+                        "lng": -71.0476594302915
+                    }
+                }
+            },
+            "place_id": "ChIJe-iT5qZx44kRR-9nSuF-PlY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8ce3dcf35e2a593eaf87a444d5f9c5e0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:14.205906",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

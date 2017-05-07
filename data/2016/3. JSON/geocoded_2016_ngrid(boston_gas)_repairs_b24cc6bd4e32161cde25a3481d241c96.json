@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b24cc6bd4e32161cde25a3481d241c96.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "North Beacon Street",
+                    "short_name": "N Beacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "N Beacon St & N Beacon Ct, Watertown, MA 02472, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3646215,
+                    "lng": -71.18108629999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36597048029149,
+                        "lng": -71.17973731970848
+                    },
+                    "southwest": {
+                        "lat": 42.3632725197085,
+                        "lng": -71.18243528029149
+                    }
+                }
+            },
+            "place_id": "EjNOIEJlYWNvbiBTdCAmIE4gQmVhY29uIEN0LCBXYXRlcnRvd24sIE1BIDAyNDcyLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "b24cc6bd4e32161cde25a3481d241c96",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:40.721249",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

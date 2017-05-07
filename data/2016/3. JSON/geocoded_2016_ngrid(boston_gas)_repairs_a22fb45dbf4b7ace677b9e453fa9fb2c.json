@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a22fb45dbf4b7ace677b9e453fa9fb2c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "683",
+                    "short_name": "683",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02190",
+                    "short_name": "02190",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1631",
+                    "short_name": "1631",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "683 Main St, Weymouth, MA 02190, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1830277,
+                        "lng": -70.9552921
+                    },
+                    "southwest": {
+                        "lat": 42.183027,
+                        "lng": -70.9553109
+                    }
+                },
+                "location": {
+                    "lat": 42.183027,
+                    "lng": -70.9553109
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1843763302915,
+                        "lng": -70.9539525197085
+                    },
+                    "southwest": {
+                        "lat": 42.1816783697085,
+                        "lng": -70.9566504802915
+                    }
+                }
+            },
+            "place_id": "EiQ2ODMgTWFpbiBTdCwgV2V5bW91dGgsIE1BIDAyMTkwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a22fb45dbf4b7ace677b9e453fa9fb2c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:11.816406",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

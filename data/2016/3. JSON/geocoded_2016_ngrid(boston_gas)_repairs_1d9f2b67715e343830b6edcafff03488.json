@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1d9f2b67715e343830b6edcafff03488.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "75",
+                    "short_name": "75",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sumner Street",
+                    "short_name": "Sumner St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1952",
+                    "short_name": "1952",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "75 Sumner St, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3354623,
+                        "lng": -71.1913735
+                    },
+                    "southwest": {
+                        "lat": 42.3354618,
+                        "lng": -71.19139229999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3354618,
+                    "lng": -71.19139229999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33681103029149,
+                        "lng": -71.1900339197085
+                    },
+                    "southwest": {
+                        "lat": 42.33411306970849,
+                        "lng": -71.1927318802915
+                    }
+                }
+            },
+            "place_id": "EiM3NSBTdW1uZXIgU3QsIE5ld3RvbiwgTUEgMDI0NTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1d9f2b67715e343830b6edcafff03488",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:43.753917",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

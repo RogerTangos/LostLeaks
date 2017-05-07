@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_36d4e3308d09269afaacdd20e3b0168a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dodge Court",
+                    "short_name": "Dodge Ct",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3104",
+                    "short_name": "3104",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Dodge Ct, Danvers, MA 01923, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5595809,
+                    "lng": -70.9298453
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5609298802915,
+                        "lng": -70.92849631970849
+                    },
+                    "southwest": {
+                        "lat": 42.5582319197085,
+                        "lng": -70.93119428029149
+                    }
+                }
+            },
+            "place_id": "ChIJp2DoxV8R44kR8TalkjzUD7A",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "36d4e3308d09269afaacdd20e3b0168a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:18.970667",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

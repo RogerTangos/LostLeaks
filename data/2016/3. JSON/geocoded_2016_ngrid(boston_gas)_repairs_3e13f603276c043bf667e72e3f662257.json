@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3e13f603276c043bf667e72e3f662257.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "43",
+                    "short_name": "43",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Burch Street",
+                    "short_name": "Burch St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8852",
+                    "short_name": "8852",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "43 Burch St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.40192,
+                        "lng": -71.14754789999999
+                    },
+                    "southwest": {
+                        "lat": 42.4019151,
+                        "lng": -71.14756550000001
+                    }
+                },
+                "location": {
+                    "lat": 42.4019151,
+                    "lng": -71.14756550000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4032665302915,
+                        "lng": -71.1462077197085
+                    },
+                    "southwest": {
+                        "lat": 42.4005685697085,
+                        "lng": -71.1489056802915
+                    }
+                }
+            },
+            "place_id": "EiU0MyBCdXJjaCBTdCwgQXJsaW5ndG9uLCBNQSAwMjQ3NCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3e13f603276c043bf667e72e3f662257",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:30.777295",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

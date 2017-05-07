@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f7c991f4f5608fba470aacc7cda96c0c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "58",
+                    "short_name": "58",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sunnyside Road",
+                    "short_name": "Sunnyside Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5620",
+                    "short_name": "5620",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "58 Sunnyside Rd, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2556175,
+                        "lng": -71.0374302
+                    },
+                    "southwest": {
+                        "lat": 42.2556086,
+                        "lng": -71.0374447
+                    }
+                },
+                "location": {
+                    "lat": 42.2556086,
+                    "lng": -71.0374447
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2569620302915,
+                        "lng": -71.0360884697085
+                    },
+                    "southwest": {
+                        "lat": 42.2542640697085,
+                        "lng": -71.03878643029151
+                    }
+                }
+            },
+            "place_id": "EiY1OCBTdW5ueXNpZGUgUmQsIE1pbHRvbiwgTUEgMDIxODYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f7c991f4f5608fba470aacc7cda96c0c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:09.580265",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

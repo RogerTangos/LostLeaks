@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_ca370cb5ef51955ce9e8531ae8519ac9.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sunset Road",
+                    "short_name": "Sunset Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Maynard",
+                    "short_name": "Maynard",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01754",
+                    "short_name": "01754",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Sunset Rd, Maynard, MA 01754, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4392242,
+                        "lng": -71.46814300000001
+                    },
+                    "southwest": {
+                        "lat": 42.4392226,
+                        "lng": -71.4681617
+                    }
+                },
+                "location": {
+                    "lat": 42.4392242,
+                    "lng": -71.4681617
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44057238029151,
+                        "lng": -71.4668033697085
+                    },
+                    "southwest": {
+                        "lat": 42.43787441970851,
+                        "lng": -71.46950133029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiM4IFN1bnNldCBSZCwgTWF5bmFyZCwgTUEgMDE3NTQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ca370cb5ef51955ce9e8531ae8519ac9",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:09:14.248954",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

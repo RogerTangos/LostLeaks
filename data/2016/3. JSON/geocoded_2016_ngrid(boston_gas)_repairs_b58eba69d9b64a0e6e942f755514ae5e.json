@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b58eba69d9b64a0e6e942f755514ae5e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1782",
+                    "short_name": "1782",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wedgewood Common",
+                    "short_name": "Wedgewood Common",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Concord",
+                    "short_name": "West Concord",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1782 Wedgewood Common, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4583641,
+                        "lng": -71.40317550000002
+                    },
+                    "southwest": {
+                        "lat": 42.45836389999999,
+                        "lng": -71.4031943
+                    }
+                },
+                "location": {
+                    "lat": 42.4583641,
+                    "lng": -71.40317550000002
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4597129802915,
+                        "lng": -71.4018359197085
+                    },
+                    "southwest": {
+                        "lat": 42.4570150197085,
+                        "lng": -71.40453388029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei0xNzgyIFdlZGdld29vZCBDb21tb24sIENvbmNvcmQsIE1BIDAxNzQyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b58eba69d9b64a0e6e942f755514ae5e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:26.021313",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

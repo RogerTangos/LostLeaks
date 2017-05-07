@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_30b4ea113d9ee1e546f14b3293278100.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "189",
+                    "short_name": "189",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Holden Street",
+                    "short_name": "Holden St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Holden",
+                    "short_name": "Holden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01520",
+                    "short_name": "01520",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "189 Holden St, Holden, MA 01520, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3252902,
+                        "lng": -71.82644739999999
+                    },
+                    "southwest": {
+                        "lat": 42.3252866,
+                        "lng": -71.82646559999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3252866,
+                    "lng": -71.82646559999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3266373802915,
+                        "lng": -71.82510751970848
+                    },
+                    "southwest": {
+                        "lat": 42.3239394197085,
+                        "lng": -71.8278054802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQxODkgSG9sZGVuIFN0LCBIb2xkZW4sIE1BIDAxNTIwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "30b4ea113d9ee1e546f14b3293278100",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:04:41.686603",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

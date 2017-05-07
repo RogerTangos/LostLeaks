@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6f047443f77e457df68dac412f20e9d6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Castle Street",
+                    "short_name": "Castle St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Banks Square",
+                    "short_name": "Banks Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Castle St & Emery St, Waltham, MA 02451, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.380093,
+                    "lng": -71.2406063
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3814419802915,
+                        "lng": -71.23925731970849
+                    },
+                    "southwest": {
+                        "lat": 42.3787440197085,
+                        "lng": -71.2419552802915
+                    }
+                }
+            },
+            "place_id": "EixDYXN0bGUgU3QgJiBFbWVyeSBTdCwgV2FsdGhhbSwgTUEgMDI0NTEsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "6f047443f77e457df68dac412f20e9d6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:19.758065",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

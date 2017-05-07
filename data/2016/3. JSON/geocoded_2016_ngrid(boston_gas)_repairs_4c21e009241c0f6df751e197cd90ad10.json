@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4c21e009241c0f6df751e197cd90ad10.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "246",
+                    "short_name": "246",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arlington Street",
+                    "short_name": "Arlington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1724",
+                    "short_name": "1724",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "246 Arlington St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2658229,
+                        "lng": -71.0210859
+                    },
+                    "southwest": {
+                        "lat": 42.2658144,
+                        "lng": -71.02110069999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2658229,
+                    "lng": -71.0210859
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2671676302915,
+                        "lng": -71.0197443197085
+                    },
+                    "southwest": {
+                        "lat": 42.2644696697085,
+                        "lng": -71.0224422802915
+                    }
+                }
+            },
+            "place_id": "EicyNDYgQXJsaW5ndG9uIFN0LCBRdWluY3ksIE1BIDAyMTcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4c21e009241c0f6df751e197cd90ad10",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:22.137002",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

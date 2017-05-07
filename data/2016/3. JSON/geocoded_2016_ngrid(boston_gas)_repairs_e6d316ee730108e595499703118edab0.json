@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e6d316ee730108e595499703118edab0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Willow Street",
+                    "short_name": "Willow St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Willow St, Acton, MA 01720, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4732484,
+                        "lng": -71.47522610000001
+                    },
+                    "southwest": {
+                        "lat": 42.4730186,
+                        "lng": -71.4757692
+                    }
+                },
+                "location": {
+                    "lat": 42.4731335,
+                    "lng": -71.4754976
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4744824802915,
+                        "lng": -71.47414866970851
+                    },
+                    "southwest": {
+                        "lat": 42.4717845197085,
+                        "lng": -71.47684663029152
+                    }
+                }
+            },
+            "place_id": "ChIJ80ZyW2KR44kRUyZ9Dru8Y_E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e6d316ee730108e595499703118edab0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:22.924158",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

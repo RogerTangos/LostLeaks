@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9b8e8a53bd4b1635e89c0f3eacdb634d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cook Street",
+                    "short_name": "Cook St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2712",
+                    "short_name": "2712",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "27 Cook St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4728461,
+                        "lng": -70.94498070000002
+                    },
+                    "southwest": {
+                        "lat": 42.4727294,
+                        "lng": -70.9451361
+                    }
+                },
+                "location": {
+                    "lat": 42.4727878,
+                    "lng": -70.9450584
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4741367302915,
+                        "lng": -70.9437094197085
+                    },
+                    "southwest": {
+                        "lat": 42.4714387697085,
+                        "lng": -70.94640738029152
+                    }
+                }
+            },
+            "place_id": "ChIJBcbPAtts44kRb9Su0ZvbcnE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9b8e8a53bd4b1635e89c0f3eacdb634d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:50.732295",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

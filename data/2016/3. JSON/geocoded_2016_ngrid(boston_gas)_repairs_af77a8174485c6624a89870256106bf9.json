@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_af77a8174485c6624a89870256106bf9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Thorndike Street",
+                    "short_name": "Thorndike St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2660",
+                    "short_name": "2660",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Thorndike St, Reading, MA 01867, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.52951669999999,
+                        "lng": -71.0973552
+                    },
+                    "southwest": {
+                        "lat": 42.52950329999999,
+                        "lng": -71.0973595
+                    }
+                },
+                "location": {
+                    "lat": 42.52951669999999,
+                    "lng": -71.0973595
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5308589802915,
+                        "lng": -71.0960083697085
+                    },
+                    "southwest": {
+                        "lat": 42.5281610197085,
+                        "lng": -71.0987063302915
+                    }
+                }
+            },
+            "place_id": "EicyMCBUaG9ybmRpa2UgU3QsIFJlYWRpbmcsIE1BIDAxODY3LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "af77a8174485c6624a89870256106bf9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:15.573439",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

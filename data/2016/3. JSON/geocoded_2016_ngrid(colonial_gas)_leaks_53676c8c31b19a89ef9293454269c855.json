@@ -1,0 +1,94 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_53676c8c31b19a89ef9293454269c855.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Clarendon Street",
+                    "short_name": "Clarendon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dartmouth",
+                    "short_name": "Dartmouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Clarendon St, Dartmouth, MA, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6333366,
+                        "lng": -70.95779399999999
+                    },
+                    "southwest": {
+                        "lat": 41.6333237,
+                        "lng": -70.9578014
+                    }
+                },
+                "location": {
+                    "lat": 41.6333366,
+                    "lng": -70.9578014
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6346791302915,
+                        "lng": -70.95644871970849
+                    },
+                    "southwest": {
+                        "lat": 41.6319811697085,
+                        "lng": -70.9591466802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiM0OSBDbGFyZW5kb24gU3QsIERhcnRtb3V0aCwgTUEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "53676c8c31b19a89ef9293454269c855",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:37.087362",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

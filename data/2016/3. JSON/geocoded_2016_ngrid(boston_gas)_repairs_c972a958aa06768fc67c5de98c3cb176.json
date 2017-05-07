@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c972a958aa06768fc67c5de98c3cb176.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "103",
+                    "short_name": "103",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3505",
+                    "short_name": "3505",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "103 Washington St, Salem, MA 01970, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.521673,
+                    "lng": -70.89549509999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5230219802915,
+                        "lng": -70.89414611970848
+                    },
+                    "southwest": {
+                        "lat": 42.5203240197085,
+                        "lng": -70.89684408029149
+                    }
+                }
+            },
+            "place_id": "ChIJ5TFG0noU44kRyfCoMHu_EMU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c972a958aa06768fc67c5de98c3cb176",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:28.191808",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

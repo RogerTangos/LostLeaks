@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4089c0db9390ff006683fc75909014c5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "69",
+                    "short_name": "69",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Barnum Road",
+                    "short_name": "Barnum Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Devens",
+                    "short_name": "Devens",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01434",
+                    "short_name": "01434",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "69 Barnum Rd, Devens, MA 01434, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5473528,
+                        "lng": -71.5837569
+                    },
+                    "southwest": {
+                        "lat": 42.54734149999999,
+                        "lng": -71.58376779999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5473528,
+                    "lng": -71.58376779999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5486961302915,
+                        "lng": -71.58241336970849
+                    },
+                    "southwest": {
+                        "lat": 42.5459981697085,
+                        "lng": -71.5851113302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiM2OSBCYXJudW0gUmQsIERldmVucywgTUEgMDE0MzQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4089c0db9390ff006683fc75909014c5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:12.415564",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

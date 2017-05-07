@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c0727ec9958b58f63db0fe922c7a8e1f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "223",
+                    "short_name": "223",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Princeton Street",
+                    "short_name": "Princeton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1409",
+                    "short_name": "1409",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "223 Princeton St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3791289,
+                        "lng": -71.03138799999999
+                    },
+                    "southwest": {
+                        "lat": 42.379035,
+                        "lng": -71.0314946
+                    }
+                },
+                "location": {
+                    "lat": 42.379082,
+                    "lng": -71.0314413
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3804309302915,
+                        "lng": -71.0300923197085
+                    },
+                    "southwest": {
+                        "lat": 42.3777329697085,
+                        "lng": -71.03279028029151
+                    }
+                }
+            },
+            "place_id": "ChIJcwFWLklw44kR8cTPhPmkltM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c0727ec9958b58f63db0fe922c7a8e1f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:51.676614",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

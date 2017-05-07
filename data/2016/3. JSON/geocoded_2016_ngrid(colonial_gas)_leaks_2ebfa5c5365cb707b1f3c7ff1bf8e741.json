@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_2ebfa5c5365cb707b1f3c7ff1bf8e741.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "418",
+                    "short_name": "418",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stearns Road",
+                    "short_name": "Stearns Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "418 Stearns Rd, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3230218,
+                        "lng": -71.5645184
+                    },
+                    "southwest": {
+                        "lat": 42.3230087,
+                        "lng": -71.5645249
+                    }
+                },
+                "location": {
+                    "lat": 42.3230087,
+                    "lng": -71.5645184
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32436423029149,
+                        "lng": -71.56317266970849
+                    },
+                    "southwest": {
+                        "lat": 42.32166626970849,
+                        "lng": -71.56587063029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eio0MTggU3RlYXJucyBSZCwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2ebfa5c5365cb707b1f3c7ff1bf8e741",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:13.659389",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

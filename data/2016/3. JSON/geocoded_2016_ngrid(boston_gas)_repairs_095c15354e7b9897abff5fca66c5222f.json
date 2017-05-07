@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_095c15354e7b9897abff5fca66c5222f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Howard Street",
+                    "short_name": "Howard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newburyport",
+                    "short_name": "Newburyport",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01950",
+                    "short_name": "01950",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Howard St, Newburyport, MA 01950, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8203704,
+                        "lng": -70.8867443
+                    },
+                    "southwest": {
+                        "lat": 42.8203623,
+                        "lng": -70.8867595
+                    }
+                },
+                "location": {
+                    "lat": 42.8203704,
+                    "lng": -70.8867443
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8217153302915,
+                        "lng": -70.8854029197085
+                    },
+                    "southwest": {
+                        "lat": 42.8190173697085,
+                        "lng": -70.8881008802915
+                    }
+                }
+            },
+            "place_id": "EigxNiBIb3dhcmQgU3QsIE5ld2J1cnlwb3J0LCBNQSAwMTk1MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "095c15354e7b9897abff5fca66c5222f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:53.363169",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_11d0c7be11159608978d954bed8458d6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "115",
+                    "short_name": "115",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Street",
+                    "short_name": "Park St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Coolidge Corner South Side",
+                    "short_name": "Coolidge Corner South Side",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02446",
+                    "short_name": "02446",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "115 Park St, Brookline, MA 02446, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3405169,
+                        "lng": -71.1236485
+                    },
+                    "southwest": {
+                        "lat": 42.3402555,
+                        "lng": -71.1239233
+                    }
+                },
+                "location": {
+                    "lat": 42.3403862,
+                    "lng": -71.1237859
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34173518029149,
+                        "lng": -71.12243691970849
+                    },
+                    "southwest": {
+                        "lat": 42.33903721970849,
+                        "lng": -71.12513488029151
+                    }
+                }
+            },
+            "place_id": "ChIJ46o4Y75544kRmuIJZjmQnOQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "11d0c7be11159608978d954bed8458d6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:00.641506",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

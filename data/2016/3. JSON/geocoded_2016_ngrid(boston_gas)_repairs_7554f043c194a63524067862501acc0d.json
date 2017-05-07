@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7554f043c194a63524067862501acc0d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Varney Street",
+                    "short_name": "Varney St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1932",
+                    "short_name": "1932",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Varney St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5189207,
+                        "lng": -70.91196579999999
+                    },
+                    "southwest": {
+                        "lat": 42.5188242,
+                        "lng": -70.9121182
+                    }
+                },
+                "location": {
+                    "lat": 42.5188725,
+                    "lng": -70.912042
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5202214302915,
+                        "lng": -70.91069301970849
+                    },
+                    "southwest": {
+                        "lat": 42.5175234697085,
+                        "lng": -70.91339098029151
+                    }
+                }
+            },
+            "place_id": "ChIJCYzKm4ET44kRo4oaf3MWYt4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7554f043c194a63524067862501acc0d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:17.375986",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

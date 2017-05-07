@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9712c9702bbc6ed96f24e8ce24185352.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "109",
+                    "short_name": "109",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Standish Avenue",
+                    "short_name": "Standish Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8021",
+                    "short_name": "8021",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "109 Standish Ave, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1786024,
+                        "lng": -71.0104659
+                    },
+                    "southwest": {
+                        "lat": 42.1784925,
+                        "lng": -71.0106041
+                    }
+                },
+                "location": {
+                    "lat": 42.1785474,
+                    "lng": -71.01053499999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.17989643029149,
+                        "lng": -71.00918601970848
+                    },
+                    "southwest": {
+                        "lat": 42.17719846970849,
+                        "lng": -71.0118839802915
+                    }
+                }
+            },
+            "place_id": "ChIJ7dtoI7GC5IkRIIM4PLe8WcI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9712c9702bbc6ed96f24e8ce24185352",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:39.557231",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

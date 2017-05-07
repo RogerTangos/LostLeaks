@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6df4dcb6e1d7aa60764912db13a0d8cd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gerald Road",
+                    "short_name": "Gerald Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2017",
+                    "short_name": "2017",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Gerald Rd, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4869882,
+                        "lng": -70.8713669
+                    },
+                    "southwest": {
+                        "lat": 42.486808,
+                        "lng": -70.87160349999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4868981,
+                    "lng": -70.8714852
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4882470802915,
+                        "lng": -70.87013621970848
+                    },
+                    "southwest": {
+                        "lat": 42.4855491197085,
+                        "lng": -70.8728341802915
+                    }
+                }
+            },
+            "place_id": "ChIJmS1PTcMU44kRaORFaXE7_Ak",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6df4dcb6e1d7aa60764912db13a0d8cd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:11.192793",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

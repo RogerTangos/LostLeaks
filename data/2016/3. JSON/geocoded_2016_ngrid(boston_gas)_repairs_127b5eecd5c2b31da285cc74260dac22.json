@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_127b5eecd5c2b31da285cc74260dac22.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "174",
+                    "short_name": "174",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Weld Street",
+                    "short_name": "Weld St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brook Farm",
+                    "short_name": "Brook Farm",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02132",
+                    "short_name": "02132",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "174 Weld St, Boston, MA 02132, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2936962,
+                        "lng": -71.13911039999999
+                    },
+                    "southwest": {
+                        "lat": 42.2936826,
+                        "lng": -71.1391139
+                    }
+                },
+                "location": {
+                    "lat": 42.2936826,
+                    "lng": -71.13911039999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2950383802915,
+                        "lng": -71.13776316970849
+                    },
+                    "southwest": {
+                        "lat": 42.2923404197085,
+                        "lng": -71.1404611302915
+                    }
+                }
+            },
+            "place_id": "EiIxNzQgV2VsZCBTdCwgQm9zdG9uLCBNQSAwMjEzMiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "127b5eecd5c2b31da285cc74260dac22",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:21.938250",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

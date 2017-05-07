@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_75a1492349d26ef67929604a264ca2ea.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bradford Avenue",
+                    "short_name": "Bradford Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01835",
+                    "short_name": "01835",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Bradford Ave, Haverhill, MA 01835, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.7659254,
+                    "lng": -71.0834998
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7672743802915,
+                        "lng": -71.08215081970849
+                    },
+                    "southwest": {
+                        "lat": 42.7645764197085,
+                        "lng": -71.0848487802915
+                    }
+                }
+            },
+            "place_id": "ChIJ77Vzs88D44kR9r7bDIsAyJ8",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "75a1492349d26ef67929604a264ca2ea",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:43.656802",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

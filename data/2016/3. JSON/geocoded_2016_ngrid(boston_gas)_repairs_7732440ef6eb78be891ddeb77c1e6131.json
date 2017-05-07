@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7732440ef6eb78be891ddeb77c1e6131.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Victoria Street",
+                    "short_name": "Victoria St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Victoria St & Evans St, Saugus, MA 01906, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.459622,
+                    "lng": -71.000586
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4609709802915,
+                        "lng": -70.99923701970849
+                    },
+                    "southwest": {
+                        "lat": 42.4582730197085,
+                        "lng": -71.00193498029151
+                    }
+                }
+            },
+            "place_id": "Ei1WaWN0b3JpYSBTdCAmIEV2YW5zIFN0LCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "7732440ef6eb78be891ddeb77c1e6131",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:55.421589",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

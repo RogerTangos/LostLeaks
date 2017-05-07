@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5e954f7854006da68fd0e1b144a315c3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "247",
+                    "short_name": "247",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Back Bay",
+                    "short_name": "Back Bay",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02116",
+                    "short_name": "02116",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "247 Commonwealth Avenue, Boston, MA 02116, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3507571,
+                        "lng": -71.0831173
+                    },
+                    "southwest": {
+                        "lat": 42.3507441,
+                        "lng": -71.0831238
+                    }
+                },
+                "location": {
+                    "lat": 42.3507571,
+                    "lng": -71.0831238
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3520995802915,
+                        "lng": -71.08177156970848
+                    },
+                    "southwest": {
+                        "lat": 42.3494016197085,
+                        "lng": -71.0844695302915
+                    }
+                }
+            },
+            "place_id": "Ei4yNDcgQ29tbW9ud2VhbHRoIEF2ZW51ZSwgQm9zdG9uLCBNQSAwMjExNiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5e954f7854006da68fd0e1b144a315c3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:22.997599",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_085404fbcf710e159d291cdeed3419f3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ridge Road",
+                    "short_name": "Ridge Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2101",
+                    "short_name": "2101",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Ridge Rd, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.26335520000001,
+                        "lng": -71.08759359999999
+                    },
+                    "southwest": {
+                        "lat": 42.2632269,
+                        "lng": -71.087771
+                    }
+                },
+                "location": {
+                    "lat": 42.263291,
+                    "lng": -71.0876823
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2646400302915,
+                        "lng": -71.08633331970849
+                    },
+                    "southwest": {
+                        "lat": 42.2619420697085,
+                        "lng": -71.0890312802915
+                    }
+                }
+            },
+            "place_id": "ChIJYebQZxh844kRpuTdEkGp4ko",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "085404fbcf710e159d291cdeed3419f3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:47.800038",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

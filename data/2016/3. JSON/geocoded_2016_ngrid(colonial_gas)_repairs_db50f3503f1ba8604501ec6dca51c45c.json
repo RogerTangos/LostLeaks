@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_db50f3503f1ba8604501ec6dca51c45c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Canal Street",
+                    "short_name": "Canal St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Millbury",
+                    "short_name": "Millbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01527",
+                    "short_name": "01527",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3206",
+                    "short_name": "3206",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Canal St, Millbury, MA 01527, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1935706,
+                        "lng": -71.761281
+                    },
+                    "southwest": {
+                        "lat": 42.1935569,
+                        "lng": -71.7612839
+                    }
+                },
+                "location": {
+                    "lat": 42.1935706,
+                    "lng": -71.7612839
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1949127302915,
+                        "lng": -71.75993346970849
+                    },
+                    "southwest": {
+                        "lat": 42.1922147697085,
+                        "lng": -71.7626314302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMxIENhbmFsIFN0LCBNaWxsYnVyeSwgTUEgMDE1MjcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "db50f3503f1ba8604501ec6dca51c45c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:20:26.826743",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

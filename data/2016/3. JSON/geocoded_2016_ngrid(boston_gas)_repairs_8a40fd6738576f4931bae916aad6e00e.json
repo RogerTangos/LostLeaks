@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8a40fd6738576f4931bae916aad6e00e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Washington St & Robert Ave, Whitman, MA 02382, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.0841853,
+                    "lng": -70.9389472
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0855342802915,
+                        "lng": -70.9375982197085
+                    },
+                    "southwest": {
+                        "lat": 42.0828363197085,
+                        "lng": -70.94029618029151
+                    }
+                }
+            },
+            "place_id": "EjJXYXNoaW5ndG9uIFN0ICYgUm9iZXJ0IEF2ZSwgV2hpdG1hbiwgTUEgMDIzODIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "8a40fd6738576f4931bae916aad6e00e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:57.699321",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

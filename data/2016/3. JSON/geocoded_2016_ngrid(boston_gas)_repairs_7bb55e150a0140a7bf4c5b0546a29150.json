@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7bb55e150a0140a7bf4c5b0546a29150.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hull Street",
+                    "short_name": "Hull St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North End",
+                    "short_name": "North End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02113",
+                    "short_name": "02113",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1108",
+                    "short_name": "1108",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Hull St, Boston, MA 02113, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.367435,
+                    "lng": -71.056804
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3687839802915,
+                        "lng": -71.0554550197085
+                    },
+                    "southwest": {
+                        "lat": 42.3660860197085,
+                        "lng": -71.05815298029151
+                    }
+                }
+            },
+            "place_id": "ChIJqRlnE4xw44kRVePumanA1-c",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7bb55e150a0140a7bf4c5b0546a29150",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:14.148953",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

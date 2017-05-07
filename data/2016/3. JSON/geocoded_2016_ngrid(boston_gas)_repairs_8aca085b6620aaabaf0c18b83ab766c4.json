@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8aca085b6620aaabaf0c18b83ab766c4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "600",
+                    "short_name": "600",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Street",
+                    "short_name": "South St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1716",
+                    "short_name": "1716",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "600 South St, Roslindale, MA 02131, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2922807,
+                        "lng": -71.1233144
+                    },
+                    "southwest": {
+                        "lat": 42.2921187,
+                        "lng": -71.1235555
+                    }
+                },
+                "location": {
+                    "lat": 42.2921997,
+                    "lng": -71.12343489999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2935486802915,
+                        "lng": -71.1220859697085
+                    },
+                    "southwest": {
+                        "lat": 42.2908507197085,
+                        "lng": -71.1247839302915
+                    }
+                }
+            },
+            "place_id": "ChIJWT9CeDZ544kRW8uu-Pdo2rc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8aca085b6620aaabaf0c18b83ab766c4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:32.831985",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

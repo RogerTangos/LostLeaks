@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2d33fa462a62635b45ec105db8fb765d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Winthrop Avenue",
+                    "short_name": "Winthrop Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Winthrop Ave & Marion St, Quincy, MA 02170, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2630193,
+                    "lng": -71.0207053
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26436828029149,
+                        "lng": -71.01935631970849
+                    },
+                    "southwest": {
+                        "lat": 42.2616703197085,
+                        "lng": -71.02205428029151
+                    }
+                }
+            },
+            "place_id": "Ei9XaW50aHJvcCBBdmUgJiBNYXJpb24gU3QsIFF1aW5jeSwgTUEgMDIxNzAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "2d33fa462a62635b45ec105db8fb765d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:37.324966",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c4d1eff3ab9d3f4771bb040002701a5c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "244",
+                    "short_name": "244",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Blue Hill Avenue",
+                    "short_name": "Blue Hill Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "244 Blue Hill Avenue, Boston, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3163377,
+                        "lng": -71.07791999999999
+                    },
+                    "southwest": {
+                        "lat": 42.316259,
+                        "lng": -71.078088
+                    }
+                },
+                "location": {
+                    "lat": 42.3162983,
+                    "lng": -71.07800399999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3176473302915,
+                        "lng": -71.07665501970848
+                    },
+                    "southwest": {
+                        "lat": 42.3149493697085,
+                        "lng": -71.07935298029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJhXvOFMt744kRzI9P4DW2gas",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c4d1eff3ab9d3f4771bb040002701a5c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:20.521399",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_630a94e0846c8904245905301aeba3f8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "71",
+                    "short_name": "71",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Morton Street",
+                    "short_name": "Morton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1028",
+                    "short_name": "1028",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "71 Morton St, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3396712,
+                        "lng": -71.20100769999999
+                    },
+                    "southwest": {
+                        "lat": 42.3396711,
+                        "lng": -71.2010264
+                    }
+                },
+                "location": {
+                    "lat": 42.3396712,
+                    "lng": -71.2010264
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34102013029149,
+                        "lng": -71.1996680697085
+                    },
+                    "southwest": {
+                        "lat": 42.3383221697085,
+                        "lng": -71.2023660302915
+                    }
+                }
+            },
+            "place_id": "EiM3MSBNb3J0b24gU3QsIE5ld3RvbiwgTUEgMDI0NTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "630a94e0846c8904245905301aeba3f8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:29.838552",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

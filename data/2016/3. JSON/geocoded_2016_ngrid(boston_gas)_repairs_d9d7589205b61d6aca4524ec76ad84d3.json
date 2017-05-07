@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d9d7589205b61d6aca4524ec76ad84d3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Russell Street",
+                    "short_name": "Russell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3017",
+                    "short_name": "3017",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Russell St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4181355,
+                        "lng": -71.15314839999999
+                    },
+                    "southwest": {
+                        "lat": 42.4179519,
+                        "lng": -71.1533094
+                    }
+                },
+                "location": {
+                    "lat": 42.4180437,
+                    "lng": -71.1532289
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4193926802915,
+                        "lng": -71.15187991970849
+                    },
+                    "southwest": {
+                        "lat": 42.4166947197085,
+                        "lng": -71.1545778802915
+                    }
+                }
+            },
+            "place_id": "ChIJgZ_UU1p244kRt_4f1fsW77k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d9d7589205b61d6aca4524ec76ad84d3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:05.275339",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

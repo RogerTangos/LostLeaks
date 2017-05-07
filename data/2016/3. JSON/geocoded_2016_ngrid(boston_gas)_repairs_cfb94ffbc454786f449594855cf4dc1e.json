@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cfb94ffbc454786f449594855cf4dc1e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Saint Margaret Street",
+                    "short_name": "St Margaret St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "9 St Margaret St, Dorchester, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3222303,
+                        "lng": -71.060503
+                    },
+                    "southwest": {
+                        "lat": 42.32207409999999,
+                        "lng": -71.06067709999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3221522,
+                    "lng": -71.06058999999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32350118029149,
+                        "lng": -71.05924106970849
+                    },
+                    "southwest": {
+                        "lat": 42.32080321970849,
+                        "lng": -71.0619390302915
+                    }
+                }
+            },
+            "place_id": "ChIJ45NQMVB644kRzELfRuSaHVQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cfb94ffbc454786f449594855cf4dc1e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:40.429775",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

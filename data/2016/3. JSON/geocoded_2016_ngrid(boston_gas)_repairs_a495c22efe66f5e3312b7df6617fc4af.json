@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a495c22efe66f5e3312b7df6617fc4af.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Quincy Street",
+                    "short_name": "Quincy St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02113",
+                    "short_name": "02113",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Quincy St, Boston, MA 02113, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.315251,
+                    "lng": -71.079647
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31659998029149,
+                        "lng": -71.0782980197085
+                    },
+                    "southwest": {
+                        "lat": 42.31390201970849,
+                        "lng": -71.0809959802915
+                    }
+                }
+            },
+            "place_id": "ChIJ9yHReMx744kRT40RGnBJjv8",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a495c22efe66f5e3312b7df6617fc4af",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:59.214458",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

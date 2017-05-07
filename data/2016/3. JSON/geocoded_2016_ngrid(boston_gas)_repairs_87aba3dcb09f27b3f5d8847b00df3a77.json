@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_87aba3dcb09f27b3f5d8847b00df3a77.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "62",
+                    "short_name": "62",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Smith Street",
+                    "short_name": "Smith St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4104",
+                    "short_name": "4104",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "62 Smith St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2439575,
+                        "lng": -71.01585279999999
+                    },
+                    "southwest": {
+                        "lat": 42.2438434,
+                        "lng": -71.0160064
+                    }
+                },
+                "location": {
+                    "lat": 42.2439005,
+                    "lng": -71.01592959999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24524943029149,
+                        "lng": -71.01458061970848
+                    },
+                    "southwest": {
+                        "lat": 42.2425514697085,
+                        "lng": -71.0172785802915
+                    }
+                }
+            },
+            "place_id": "ChIJ2Xwvv8V844kRefOr1U8oNO0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "87aba3dcb09f27b3f5d8847b00df3a77",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:41.823113",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

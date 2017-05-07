@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c3cf9f5b1a66855cd9f3ffc5f0ba6622.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cross Street",
+                    "short_name": "Cross St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3808",
+                    "short_name": "3808",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Cross St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.553791,
+                        "lng": -70.8604283
+                    },
+                    "southwest": {
+                        "lat": 42.55367160000001,
+                        "lng": -70.8605631
+                    }
+                },
+                "location": {
+                    "lat": 42.5537313,
+                    "lng": -70.8604957
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5550802802915,
+                        "lng": -70.85914671970849
+                    },
+                    "southwest": {
+                        "lat": 42.5523823197085,
+                        "lng": -70.86184468029151
+                    }
+                }
+            },
+            "place_id": "ChIJOzMGkYcW44kReQ1lA7b-S1k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c3cf9f5b1a66855cd9f3ffc5f0ba6622",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:35.901098",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

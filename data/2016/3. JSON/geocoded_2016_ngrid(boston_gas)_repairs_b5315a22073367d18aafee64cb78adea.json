@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b5315a22073367d18aafee64cb78adea.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "East Main Street",
+                    "short_name": "E Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Brookfield",
+                    "short_name": "East Brookfield",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "East Brookfield",
+                    "short_name": "East Brookfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01515",
+                    "short_name": "01515",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "E Main St & South St, East Brookfield, MA 01515, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.22611999999999,
+                    "lng": -72.05447099999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2274689802915,
+                        "lng": -72.05312201970848
+                    },
+                    "southwest": {
+                        "lat": 42.2247710197085,
+                        "lng": -72.0558199802915
+                    }
+                }
+            },
+            "place_id": "EjRFIE1haW4gU3QgJiBTb3V0aCBTdCwgRWFzdCBCcm9va2ZpZWxkLCBNQSAwMTUxNSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "b5315a22073367d18aafee64cb78adea",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:49.852331",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

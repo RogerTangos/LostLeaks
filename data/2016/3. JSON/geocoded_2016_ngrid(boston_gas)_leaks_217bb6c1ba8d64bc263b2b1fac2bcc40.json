@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_217bb6c1ba8d64bc263b2b1fac2bcc40.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "260",
+                    "short_name": "260",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Washington Street",
+                    "short_name": "N Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02114",
+                    "short_name": "02114",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "260 N Washington St, Boston, MA 02114, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3677694,
+                        "lng": -71.05921169999999
+                    },
+                    "southwest": {
+                        "lat": 42.3677632,
+                        "lng": -71.0592285
+                    }
+                },
+                "location": {
+                    "lat": 42.3677632,
+                    "lng": -71.0592285
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3691152802915,
+                        "lng": -71.0578711197085
+                    },
+                    "southwest": {
+                        "lat": 42.3664173197085,
+                        "lng": -71.0605690802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EioyNjAgTiBXYXNoaW5ndG9uIFN0LCBCb3N0b24sIE1BIDAyMTE0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "217bb6c1ba8d64bc263b2b1fac2bcc40",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:35:52.790497",
+    "utility": "ngrid",
+    "year": 2016
+}

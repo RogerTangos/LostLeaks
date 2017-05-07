@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_86b52d8c334444b60cf30624ee748446.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "254",
+                    "short_name": "254",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "254 Main St, Acton, MA 01720, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4736874,
+                        "lng": -71.45432720000001
+                    },
+                    "southwest": {
+                        "lat": 42.4736836,
+                        "lng": -71.45434530000001
+                    }
+                },
+                "location": {
+                    "lat": 42.4736874,
+                    "lng": -71.45434530000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4750344802915,
+                        "lng": -71.45298726970852
+                    },
+                    "southwest": {
+                        "lat": 42.4723365197085,
+                        "lng": -71.45568523029154
+                    }
+                }
+            },
+            "place_id": "EiEyNTQgTWFpbiBTdCwgQWN0b24sIE1BIDAxNzIwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "86b52d8c334444b60cf30624ee748446",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:35:40.762113",
+    "utility": "ngrid",
+    "year": 2016
+}

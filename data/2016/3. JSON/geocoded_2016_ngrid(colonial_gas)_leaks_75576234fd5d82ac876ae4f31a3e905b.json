@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_75576234fd5d82ac876ae4f31a3e905b.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Main St & Bridge St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.641263,
+                    "lng": -70.906147
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.64261198029149,
+                        "lng": -70.90479801970851
+                    },
+                    "southwest": {
+                        "lat": 41.63991401970849,
+                        "lng": -70.90749598029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei1NYWluIFN0ICYgQnJpZGdlIFN0LCBGYWlyaGF2ZW4sIE1BIDAyNzE5LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "75576234fd5d82ac876ae4f31a3e905b",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:05.075896",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

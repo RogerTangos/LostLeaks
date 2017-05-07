@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_51b493c9be14d50de33e95d312085f10.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "18",
+                    "short_name": "18",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lakewood Road",
+                    "short_name": "Lakewood Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02190",
+                    "short_name": "02190",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1420",
+                    "short_name": "1420",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "18 Lakewood Rd, Weymouth, MA 02190, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1661768,
+                        "lng": -70.96015419999999
+                    },
+                    "southwest": {
+                        "lat": 42.1660664,
+                        "lng": -70.9603139
+                    }
+                },
+                "location": {
+                    "lat": 42.1661216,
+                    "lng": -70.960234
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.16747058029149,
+                        "lng": -70.95888506970849
+                    },
+                    "southwest": {
+                        "lat": 42.1647726197085,
+                        "lng": -70.96158303029151
+                    }
+                }
+            },
+            "place_id": "ChIJ7XODhHSd5IkRnR1pBMAbXKo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "51b493c9be14d50de33e95d312085f10",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:31.300352",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

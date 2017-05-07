@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b64e927ea37f6d0288ce970457f99809.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Clark Street",
+                    "short_name": "Clark St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2011",
+                    "short_name": "2011",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Clark St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4216051,
+                        "lng": -71.6871559
+                    },
+                    "southwest": {
+                        "lat": 42.42159119999999,
+                        "lng": -71.68715619999999
+                    }
+                },
+                "location": {
+                    "lat": 42.42159119999999,
+                    "lng": -71.68715619999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4229471302915,
+                        "lng": -71.68580706970849
+                    },
+                    "southwest": {
+                        "lat": 42.4202491697085,
+                        "lng": -71.6885050302915
+                    }
+                }
+            },
+            "place_id": "EiMxNyBDbGFyayBTdCwgQ2xpbnRvbiwgTUEgMDE1MTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b64e927ea37f6d0288ce970457f99809",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:10.699296",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,94 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_5bfe8c7947ceb806927b6a765547d2fd.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Woodridge Road",
+                    "short_name": "Woodridge Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Holden",
+                    "short_name": "Holden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01520",
+                    "short_name": "01520",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Woodridge Rd, Holden, MA 01520, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3392769,
+                        "lng": -71.806313
+                    },
+                    "southwest": {
+                        "lat": 42.335241,
+                        "lng": -71.8093252
+                    }
+                },
+                "location": {
+                    "lat": 42.337066,
+                    "lng": -71.808211
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3392769,
+                        "lng": -71.806313
+                    },
+                    "southwest": {
+                        "lat": 42.335241,
+                        "lng": -71.8093252
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJYbII9mL444kRJ0f6CDRD2qA",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "5bfe8c7947ceb806927b6a765547d2fd",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:11:35.506158",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

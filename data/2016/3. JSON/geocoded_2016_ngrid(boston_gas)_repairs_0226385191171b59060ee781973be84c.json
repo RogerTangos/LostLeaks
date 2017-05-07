@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0226385191171b59060ee781973be84c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "46",
+                    "short_name": "46",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Monroe Street",
+                    "short_name": "E Monroe St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3640",
+                    "short_name": "3640",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "46 E Monroe St, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1955827,
+                        "lng": -71.1920583
+                    },
+                    "southwest": {
+                        "lat": 42.1954549,
+                        "lng": -71.1922541
+                    }
+                },
+                "location": {
+                    "lat": 42.19551879999999,
+                    "lng": -71.1921562
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.19686778029151,
+                        "lng": -71.19080721970849
+                    },
+                    "southwest": {
+                        "lat": 42.19416981970851,
+                        "lng": -71.1935051802915
+                    }
+                }
+            },
+            "place_id": "ChIJa1lI3neA5IkR7qywxAboNsE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0226385191171b59060ee781973be84c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:53.737643",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

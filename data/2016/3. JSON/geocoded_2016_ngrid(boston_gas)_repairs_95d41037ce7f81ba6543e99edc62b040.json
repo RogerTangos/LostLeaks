@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_95d41037ce7f81ba6543e99edc62b040.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "29",
+                    "short_name": "29",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beacon Street",
+                    "short_name": "Beacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "29 Beacon St, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.49733639999999,
+                        "lng": -71.1776868
+                    },
+                    "southwest": {
+                        "lat": 42.497324,
+                        "lng": -71.1776951
+                    }
+                },
+                "location": {
+                    "lat": 42.49733639999999,
+                    "lng": -71.1776868
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4986791802915,
+                        "lng": -71.1763419697085
+                    },
+                    "southwest": {
+                        "lat": 42.4959812197085,
+                        "lng": -71.17903993029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicyOSBCZWFjb24gU3QsIEJ1cmxpbmd0b24sIE1BIDAxODAzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "95d41037ce7f81ba6543e99edc62b040",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:12.744124",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

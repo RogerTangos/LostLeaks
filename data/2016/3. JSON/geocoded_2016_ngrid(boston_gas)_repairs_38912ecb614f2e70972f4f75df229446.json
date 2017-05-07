@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_38912ecb614f2e70972f4f75df229446.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "110",
+                    "short_name": "110",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broad Street",
+                    "short_name": "Broad St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Financial District",
+                    "short_name": "Financial District",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02110",
+                    "short_name": "02110",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "110 Broad St, Boston, MA 02110, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3575296,
+                        "lng": -71.0519186
+                    },
+                    "southwest": {
+                        "lat": 42.3572711,
+                        "lng": -71.05225229999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3574004,
+                    "lng": -71.0520855
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3587493302915,
+                        "lng": -71.0507364697085
+                    },
+                    "southwest": {
+                        "lat": 42.3560513697085,
+                        "lng": -71.0534344302915
+                    }
+                }
+            },
+            "place_id": "ChIJR6_aGYdw44kR0kaUciJ6YoY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "38912ecb614f2e70972f4f75df229446",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:48.904952",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

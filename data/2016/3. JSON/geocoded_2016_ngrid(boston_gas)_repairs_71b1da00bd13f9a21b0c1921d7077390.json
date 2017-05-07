@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_71b1da00bd13f9a21b0c1921d7077390.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Estes Street",
+                    "short_name": "Estes St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3055",
+                    "short_name": "3055",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Estes St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4648861,
+                        "lng": -70.9357404
+                    },
+                    "southwest": {
+                        "lat": 42.4647581,
+                        "lng": -70.9359547
+                    }
+                },
+                "location": {
+                    "lat": 42.4648221,
+                    "lng": -70.9358475
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4661710802915,
+                        "lng": -70.9344985697085
+                    },
+                    "southwest": {
+                        "lat": 42.4634731197085,
+                        "lng": -70.9371965302915
+                    }
+                }
+            },
+            "place_id": "ChIJNXFn78Fs44kRlb-W6GKZwZQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "71b1da00bd13f9a21b0c1921d7077390",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:25.144640",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

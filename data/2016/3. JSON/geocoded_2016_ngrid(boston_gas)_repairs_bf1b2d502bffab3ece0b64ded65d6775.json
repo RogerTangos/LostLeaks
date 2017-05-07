@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bf1b2d502bffab3ece0b64ded65d6775.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "133",
+                    "short_name": "133",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Abbott Avenue",
+                    "short_name": "Abbott Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2703",
+                    "short_name": "2703",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "133 Abbott Ave, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5388405,
+                        "lng": -71.76875749999999
+                    },
+                    "southwest": {
+                        "lat": 42.5388336,
+                        "lng": -71.7687737
+                    }
+                },
+                "location": {
+                    "lat": 42.5388405,
+                    "lng": -71.76875749999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5401860302915,
+                        "lng": -71.7674166197085
+                    },
+                    "southwest": {
+                        "lat": 42.5374880697085,
+                        "lng": -71.7701145802915
+                    }
+                }
+            },
+            "place_id": "EikxMzMgQWJib3R0IEF2ZSwgTGVvbWluc3RlciwgTUEgMDE0NTMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bf1b2d502bffab3ece0b64ded65d6775",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:44.532560",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

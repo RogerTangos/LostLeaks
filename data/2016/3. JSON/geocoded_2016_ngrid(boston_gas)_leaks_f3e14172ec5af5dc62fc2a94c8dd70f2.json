@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_f3e14172ec5af5dc62fc2a94c8dd70f2.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Berkeley Street",
+                    "short_name": "E Berkeley St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 E Berkeley St, Boston, MA 02118, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3446372,
+                        "lng": -71.0680283
+                    },
+                    "southwest": {
+                        "lat": 42.3446247,
+                        "lng": -71.0680362
+                    }
+                },
+                "location": {
+                    "lat": 42.3446247,
+                    "lng": -71.0680362
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34597993029151,
+                        "lng": -71.0666832697085
+                    },
+                    "southwest": {
+                        "lat": 42.34328196970851,
+                        "lng": -71.06938123029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiYxIEUgQmVya2VsZXkgU3QsIEJvc3RvbiwgTUEgMDIxMTgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f3e14172ec5af5dc62fc2a94c8dd70f2",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:27:59.144617",
+    "utility": "ngrid",
+    "year": 2016
+}

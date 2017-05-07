@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_14e0c1260e4d3289eb06c9785e2b5ca4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "71",
+                    "short_name": "71",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Trenton Street",
+                    "short_name": "Trenton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Eagle Hill",
+                    "short_name": "Eagle Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "71 Trenton St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3787678,
+                        "lng": -71.0367318
+                    },
+                    "southwest": {
+                        "lat": 42.3787554,
+                        "lng": -71.03674029999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3787554,
+                    "lng": -71.0367318
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38011058029149,
+                        "lng": -71.03538706970849
+                    },
+                    "southwest": {
+                        "lat": 42.37741261970849,
+                        "lng": -71.03808503029151
+                    }
+                }
+            },
+            "place_id": "EiQ3MSBUcmVudG9uIFN0LCBCb3N0b24sIE1BIDAyMTI4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "14e0c1260e4d3289eb06c9785e2b5ca4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:30.347565",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_64fc180275be86c191c5146c4bb39e7c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fowler Street",
+                    "short_name": "Fowler St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3037",
+                    "short_name": "3037",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "27 Fowler St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5597188,
+                        "lng": -70.9351265
+                    },
+                    "southwest": {
+                        "lat": 42.5595808,
+                        "lng": -70.9353027
+                    }
+                },
+                "location": {
+                    "lat": 42.5596498,
+                    "lng": -70.9352146
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5609987802915,
+                        "lng": -70.93386561970848
+                    },
+                    "southwest": {
+                        "lat": 42.5583008197085,
+                        "lng": -70.9365635802915
+                    }
+                }
+            },
+            "place_id": "ChIJoaMvwmER44kRRKse3Pbcbo4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "64fc180275be86c191c5146c4bb39e7c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:51.935610",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

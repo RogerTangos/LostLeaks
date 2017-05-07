@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c5ce7458b4494341d1a2f7fedc2ad890.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1553",
+                    "short_name": "1553",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Shore Road",
+                    "short_name": "N Shore Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1553 N Shore Rd, Revere, MA 02151, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4066964,
+                    "lng": -70.9941468
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4080453802915,
+                        "lng": -70.9927978197085
+                    },
+                    "southwest": {
+                        "lat": 42.40534741970851,
+                        "lng": -70.9954957802915
+                    }
+                }
+            },
+            "place_id": "ChIJkSRCPRtu44kRh35vBeozras",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c5ce7458b4494341d1a2f7fedc2ad890",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:41.731439",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

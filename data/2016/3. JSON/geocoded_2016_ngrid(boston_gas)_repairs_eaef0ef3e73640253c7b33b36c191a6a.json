@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eaef0ef3e73640253c7b33b36c191a6a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Amherst Road",
+                    "short_name": "Amherst Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2215",
+                    "short_name": "2215",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Amherst Rd, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5093553,
+                        "lng": -71.22078069999999
+                    },
+                    "southwest": {
+                        "lat": 42.50918799999999,
+                        "lng": -71.2209252
+                    }
+                },
+                "location": {
+                    "lat": 42.5092716,
+                    "lng": -71.2208529
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.51062063029149,
+                        "lng": -71.21950396970848
+                    },
+                    "southwest": {
+                        "lat": 42.50792266970849,
+                        "lng": -71.22220193029149
+                    }
+                }
+            },
+            "place_id": "ChIJDVU7vr6f44kRxeym-xUollU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "eaef0ef3e73640253c7b33b36c191a6a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:58.683071",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

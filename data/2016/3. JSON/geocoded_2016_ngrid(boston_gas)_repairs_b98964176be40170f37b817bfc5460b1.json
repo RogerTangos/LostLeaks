@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b98964176be40170f37b817bfc5460b1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Morgan Place",
+                    "short_name": "Morgan Pl",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nonantum",
+                    "short_name": "Nonantum",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02458",
+                    "short_name": "02458",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Morgan Pl, Newton, MA 02458, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3605024,
+                        "lng": -71.1977462
+                    },
+                    "southwest": {
+                        "lat": 42.3604917,
+                        "lng": -71.1977581
+                    }
+                },
+                "location": {
+                    "lat": 42.3604917,
+                    "lng": -71.1977462
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3618460302915,
+                        "lng": -71.19640316970849
+                    },
+                    "southwest": {
+                        "lat": 42.3591480697085,
+                        "lng": -71.19910113029151
+                    }
+                }
+            },
+            "place_id": "EiI2IE1vcmdhbiBQbCwgTmV3dG9uLCBNQSAwMjQ1OCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b98964176be40170f37b817bfc5460b1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:24.112465",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

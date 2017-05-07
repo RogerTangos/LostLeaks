@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a622101d562d7765f2af5d7fd972febb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Circle",
+                    "short_name": "Park Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1239",
+                    "short_name": "1239",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Park Cir, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2581962,
+                        "lng": -70.90139409999999
+                    },
+                    "southwest": {
+                        "lat": 42.2581829,
+                        "lng": -70.90139959999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2581962,
+                    "lng": -70.90139409999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2595385302915,
+                        "lng": -70.90004786970849
+                    },
+                    "southwest": {
+                        "lat": 42.2568405697085,
+                        "lng": -70.90274583029151
+                    }
+                }
+            },
+            "place_id": "EiMzOCBQYXJrIENpciwgSGluZ2hhbSwgTUEgMDIwNDMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a622101d562d7765f2af5d7fd972febb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:47.083172",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

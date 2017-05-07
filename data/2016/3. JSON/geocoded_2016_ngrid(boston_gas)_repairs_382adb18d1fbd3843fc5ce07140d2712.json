@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_382adb18d1fbd3843fc5ce07140d2712.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harvard Avenue",
+                    "short_name": "Harvard Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Allston",
+                    "short_name": "Allston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02134",
+                    "short_name": "02134",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Harvard Ave, Boston, MA 02134, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3542219,
+                        "lng": -71.13237
+                    },
+                    "southwest": {
+                        "lat": 42.354219,
+                        "lng": -71.1323883
+                    }
+                },
+                "location": {
+                    "lat": 42.3542219,
+                    "lng": -71.13237
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3555694302915,
+                        "lng": -71.13103016970848
+                    },
+                    "southwest": {
+                        "lat": 42.3528714697085,
+                        "lng": -71.1337281302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiU2MCBIYXJ2YXJkIEF2ZSwgQm9zdG9uLCBNQSAwMjEzNCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "382adb18d1fbd3843fc5ce07140d2712",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:29.539863",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

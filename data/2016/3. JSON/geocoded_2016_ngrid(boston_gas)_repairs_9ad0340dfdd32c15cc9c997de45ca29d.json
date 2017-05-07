@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9ad0340dfdd32c15cc9c997de45ca29d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lummus Avenue",
+                    "short_name": "Lummus Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2903",
+                    "short_name": "2903",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Lummus Ave, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5683099,
+                        "lng": -70.9366344
+                    },
+                    "southwest": {
+                        "lat": 42.568179,
+                        "lng": -70.93681819999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5682445,
+                    "lng": -70.9367263
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5695934302915,
+                        "lng": -70.93537731970848
+                    },
+                    "southwest": {
+                        "lat": 42.5668954697085,
+                        "lng": -70.9380752802915
+                    }
+                }
+            },
+            "place_id": "ChIJ197OAGYR44kRYmG_Df9_IGo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9ad0340dfdd32c15cc9c997de45ca29d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:19.727609",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

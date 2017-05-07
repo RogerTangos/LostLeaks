@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8299201f2620b3fbb5afeaa4d8f2a184.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Commonwealth Avenue & Melrose St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3479464,
+                    "lng": -71.2488427
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3492953802915,
+                        "lng": -71.24749371970849
+                    },
+                    "southwest": {
+                        "lat": 42.3465974197085,
+                        "lng": -71.2501916802915
+                    }
+                }
+            },
+            "place_id": "EjtDb21tb253ZWFsdGggQXZlbnVlICYgTWVscm9zZSBTdCwgQXVidXJuZGFsZSwgTUEgMDI0NjYsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "8299201f2620b3fbb5afeaa4d8f2a184",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:23.325198",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

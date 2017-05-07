@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a0f74cba9e87d2c5120c4936bf35d684.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hilltop Drive",
+                    "short_name": "Hilltop Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3927",
+                    "short_name": "3927",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Hilltop Dr, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4989463,
+                        "lng": -71.2106515
+                    },
+                    "southwest": {
+                        "lat": 42.4987909,
+                        "lng": -71.2107917
+                    }
+                },
+                "location": {
+                    "lat": 42.4988686,
+                    "lng": -71.2107216
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5002175802915,
+                        "lng": -71.2093726197085
+                    },
+                    "southwest": {
+                        "lat": 42.4975196197085,
+                        "lng": -71.21207058029152
+                    }
+                }
+            },
+            "place_id": "ChIJA0uQLsmf44kRSawjEYol7jc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a0f74cba9e87d2c5120c4936bf35d684",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:45.137685",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

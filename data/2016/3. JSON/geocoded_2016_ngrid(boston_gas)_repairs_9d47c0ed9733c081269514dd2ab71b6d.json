@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9d47c0ed9733c081269514dd2ab71b6d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "97",
+                    "short_name": "97",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beale Street",
+                    "short_name": "Beale St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2616",
+                    "short_name": "2616",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "97 Beale St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.265733,
+                        "lng": -71.0197527
+                    },
+                    "southwest": {
+                        "lat": 42.2653303,
+                        "lng": -71.02021200000001
+                    }
+                },
+                "location": {
+                    "lat": 42.2655316,
+                    "lng": -71.0199824
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2668806302915,
+                        "lng": -71.0186333697085
+                    },
+                    "southwest": {
+                        "lat": 42.2641826697085,
+                        "lng": -71.02133133029152
+                    }
+                }
+            },
+            "place_id": "ChIJyTVoraZ844kRMuNdFNPN_0U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9d47c0ed9733c081269514dd2ab71b6d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:02.541598",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

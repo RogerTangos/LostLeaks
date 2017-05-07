@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4b14bbca6c9dd8ed3d0f90a886a5c3d3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "146",
+                    "short_name": "146",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Naples Road",
+                    "short_name": "Naples Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North Brookline",
+                    "short_name": "North Brookline",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02446",
+                    "short_name": "02446",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "146 Naples Rd, Brookline, MA 02446, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3501477,
+                        "lng": -71.1239731
+                    },
+                    "southwest": {
+                        "lat": 42.3499848,
+                        "lng": -71.1241374
+                    }
+                },
+                "location": {
+                    "lat": 42.35006629999999,
+                    "lng": -71.1240552
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3514152302915,
+                        "lng": -71.1227062697085
+                    },
+                    "southwest": {
+                        "lat": 42.3487172697085,
+                        "lng": -71.12540423029151
+                    }
+                }
+            },
+            "place_id": "ChIJbz8yM8J544kR0BsSvM3shqA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4b14bbca6c9dd8ed3d0f90a886a5c3d3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:13.700597",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

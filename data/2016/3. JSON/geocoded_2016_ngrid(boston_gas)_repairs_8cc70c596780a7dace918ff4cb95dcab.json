@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8cc70c596780a7dace918ff4cb95dcab.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Shortell Avenue",
+                    "short_name": "Shortell Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3930",
+                    "short_name": "3930",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Shortell Ave, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5496681,
+                        "lng": -70.9077029
+                    },
+                    "southwest": {
+                        "lat": 42.5495674,
+                        "lng": -70.9078773
+                    }
+                },
+                "location": {
+                    "lat": 42.5496177,
+                    "lng": -70.9077901
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5509667302915,
+                        "lng": -70.9064411197085
+                    },
+                    "southwest": {
+                        "lat": 42.5482687697085,
+                        "lng": -70.90913908029151
+                    }
+                }
+            },
+            "place_id": "ChIJv3UaUv8T44kRmAtkHUwygfc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8cc70c596780a7dace918ff4cb95dcab",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:33.816870",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

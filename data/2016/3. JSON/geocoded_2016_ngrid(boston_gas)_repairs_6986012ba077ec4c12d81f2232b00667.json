@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6986012ba077ec4c12d81f2232b00667.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Trenton Street",
+                    "short_name": "Trenton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4412",
+                    "short_name": "4412",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Trenton St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4500621,
+                        "lng": -71.0754523
+                    },
+                    "southwest": {
+                        "lat": 42.4500546,
+                        "lng": -71.075468
+                    }
+                },
+                "location": {
+                    "lat": 42.4500546,
+                    "lng": -71.0754523
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4514073302915,
+                        "lng": -71.07411116970849
+                    },
+                    "southwest": {
+                        "lat": 42.4487093697085,
+                        "lng": -71.0768091302915
+                    }
+                }
+            },
+            "place_id": "EiQ3IFRyZW50b24gU3QsIE1lbHJvc2UsIE1BIDAyMTc2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6986012ba077ec4c12d81f2232b00667",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:22.487556",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

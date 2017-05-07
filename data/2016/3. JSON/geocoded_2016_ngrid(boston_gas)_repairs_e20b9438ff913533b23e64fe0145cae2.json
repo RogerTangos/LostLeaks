@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e20b9438ff913533b23e64fe0145cae2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "104",
+                    "short_name": "104",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Richardson Road",
+                    "short_name": "Richardson Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2502",
+                    "short_name": "2502",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "104 Richardson Rd, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4826263,
+                        "lng": -70.96380979999999
+                    },
+                    "southwest": {
+                        "lat": 42.4825243,
+                        "lng": -70.9639749
+                    }
+                },
+                "location": {
+                    "lat": 42.4825753,
+                    "lng": -70.9638923
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4839242802915,
+                        "lng": -70.9625433697085
+                    },
+                    "southwest": {
+                        "lat": 42.4812263197085,
+                        "lng": -70.9652413302915
+                    }
+                }
+            },
+            "place_id": "ChIJf-BBYy5t44kRJm1A508-2tE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e20b9438ff913533b23e64fe0145cae2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:29.768139",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

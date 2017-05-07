@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c899ffe9ddf99f2017079da86cf2186c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4211",
+                    "short_name": "4211",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stearns Hill Road",
+                    "short_name": "Stearns Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lakeview",
+                    "short_name": "Lakeview",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "4211 Stearns Hill Rd, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4092838,
+                        "lng": -71.2382587
+                    },
+                    "southwest": {
+                        "lat": 42.4092808,
+                        "lng": -71.238277
+                    }
+                },
+                "location": {
+                    "lat": 42.4092838,
+                    "lng": -71.238277
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4106312802915,
+                        "lng": -71.23691886970849
+                    },
+                    "southwest": {
+                        "lat": 42.4079333197085,
+                        "lng": -71.2396168302915
+                    }
+                }
+            },
+            "place_id": "Eiw0MjExIFN0ZWFybnMgSGlsbCBSZCwgV2FsdGhhbSwgTUEgMDI0NTEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c899ffe9ddf99f2017079da86cf2186c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:27.768790",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

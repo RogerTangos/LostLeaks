@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c2274ff26c12837adcdcafd659a545da.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "93",
+                    "short_name": "93",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Amory Street",
+                    "short_name": "Amory St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1051",
+                    "short_name": "1051",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "93 Amory St, Boston, MA 02119, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3199388,
+                        "lng": -71.0994201
+                    },
+                    "southwest": {
+                        "lat": 42.3199343,
+                        "lng": -71.09943779999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3199388,
+                    "lng": -71.09943779999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3212855302915,
+                        "lng": -71.09807996970848
+                    },
+                    "southwest": {
+                        "lat": 42.3185875697085,
+                        "lng": -71.1007779302915
+                    }
+                }
+            },
+            "place_id": "EiI5MyBBbW9yeSBTdCwgQm9zdG9uLCBNQSAwMjExOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c2274ff26c12837adcdcafd659a545da",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:52.265858",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

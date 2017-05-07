@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7c39e6bd1288792ee2e7f91667ea597b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Garfield Road",
+                    "short_name": "Garfield Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3202",
+                    "short_name": "3202",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Garfield Rd, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4612586,
+                        "lng": -71.0545545
+                    },
+                    "southwest": {
+                        "lat": 42.4611128,
+                        "lng": -71.0546785
+                    }
+                },
+                "location": {
+                    "lat": 42.4611857,
+                    "lng": -71.0546165
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46253468029149,
+                        "lng": -71.0532675197085
+                    },
+                    "southwest": {
+                        "lat": 42.4598367197085,
+                        "lng": -71.0559654802915
+                    }
+                }
+            },
+            "place_id": "ChIJmdJV8atz44kRdU4G5-2sq_c",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7c39e6bd1288792ee2e7f91667ea597b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:12.517326",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

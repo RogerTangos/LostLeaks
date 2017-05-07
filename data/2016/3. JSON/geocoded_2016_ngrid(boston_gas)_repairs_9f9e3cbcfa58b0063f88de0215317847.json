@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9f9e3cbcfa58b0063f88de0215317847.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Squantum Street",
+                    "short_name": "E Squantum St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North Quincy",
+                    "short_name": "North Quincy",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2204",
+                    "short_name": "2204",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 E Squantum St, Quincy, MA 02171, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2766597,
+                        "lng": -71.0275774
+                    },
+                    "southwest": {
+                        "lat": 42.2766568,
+                        "lng": -71.0275958
+                    }
+                },
+                "location": {
+                    "lat": 42.2766568,
+                    "lng": -71.0275774
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2780072302915,
+                        "lng": -71.02623761970848
+                    },
+                    "southwest": {
+                        "lat": 42.2753092697085,
+                        "lng": -71.0289355802915
+                    }
+                }
+            },
+            "place_id": "EicyMSBFIFNxdWFudHVtIFN0LCBRdWluY3ksIE1BIDAyMTcxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9f9e3cbcfa58b0063f88de0215317847",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:29.679921",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

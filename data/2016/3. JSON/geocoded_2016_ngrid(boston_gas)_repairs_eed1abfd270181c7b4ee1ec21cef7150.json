@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eed1abfd270181c7b4ee1ec21cef7150.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kondazian Street",
+                    "short_name": "Kondazian St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2830",
+                    "short_name": "2830",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Kondazian St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3679006,
+                        "lng": -71.15279579999999
+                    },
+                    "southwest": {
+                        "lat": 42.3677484,
+                        "lng": -71.1530124
+                    }
+                },
+                "location": {
+                    "lat": 42.3678245,
+                    "lng": -71.1529041
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36917348029149,
+                        "lng": -71.15155511970849
+                    },
+                    "southwest": {
+                        "lat": 42.36647551970849,
+                        "lng": -71.1542530802915
+                    }
+                }
+            },
+            "place_id": "ChIJo4A9xSl444kRXIhjBuz6v7A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "eed1abfd270181c7b4ee1ec21cef7150",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:19.706741",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

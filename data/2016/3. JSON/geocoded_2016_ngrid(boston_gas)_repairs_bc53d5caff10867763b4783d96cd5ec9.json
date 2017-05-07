@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bc53d5caff10867763b4783d96cd5ec9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Adams Street",
+                    "short_name": "Adams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2717",
+                    "short_name": "2717",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Adams St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5582653,
+                        "lng": -70.9450883
+                    },
+                    "southwest": {
+                        "lat": 42.5580924,
+                        "lng": -70.9452276
+                    }
+                },
+                "location": {
+                    "lat": 42.5581788,
+                    "lng": -70.94515799999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5595278302915,
+                        "lng": -70.9438089697085
+                    },
+                    "southwest": {
+                        "lat": 42.5568298697085,
+                        "lng": -70.9465069302915
+                    }
+                }
+            },
+            "place_id": "ChIJl6M6qNcT44kRKeEOSXupEks",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bc53d5caff10867763b4783d96cd5ec9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:10.593356",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_43721282fe13a361fea9069a5d121c1b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "175",
+                    "short_name": "175",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury Road",
+                    "short_name": "Sudbury Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "175 Sudbury Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4555359,
+                        "lng": -71.3563236
+                    },
+                    "southwest": {
+                        "lat": 42.4554024,
+                        "lng": -71.3565038
+                    }
+                },
+                "location": {
+                    "lat": 42.45546909999999,
+                    "lng": -71.35641369999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4568181302915,
+                        "lng": -71.35506471970848
+                    },
+                    "southwest": {
+                        "lat": 42.4541201697085,
+                        "lng": -71.3577626802915
+                    }
+                }
+            },
+            "place_id": "ChIJ0eKUhUGa44kRVEzzbOKbSBY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "43721282fe13a361fea9069a5d121c1b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:22.736999",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8b1b49a95f0e053501251ae19d03b2e2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hutchinson Street",
+                    "short_name": "Hutchinson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1030",
+                    "short_name": "1030",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Hutchinson St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3854191,
+                        "lng": -70.9753181
+                    },
+                    "southwest": {
+                        "lat": 42.38540589999999,
+                        "lng": -70.97532389999999
+                    }
+                },
+                "location": {
+                    "lat": 42.38540589999999,
+                    "lng": -70.97532389999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3867614802915,
+                        "lng": -70.9739720197085
+                    },
+                    "southwest": {
+                        "lat": 42.3840635197085,
+                        "lng": -70.9766699802915
+                    }
+                }
+            },
+            "place_id": "EikzMyBIdXRjaGluc29uIFN0LCBXaW50aHJvcCwgTUEgMDIxNTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8b1b49a95f0e053501251ae19d03b2e2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:03.917531",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

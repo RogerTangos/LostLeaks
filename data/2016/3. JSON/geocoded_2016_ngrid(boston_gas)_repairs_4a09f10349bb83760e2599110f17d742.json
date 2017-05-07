@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4a09f10349bb83760e2599110f17d742.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tremont Street",
+                    "short_name": "Tremont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5431",
+                    "short_name": "5431",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Tremont St, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7736638,
+                        "lng": -71.08961699999999
+                    },
+                    "southwest": {
+                        "lat": 42.7736529,
+                        "lng": -71.0896284
+                    }
+                },
+                "location": {
+                    "lat": 42.7736529,
+                    "lng": -71.08961699999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7750073302915,
+                        "lng": -71.0882737197085
+                    },
+                    "southwest": {
+                        "lat": 42.7723093697085,
+                        "lng": -71.0909716802915
+                    }
+                }
+            },
+            "place_id": "EicxNiBUcmVtb250IFN0LCBIYXZlcmhpbGwsIE1BIDAxODMyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4a09f10349bb83760e2599110f17d742",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:56.940042",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

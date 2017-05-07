@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_17b627b6cbd9748b708a474c08da3cc6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln Road",
+                    "short_name": "Lincoln Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Lincoln Rd, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1468782,
+                        "lng": -70.920371
+                    },
+                    "southwest": {
+                        "lat": 42.14673579999999,
+                        "lng": -70.920552
+                    }
+                },
+                "location": {
+                    "lat": 42.146807,
+                    "lng": -70.9204615
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.14815598029149,
+                        "lng": -70.91911251970849
+                    },
+                    "southwest": {
+                        "lat": 42.14545801970849,
+                        "lng": -70.9218104802915
+                    }
+                }
+            },
+            "place_id": "ChIJGUYo68-d5IkRBfCGCiEfTu8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "17b627b6cbd9748b708a474c08da3cc6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:14.227746",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

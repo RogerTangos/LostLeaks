@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_638d8be5cb16b128f332d4a0ec7f9688.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Franklin Avenue",
+                    "short_name": "Franklin Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1115",
+                    "short_name": "1115",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Franklin Ave, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4765519,
+                        "lng": -70.916629
+                    },
+                    "southwest": {
+                        "lat": 42.4764367,
+                        "lng": -70.9167751
+                    }
+                },
+                "location": {
+                    "lat": 42.4764943,
+                    "lng": -70.9167021
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4778432802915,
+                        "lng": -70.9153530697085
+                    },
+                    "southwest": {
+                        "lat": 42.4751453197085,
+                        "lng": -70.91805103029151
+                    }
+                }
+            },
+            "place_id": "ChIJBXVtt61s44kRxSS_Mj9RSig",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "638d8be5cb16b128f332d4a0ec7f9688",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:30.249421",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

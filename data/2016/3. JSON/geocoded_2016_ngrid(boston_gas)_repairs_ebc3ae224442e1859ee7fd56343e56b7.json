@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ebc3ae224442e1859ee7fd56343e56b7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Centennial Avenue",
+                    "short_name": "Centennial Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Centennial Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4616943,
+                        "lng": -71.0098702
+                    },
+                    "southwest": {
+                        "lat": 42.4616812,
+                        "lng": -71.00987649999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4616943,
+                    "lng": -71.0098702
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4630367302915,
+                        "lng": -71.0085243697085
+                    },
+                    "southwest": {
+                        "lat": 42.4603387697085,
+                        "lng": -71.0112223302915
+                    }
+                }
+            },
+            "place_id": "EigxOSBDZW50ZW5uaWFsIEF2ZSwgU2F1Z3VzLCBNQSAwMTkwNiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ebc3ae224442e1859ee7fd56343e56b7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:44.359020",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

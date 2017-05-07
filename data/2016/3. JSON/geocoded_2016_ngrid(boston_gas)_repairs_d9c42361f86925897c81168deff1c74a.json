@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d9c42361f86925897c81168deff1c74a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carey Avenue",
+                    "short_name": "Carey Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Carey Ave, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3763793,
+                        "lng": -71.1945691
+                    },
+                    "southwest": {
+                        "lat": 42.376174,
+                        "lng": -71.1948586
+                    }
+                },
+                "location": {
+                    "lat": 42.3762767,
+                    "lng": -71.1947139
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3776256302915,
+                        "lng": -71.1933648697085
+                    },
+                    "southwest": {
+                        "lat": 42.37492766970851,
+                        "lng": -71.19606283029151
+                    }
+                }
+            },
+            "place_id": "ChIJcxwcJVWd44kRnfM0UpfAvSo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d9c42361f86925897c81168deff1c74a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:24.053713",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

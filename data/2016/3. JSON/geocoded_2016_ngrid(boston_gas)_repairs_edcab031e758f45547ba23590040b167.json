@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_edcab031e758f45547ba23590040b167.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Winter Street",
+                    "short_name": "Winter St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Winter St & Prospect St, Norwood, MA 02062, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1945895,
+                    "lng": -71.2131505
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1959384802915,
+                        "lng": -71.2118015197085
+                    },
+                    "southwest": {
+                        "lat": 42.1932405197085,
+                        "lng": -71.21449948029151
+                    }
+                }
+            },
+            "place_id": "Ei9XaW50ZXIgU3QgJiBQcm9zcGVjdCBTdCwgTm9yd29vZCwgTUEgMDIwNjIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "edcab031e758f45547ba23590040b167",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:58.788741",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

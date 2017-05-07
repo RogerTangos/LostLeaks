@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6857ffd1df7136a685f1585b664ef77d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "52",
+                    "short_name": "52",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grove Street",
+                    "short_name": "Grove St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2317",
+                    "short_name": "2317",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "52 Grove St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.34452390000001,
+                        "lng": -71.2472652
+                    },
+                    "southwest": {
+                        "lat": 42.3445153,
+                        "lng": -71.24728
+                    }
+                },
+                "location": {
+                    "lat": 42.3445153,
+                    "lng": -71.2472652
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3458685802915,
+                        "lng": -71.2459236197085
+                    },
+                    "southwest": {
+                        "lat": 42.34317061970851,
+                        "lng": -71.24862158029151
+                    }
+                }
+            },
+            "place_id": "EiY1MiBHcm92ZSBTdCwgQXVidXJuZGFsZSwgTUEgMDI0NjYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6857ffd1df7136a685f1585b664ef77d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:38.967020",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

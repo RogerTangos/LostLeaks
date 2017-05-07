@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_888fdb30aba11a7e505342e1549a4302.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "640",
+                    "short_name": "640",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Centre Street",
+                    "short_name": "Centre St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2555",
+                    "short_name": "2555",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "640 Centre St, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3133972,
+                        "lng": -71.1134514
+                    },
+                    "southwest": {
+                        "lat": 42.3131316,
+                        "lng": -71.1139756
+                    }
+                },
+                "location": {
+                    "lat": 42.31326440000001,
+                    "lng": -71.1137135
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3146133802915,
+                        "lng": -71.1123645197085
+                    },
+                    "southwest": {
+                        "lat": 42.3119154197085,
+                        "lng": -71.11506248029151
+                    }
+                }
+            },
+            "place_id": "ChIJx9SWFW5544kRPMTMjPyZyRw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "888fdb30aba11a7e505342e1549a4302",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:53.456487",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

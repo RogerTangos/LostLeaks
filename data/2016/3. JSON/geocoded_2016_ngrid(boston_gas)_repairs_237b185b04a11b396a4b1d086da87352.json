@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_237b185b04a11b396a4b1d086da87352.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beach Avenue",
+                    "short_name": "Beach Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2539",
+                    "short_name": "2539",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Beach Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.281777,
+                        "lng": -70.8681986
+                    },
+                    "southwest": {
+                        "lat": 42.2817696,
+                        "lng": -70.8682145
+                    }
+                },
+                "location": {
+                    "lat": 42.2817696,
+                    "lng": -70.8682145
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2831222802915,
+                        "lng": -70.8668575697085
+                    },
+                    "southwest": {
+                        "lat": 42.2804243197085,
+                        "lng": -70.8695555302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiEzNSBCZWFjaCBBdmUsIEh1bGwsIE1BIDAyMDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "237b185b04a11b396a4b1d086da87352",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:17.764654",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

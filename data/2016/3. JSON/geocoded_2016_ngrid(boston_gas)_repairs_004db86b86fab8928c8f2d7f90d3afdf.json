@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_004db86b86fab8928c8f2d7f90d3afdf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "163",
+                    "short_name": "163",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "High Street Hill",
+                    "short_name": "High Street Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6714",
+                    "short_name": "6714",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "163 High St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3264675,
+                        "lng": -71.12021
+                    },
+                    "southwest": {
+                        "lat": 42.3262964,
+                        "lng": -71.120527
+                    }
+                },
+                "location": {
+                    "lat": 42.3263819,
+                    "lng": -71.1203685
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32773093029149,
+                        "lng": -71.11901951970849
+                    },
+                    "southwest": {
+                        "lat": 42.3250329697085,
+                        "lng": -71.12171748029151
+                    }
+                }
+            },
+            "place_id": "ChIJiUUHjp9544kRaG2ZbISqbNs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "004db86b86fab8928c8f2d7f90d3afdf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:03.637517",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

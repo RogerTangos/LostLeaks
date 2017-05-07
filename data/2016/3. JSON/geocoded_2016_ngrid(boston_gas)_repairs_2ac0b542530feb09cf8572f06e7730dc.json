@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2ac0b542530feb09cf8572f06e7730dc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Garden Lane",
+                    "short_name": "Garden Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02452",
+                    "short_name": "02452",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6177",
+                    "short_name": "6177",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Garden Ln, Waltham, MA 02452, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3807018,
+                        "lng": -71.22930339999999
+                    },
+                    "southwest": {
+                        "lat": 42.3806939,
+                        "lng": -71.2293188
+                    }
+                },
+                "location": {
+                    "lat": 42.3807018,
+                    "lng": -71.22930339999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3820468302915,
+                        "lng": -71.2279621197085
+                    },
+                    "southwest": {
+                        "lat": 42.3793488697085,
+                        "lng": -71.2306600802915
+                    }
+                }
+            },
+            "place_id": "EiQzNiBHYXJkZW4gTG4sIFdhbHRoYW0sIE1BIDAyNDUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2ac0b542530feb09cf8572f06e7730dc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:30.643181",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

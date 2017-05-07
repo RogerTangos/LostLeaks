@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_423032c0813a215aaedba1e1ee9fa28e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sherwood Road",
+                    "short_name": "Sherwood Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2725",
+                    "short_name": "2725",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Sherwood Rd, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2302048,
+                        "lng": -70.8933169
+                    },
+                    "southwest": {
+                        "lat": 42.2301934,
+                        "lng": -70.8933277
+                    }
+                },
+                "location": {
+                    "lat": 42.2301934,
+                    "lng": -70.8933277
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2315480802915,
+                        "lng": -70.8919733197085
+                    },
+                    "southwest": {
+                        "lat": 42.2288501197085,
+                        "lng": -70.8946712802915
+                    }
+                }
+            },
+            "place_id": "EiYxMCBTaGVyd29vZCBSZCwgSGluZ2hhbSwgTUEgMDIwNDMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "423032c0813a215aaedba1e1ee9fa28e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:16.837115",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

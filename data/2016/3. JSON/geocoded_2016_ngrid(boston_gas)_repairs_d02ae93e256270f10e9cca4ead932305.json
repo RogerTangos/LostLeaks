@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d02ae93e256270f10e9cca4ead932305.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02188",
+                    "short_name": "02188",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Washington St & Broad St, Weymouth, MA 02188, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.216255,
+                    "lng": -70.9635653
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.21760398029149,
+                        "lng": -70.96221631970849
+                    },
+                    "southwest": {
+                        "lat": 42.21490601970849,
+                        "lng": -70.9649142802915
+                    }
+                }
+            },
+            "place_id": "EjFXYXNoaW5ndG9uIFN0ICYgQnJvYWQgU3QsIFdleW1vdXRoLCBNQSAwMjE4OCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d02ae93e256270f10e9cca4ead932305",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:57.526209",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

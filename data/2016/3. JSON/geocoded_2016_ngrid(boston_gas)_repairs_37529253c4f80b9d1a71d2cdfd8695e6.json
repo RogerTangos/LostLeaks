@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_37529253c4f80b9d1a71d2cdfd8695e6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Van Wart Path",
+                    "short_name": "Van Wart Path",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oak Hill",
+                    "short_name": "Oak Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3720",
+                    "short_name": "3720",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Van Wart Path, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.28926,
+                        "lng": -71.1853155
+                    },
+                    "southwest": {
+                        "lat": 42.2892493,
+                        "lng": -71.1853274
+                    }
+                },
+                "location": {
+                    "lat": 42.2892493,
+                    "lng": -71.1853274
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2906036302915,
+                        "lng": -71.18397246970851
+                    },
+                    "southwest": {
+                        "lat": 42.28790566970851,
+                        "lng": -71.18667043029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicyMSBWYW4gV2FydCBQYXRoLCBOZXd0b24sIE1BIDAyNDU5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "37529253c4f80b9d1a71d2cdfd8695e6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:34.493677",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8374ec4c3917805c3c9e556b59d8f7d8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "559",
+                    "short_name": "559",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East 4th Street",
+                    "short_name": "E 4th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3023",
+                    "short_name": "3023",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "559 E 4th St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3345698,
+                        "lng": -71.0423179
+                    },
+                    "southwest": {
+                        "lat": 42.3343997,
+                        "lng": -71.04240589999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3344847,
+                    "lng": -71.0423619
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3358337302915,
+                        "lng": -71.04101291970849
+                    },
+                    "southwest": {
+                        "lat": 42.3331357697085,
+                        "lng": -71.0437108802915
+                    }
+                }
+            },
+            "place_id": "ChIJ4T8HFox644kRL9prM0Do5kM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8374ec4c3917805c3c9e556b59d8f7d8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:55.879507",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

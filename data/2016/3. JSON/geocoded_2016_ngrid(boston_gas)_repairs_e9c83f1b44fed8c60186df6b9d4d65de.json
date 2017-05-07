@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e9c83f1b44fed8c60186df6b9d4d65de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "67",
+                    "short_name": "67",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Idlewell Street",
+                    "short_name": "Idlewell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02188",
+                    "short_name": "02188",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3713",
+                    "short_name": "3713",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "67 Idlewell St, Weymouth, MA 02188, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2282957,
+                        "lng": -70.95477550000001
+                    },
+                    "southwest": {
+                        "lat": 42.2282005,
+                        "lng": -70.95490339999999
+                    }
+                },
+                "location": {
+                    "lat": 42.22824809999999,
+                    "lng": -70.95483949999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2295970802915,
+                        "lng": -70.9534904697085
+                    },
+                    "southwest": {
+                        "lat": 42.2268991197085,
+                        "lng": -70.9561884302915
+                    }
+                }
+            },
+            "place_id": "ChIJhaVmiAdj44kRjSXfPIuvTyA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e9c83f1b44fed8c60186df6b9d4d65de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:06.428296",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dfe92f8565bff3e1292404c6262d28c1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Parkview Road",
+                    "short_name": "Parkview Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5115",
+                    "short_name": "5115",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Parkview Rd, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4109335,
+                        "lng": -71.04091509999999
+                    },
+                    "southwest": {
+                        "lat": 42.4108086,
+                        "lng": -71.0410886
+                    }
+                },
+                "location": {
+                    "lat": 42.4108711,
+                    "lng": -71.0410018
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41222003029149,
+                        "lng": -71.0396528697085
+                    },
+                    "southwest": {
+                        "lat": 42.4095220697085,
+                        "lng": -71.04235083029151
+                    }
+                }
+            },
+            "place_id": "ChIJeToif5lx44kR9rJ_s-00AUQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dfe92f8565bff3e1292404c6262d28c1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:32.890879",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

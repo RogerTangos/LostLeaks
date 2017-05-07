@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_64c3810788637986c8f4723d8a549343.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "48",
+                    "short_name": "48",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gloucester",
+                    "short_name": "Gloucester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01930",
+                    "short_name": "01930",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "48 Main St, Gloucester, MA 01930, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6122111,
+                        "lng": -70.6651291
+                    },
+                    "southwest": {
+                        "lat": 42.6122027,
+                        "lng": -70.6651439
+                    }
+                },
+                "location": {
+                    "lat": 42.6122111,
+                    "lng": -70.6651439
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.61355588029149,
+                        "lng": -70.66378751970849
+                    },
+                    "southwest": {
+                        "lat": 42.6108579197085,
+                        "lng": -70.6664854802915
+                    }
+                }
+            },
+            "place_id": "EiU0OCBNYWluIFN0LCBHbG91Y2VzdGVyLCBNQSAwMTkzMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "64c3810788637986c8f4723d8a549343",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:06.059601",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

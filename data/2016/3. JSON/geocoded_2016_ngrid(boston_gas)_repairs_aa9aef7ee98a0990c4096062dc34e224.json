@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_aa9aef7ee98a0990c4096062dc34e224.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Erie Lane",
+                    "short_name": "Erie Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1103",
+                    "short_name": "1103",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Erie Ln, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5889753,
+                        "lng": -70.9484954
+                    },
+                    "southwest": {
+                        "lat": 42.5888388,
+                        "lng": -70.9486424
+                    }
+                },
+                "location": {
+                    "lat": 42.5889071,
+                    "lng": -70.9485689
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5902560302915,
+                        "lng": -70.94721991970849
+                    },
+                    "southwest": {
+                        "lat": 42.5875580697085,
+                        "lng": -70.9499178802915
+                    }
+                }
+            },
+            "place_id": "ChIJzW6GUg8R44kRRY7zV1Jran4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "aa9aef7ee98a0990c4096062dc34e224",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:17.558992",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

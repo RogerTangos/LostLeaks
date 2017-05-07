@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_68d189033f6aed4c9676bcc6f3412c68.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Circuit Avenue",
+                    "short_name": "Circuit Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3805",
+                    "short_name": "3805",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Circuit Ave, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4686656,
+                        "lng": -70.9481836
+                    },
+                    "southwest": {
+                        "lat": 42.4685339,
+                        "lng": -70.9483772
+                    }
+                },
+                "location": {
+                    "lat": 42.4685997,
+                    "lng": -70.9482804
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46994873029149,
+                        "lng": -70.94693141970849
+                    },
+                    "southwest": {
+                        "lat": 42.4672507697085,
+                        "lng": -70.9496293802915
+                    }
+                }
+            },
+            "place_id": "ChIJZ31t091s44kRX413cBk0_xI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "68d189033f6aed4c9676bcc6f3412c68",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:20.577470",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

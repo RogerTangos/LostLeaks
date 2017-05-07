@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eb6f19d39b0e7ac8ca0b9bd2a9543bd1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Atlantic Avenue",
+                    "short_name": "Atlantic Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Atlantic Ave & Clifton Ave, Marblehead, MA 01945, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.482034,
+                    "lng": -70.87692290000001
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4833829802915,
+                        "lng": -70.87557391970851
+                    },
+                    "southwest": {
+                        "lat": 42.4806850197085,
+                        "lng": -70.87827188029152
+                    }
+                }
+            },
+            "place_id": "EjVBdGxhbnRpYyBBdmUgJiBDbGlmdG9uIEF2ZSwgTWFyYmxlaGVhZCwgTUEgMDE5NDUsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "eb6f19d39b0e7ac8ca0b9bd2a9543bd1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:11.885086",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

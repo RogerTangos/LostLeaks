@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6f8c2e46c5a8f7bd7b6d649b691acf60.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Everett Avenue",
+                    "short_name": "Everett Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1882",
+                    "short_name": "1882",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Everett Ave, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3735331,
+                        "lng": -71.185849
+                    },
+                    "southwest": {
+                        "lat": 42.3733703,
+                        "lng": -71.18607159999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3734517,
+                    "lng": -71.18596029999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37480068029149,
+                        "lng": -71.1846113197085
+                    },
+                    "southwest": {
+                        "lat": 42.3721027197085,
+                        "lng": -71.1873092802915
+                    }
+                }
+            },
+            "place_id": "ChIJ-4k5GwJ444kRGP496c7kkCc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6f8c2e46c5a8f7bd7b6d649b691acf60",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:57.634378",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

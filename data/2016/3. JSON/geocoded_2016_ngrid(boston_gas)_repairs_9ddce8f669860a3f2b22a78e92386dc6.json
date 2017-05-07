@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9ddce8f669860a3f2b22a78e92386dc6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Auburn Road",
+                    "short_name": "Auburn Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2501",
+                    "short_name": "2501",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Auburn Rd, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5668825,
+                        "lng": -70.88892179999999
+                    },
+                    "southwest": {
+                        "lat": 42.5667681,
+                        "lng": -70.8890684
+                    }
+                },
+                "location": {
+                    "lat": 42.5668253,
+                    "lng": -70.8889951
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.56817428029149,
+                        "lng": -70.88764611970849
+                    },
+                    "southwest": {
+                        "lat": 42.56547631970849,
+                        "lng": -70.8903440802915
+                    }
+                }
+            },
+            "place_id": "ChIJbXcS0r4W44kR758e6briZXA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9ddce8f669860a3f2b22a78e92386dc6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:34.609401",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

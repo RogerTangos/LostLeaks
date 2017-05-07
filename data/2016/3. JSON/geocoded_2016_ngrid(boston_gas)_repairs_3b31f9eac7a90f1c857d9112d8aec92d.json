@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3b31f9eac7a90f1c857d9112d8aec92d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "122",
+                    "short_name": "122",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "122 Main St, Reading, MA 01867, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5079205,
+                    "lng": -71.10455139999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5092694802915,
+                        "lng": -71.10320241970848
+                    },
+                    "southwest": {
+                        "lat": 42.5065715197085,
+                        "lng": -71.10590038029149
+                    }
+                }
+            },
+            "place_id": "ChIJawl_F6x044kRt0H7ZHm_nTI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3b31f9eac7a90f1c857d9112d8aec92d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:23.711730",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

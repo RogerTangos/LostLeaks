@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1bff3765f6b246dfe05b95bd8d23b69b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kneeland Street",
+                    "short_name": "Kneeland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Downtown",
+                    "short_name": "Downtown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02111",
+                    "short_name": "02111",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1527",
+                    "short_name": "1527",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Kneeland St, Boston, MA 02111, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3507568,
+                        "lng": -71.0622776
+                    },
+                    "southwest": {
+                        "lat": 42.3503846,
+                        "lng": -71.06271
+                    }
+                },
+                "location": {
+                    "lat": 42.3505707,
+                    "lng": -71.0624938
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35191968029149,
+                        "lng": -71.06114481970849
+                    },
+                    "southwest": {
+                        "lat": 42.3492217197085,
+                        "lng": -71.06384278029151
+                    }
+                }
+            },
+            "place_id": "ChIJncyXd3d644kRGSMEMeQ-Fkg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1bff3765f6b246dfe05b95bd8d23b69b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:22.940181",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

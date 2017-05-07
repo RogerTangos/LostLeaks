@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e92b6ee19fbab0ff4efed1fa79b94768.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Middle Street",
+                    "short_name": "Middle St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2370",
+                    "short_name": "2370",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Middle St, Watertown, MA 02472, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3692173,
+                    "lng": -71.1909146
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37056628029149,
+                        "lng": -71.18956561970849
+                    },
+                    "southwest": {
+                        "lat": 42.36786831970849,
+                        "lng": -71.19226358029151
+                    }
+                }
+            },
+            "place_id": "ChIJB61YPwd444kRbheRd9lJoPs",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e92b6ee19fbab0ff4efed1fa79b94768",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:15.028255",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

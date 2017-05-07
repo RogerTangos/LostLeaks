@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5ffa23ff123f92c8b438935b4865e52a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "176",
+                    "short_name": "176",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sycamore Street",
+                    "short_name": "Sycamore St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "176 Sycamore St, Boston, MA 02131, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2865249,
+                        "lng": -71.12272589999999
+                    },
+                    "southwest": {
+                        "lat": 42.2865157,
+                        "lng": -71.1227399
+                    }
+                },
+                "location": {
+                    "lat": 42.2865249,
+                    "lng": -71.1227399
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2878692802915,
+                        "lng": -71.12138391970849
+                    },
+                    "southwest": {
+                        "lat": 42.2851713197085,
+                        "lng": -71.1240818802915
+                    }
+                }
+            },
+            "place_id": "EiYxNzYgU3ljYW1vcmUgU3QsIEJvc3RvbiwgTUEgMDIxMzEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5ffa23ff123f92c8b438935b4865e52a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:23.843777",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

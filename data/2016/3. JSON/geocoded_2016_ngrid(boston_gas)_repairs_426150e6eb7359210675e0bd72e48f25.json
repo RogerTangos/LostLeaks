@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_426150e6eb7359210675e0bd72e48f25.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "781",
+                    "short_name": "781",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lynnfield Street",
+                    "short_name": "Lynnfield St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1034",
+                    "short_name": "1034",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "781 Lynnfield St, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.509088,
+                        "lng": -70.987582
+                    },
+                    "southwest": {
+                        "lat": 42.5090768,
+                        "lng": -70.9875931
+                    }
+                },
+                "location": {
+                    "lat": 42.509088,
+                    "lng": -70.987582
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.51043138029149,
+                        "lng": -70.98623856970849
+                    },
+                    "southwest": {
+                        "lat": 42.50773341970849,
+                        "lng": -70.98893653029151
+                    }
+                }
+            },
+            "place_id": "EiU3ODEgTHlubmZpZWxkIFN0LCBMeW5uLCBNQSAwMTkwNCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "426150e6eb7359210675e0bd72e48f25",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:53.317393",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

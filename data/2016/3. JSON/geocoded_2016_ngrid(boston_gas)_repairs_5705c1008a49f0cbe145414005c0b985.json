@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5705c1008a49f0cbe145414005c0b985.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "316",
+                    "short_name": "316",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury Road",
+                    "short_name": "Amesbury Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2204",
+                    "short_name": "2204",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "316 Amesbury Rd, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.79403569999999,
+                        "lng": -71.0672653
+                    },
+                    "southwest": {
+                        "lat": 42.7940265,
+                        "lng": -71.0672793
+                    }
+                },
+                "location": {
+                    "lat": 42.79403569999999,
+                    "lng": -71.0672793
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7953800802915,
+                        "lng": -71.0659233197085
+                    },
+                    "southwest": {
+                        "lat": 42.7926821197085,
+                        "lng": -71.06862128029151
+                    }
+                }
+            },
+            "place_id": "EikzMTYgQW1lc2J1cnkgUmQsIEhhdmVyaGlsbCwgTUEgMDE4MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5705c1008a49f0cbe145414005c0b985",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:52.653374",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

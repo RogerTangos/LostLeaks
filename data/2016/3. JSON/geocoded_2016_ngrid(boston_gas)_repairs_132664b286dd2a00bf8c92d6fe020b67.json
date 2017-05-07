@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_132664b286dd2a00bf8c92d6fe020b67.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Liberty Street",
+                    "short_name": "Liberty St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Liberty St & Claremont St, Braintree, MA 02184, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2170395,
+                    "lng": -70.9786228
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2183884802915,
+                        "lng": -70.97727381970849
+                    },
+                    "southwest": {
+                        "lat": 42.2156905197085,
+                        "lng": -70.97997178029149
+                    }
+                }
+            },
+            "place_id": "EjNMaWJlcnR5IFN0ICYgQ2xhcmVtb250IFN0LCBCcmFpbnRyZWUsIE1BIDAyMTg0LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "132664b286dd2a00bf8c92d6fe020b67",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:21.939911",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

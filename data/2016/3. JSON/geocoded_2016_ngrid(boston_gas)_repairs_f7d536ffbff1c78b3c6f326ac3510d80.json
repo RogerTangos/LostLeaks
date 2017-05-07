@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f7d536ffbff1c78b3c6f326ac3510d80.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "57",
+                    "short_name": "57",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Franklin Street",
+                    "short_name": "Franklin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1833",
+                    "short_name": "1833",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "57 Franklin St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4781646,
+                        "lng": -71.09799509999999
+                    },
+                    "southwest": {
+                        "lat": 42.4780163,
+                        "lng": -71.0981645
+                    }
+                },
+                "location": {
+                    "lat": 42.4780905,
+                    "lng": -71.0980798
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4794394302915,
+                        "lng": -71.0967308197085
+                    },
+                    "southwest": {
+                        "lat": 42.4767414697085,
+                        "lng": -71.0994287802915
+                    }
+                }
+            },
+            "place_id": "ChIJPcZQG4J044kRxzwAfPGpgZk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f7d536ffbff1c78b3c6f326ac3510d80",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:01.949280",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

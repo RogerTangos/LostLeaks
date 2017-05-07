@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c1bc965f318f5a72bca7c2a2e678b22a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cedardale Road",
+                    "short_name": "Cedardale Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1309",
+                    "short_name": "1309",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Cedardale Rd, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4986789,
+                        "lng": -70.9706146
+                    },
+                    "southwest": {
+                        "lat": 42.4985795,
+                        "lng": -70.97083479999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4986292,
+                    "lng": -70.97072469999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4999781802915,
+                        "lng": -70.96937571970851
+                    },
+                    "southwest": {
+                        "lat": 42.4972802197085,
+                        "lng": -70.97207368029152
+                    }
+                }
+            },
+            "place_id": "ChIJhV0JisUS44kRNKu1SZkrqhY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c1bc965f318f5a72bca7c2a2e678b22a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:01.174148",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

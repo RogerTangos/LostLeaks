@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5628e43d104ce9beb96511fef1ada676.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "178",
+                    "short_name": "178",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Avenue",
+                    "short_name": "Highland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1422",
+                    "short_name": "1422",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "178 Highland Ave, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2653391,
+                        "lng": -71.025978
+                    },
+                    "southwest": {
+                        "lat": 42.2652,
+                        "lng": -71.0261814
+                    }
+                },
+                "location": {
+                    "lat": 42.2652695,
+                    "lng": -71.0260797
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2666185302915,
+                        "lng": -71.02473071970849
+                    },
+                    "southwest": {
+                        "lat": 42.2639205697085,
+                        "lng": -71.02742868029151
+                    }
+                }
+            },
+            "place_id": "ChIJv2yZp5h844kRmsmdGpEIZ2Y",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5628e43d104ce9beb96511fef1ada676",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:25.474163",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

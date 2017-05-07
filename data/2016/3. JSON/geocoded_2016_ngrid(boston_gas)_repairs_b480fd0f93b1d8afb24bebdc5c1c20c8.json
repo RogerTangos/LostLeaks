@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b480fd0f93b1d8afb24bebdc5c1c20c8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Herbert Street",
+                    "short_name": "Herbert St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1413",
+                    "short_name": "1413",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Herbert St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4163624,
+                        "lng": -71.05516349999999
+                    },
+                    "southwest": {
+                        "lat": 42.4162348,
+                        "lng": -71.0553349
+                    }
+                },
+                "location": {
+                    "lat": 42.4162986,
+                    "lng": -71.05524919999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4176475802915,
+                        "lng": -71.0539002197085
+                    },
+                    "southwest": {
+                        "lat": 42.4149496197085,
+                        "lng": -71.0565981802915
+                    }
+                }
+            },
+            "place_id": "ChIJPRjrLndx44kRmkRae64s-58",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b480fd0f93b1d8afb24bebdc5c1c20c8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:47.257790",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

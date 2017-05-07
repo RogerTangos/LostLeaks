@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f9761b46dc0c512554e5dd5dbd5b32b8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Beech Street",
+                    "short_name": "Beech St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Beech St & Newburg St, Boston, MA 02131, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2820946,
+                    "lng": -71.14293959999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2834435802915,
+                        "lng": -71.1415906197085
+                    },
+                    "southwest": {
+                        "lat": 42.2807456197085,
+                        "lng": -71.1442885802915
+                    }
+                }
+            },
+            "place_id": "EixCZWVjaCBTdCAmIE5ld2J1cmcgU3QsIEJvc3RvbiwgTUEgMDIxMzEsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "f9761b46dc0c512554e5dd5dbd5b32b8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:41.627203",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

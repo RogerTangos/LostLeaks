@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_df3f22e1d3673531f9c4ed66cc752f4a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Calvary Street",
+                    "short_name": "Calvary St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nonantum",
+                    "short_name": "Nonantum",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Calvary St & Farwell St, Newton, MA 02453, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3662578,
+                    "lng": -71.2183488
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3676067802915,
+                        "lng": -71.21699981970849
+                    },
+                    "southwest": {
+                        "lat": 42.3649088197085,
+                        "lng": -71.21969778029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei5DYWx2YXJ5IFN0ICYgRmFyd2VsbCBTdCwgTmV3dG9uLCBNQSAwMjQ1MywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "df3f22e1d3673531f9c4ed66cc752f4a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:28.075749",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

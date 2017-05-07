@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a3c207c8d7f1935818495288e366129b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Joyce Road",
+                    "short_name": "Joyce Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Joyce Rd & Ivy Cir, Arlington, MA 02474, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4217635,
+                    "lng": -71.15997709999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42311248029149,
+                        "lng": -71.1586281197085
+                    },
+                    "southwest": {
+                        "lat": 42.42041451970849,
+                        "lng": -71.1613260802915
+                    }
+                }
+            },
+            "place_id": "EixKb3ljZSBSZCAmIEl2eSBDaXIsIEFybGluZ3RvbiwgTUEgMDI0NzQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "a3c207c8d7f1935818495288e366129b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:33.343780",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

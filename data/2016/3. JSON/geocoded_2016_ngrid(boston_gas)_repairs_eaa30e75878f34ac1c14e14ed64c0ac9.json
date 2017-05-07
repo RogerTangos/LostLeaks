@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eaa30e75878f34ac1c14e14ed64c0ac9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "58",
+                    "short_name": "58",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oak Street",
+                    "short_name": "Oak St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02482",
+                    "short_name": "02482",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4708",
+                    "short_name": "4708",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "58 Oak St, Wellesley, MA 02482, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3027171,
+                        "lng": -71.2966728
+                    },
+                    "southwest": {
+                        "lat": 42.3027076,
+                        "lng": -71.2966866
+                    }
+                },
+                "location": {
+                    "lat": 42.3027076,
+                    "lng": -71.2966866
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30406133029149,
+                        "lng": -71.2953307197085
+                    },
+                    "southwest": {
+                        "lat": 42.3013633697085,
+                        "lng": -71.29802868029151
+                    }
+                }
+            },
+            "place_id": "EiM1OCBPYWsgU3QsIFdlbGxlc2xleSwgTUEgMDI0ODIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "eaa30e75878f34ac1c14e14ed64c0ac9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:08.807877",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

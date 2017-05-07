@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cb680aba6ac479a90dd16bce6cef64df.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Washington Drive",
+                    "short_name": "Washington Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Washington Dr & Revolutionary Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.361935,
+                    "lng": -71.44807
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3632839802915,
+                        "lng": -71.44672101970849
+                    },
+                    "southwest": {
+                        "lat": 42.3605860197085,
+                        "lng": -71.4494189802915
+                    }
+                }
+            },
+            "place_id": "EjhXYXNoaW5ndG9uIERyICYgUmV2b2x1dGlvbmFyeSBSZCwgU3VkYnVyeSwgTUEgMDE3NzYsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "cb680aba6ac479a90dd16bce6cef64df",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:56.639471",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

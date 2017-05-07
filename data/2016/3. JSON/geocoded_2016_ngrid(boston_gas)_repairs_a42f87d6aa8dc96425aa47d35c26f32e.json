@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a42f87d6aa8dc96425aa47d35c26f32e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "330",
+                    "short_name": "330",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Central Street",
+                    "short_name": "Central St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2204",
+                    "short_name": "2204",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "330 Central St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3425588,
+                        "lng": -71.2530128
+                    },
+                    "southwest": {
+                        "lat": 42.3423988,
+                        "lng": -71.2532216
+                    }
+                },
+                "location": {
+                    "lat": 42.34247879999999,
+                    "lng": -71.25311719999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3438277802915,
+                        "lng": -71.2517682197085
+                    },
+                    "southwest": {
+                        "lat": 42.3411298197085,
+                        "lng": -71.2544661802915
+                    }
+                }
+            },
+            "place_id": "ChIJ6bL74KWD44kRERopTpcH7LU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a42f87d6aa8dc96425aa47d35c26f32e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:07.317303",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

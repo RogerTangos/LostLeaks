@@ -1,0 +1,117 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2c5fd34301c05500dfb0d5f7ec7f99f5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "123",
+                    "short_name": "123",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Millet Street",
+                    "short_name": "Millet St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Center",
+                    "short_name": "Dorchester Center",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1813",
+                    "short_name": "1813",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "123 Millet St, Dorchester Center, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2920384,
+                        "lng": -71.07640119999999
+                    },
+                    "southwest": {
+                        "lat": 42.2919379,
+                        "lng": -71.0765933
+                    }
+                },
+                "location": {
+                    "lat": 42.2919881,
+                    "lng": -71.07649719999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2933371302915,
+                        "lng": -71.07514826970849
+                    },
+                    "southwest": {
+                        "lat": 42.29063916970851,
+                        "lng": -71.0778462302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJH1vR9-x744kRD-cv8G9ZWHE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2c5fd34301c05500dfb0d5f7ec7f99f5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:26.132596",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

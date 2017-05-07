@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1bf8bb6ad0cb7bebbf338251f07f6fbf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Williams Street",
+                    "short_name": "Williams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2345",
+                    "short_name": "2345",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Williams St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5583338,
+                        "lng": -70.9033431
+                    },
+                    "southwest": {
+                        "lat": 42.5583272,
+                        "lng": -70.9033595
+                    }
+                },
+                "location": {
+                    "lat": 42.5583272,
+                    "lng": -70.9033431
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5596794802915,
+                        "lng": -70.9020023197085
+                    },
+                    "southwest": {
+                        "lat": 42.5569815197085,
+                        "lng": -70.90470028029151
+                    }
+                }
+            },
+            "place_id": "EiYzMSBXaWxsaWFtcyBTdCwgQmV2ZXJseSwgTUEgMDE5MTUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1bf8bb6ad0cb7bebbf338251f07f6fbf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:50.263744",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

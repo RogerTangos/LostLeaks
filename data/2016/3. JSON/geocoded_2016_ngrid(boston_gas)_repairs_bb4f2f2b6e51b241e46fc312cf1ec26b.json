@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bb4f2f2b6e51b241e46fc312cf1ec26b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "140",
+                    "short_name": "140",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jaffrey Street",
+                    "short_name": "Jaffrey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02188",
+                    "short_name": "02188",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4242",
+                    "short_name": "4242",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "140 Jaffrey St, Weymouth, MA 02188, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2222566,
+                        "lng": -70.9460065
+                    },
+                    "southwest": {
+                        "lat": 42.2220896,
+                        "lng": -70.9462228
+                    }
+                },
+                "location": {
+                    "lat": 42.2221731,
+                    "lng": -70.9461147
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2235220802915,
+                        "lng": -70.9447656697085
+                    },
+                    "southwest": {
+                        "lat": 42.2208241197085,
+                        "lng": -70.94746363029151
+                    }
+                }
+            },
+            "place_id": "ChIJ6QCXTqxj44kRf3LYksd2BqA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bb4f2f2b6e51b241e46fc312cf1ec26b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:05.487036",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

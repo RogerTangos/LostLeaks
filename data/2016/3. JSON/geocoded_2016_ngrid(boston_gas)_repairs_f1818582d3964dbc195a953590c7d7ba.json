@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f1818582d3964dbc195a953590c7d7ba.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mystic Street",
+                    "short_name": "Mystic St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3233",
+                    "short_name": "3233",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Mystic St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3951098,
+                        "lng": -71.0657566
+                    },
+                    "southwest": {
+                        "lat": 42.3950987,
+                        "lng": -71.0657679
+                    }
+                },
+                "location": {
+                    "lat": 42.3950987,
+                    "lng": -71.0657679
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3964532302915,
+                        "lng": -71.0644132697085
+                    },
+                    "southwest": {
+                        "lat": 42.3937552697085,
+                        "lng": -71.0671112302915
+                    }
+                }
+            },
+            "place_id": "EiQxMyBNeXN0aWMgU3QsIEV2ZXJldHQsIE1BIDAyMTQ5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f1818582d3964dbc195a953590c7d7ba",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:37.942737",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

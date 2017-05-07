@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c2ae787a9f206b45cb86b94b58d29c7f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "94",
+                    "short_name": "94",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "94 Broadway, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4095554,
+                        "lng": -71.1393243
+                    },
+                    "southwest": {
+                        "lat": 42.4094102,
+                        "lng": -71.1395383
+                    }
+                },
+                "location": {
+                    "lat": 42.4094828,
+                    "lng": -71.1394313
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4108317802915,
+                        "lng": -71.13808231970849
+                    },
+                    "southwest": {
+                        "lat": 42.4081338197085,
+                        "lng": -71.14078028029151
+                    }
+                }
+            },
+            "place_id": "ChIJO5CcUPl244kR57DARI2Kjs0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c2ae787a9f206b45cb86b94b58d29c7f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:55.608527",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

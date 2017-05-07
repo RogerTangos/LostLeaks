@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5e7d6bb79babc844c74ef553d03b5ca9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "800",
+                    "short_name": "800",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2501",
+                    "short_name": "2501",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "800 Boylston St, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3263915,
+                        "lng": -71.1463065
+                    },
+                    "southwest": {
+                        "lat": 42.3263776,
+                        "lng": -71.1463071
+                    }
+                },
+                "location": {
+                    "lat": 42.3263776,
+                    "lng": -71.1463071
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3277335302915,
+                        "lng": -71.1449578197085
+                    },
+                    "southwest": {
+                        "lat": 42.3250355697085,
+                        "lng": -71.1476557802915
+                    }
+                }
+            },
+            "place_id": "Ei04MDAgQm95bHN0b24gU3QsIENoZXN0bnV0IEhpbGwsIE1BIDAyNDY3LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5e7d6bb79babc844c74ef553d03b5ca9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:08.842171",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

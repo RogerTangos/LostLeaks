@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fa7b776117e9e808b6172f216bb245fe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pierce Avenue",
+                    "short_name": "Pierce Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3521",
+                    "short_name": "3521",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Pierce Ave, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5536304,
+                        "lng": -70.8771617
+                    },
+                    "southwest": {
+                        "lat": 42.5535031,
+                        "lng": -70.8773863
+                    }
+                },
+                "location": {
+                    "lat": 42.5535667,
+                    "lng": -70.877274
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5549157302915,
+                        "lng": -70.8759250197085
+                    },
+                    "southwest": {
+                        "lat": 42.5522177697085,
+                        "lng": -70.87862298029151
+                    }
+                }
+            },
+            "place_id": "ChIJYSaO_5sW44kRPkcbZpHcSR8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fa7b776117e9e808b6172f216bb245fe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:26.290505",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

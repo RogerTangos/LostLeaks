@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9c2329f2e41bc69f22e7b32bb6d639f3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Whittemore Street",
+                    "short_name": "Whittemore St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Whittemore St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4136526,
+                        "lng": -71.1502319
+                    },
+                    "southwest": {
+                        "lat": 42.4136421,
+                        "lng": -71.1502443
+                    }
+                },
+                "location": {
+                    "lat": 42.4136421,
+                    "lng": -71.1502319
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4149963302915,
+                        "lng": -71.1488891197085
+                    },
+                    "southwest": {
+                        "lat": 42.4122983697085,
+                        "lng": -71.1515870802915
+                    }
+                }
+            },
+            "place_id": "Eik2IFdoaXR0ZW1vcmUgU3QsIEFybGluZ3RvbiwgTUEgMDI0NzQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9c2329f2e41bc69f22e7b32bb6d639f3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:27.565182",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

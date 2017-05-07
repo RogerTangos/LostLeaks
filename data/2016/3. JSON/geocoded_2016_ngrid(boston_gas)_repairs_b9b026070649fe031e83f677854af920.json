@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b9b026070649fe031e83f677854af920.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harwich Street",
+                    "short_name": "Harwich St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2511",
+                    "short_name": "2511",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Harwich St, Saugus, MA 01906, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.457195,
+                    "lng": -71.0036148
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4585439802915,
+                        "lng": -71.0022658197085
+                    },
+                    "southwest": {
+                        "lat": 42.4558460197085,
+                        "lng": -71.0049637802915
+                    }
+                }
+            },
+            "place_id": "ChIJQ6liC4By44kRflVsIiFDboo",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b9b026070649fe031e83f677854af920",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:02.547255",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ed346c9952e5bc6192631bbd1cba21e0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carlton Road",
+                    "short_name": "Carlton Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Waban",
+                    "short_name": "Waban",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02468",
+                    "short_name": "02468",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1901",
+                    "short_name": "1901",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Carlton Rd, Waban, MA 02468, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3276714,
+                        "lng": -71.2396156
+                    },
+                    "southwest": {
+                        "lat": 42.32766489999999,
+                        "lng": -71.2396322
+                    }
+                },
+                "location": {
+                    "lat": 42.3276714,
+                    "lng": -71.2396322
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3290171302915,
+                        "lng": -71.23827491970849
+                    },
+                    "southwest": {
+                        "lat": 42.3263191697085,
+                        "lng": -71.24097288029151
+                    }
+                }
+            },
+            "place_id": "EiI1IENhcmx0b24gUmQsIFdhYmFuLCBNQSAwMjQ2OCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ed346c9952e5bc6192631bbd1cba21e0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:16.006629",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

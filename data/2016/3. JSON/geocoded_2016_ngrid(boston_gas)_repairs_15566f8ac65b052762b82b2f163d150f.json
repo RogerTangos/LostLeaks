@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_15566f8ac65b052762b82b2f163d150f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Howard Street",
+                    "short_name": "Howard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3083",
+                    "short_name": "3083",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Howard St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.466703,
+                        "lng": -70.9361998
+                    },
+                    "southwest": {
+                        "lat": 42.4666913,
+                        "lng": -70.9362099
+                    }
+                },
+                "location": {
+                    "lat": 42.466703,
+                    "lng": -70.9362099
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46804613029149,
+                        "lng": -70.9348558697085
+                    },
+                    "southwest": {
+                        "lat": 42.4653481697085,
+                        "lng": -70.9375538302915
+                    }
+                }
+            },
+            "place_id": "EiExOSBIb3dhcmQgU3QsIEx5bm4sIE1BIDAxOTAyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "15566f8ac65b052762b82b2f163d150f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:47.881598",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

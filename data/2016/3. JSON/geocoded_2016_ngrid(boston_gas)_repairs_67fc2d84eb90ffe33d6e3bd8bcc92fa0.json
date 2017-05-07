@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_67fc2d84eb90ffe33d6e3bd8bcc92fa0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "142",
+                    "short_name": "142",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Perkins Street",
+                    "short_name": "Perkins St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2105",
+                    "short_name": "2105",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "142 Perkins St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4642474,
+                        "lng": -71.0766161
+                    },
+                    "southwest": {
+                        "lat": 42.4641471,
+                        "lng": -71.076765
+                    }
+                },
+                "location": {
+                    "lat": 42.4641972,
+                    "lng": -71.0766905
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46554623029149,
+                        "lng": -71.0753415697085
+                    },
+                    "southwest": {
+                        "lat": 42.4628482697085,
+                        "lng": -71.0780395302915
+                    }
+                }
+            },
+            "place_id": "ChIJRXtUKJlz44kR2TGrSH2aeCU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "67fc2d84eb90ffe33d6e3bd8bcc92fa0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:08.933292",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

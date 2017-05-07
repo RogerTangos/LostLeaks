@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b5be23c16fc42cbcce8b95faaeff3eb7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Street",
+                    "short_name": "West St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5332",
+                    "short_name": "5332",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 West St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4247777,
+                        "lng": -71.0839925
+                    },
+                    "southwest": {
+                        "lat": 42.4246102,
+                        "lng": -71.0842658
+                    }
+                },
+                "location": {
+                    "lat": 42.4246939,
+                    "lng": -71.08412919999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42604293029151,
+                        "lng": -71.08278016970849
+                    },
+                    "southwest": {
+                        "lat": 42.42334496970851,
+                        "lng": -71.0854781302915
+                    }
+                }
+            },
+            "place_id": "ChIJUSeBlFpx44kRLq9j71IZPmk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b5be23c16fc42cbcce8b95faaeff3eb7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:50.160663",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

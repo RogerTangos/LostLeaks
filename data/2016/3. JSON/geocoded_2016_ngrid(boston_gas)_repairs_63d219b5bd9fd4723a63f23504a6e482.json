@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_63d219b5bd9fd4723a63f23504a6e482.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "159",
+                    "short_name": "159",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pinehaven Drive",
+                    "short_name": "Pinehaven Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "159 Pinehaven Dr, Whitman, MA 02382, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0667093,
+                        "lng": -70.9443956
+                    },
+                    "southwest": {
+                        "lat": 42.0667036,
+                        "lng": -70.9444127
+                    }
+                },
+                "location": {
+                    "lat": 42.0667036,
+                    "lng": -70.9444127
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.06805543029149,
+                        "lng": -70.94305516970849
+                    },
+                    "southwest": {
+                        "lat": 42.06535746970849,
+                        "lng": -70.94575313029151
+                    }
+                }
+            },
+            "place_id": "EigxNTkgUGluZWhhdmVuIERyLCBXaGl0bWFuLCBNQSAwMjM4MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "63d219b5bd9fd4723a63f23504a6e482",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:47.431974",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

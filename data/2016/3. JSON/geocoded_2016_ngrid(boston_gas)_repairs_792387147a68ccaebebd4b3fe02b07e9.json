@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_792387147a68ccaebebd4b3fe02b07e9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "648",
+                    "short_name": "648",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lowell Road",
+                    "short_name": "Lowell Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "648 Lowell Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4745387,
+                        "lng": -71.3635658
+                    },
+                    "southwest": {
+                        "lat": 42.4743685,
+                        "lng": -71.36425299999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4744536,
+                    "lng": -71.3639094
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4758025802915,
+                        "lng": -71.36256041970849
+                    },
+                    "southwest": {
+                        "lat": 42.47310461970851,
+                        "lng": -71.3652583802915
+                    }
+                }
+            },
+            "place_id": "ChIJW2ZWWxma44kRkwFunfhPs6s",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "792387147a68ccaebebd4b3fe02b07e9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:55.020759",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

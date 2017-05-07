@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6fcc84271bcdaf93595c8e12fdabaf9f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "140",
+                    "short_name": "140",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Quincy Avenue",
+                    "short_name": "Quincy Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "140 Quincy Ave, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.242805,
+                    "lng": -70.994705
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24415398029149,
+                        "lng": -70.9933560197085
+                    },
+                    "southwest": {
+                        "lat": 42.2414560197085,
+                        "lng": -70.9960539802915
+                    }
+                }
+            },
+            "place_id": "ChIJS_aX6jZj44kR1VjWrBtWqMc",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6fcc84271bcdaf93595c8e12fdabaf9f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:05.578115",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

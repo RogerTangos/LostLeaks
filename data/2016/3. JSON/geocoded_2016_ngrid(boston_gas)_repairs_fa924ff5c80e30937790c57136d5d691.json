@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fa924ff5c80e30937790c57136d5d691.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "216",
+                    "short_name": "216",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Granite Avenue",
+                    "short_name": "Granite Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4343",
+                    "short_name": "4343",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "216 Granite Ave, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2639296,
+                        "lng": -71.0435514
+                    },
+                    "southwest": {
+                        "lat": 42.2637996,
+                        "lng": -71.0438087
+                    }
+                },
+                "location": {
+                    "lat": 42.2638646,
+                    "lng": -71.0436801
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2652135802915,
+                        "lng": -71.0423310697085
+                    },
+                    "southwest": {
+                        "lat": 42.2625156197085,
+                        "lng": -71.04502903029152
+                    }
+                }
+            },
+            "place_id": "ChIJTcMMU49844kRukHkYixG5NA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fa924ff5c80e30937790c57136d5d691",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:41.036692",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

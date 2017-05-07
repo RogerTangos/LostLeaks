@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dfed878cea830b5f545002848aa49e87.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "121",
+                    "short_name": "121",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bridge Road",
+                    "short_name": "Bridge Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salisbury",
+                    "short_name": "Salisbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01952",
+                    "short_name": "01952",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2411",
+                    "short_name": "2411",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "121 Bridge Rd, Salisbury, MA 01952, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8252558,
+                        "lng": -70.8657951
+                    },
+                    "southwest": {
+                        "lat": 42.8251186,
+                        "lng": -70.86592379999999
+                    }
+                },
+                "location": {
+                    "lat": 42.8251872,
+                    "lng": -70.86585939999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8265361802915,
+                        "lng": -70.86451046970849
+                    },
+                    "southwest": {
+                        "lat": 42.8238382197085,
+                        "lng": -70.8672084302915
+                    }
+                }
+            },
+            "place_id": "ChIJWeQB_hvh4okRbJmyG5pJbmE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "dfed878cea830b5f545002848aa49e87",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:22.057032",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

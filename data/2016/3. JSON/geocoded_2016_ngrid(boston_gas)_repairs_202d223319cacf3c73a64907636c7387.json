@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_202d223319cacf3c73a64907636c7387.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "23",
+                    "short_name": "23",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Faulkner Hill Road",
+                    "short_name": "Faulkner Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4233",
+                    "short_name": "4233",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "23 Faulkner Hill Rd, Acton, MA 01720, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4552849,
+                        "lng": -71.453501
+                    },
+                    "southwest": {
+                        "lat": 42.4551004,
+                        "lng": -71.45361419999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4551927,
+                    "lng": -71.4535576
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4565416302915,
+                        "lng": -71.4522086197085
+                    },
+                    "southwest": {
+                        "lat": 42.4538436697085,
+                        "lng": -71.4549065802915
+                    }
+                }
+            },
+            "place_id": "ChIJYyyzKaCR44kR3v0aCBNIAgU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "202d223319cacf3c73a64907636c7387",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:00.054876",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

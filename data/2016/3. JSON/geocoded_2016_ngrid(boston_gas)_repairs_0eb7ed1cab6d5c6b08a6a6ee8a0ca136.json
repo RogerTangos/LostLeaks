@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0eb7ed1cab6d5c6b08a6a6ee8a0ca136.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "142",
+                    "short_name": "142",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Haynes Road",
+                    "short_name": "Haynes Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1345",
+                    "short_name": "1345",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "142 Haynes Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4147074,
+                        "lng": -71.411577
+                    },
+                    "southwest": {
+                        "lat": 42.414615,
+                        "lng": -71.41185999999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4146612,
+                    "lng": -71.4117185
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4160101802915,
+                        "lng": -71.4103695197085
+                    },
+                    "southwest": {
+                        "lat": 42.4133122197085,
+                        "lng": -71.4130674802915
+                    }
+                }
+            },
+            "place_id": "ChIJWYB5KSGQ44kRBn7ob-NRR2M",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0eb7ed1cab6d5c6b08a6a6ee8a0ca136",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:08.903192",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8086f0624434807f35482684445c86c8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brook Street",
+                    "short_name": "Brook St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Somerville",
+                    "short_name": "East Somerville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3206",
+                    "short_name": "3206",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Brook St, Somerville, MA 02145, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3867699,
+                    "lng": -71.0850379
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3881188802915,
+                        "lng": -71.08368891970851
+                    },
+                    "southwest": {
+                        "lat": 42.3854209197085,
+                        "lng": -71.08638688029151
+                    }
+                }
+            },
+            "place_id": "ChIJh_0tmdpw44kRHshZ5F82sHQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8086f0624434807f35482684445c86c8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:01.034557",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

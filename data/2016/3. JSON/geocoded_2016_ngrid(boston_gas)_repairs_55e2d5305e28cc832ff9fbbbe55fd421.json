@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_55e2d5305e28cc832ff9fbbbe55fd421.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Berry Street",
+                    "short_name": "Berry St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Berry St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.565713,
+                        "lng": -70.933439
+                    },
+                    "southwest": {
+                        "lat": 42.5653734,
+                        "lng": -70.9338835
+                    }
+                },
+                "location": {
+                    "lat": 42.5655432,
+                    "lng": -70.9336613
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5668921802915,
+                        "lng": -70.9323122697085
+                    },
+                    "southwest": {
+                        "lat": 42.5641942197085,
+                        "lng": -70.93501023029151
+                    }
+                }
+            },
+            "place_id": "ChIJfzD7AGcR44kRJeogTLWrDfI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "55e2d5305e28cc832ff9fbbbe55fd421",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:17.274897",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

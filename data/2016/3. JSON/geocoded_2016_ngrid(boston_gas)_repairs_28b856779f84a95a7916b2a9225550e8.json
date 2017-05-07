@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_28b856779f84a95a7916b2a9225550e8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "580",
+                    "short_name": "580",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hyde Park Avenue",
+                    "short_name": "Hyde Park Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3811",
+                    "short_name": "3811",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "580 Hyde Park Ave, Roslindale, MA 02131, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2806931,
+                        "lng": -71.1184766
+                    },
+                    "southwest": {
+                        "lat": 42.2805985,
+                        "lng": -71.1186505
+                    }
+                },
+                "location": {
+                    "lat": 42.2806458,
+                    "lng": -71.1185636
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2819947802915,
+                        "lng": -71.1172145697085
+                    },
+                    "southwest": {
+                        "lat": 42.2792968197085,
+                        "lng": -71.1199125302915
+                    }
+                }
+            },
+            "place_id": "ChIJ-xFBZ7Z-44kRRl47D8ksC8E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "28b856779f84a95a7916b2a9225550e8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:09.882062",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

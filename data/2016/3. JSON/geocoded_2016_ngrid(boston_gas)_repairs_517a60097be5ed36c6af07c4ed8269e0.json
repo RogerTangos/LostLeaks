@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_517a60097be5ed36c6af07c4ed8269e0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "111",
+                    "short_name": "111",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Homestead Street",
+                    "short_name": "Homestead St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "111 Homestead St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.819083,
+                        "lng": -71.0303483
+                    },
+                    "southwest": {
+                        "lat": 42.8190795,
+                        "lng": -71.0303665
+                    }
+                },
+                "location": {
+                    "lat": 42.819083,
+                    "lng": -71.0303483
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8204302302915,
+                        "lng": -71.02900841970849
+                    },
+                    "southwest": {
+                        "lat": 42.8177322697085,
+                        "lng": -71.03170638029151
+                    }
+                }
+            },
+            "place_id": "EioxMTEgSG9tZXN0ZWFkIFN0LCBIYXZlcmhpbGwsIE1BIDAxODMwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "517a60097be5ed36c6af07c4ed8269e0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:52.485816",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

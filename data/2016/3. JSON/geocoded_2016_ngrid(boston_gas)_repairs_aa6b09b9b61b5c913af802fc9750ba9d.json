@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_aa6b09b9b61b5c913af802fc9750ba9d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "233",
+                    "short_name": "233",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop Street",
+                    "short_name": "Winthrop St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "233 Winthrop St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3772511,
+                        "lng": -70.98385999999999
+                    },
+                    "southwest": {
+                        "lat": 42.37724619999999,
+                        "lng": -70.98387749999999
+                    }
+                },
+                "location": {
+                    "lat": 42.37724619999999,
+                    "lng": -70.98385999999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37859763029149,
+                        "lng": -70.98251976970849
+                    },
+                    "southwest": {
+                        "lat": 42.3758996697085,
+                        "lng": -70.98521773029151
+                    }
+                }
+            },
+            "place_id": "EigyMzMgV2ludGhyb3AgU3QsIFdpbnRocm9wLCBNQSAwMjE1MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "aa6b09b9b61b5c913af802fc9750ba9d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:07.363523",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

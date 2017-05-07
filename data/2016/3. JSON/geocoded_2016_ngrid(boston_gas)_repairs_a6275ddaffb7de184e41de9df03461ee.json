@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a6275ddaffb7de184e41de9df03461ee.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "245",
+                    "short_name": "245",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "William Street",
+                    "short_name": "William St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2329",
+                    "short_name": "2329",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "245 William St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4875444,
+                        "lng": -71.1037963
+                    },
+                    "southwest": {
+                        "lat": 42.4873967,
+                        "lng": -71.10396639999999
+                    }
+                },
+                "location": {
+                    "lat": 42.48747059999999,
+                    "lng": -71.1038813
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4888195302915,
+                        "lng": -71.1025323697085
+                    },
+                    "southwest": {
+                        "lat": 42.4861215697085,
+                        "lng": -71.1052303302915
+                    }
+                }
+            },
+            "place_id": "ChIJMx608Zt044kRwT8uusIANXs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a6275ddaffb7de184e41de9df03461ee",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:21.737399",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

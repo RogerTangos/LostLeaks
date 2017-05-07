@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0eeba447370e564cd0b6cb024ff7f1f8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "71",
+                    "short_name": "71",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Melrose Street",
+                    "short_name": "Melrose St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "71 Melrose St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4031465,
+                        "lng": -71.14344249999999
+                    },
+                    "southwest": {
+                        "lat": 42.4029217,
+                        "lng": -71.1436657
+                    }
+                },
+                "location": {
+                    "lat": 42.4030341,
+                    "lng": -71.1435541
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4043830802915,
+                        "lng": -71.14220511970849
+                    },
+                    "southwest": {
+                        "lat": 42.4016851197085,
+                        "lng": -71.1449030802915
+                    }
+                }
+            },
+            "place_id": "ChIJCxrNZwB344kRUtteSrhn544",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0eeba447370e564cd0b6cb024ff7f1f8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:29.776971",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

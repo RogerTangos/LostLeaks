@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_60c0e3a94fc1dff3c2c3eb0ca13e8e87.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "599",
+                    "short_name": "599",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3712",
+                    "short_name": "3712",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "599 Broadway, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4114542,
+                        "lng": -71.0510575
+                    },
+                    "southwest": {
+                        "lat": 42.4113116,
+                        "lng": -71.0512648
+                    }
+                },
+                "location": {
+                    "lat": 42.4113829,
+                    "lng": -71.0511612
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4127318802915,
+                        "lng": -71.0498121697085
+                    },
+                    "southwest": {
+                        "lat": 42.4100339197085,
+                        "lng": -71.05251013029151
+                    }
+                }
+            },
+            "place_id": "ChIJe8XdlXVx44kRNzh0hTITP3k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "60c0e3a94fc1dff3c2c3eb0ca13e8e87",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:17.567550",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

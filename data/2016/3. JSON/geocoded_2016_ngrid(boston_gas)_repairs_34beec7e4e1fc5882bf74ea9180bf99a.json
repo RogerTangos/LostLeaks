@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_34beec7e4e1fc5882bf74ea9180bf99a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "280",
+                    "short_name": "280",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Salem Street",
+                    "short_name": "Salem St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "280 Salem St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4314223,
+                        "lng": -71.05764880000001
+                    },
+                    "southwest": {
+                        "lat": 42.4311373,
+                        "lng": -71.05801770000001
+                    }
+                },
+                "location": {
+                    "lat": 42.4312798,
+                    "lng": -71.0578333
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43262878029149,
+                        "lng": -71.0564842697085
+                    },
+                    "southwest": {
+                        "lat": 42.4299308197085,
+                        "lng": -71.05918223029151
+                    }
+                }
+            },
+            "place_id": "ChIJSxOl79Zz44kR2J-gf_AgizY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "34beec7e4e1fc5882bf74ea9180bf99a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:07.931856",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

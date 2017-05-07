@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_208fce95ffc54152e75eb9fa4f5ead34.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grant Street",
+                    "short_name": "Grant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02420",
+                    "short_name": "02420",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3704",
+                    "short_name": "3704",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Grant St, Lexington, MA 02420, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4484487,
+                        "lng": -71.2237614
+                    },
+                    "southwest": {
+                        "lat": 42.4482753,
+                        "lng": -71.2239757
+                    }
+                },
+                "location": {
+                    "lat": 42.448362,
+                    "lng": -71.2238685
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4497109802915,
+                        "lng": -71.2225195697085
+                    },
+                    "southwest": {
+                        "lat": 42.4470130197085,
+                        "lng": -71.2252175302915
+                    }
+                }
+            },
+            "place_id": "ChIJ65w9FNud44kRnsSzgutHeM4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "208fce95ffc54152e75eb9fa4f5ead34",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:19.462554",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

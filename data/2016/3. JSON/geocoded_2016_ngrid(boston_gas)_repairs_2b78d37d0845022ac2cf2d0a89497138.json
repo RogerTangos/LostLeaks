@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2b78d37d0845022ac2cf2d0a89497138.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "194",
+                    "short_name": "194",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Merrymount Road",
+                    "short_name": "Merrymount Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2357",
+                    "short_name": "2357",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "194 Merrymount Rd, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2606265,
+                        "lng": -71.0014046
+                    },
+                    "southwest": {
+                        "lat": 42.2605063,
+                        "lng": -71.00157329999999
+                    }
+                },
+                "location": {
+                    "lat": 42.26056639999999,
+                    "lng": -71.00148899999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26191538029149,
+                        "lng": -71.00013996970848
+                    },
+                    "southwest": {
+                        "lat": 42.2592174197085,
+                        "lng": -71.0028379302915
+                    }
+                }
+            },
+            "place_id": "ChIJTab4N1Nj44kR3SzY7TEg3vk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2b78d37d0845022ac2cf2d0a89497138",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:54.750957",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

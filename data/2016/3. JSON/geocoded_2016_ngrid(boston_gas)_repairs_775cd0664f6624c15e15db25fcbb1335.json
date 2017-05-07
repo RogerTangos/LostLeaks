@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_775cd0664f6624c15e15db25fcbb1335.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rockland Street",
+                    "short_name": "Rockland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Rockland St, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2484805,
+                        "lng": -70.8721704
+                    },
+                    "southwest": {
+                        "lat": 42.2484675,
+                        "lng": -70.8721772
+                    }
+                },
+                "location": {
+                    "lat": 42.2484675,
+                    "lng": -70.8721704
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2498229802915,
+                        "lng": -70.87082481970849
+                    },
+                    "southwest": {
+                        "lat": 42.24712501970851,
+                        "lng": -70.8735227802915
+                    }
+                }
+            },
+            "place_id": "EiY1OSBSb2NrbGFuZCBTdCwgSGluZ2hhbSwgTUEgMDIwNDMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "775cd0664f6624c15e15db25fcbb1335",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:15.609780",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

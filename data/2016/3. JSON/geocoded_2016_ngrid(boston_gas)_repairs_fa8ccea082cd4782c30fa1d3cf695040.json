@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fa8ccea082cd4782c30fa1d3cf695040.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "320",
+                    "short_name": "320",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk Avenue",
+                    "short_name": "Norfolk Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "320 Norfolk Ave, Boston, MA 02125, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.322229,
+                    "lng": -71.0664812
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3235779802915,
+                        "lng": -71.06513221970849
+                    },
+                    "southwest": {
+                        "lat": 42.3208800197085,
+                        "lng": -71.0678301802915
+                    }
+                }
+            },
+            "place_id": "ChIJUbZVw05644kRNWCSp6YswLA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fa8ccea082cd4782c30fa1d3cf695040",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:58.347983",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

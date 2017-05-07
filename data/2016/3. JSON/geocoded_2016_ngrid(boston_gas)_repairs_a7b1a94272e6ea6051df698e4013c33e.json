@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a7b1a94272e6ea6051df698e4013c33e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1224",
+                    "short_name": "1224",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Upper Falls",
+                    "short_name": "Newton Upper Falls",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02464",
+                    "short_name": "02464",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1224 Boylston St, Newton Upper Falls, MA 02464, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3172508,
+                        "lng": -71.22279720000002
+                    },
+                    "southwest": {
+                        "lat": 42.31713449999999,
+                        "lng": -71.2230055
+                    }
+                },
+                "location": {
+                    "lat": 42.3171926,
+                    "lng": -71.2229014
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31854163029149,
+                        "lng": -71.2215523697085
+                    },
+                    "southwest": {
+                        "lat": 42.31584366970849,
+                        "lng": -71.22425033029151
+                    }
+                }
+            },
+            "place_id": "ChIJL3eNkjuC44kRdZIIYm_ED90",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a7b1a94272e6ea6051df698e4013c33e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:24.382641",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

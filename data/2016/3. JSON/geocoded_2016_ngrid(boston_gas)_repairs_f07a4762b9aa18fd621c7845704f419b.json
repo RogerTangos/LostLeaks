@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f07a4762b9aa18fd621c7845704f419b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bayview Avenue",
+                    "short_name": "Bayview Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3123",
+                    "short_name": "3123",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Bayview Ave, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5622105,
+                        "lng": -70.9312207
+                    },
+                    "southwest": {
+                        "lat": 42.5620661,
+                        "lng": -70.931431
+                    }
+                },
+                "location": {
+                    "lat": 42.5621383,
+                    "lng": -70.9313258
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5634872802915,
+                        "lng": -70.92997686970848
+                    },
+                    "southwest": {
+                        "lat": 42.5607893197085,
+                        "lng": -70.9326748302915
+                    }
+                }
+            },
+            "place_id": "ChIJtzjOpWAR44kR5Qg0-xcS2IY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f07a4762b9aa18fd621c7845704f419b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:35.007010",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

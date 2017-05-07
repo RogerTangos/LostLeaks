@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0a10fb77d78c59d45e4bec5dab3862fb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Estes Street",
+                    "short_name": "Estes St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Estes St & Miller St, Everett, MA 02149, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4226479,
+                    "lng": -71.039087
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4239968802915,
+                        "lng": -71.0377380197085
+                    },
+                    "southwest": {
+                        "lat": 42.42129891970851,
+                        "lng": -71.0404359802915
+                    }
+                }
+            },
+            "place_id": "EixFc3RlcyBTdCAmIE1pbGxlciBTdCwgRXZlcmV0dCwgTUEgMDIxNDksIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "0a10fb77d78c59d45e4bec5dab3862fb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:39.448704",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

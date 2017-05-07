@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8ab49d1c115de4d90856142d78235520.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "240",
+                    "short_name": "240",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arlington Street",
+                    "short_name": "Arlington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2402",
+                    "short_name": "2402",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "240 Arlington St, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3957551,
+                        "lng": -71.0346993
+                    },
+                    "southwest": {
+                        "lat": 42.395745,
+                        "lng": -71.0347122
+                    }
+                },
+                "location": {
+                    "lat": 42.3957551,
+                    "lng": -71.0347122
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39709903029149,
+                        "lng": -71.03335676970849
+                    },
+                    "southwest": {
+                        "lat": 42.3944010697085,
+                        "lng": -71.0360547302915
+                    }
+                }
+            },
+            "place_id": "EigyNDAgQXJsaW5ndG9uIFN0LCBDaGVsc2VhLCBNQSAwMjE1MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8ab49d1c115de4d90856142d78235520",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:17.471929",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

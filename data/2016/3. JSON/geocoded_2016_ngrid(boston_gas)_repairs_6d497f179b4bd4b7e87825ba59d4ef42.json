@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6d497f179b4bd4b7e87825ba59d4ef42.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "657",
+                    "short_name": "657",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lynn Fells Parkway",
+                    "short_name": "Lynn Fells Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "657 Lynn Fells Pkwy, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4645828,
+                        "lng": -71.0552012
+                    },
+                    "southwest": {
+                        "lat": 42.4644229,
+                        "lng": -71.0553864
+                    }
+                },
+                "location": {
+                    "lat": 42.4645029,
+                    "lng": -71.0552938
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46585183029149,
+                        "lng": -71.0539448197085
+                    },
+                    "southwest": {
+                        "lat": 42.4631538697085,
+                        "lng": -71.05664278029151
+                    }
+                }
+            },
+            "place_id": "ChIJp0cQIqpz44kRBGDRYchQ6OE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6d497f179b4bd4b7e87825ba59d4ef42",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:00.040171",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

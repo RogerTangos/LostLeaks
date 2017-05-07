@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9ed611776fc1dcf594f456fedae399bb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "58",
+                    "short_name": "58",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Madison Street",
+                    "short_name": "Madison St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6843",
+                    "short_name": "6843",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "58 Madison St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7640839,
+                        "lng": -71.0494605
+                    },
+                    "southwest": {
+                        "lat": 42.7640804,
+                        "lng": -71.0494787
+                    }
+                },
+                "location": {
+                    "lat": 42.7640839,
+                    "lng": -71.0494787
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7654311302915,
+                        "lng": -71.04812061970848
+                    },
+                    "southwest": {
+                        "lat": 42.7627331697085,
+                        "lng": -71.0508185802915
+                    }
+                }
+            },
+            "place_id": "Eic1OCBNYWRpc29uIFN0LCBIYXZlcmhpbGwsIE1BIDAxODMwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9ed611776fc1dcf594f456fedae399bb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:08.491015",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

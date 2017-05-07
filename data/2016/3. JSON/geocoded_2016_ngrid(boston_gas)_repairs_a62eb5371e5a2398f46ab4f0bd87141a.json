@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a62eb5371e5a2398f46ab4f0bd87141a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Miller Place",
+                    "short_name": "Miller Pl",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1813",
+                    "short_name": "1813",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Miller Pl, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.490725,
+                        "lng": -70.95928889999999
+                    },
+                    "southwest": {
+                        "lat": 42.4906076,
+                        "lng": -70.95942900000001
+                    }
+                },
+                "location": {
+                    "lat": 42.4906663,
+                    "lng": -70.95935899999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4920152802915,
+                        "lng": -70.9580099697085
+                    },
+                    "southwest": {
+                        "lat": 42.4893173197085,
+                        "lng": -70.9607079302915
+                    }
+                }
+            },
+            "place_id": "ChIJb6cZa9QS44kR3F_CNJZ7Ajw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a62eb5371e5a2398f46ab4f0bd87141a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:54.580546",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

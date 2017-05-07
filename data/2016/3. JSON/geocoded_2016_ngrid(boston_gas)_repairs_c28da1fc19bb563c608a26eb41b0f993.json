@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c28da1fc19bb563c608a26eb41b0f993.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "931",
+                    "short_name": "931",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "931 Massachusetts Ave, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4184936,
+                        "lng": -71.1654092
+                    },
+                    "southwest": {
+                        "lat": 42.4182995,
+                        "lng": -71.165673
+                    }
+                },
+                "location": {
+                    "lat": 42.4183965,
+                    "lng": -71.1655411
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41974553029149,
+                        "lng": -71.16419211970849
+                    },
+                    "southwest": {
+                        "lat": 42.41704756970849,
+                        "lng": -71.16689008029151
+                    }
+                }
+            },
+            "place_id": "ChIJ3yOcLEZ244kR9f4monMWyNk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c28da1fc19bb563c608a26eb41b0f993",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:55.059771",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

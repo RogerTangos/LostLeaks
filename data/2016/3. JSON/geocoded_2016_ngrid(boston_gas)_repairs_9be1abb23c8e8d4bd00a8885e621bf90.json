@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9be1abb23c8e8d4bd00a8885e621bf90.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "102",
+                    "short_name": "102",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Williams Street",
+                    "short_name": "Williams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3815",
+                    "short_name": "3815",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "102 Williams St, Chelsea, MA 02150, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3900493,
+                    "lng": -71.0422695
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3913982802915,
+                        "lng": -71.0409205197085
+                    },
+                    "southwest": {
+                        "lat": 42.3887003197085,
+                        "lng": -71.0436184802915
+                    }
+                }
+            },
+            "place_id": "ChIJNTnbX6xx44kR1uG3XmTItMY",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9be1abb23c8e8d4bd00a8885e621bf90",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:25.416904",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

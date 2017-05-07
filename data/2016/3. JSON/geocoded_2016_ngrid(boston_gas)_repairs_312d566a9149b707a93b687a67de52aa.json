@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_312d566a9149b707a93b687a67de52aa.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dewey Street",
+                    "short_name": "Dewey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury",
+                    "short_name": "Amesbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01913",
+                    "short_name": "01913",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3405",
+                    "short_name": "3405",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Dewey St, Amesbury, MA 01913, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8549114,
+                        "lng": -70.9172282
+                    },
+                    "southwest": {
+                        "lat": 42.8548988,
+                        "lng": -70.9172356
+                    }
+                },
+                "location": {
+                    "lat": 42.8549114,
+                    "lng": -70.9172356
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8562540802915,
+                        "lng": -70.91588291970848
+                    },
+                    "southwest": {
+                        "lat": 42.8535561197085,
+                        "lng": -70.9185808802915
+                    }
+                }
+            },
+            "place_id": "EiQxNiBEZXdleSBTdCwgQW1lc2J1cnksIE1BIDAxOTEzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "312d566a9149b707a93b687a67de52aa",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:51.074394",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

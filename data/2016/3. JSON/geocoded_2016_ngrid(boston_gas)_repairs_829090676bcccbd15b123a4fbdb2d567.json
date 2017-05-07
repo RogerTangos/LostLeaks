@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_829090676bcccbd15b123a4fbdb2d567.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "112",
+                    "short_name": "112",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Howe Road",
+                    "short_name": "Howe Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1011",
+                    "short_name": "1011",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "112 Howe Rd, Cohasset, MA 02025, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.260552,
+                        "lng": -70.8378515
+                    },
+                    "southwest": {
+                        "lat": 42.260395,
+                        "lng": -70.8380107
+                    }
+                },
+                "location": {
+                    "lat": 42.2604735,
+                    "lng": -70.83793109999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26182248029149,
+                        "lng": -70.8365821197085
+                    },
+                    "southwest": {
+                        "lat": 42.25912451970849,
+                        "lng": -70.83928008029152
+                    }
+                }
+            },
+            "place_id": "ChIJ3TSV7xRn44kR_EkqHV1EiM8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "829090676bcccbd15b123a4fbdb2d567",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:55.181708",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

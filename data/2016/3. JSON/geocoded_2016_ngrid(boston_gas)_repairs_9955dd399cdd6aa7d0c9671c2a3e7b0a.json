@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9955dd399cdd6aa7d0c9671c2a3e7b0a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bradley Road",
+                    "short_name": "Bradley Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4920",
+                    "short_name": "4920",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Bradley Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2130977,
+                        "lng": -70.99294859999999
+                    },
+                    "southwest": {
+                        "lat": 42.212951,
+                        "lng": -70.9930957
+                    }
+                },
+                "location": {
+                    "lat": 42.2130243,
+                    "lng": -70.99302209999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2143733302915,
+                        "lng": -70.99167316970849
+                    },
+                    "southwest": {
+                        "lat": 42.2116753697085,
+                        "lng": -70.9943711302915
+                    }
+                }
+            },
+            "place_id": "ChIJvxFfKc9i44kRa-qMmgj9FlA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9955dd399cdd6aa7d0c9671c2a3e7b0a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:43.802121",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

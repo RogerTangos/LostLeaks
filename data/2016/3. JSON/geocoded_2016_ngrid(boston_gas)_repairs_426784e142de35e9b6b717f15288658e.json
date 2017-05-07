@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_426784e142de35e9b6b717f15288658e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "243",
+                    "short_name": "243",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Summer Street",
+                    "short_name": "Summer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1233",
+                    "short_name": "1233",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "243 Summer St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4348627,
+                        "lng": -71.0761685
+                    },
+                    "southwest": {
+                        "lat": 42.4348602,
+                        "lng": -71.07618699999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4348627,
+                    "lng": -71.0761685
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4362104302915,
+                        "lng": -71.07482876970849
+                    },
+                    "southwest": {
+                        "lat": 42.4335124697085,
+                        "lng": -71.0775267302915
+                    }
+                }
+            },
+            "place_id": "EiQyNDMgU3VtbWVyIFN0LCBNYWxkZW4sIE1BIDAyMTQ4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "426784e142de35e9b6b717f15288658e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:20.438284",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

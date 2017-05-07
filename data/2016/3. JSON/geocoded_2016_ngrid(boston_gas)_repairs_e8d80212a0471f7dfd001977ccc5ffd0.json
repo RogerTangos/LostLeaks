@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e8d80212a0471f7dfd001977ccc5ffd0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Willow Street",
+                    "short_name": "Willow St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1549",
+                    "short_name": "1549",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Willow St, Reading, MA 01867, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5318821,
+                        "lng": -71.1192086
+                    },
+                    "southwest": {
+                        "lat": 42.5318778,
+                        "lng": -71.1192264
+                    }
+                },
+                "location": {
+                    "lat": 42.5318821,
+                    "lng": -71.1192264
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.53322893029149,
+                        "lng": -71.1178685197085
+                    },
+                    "southwest": {
+                        "lat": 42.53053096970849,
+                        "lng": -71.1205664802915
+                    }
+                }
+            },
+            "place_id": "EiMzIFdpbGxvdyBTdCwgUmVhZGluZywgTUEgMDE4NjcsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e8d80212a0471f7dfd001977ccc5ffd0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:30.761982",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

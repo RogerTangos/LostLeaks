@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9429d59f6b77219d9ae183feb23cb9dd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Willowwood Street",
+                    "short_name": "Willowwood St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Willowwood St & Dumas St, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2845103,
+                    "lng": -71.08621579999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2858592802915,
+                        "lng": -71.0848668197085
+                    },
+                    "southwest": {
+                        "lat": 42.2831613197085,
+                        "lng": -71.0875647802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei9XaWxsb3d3b29kIFN0ICYgRHVtYXMgU3QsIEJvc3RvbiwgTUEgMDIxMjQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "9429d59f6b77219d9ae183feb23cb9dd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:58.815031",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

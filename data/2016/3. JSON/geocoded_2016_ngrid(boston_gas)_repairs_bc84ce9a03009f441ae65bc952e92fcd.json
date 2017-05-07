@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bc84ce9a03009f441ae65bc952e92fcd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "34",
+                    "short_name": "34",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dawes Street",
+                    "short_name": "Dawes St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2206",
+                    "short_name": "2206",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "34 Dawes St, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4204397,
+                        "lng": -71.0097093
+                    },
+                    "southwest": {
+                        "lat": 42.420294,
+                        "lng": -71.0099321
+                    }
+                },
+                "location": {
+                    "lat": 42.4203669,
+                    "lng": -71.00982069999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4217158302915,
+                        "lng": -71.0084717197085
+                    },
+                    "southwest": {
+                        "lat": 42.4190178697085,
+                        "lng": -71.0111696802915
+                    }
+                }
+            },
+            "place_id": "ChIJMXpzcwJy44kReWPZ6QvXZ64",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bc84ce9a03009f441ae65bc952e92fcd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:12.405445",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

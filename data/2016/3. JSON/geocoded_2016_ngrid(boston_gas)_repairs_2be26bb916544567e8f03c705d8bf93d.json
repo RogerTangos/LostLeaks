@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2be26bb916544567e8f03c705d8bf93d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "107",
+                    "short_name": "107",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Minot Street",
+                    "short_name": "Minot St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2032",
+                    "short_name": "2032",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "107 Minot St, Dorchester, MA 02122, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2848767,
+                        "lng": -71.0511657
+                    },
+                    "southwest": {
+                        "lat": 42.2847029,
+                        "lng": -71.0513161
+                    }
+                },
+                "location": {
+                    "lat": 42.2847898,
+                    "lng": -71.0512409
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2861387802915,
+                        "lng": -71.04989191970849
+                    },
+                    "southwest": {
+                        "lat": 42.2834408197085,
+                        "lng": -71.05258988029149
+                    }
+                }
+            },
+            "place_id": "ChIJJ1ELSp1744kRWms3--GLuxY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2be26bb916544567e8f03c705d8bf93d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:35.179724",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

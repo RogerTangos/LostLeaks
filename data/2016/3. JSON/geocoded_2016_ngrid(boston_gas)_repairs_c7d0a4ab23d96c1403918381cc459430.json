@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c7d0a4ab23d96c1403918381cc459430.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "330",
+                    "short_name": "330",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elm Street",
+                    "short_name": "Elm St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1422",
+                    "short_name": "1422",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "330 Elm St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2258326,
+                        "lng": -70.99618559999999
+                    },
+                    "southwest": {
+                        "lat": 42.2257126,
+                        "lng": -70.9963853
+                    }
+                },
+                "location": {
+                    "lat": 42.2257726,
+                    "lng": -70.99628539999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2271215802915,
+                        "lng": -70.99493646970849
+                    },
+                    "southwest": {
+                        "lat": 42.2244236197085,
+                        "lng": -70.9976344302915
+                    }
+                }
+            },
+            "place_id": "ChIJm3sAeNZi44kRmT7EM0-lf0g",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c7d0a4ab23d96c1403918381cc459430",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:07.503367",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

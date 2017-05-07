@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c0ed54fa18af0bdf1f96482fb0652883.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "85",
+                    "short_name": "85",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arlington Street",
+                    "short_name": "Arlington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2727",
+                    "short_name": "2727",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "85 Arlington St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5331736,
+                        "lng": -71.76479259999999
+                    },
+                    "southwest": {
+                        "lat": 42.5331701,
+                        "lng": -71.7648107
+                    }
+                },
+                "location": {
+                    "lat": 42.5331701,
+                    "lng": -71.76479259999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5345208302915,
+                        "lng": -71.7634526697085
+                    },
+                    "southwest": {
+                        "lat": 42.53182286970851,
+                        "lng": -71.7661506302915
+                    }
+                }
+            },
+            "place_id": "Eio4NSBBcmxpbmd0b24gU3QsIExlb21pbnN0ZXIsIE1BIDAxNDUzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c0ed54fa18af0bdf1f96482fb0652883",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:21.323454",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

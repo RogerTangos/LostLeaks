@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e76e76399c9c2bee9f94c2c9ce430614.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Beacon Street",
+                    "short_name": "Beacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02461",
+                    "short_name": "02461",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Beacon St & Walnut St, Newton, MA 02461, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3308369,
+                    "lng": -71.20702059999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3321858802915,
+                        "lng": -71.2056716197085
+                    },
+                    "southwest": {
+                        "lat": 42.32948791970851,
+                        "lng": -71.2083695802915
+                    }
+                }
+            },
+            "place_id": "EixCZWFjb24gU3QgJiBXYWxudXQgU3QsIE5ld3RvbiwgTUEgMDI0NjEsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "e76e76399c9c2bee9f94c2c9ce430614",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:13.203724",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

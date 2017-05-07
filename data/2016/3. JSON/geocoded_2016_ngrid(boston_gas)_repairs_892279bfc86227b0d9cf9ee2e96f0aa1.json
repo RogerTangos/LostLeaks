@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_892279bfc86227b0d9cf9ee2e96f0aa1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "104",
+                    "short_name": "104",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cedar Street",
+                    "short_name": "Cedar St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3705",
+                    "short_name": "3705",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "104 Cedar St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2578837,
+                        "lng": -71.0175938
+                    },
+                    "southwest": {
+                        "lat": 42.2577293,
+                        "lng": -71.01780459999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2578065,
+                    "lng": -71.0176992
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2591554802915,
+                        "lng": -71.01635021970849
+                    },
+                    "southwest": {
+                        "lat": 42.2564575197085,
+                        "lng": -71.01904818029149
+                    }
+                }
+            },
+            "place_id": "ChIJ7bekBbt844kRwKIkjMyAXww",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "892279bfc86227b0d9cf9ee2e96f0aa1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:29.003977",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

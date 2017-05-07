@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_59784dffc2bb12a79d7a4b0e5038d18a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Street",
+                    "short_name": "Park St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Groveland",
+                    "short_name": "Groveland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01834",
+                    "short_name": "01834",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1120",
+                    "short_name": "1120",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Park St, Groveland, MA 01834, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7609204,
+                        "lng": -71.03368809999999
+                    },
+                    "southwest": {
+                        "lat": 42.7607015,
+                        "lng": -71.0339389
+                    }
+                },
+                "location": {
+                    "lat": 42.760811,
+                    "lng": -71.0338135
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7621599302915,
+                        "lng": -71.0324645197085
+                    },
+                    "southwest": {
+                        "lat": 42.7594619697085,
+                        "lng": -71.0351624802915
+                    }
+                }
+            },
+            "place_id": "ChIJ04pUaRwD44kRyApv82Ty49Y",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "59784dffc2bb12a79d7a4b0e5038d18a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:14.800493",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

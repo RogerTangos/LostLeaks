@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_4fbee2c3c53fb416d6f5540e20e31daa.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "164",
+                    "short_name": "164",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bryant Lane",
+                    "short_name": "Bryant Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "164 Bryant Ln, New Bedford, MA 02740, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6441547,
+                        "lng": -70.9620656
+                    },
+                    "southwest": {
+                        "lat": 41.644141,
+                        "lng": -70.96206939999999
+                    }
+                },
+                "location": {
+                    "lat": 41.644141,
+                    "lng": -70.9620656
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6454968302915,
+                        "lng": -70.9607185197085
+                    },
+                    "southwest": {
+                        "lat": 41.6427988697085,
+                        "lng": -70.9634164802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EikxNjQgQnJ5YW50IExuLCBOZXcgQmVkZm9yZCwgTUEgMDI3NDAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4fbee2c3c53fb416d6f5540e20e31daa",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:04:20.099630",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

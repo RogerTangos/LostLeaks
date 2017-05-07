@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d6ced38dc6b9aa6a28838e036b9f5268.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "26",
+                    "short_name": "26",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North End Boulevard",
+                    "short_name": "North End Blvd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salisbury",
+                    "short_name": "Salisbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01952",
+                    "short_name": "01952",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2204",
+                    "short_name": "2204",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "26 North End Blvd, Salisbury, MA 01952, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.84396530000001,
+                        "lng": -70.8182824
+                    },
+                    "southwest": {
+                        "lat": 42.8437787,
+                        "lng": -70.81844339999999
+                    }
+                },
+                "location": {
+                    "lat": 42.843872,
+                    "lng": -70.8183629
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.84522098029151,
+                        "lng": -70.81701391970849
+                    },
+                    "southwest": {
+                        "lat": 42.84252301970851,
+                        "lng": -70.81971188029149
+                    }
+                }
+            },
+            "place_id": "ChIJBWOIjFPn4okRDWLe_Z47QVc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d6ced38dc6b9aa6a28838e036b9f5268",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:42.884818",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

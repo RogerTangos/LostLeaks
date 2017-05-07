@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d07466853ab155120a29f87ecf39643a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Mystic Avenue",
+                    "short_name": "Mystic Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Mystic Ave & Shore Dr, Somerville, MA 02145, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3972256,
+                    "lng": -71.09137059999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39857458029149,
+                        "lng": -71.09002161970848
+                    },
+                    "southwest": {
+                        "lat": 42.3958766197085,
+                        "lng": -71.0927195802915
+                    }
+                }
+            },
+            "place_id": "EjBNeXN0aWMgQXZlICYgU2hvcmUgRHIsIFNvbWVydmlsbGUsIE1BIDAyMTQ1LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d07466853ab155120a29f87ecf39643a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:40.437287",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

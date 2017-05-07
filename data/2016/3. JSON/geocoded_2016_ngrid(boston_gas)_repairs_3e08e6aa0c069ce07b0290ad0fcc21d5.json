@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3e08e6aa0c069ce07b0290ad0fcc21d5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "575",
+                    "short_name": "575",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3045",
+                    "short_name": "3045",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "575 Broadway, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4133708,
+                        "lng": -71.0098579
+                    },
+                    "southwest": {
+                        "lat": 42.4132059,
+                        "lng": -71.01014719999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4132884,
+                    "lng": -71.01000259999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4146373302915,
+                        "lng": -71.00865356970849
+                    },
+                    "southwest": {
+                        "lat": 42.4119393697085,
+                        "lng": -71.0113515302915
+                    }
+                }
+            },
+            "place_id": "ChIJ03CSo_tx44kR8O75wpUQGdQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3e08e6aa0c069ce07b0290ad0fcc21d5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:05.751655",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

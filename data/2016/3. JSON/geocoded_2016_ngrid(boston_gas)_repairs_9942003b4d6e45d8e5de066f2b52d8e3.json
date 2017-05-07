@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9942003b4d6e45d8e5de066f2b52d8e3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "74",
+                    "short_name": "74",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hogg Memorial Drive",
+                    "short_name": "Hogg Memorial Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "74 Hogg Memorial Dr, Whitman, MA 02382, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0724691,
+                        "lng": -70.9540936
+                    },
+                    "southwest": {
+                        "lat": 42.0724644,
+                        "lng": -70.9541113
+                    }
+                },
+                "location": {
+                    "lat": 42.0724644,
+                    "lng": -70.9541113
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0738157302915,
+                        "lng": -70.95275346970848
+                    },
+                    "southwest": {
+                        "lat": 42.0711177697085,
+                        "lng": -70.95545143029149
+                    }
+                }
+            },
+            "place_id": "Eis3NCBIb2dnIE1lbW9yaWFsIERyLCBXaGl0bWFuLCBNQSAwMjM4MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9942003b4d6e45d8e5de066f2b52d8e3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:39.702248",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

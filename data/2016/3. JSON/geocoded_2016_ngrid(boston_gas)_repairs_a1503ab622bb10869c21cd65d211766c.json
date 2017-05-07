@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a1503ab622bb10869c21cd65d211766c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mead Road",
+                    "short_name": "Mead Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2814",
+                    "short_name": "2814",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Mead Rd, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.42393910000001,
+                        "lng": -71.1664923
+                    },
+                    "southwest": {
+                        "lat": 42.4238368,
+                        "lng": -71.1666375
+                    }
+                },
+                "location": {
+                    "lat": 42.4238879,
+                    "lng": -71.1665649
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4252369302915,
+                        "lng": -71.1652159197085
+                    },
+                    "southwest": {
+                        "lat": 42.4225389697085,
+                        "lng": -71.16791388029151
+                    }
+                }
+            },
+            "place_id": "ChIJ9YV9xEB244kRgQ3KlC7vbL0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a1503ab622bb10869c21cd65d211766c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:14.347971",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

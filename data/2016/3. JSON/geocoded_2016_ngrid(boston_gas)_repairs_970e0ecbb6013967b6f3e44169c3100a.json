@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_970e0ecbb6013967b6f3e44169c3100a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "779",
+                    "short_name": "779",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "School Street",
+                    "short_name": "School St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "779 School St, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0359957,
+                        "lng": -71.8824271
+                    },
+                    "southwest": {
+                        "lat": 42.0359878,
+                        "lng": -71.8824425
+                    }
+                },
+                "location": {
+                    "lat": 42.0359957,
+                    "lng": -71.8824271
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0373407302915,
+                        "lng": -71.88108581970849
+                    },
+                    "southwest": {
+                        "lat": 42.0346427697085,
+                        "lng": -71.8837837802915
+                    }
+                }
+            },
+            "place_id": "EiU3NzkgU2Nob29sIFN0LCBXZWJzdGVyLCBNQSAwMTU3MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "970e0ecbb6013967b6f3e44169c3100a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:51.128416",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f22d5b4de6bbe28e122b8a1d525ef736.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Meadowbrook Road",
+                    "short_name": "Meadowbrook Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Meadowbrook Rd, Acton, MA 01720, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.489576,
+                        "lng": -71.4374921
+                    },
+                    "southwest": {
+                        "lat": 42.48956219999999,
+                        "lng": -71.43749319999999
+                    }
+                },
+                "location": {
+                    "lat": 42.489576,
+                    "lng": -71.43749319999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4909180802915,
+                        "lng": -71.4361436697085
+                    },
+                    "southwest": {
+                        "lat": 42.4882201197085,
+                        "lng": -71.4388416302915
+                    }
+                }
+            },
+            "place_id": "EiYyIE1lYWRvd2Jyb29rIFJkLCBBY3RvbiwgTUEgMDE3MjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f22d5b4de6bbe28e122b8a1d525ef736",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:05.768009",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

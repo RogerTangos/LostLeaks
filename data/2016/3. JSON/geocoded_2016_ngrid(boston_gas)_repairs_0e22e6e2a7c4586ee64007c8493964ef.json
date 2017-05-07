@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0e22e6e2a7c4586ee64007c8493964ef.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "175",
+                    "short_name": "175",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Landham Road",
+                    "short_name": "Landham Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "175 Landham Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3535438,
+                        "lng": -71.4030293
+                    },
+                    "southwest": {
+                        "lat": 42.35339,
+                        "lng": -71.4032366
+                    }
+                },
+                "location": {
+                    "lat": 42.3534669,
+                    "lng": -71.40313290000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3548158802915,
+                        "lng": -71.40178396970849
+                    },
+                    "southwest": {
+                        "lat": 42.3521179197085,
+                        "lng": -71.4044819302915
+                    }
+                }
+            },
+            "place_id": "ChIJMxnf1EGP44kR50cGtB46OPo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0e22e6e2a7c4586ee64007c8493964ef",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:22.569692",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_186d9527c5ce1f030792bbee2388a161.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "47",
+                    "short_name": "47",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bank Street",
+                    "short_name": "Bank St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "47 Bank St, Abington, MA 02351, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1072533,
+                        "lng": -70.9467061
+                    },
+                    "southwest": {
+                        "lat": 42.10724099999999,
+                        "lng": -70.946715
+                    }
+                },
+                "location": {
+                    "lat": 42.10724099999999,
+                    "lng": -70.946715
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1085961302915,
+                        "lng": -70.9453615697085
+                    },
+                    "southwest": {
+                        "lat": 42.1058981697085,
+                        "lng": -70.9480595302915
+                    }
+                }
+            },
+            "place_id": "EiM0NyBCYW5rIFN0LCBBYmluZ3RvbiwgTUEgMDIzNTEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "186d9527c5ce1f030792bbee2388a161",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:57.948882",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

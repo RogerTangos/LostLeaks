@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d2eb4fde5d75303a7414884d2163359c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Balcomb Street",
+                    "short_name": "Balcomb St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1552",
+                    "short_name": "1552",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Balcomb St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5298005,
+                        "lng": -70.91004380000001
+                    },
+                    "southwest": {
+                        "lat": 42.5296732,
+                        "lng": -70.9102307
+                    }
+                },
+                "location": {
+                    "lat": 42.5297369,
+                    "lng": -70.9101372
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5310858302915,
+                        "lng": -70.9087882697085
+                    },
+                    "southwest": {
+                        "lat": 42.5283878697085,
+                        "lng": -70.91148623029152
+                    }
+                }
+            },
+            "place_id": "ChIJl8BkdYkT44kR8QeGjsI-Tm0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d2eb4fde5d75303a7414884d2163359c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:07.730840",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

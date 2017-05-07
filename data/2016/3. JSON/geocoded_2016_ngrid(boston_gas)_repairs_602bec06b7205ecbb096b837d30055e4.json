@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_602bec06b7205ecbb096b837d30055e4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Caldwell Road",
+                    "short_name": "Caldwell Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1712",
+                    "short_name": "1712",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Caldwell Rd, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3753862,
+                        "lng": -71.2563921
+                    },
+                    "southwest": {
+                        "lat": 42.3753779,
+                        "lng": -71.25640709999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3753779,
+                    "lng": -71.25640709999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3767310302915,
+                        "lng": -71.25505061970848
+                    },
+                    "southwest": {
+                        "lat": 42.3740330697085,
+                        "lng": -71.2577485802915
+                    }
+                }
+            },
+            "place_id": "EiY1NiBDYWxkd2VsbCBSZCwgV2FsdGhhbSwgTUEgMDI0NTMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "602bec06b7205ecbb096b837d30055e4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:57.101938",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_641233c63d9e8d345fcaeaa6a5a236a1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "195",
+                    "short_name": "195",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mount Auburn Street",
+                    "short_name": "Mt Auburn St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4006",
+                    "short_name": "4006",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "195 Mt Auburn St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3682807,
+                        "lng": -71.1759567
+                    },
+                    "southwest": {
+                        "lat": 42.3680853,
+                        "lng": -71.17618440000001
+                    }
+                },
+                "location": {
+                    "lat": 42.36818299999999,
+                    "lng": -71.1760705
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3695319802915,
+                        "lng": -71.17472156970851
+                    },
+                    "southwest": {
+                        "lat": 42.36683401970851,
+                        "lng": -71.17741953029152
+                    }
+                }
+            },
+            "place_id": "ChIJewGychx444kR5h0Ley_GQ5I",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "641233c63d9e8d345fcaeaa6a5a236a1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:56.003328",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

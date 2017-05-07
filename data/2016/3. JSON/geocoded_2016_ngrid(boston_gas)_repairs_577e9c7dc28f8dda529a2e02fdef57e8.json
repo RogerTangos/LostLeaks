@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_577e9c7dc28f8dda529a2e02fdef57e8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "192",
+                    "short_name": "192",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nichols Street",
+                    "short_name": "Nichols St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2042",
+                    "short_name": "2042",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "192 Nichols St, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1912718,
+                        "lng": -71.21156599999999
+                    },
+                    "southwest": {
+                        "lat": 42.1911566,
+                        "lng": -71.21174909999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1912142,
+                    "lng": -71.2116576
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.19256318029149,
+                        "lng": -71.21030856970849
+                    },
+                    "southwest": {
+                        "lat": 42.18986521970849,
+                        "lng": -71.21300653029151
+                    }
+                }
+            },
+            "place_id": "ChIJNwUflst_5IkRL7Q9-x7xzi0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "577e9c7dc28f8dda529a2e02fdef57e8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:53.736470",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

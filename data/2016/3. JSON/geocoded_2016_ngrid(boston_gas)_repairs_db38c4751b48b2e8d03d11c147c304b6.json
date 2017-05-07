@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_db38c4751b48b2e8d03d11c147c304b6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bartlett Street",
+                    "short_name": "Bartlett St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5136",
+                    "short_name": "5136",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Bartlett St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5437945,
+                        "lng": -70.88042659999999
+                    },
+                    "southwest": {
+                        "lat": 42.543693,
+                        "lng": -70.8805745
+                    }
+                },
+                "location": {
+                    "lat": 42.5437438,
+                    "lng": -70.8805006
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5450927302915,
+                        "lng": -70.8791515697085
+                    },
+                    "southwest": {
+                        "lat": 42.5423947697085,
+                        "lng": -70.8818495302915
+                    }
+                }
+            },
+            "place_id": "ChIJUYxiMyIU44kRsW9v-Y2k6Fg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "db38c4751b48b2e8d03d11c147c304b6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:49.248365",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

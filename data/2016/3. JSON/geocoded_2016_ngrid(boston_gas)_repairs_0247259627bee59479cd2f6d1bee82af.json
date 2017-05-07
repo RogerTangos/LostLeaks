@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0247259627bee59479cd2f6d1bee82af.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Whittier Drive",
+                    "short_name": "Whittier Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Whittier Dr, Everett, MA 02149, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4204679,
+                    "lng": -71.0429697
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42181688029149,
+                        "lng": -71.0416207197085
+                    },
+                    "southwest": {
+                        "lat": 42.4191189197085,
+                        "lng": -71.04431868029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJgxTkGoRx44kRttc45ni5zno",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0247259627bee59479cd2f6d1bee82af",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:58.077897",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

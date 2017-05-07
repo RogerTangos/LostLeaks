@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d4b764fb566314ce0ab6dba585738789.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Harwood Avenue",
+                    "short_name": "Harwood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Littleton",
+                    "short_name": "Littleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01460",
+                    "short_name": "01460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1544",
+                    "short_name": "1544",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "59 Harwood Ave, Littleton, MA 01460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5353386,
+                        "lng": -71.5073706
+                    },
+                    "southwest": {
+                        "lat": 42.5353271,
+                        "lng": -71.5073811
+                    }
+                },
+                "location": {
+                    "lat": 42.5353271,
+                    "lng": -71.5073811
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5366818302915,
+                        "lng": -71.50602686970849
+                    },
+                    "southwest": {
+                        "lat": 42.5339838697085,
+                        "lng": -71.50872483029151
+                    }
+                }
+            },
+            "place_id": "Eig1OSBIYXJ3b29kIEF2ZSwgTGl0dGxldG9uLCBNQSAwMTQ2MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d4b764fb566314ce0ab6dba585738789",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:13.437545",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

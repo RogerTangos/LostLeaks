@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c78b3ffb8204d951cbd8598d28fadd49.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "122",
+                    "short_name": "122",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rand Terrace",
+                    "short_name": "Rand Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2422",
+                    "short_name": "2422",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "122 Rand Terrace, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.34599730000001,
+                        "lng": -71.24249089999999
+                    },
+                    "southwest": {
+                        "lat": 42.3459924,
+                        "lng": -71.2425085
+                    }
+                },
+                "location": {
+                    "lat": 42.3459924,
+                    "lng": -71.24249089999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34734383029151,
+                        "lng": -71.24115071970849
+                    },
+                    "southwest": {
+                        "lat": 42.34464586970851,
+                        "lng": -71.24384868029149
+                    }
+                }
+            },
+            "place_id": "EisxMjIgUmFuZCBUZXJyYWNlLCBBdWJ1cm5kYWxlLCBNQSAwMjQ2NiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c78b3ffb8204d951cbd8598d28fadd49",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:23.859028",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

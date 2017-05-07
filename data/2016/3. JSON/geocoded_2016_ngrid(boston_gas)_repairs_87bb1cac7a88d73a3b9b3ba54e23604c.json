@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_87bb1cac7a88d73a3b9b3ba54e23604c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Leisurewoods Drive",
+                    "short_name": "Leisurewoods Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2805",
+                    "short_name": "2805",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Leisurewoods Dr, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.13946749999999,
+                        "lng": -70.92474349999999
+                    },
+                    "southwest": {
+                        "lat": 42.1394587,
+                        "lng": -70.9247579
+                    }
+                },
+                "location": {
+                    "lat": 42.1394587,
+                    "lng": -70.9247579
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1408120802915,
+                        "lng": -70.9234017197085
+                    },
+                    "southwest": {
+                        "lat": 42.1381141197085,
+                        "lng": -70.92609968029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EisxMiBMZWlzdXJld29vZHMgRHIsIFJvY2tsYW5kLCBNQSAwMjM3MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "87bb1cac7a88d73a3b9b3ba54e23604c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:14.065738",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_89b93df14fc85802d7cd52b2971c04a2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Upland Field Road",
+                    "short_name": "Upland Field Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln",
+                    "short_name": "Lincoln",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01773",
+                    "short_name": "01773",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3303",
+                    "short_name": "3303",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Upland Field Rd, Lincoln, MA 01773, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4228366,
+                        "lng": -71.3089238
+                    },
+                    "southwest": {
+                        "lat": 42.4228304,
+                        "lng": -71.3089406
+                    }
+                },
+                "location": {
+                    "lat": 42.4228304,
+                    "lng": -71.3089406
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4241824802915,
+                        "lng": -71.30758321970849
+                    },
+                    "southwest": {
+                        "lat": 42.4214845197085,
+                        "lng": -71.31028118029151
+                    }
+                }
+            },
+            "place_id": "Eik5IFVwbGFuZCBGaWVsZCBSZCwgTGluY29sbiwgTUEgMDE3NzMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "89b93df14fc85802d7cd52b2971c04a2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:42.746575",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

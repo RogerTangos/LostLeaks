@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c9ef015abd855da143da6f4cbdbecc2a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1087",
+                    "short_name": "1087",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1087 Commonwealth Avenue, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3382156,
+                        "lng": -71.2116078
+                    },
+                    "southwest": {
+                        "lat": 42.3382018,
+                        "lng": -71.2116096
+                    }
+                },
+                "location": {
+                    "lat": 42.3382156,
+                    "lng": -71.2116078
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3395576802915,
+                        "lng": -71.2102597197085
+                    },
+                    "southwest": {
+                        "lat": 42.3368597197085,
+                        "lng": -71.21295768029151
+                    }
+                }
+            },
+            "place_id": "Ei8xMDg3IENvbW1vbndlYWx0aCBBdmVudWUsIE5ld3RvbiwgTUEgMDI0NTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c9ef015abd855da143da6f4cbdbecc2a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:37.739995",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

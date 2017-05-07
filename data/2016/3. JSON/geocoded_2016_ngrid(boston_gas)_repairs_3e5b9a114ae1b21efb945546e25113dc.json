@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3e5b9a114ae1b21efb945546e25113dc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1355",
+                    "short_name": "1355",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02420",
+                    "short_name": "02420",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1355 Massachusetts Ave, Lexington, MA 02420, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4420446,
+                    "lng": -71.21656200000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4433935802915,
+                        "lng": -71.21521301970851
+                    },
+                    "southwest": {
+                        "lat": 42.4406956197085,
+                        "lng": -71.21791098029152
+                    }
+                }
+            },
+            "place_id": "ChIJJ6SIDMKd44kRztCx4cNeIbA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3e5b9a114ae1b21efb945546e25113dc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:49.292772",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

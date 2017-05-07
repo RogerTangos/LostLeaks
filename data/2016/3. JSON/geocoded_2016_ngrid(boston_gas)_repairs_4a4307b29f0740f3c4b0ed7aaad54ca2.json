@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4a4307b29f0740f3c4b0ed7aaad54ca2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "331",
+                    "short_name": "331",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "331 High St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3245613,
+                        "lng": -71.1215653
+                    },
+                    "southwest": {
+                        "lat": 42.3244736,
+                        "lng": -71.121741
+                    }
+                },
+                "location": {
+                    "lat": 42.3245174,
+                    "lng": -71.1216532
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3258664302915,
+                        "lng": -71.12030416970849
+                    },
+                    "southwest": {
+                        "lat": 42.32316846970851,
+                        "lng": -71.1230021302915
+                    }
+                }
+            },
+            "place_id": "ChIJRVTVsQp544kRlhcFT5XR2Zw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4a4307b29f0740f3c4b0ed7aaad54ca2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:08.403854",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

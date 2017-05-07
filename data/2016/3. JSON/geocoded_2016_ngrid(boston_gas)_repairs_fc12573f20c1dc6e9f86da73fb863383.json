@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fc12573f20c1dc6e9f86da73fb863383.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Laurel Street",
+                    "short_name": "Laurel St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4306",
+                    "short_name": "4306",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Laurel St, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4452057,
+                        "lng": -71.0137274
+                    },
+                    "southwest": {
+                        "lat": 42.4450915,
+                        "lng": -71.01387179999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4451486,
+                    "lng": -71.0137996
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44649758029149,
+                        "lng": -71.01245061970849
+                    },
+                    "southwest": {
+                        "lat": 42.44379961970849,
+                        "lng": -71.0151485802915
+                    }
+                }
+            },
+            "place_id": "ChIJG46c43Fy44kRwstoUNSk6lw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fc12573f20c1dc6e9f86da73fb863383",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:53.578943",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

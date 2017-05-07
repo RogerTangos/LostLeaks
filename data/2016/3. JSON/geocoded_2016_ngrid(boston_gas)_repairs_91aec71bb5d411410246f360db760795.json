@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_91aec71bb5d411410246f360db760795.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Avenue",
+                    "short_name": "Highland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newtonville",
+                    "short_name": "Newtonville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1852",
+                    "short_name": "1852",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Highland Ave, Newton, MA 02460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3494703,
+                        "lng": -71.20727959999999
+                    },
+                    "southwest": {
+                        "lat": 42.3494567,
+                        "lng": -71.2072833
+                    }
+                },
+                "location": {
+                    "lat": 42.3494703,
+                    "lng": -71.2072833
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3508124802915,
+                        "lng": -71.2059324697085
+                    },
+                    "southwest": {
+                        "lat": 42.3481145197085,
+                        "lng": -71.2086304302915
+                    }
+                }
+            },
+            "place_id": "EiYxMSBIaWdobGFuZCBBdmUsIE5ld3RvbiwgTUEgMDI0NjAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "91aec71bb5d411410246f360db760795",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:44.338880",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

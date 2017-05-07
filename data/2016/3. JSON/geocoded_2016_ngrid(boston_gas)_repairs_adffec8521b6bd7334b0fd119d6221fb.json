@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_adffec8521b6bd7334b0fd119d6221fb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "416",
+                    "short_name": "416",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hilldale Avenue",
+                    "short_name": "Hilldale Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2561",
+                    "short_name": "2561",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "416 Hilldale Ave, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.79033949999999,
+                        "lng": -71.1006079
+                    },
+                    "southwest": {
+                        "lat": 42.7903259,
+                        "lng": -71.1006101
+                    }
+                },
+                "location": {
+                    "lat": 42.7903259,
+                    "lng": -71.1006101
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7916816802915,
+                        "lng": -71.0992600197085
+                    },
+                    "southwest": {
+                        "lat": 42.7889837197085,
+                        "lng": -71.1019579802915
+                    }
+                }
+            },
+            "place_id": "Eio0MTYgSGlsbGRhbGUgQXZlLCBIYXZlcmhpbGwsIE1BIDAxODMyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "adffec8521b6bd7334b0fd119d6221fb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:22.781338",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_990993e54cdef7ffa302a7ed7b5bfe16.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rowell Avenue",
+                    "short_name": "Rowell Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2921",
+                    "short_name": "2921",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Rowell Ave, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5536045,
+                        "lng": -70.89487849999999
+                    },
+                    "southwest": {
+                        "lat": 42.55345579999999,
+                        "lng": -70.89508409999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5535301,
+                    "lng": -70.8949813
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5548791302915,
+                        "lng": -70.89363231970849
+                    },
+                    "southwest": {
+                        "lat": 42.5521811697085,
+                        "lng": -70.8963302802915
+                    }
+                }
+            },
+            "place_id": "ChIJO5272acW44kRwkS1njNaKI4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "990993e54cdef7ffa302a7ed7b5bfe16",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:27.031813",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

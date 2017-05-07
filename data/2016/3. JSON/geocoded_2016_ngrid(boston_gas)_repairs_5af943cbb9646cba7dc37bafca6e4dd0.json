@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5af943cbb9646cba7dc37bafca6e4dd0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Church Street",
+                    "short_name": "Church St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Church St & Emerson Rd, Milton, MA 02186, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.262495,
+                    "lng": -71.0409027
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2638439802915,
+                        "lng": -71.03955371970851
+                    },
+                    "southwest": {
+                        "lat": 42.26114601970851,
+                        "lng": -71.04225168029151
+                    }
+                }
+            },
+            "place_id": "Ei1DaHVyY2ggU3QgJiBFbWVyc29uIFJkLCBNaWx0b24sIE1BIDAyMTg2LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "5af943cbb9646cba7dc37bafca6e4dd0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:26.834289",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

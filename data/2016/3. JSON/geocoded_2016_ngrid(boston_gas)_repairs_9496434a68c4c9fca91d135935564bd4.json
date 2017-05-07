@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9496434a68c4c9fca91d135935564bd4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Summer Street",
+                    "short_name": "Summer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Summer St & Newcomb St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.7776501,
+                    "lng": -71.0762457
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7789990802915,
+                        "lng": -71.07489671970849
+                    },
+                    "southwest": {
+                        "lat": 42.7763011197085,
+                        "lng": -71.07759468029151
+                    }
+                }
+            },
+            "place_id": "EjBTdW1tZXIgU3QgJiBOZXdjb21iIFN0LCBIYXZlcmhpbGwsIE1BIDAxODMwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "9496434a68c4c9fca91d135935564bd4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:51.843624",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

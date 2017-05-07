@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_452ea4b358cf91666cd966fef60517ac.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "97",
+                    "short_name": "97",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Road",
+                    "short_name": "North Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "97 North Rd, Bedford, MA 01730, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.49959399999999,
+                    "lng": -71.28407949999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50094298029149,
+                        "lng": -71.28273051970848
+                    },
+                    "southwest": {
+                        "lat": 42.49824501970849,
+                        "lng": -71.2854284802915
+                    }
+                }
+            },
+            "place_id": "ChIJG8uyhtOe44kRpp7nzGco71Q",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "452ea4b358cf91666cd966fef60517ac",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:03.157511",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

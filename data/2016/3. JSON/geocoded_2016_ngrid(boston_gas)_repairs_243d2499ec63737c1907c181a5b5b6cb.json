@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_243d2499ec63737c1907c181a5b5b6cb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Central Street",
+                    "short_name": "Central St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1634",
+                    "short_name": "1634",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Central St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.381259,
+                    "lng": -70.9801969
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3826079802915,
+                        "lng": -70.97884791970849
+                    },
+                    "southwest": {
+                        "lat": 42.3799100197085,
+                        "lng": -70.98154588029149
+                    }
+                }
+            },
+            "place_id": "ChIJca1Y3DVu44kRbC90kYyld7U",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "243d2499ec63737c1907c181a5b5b6cb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:11.240054",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

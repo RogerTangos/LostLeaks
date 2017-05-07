@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_18d279bc0667e8fe3f661ffdb500c5d3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Regency Drive",
+                    "short_name": "Regency Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Holliston",
+                    "short_name": "Holliston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01746",
+                    "short_name": "01746",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Regency Dr, Holliston, MA 01746, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2005921,
+                        "lng": -71.4221481
+                    },
+                    "southwest": {
+                        "lat": 42.2005884,
+                        "lng": -71.42216619999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2005884,
+                    "lng": -71.42216619999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2019392302915,
+                        "lng": -71.4208081697085
+                    },
+                    "southwest": {
+                        "lat": 42.1992412697085,
+                        "lng": -71.4235061302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiYxIFJlZ2VuY3kgRHIsIEhvbGxpc3RvbiwgTUEgMDE3NDYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "18d279bc0667e8fe3f661ffdb500c5d3",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:19:38.149101",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

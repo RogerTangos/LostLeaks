@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1f76a79b189c8861e64b2e810ed4ba37.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "173",
+                    "short_name": "173",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stuart Avenue",
+                    "short_name": "Stuart Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6754",
+                    "short_name": "6754",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "173 Stuart Ave, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5706691,
+                        "lng": -71.7497381
+                    },
+                    "southwest": {
+                        "lat": 42.5706567,
+                        "lng": -71.74974639999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5706567,
+                    "lng": -71.7497381
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5720118802915,
+                        "lng": -71.7483932697085
+                    },
+                    "southwest": {
+                        "lat": 42.5693139197085,
+                        "lng": -71.75109123029151
+                    }
+                }
+            },
+            "place_id": "EikxNzMgU3R1YXJ0IEF2ZSwgTGVvbWluc3RlciwgTUEgMDE0NTMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1f76a79b189c8861e64b2e810ed4ba37",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:20.452957",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

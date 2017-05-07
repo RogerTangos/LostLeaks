@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_10d868cb9242f8459161eeaa0082de31.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Old Farm Road",
+                    "short_name": "Old Farm Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln",
+                    "short_name": "Lincoln",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01773",
+                    "short_name": "01773",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2202",
+                    "short_name": "2202",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Old Farm Rd, Lincoln, MA 01773, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4278609,
+                        "lng": -71.2876917
+                    },
+                    "southwest": {
+                        "lat": 42.4278525,
+                        "lng": -71.2877067
+                    }
+                },
+                "location": {
+                    "lat": 42.4278609,
+                    "lng": -71.2876917
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4292056802915,
+                        "lng": -71.2863502197085
+                    },
+                    "southwest": {
+                        "lat": 42.4265077197085,
+                        "lng": -71.2890481802915
+                    }
+                }
+            },
+            "place_id": "EiUyIE9sZCBGYXJtIFJkLCBMaW5jb2xuLCBNQSAwMTc3MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "10d868cb9242f8459161eeaa0082de31",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:05.884997",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

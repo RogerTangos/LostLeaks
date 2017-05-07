@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5ac307d1679405852fe2f5f87190f1a5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "637",
+                    "short_name": "637",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cummins Highway",
+                    "short_name": "Cummins Hwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02126",
+                    "short_name": "02126",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "637 Cummins Hwy, Mattapan, MA 02126, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.27128769999999,
+                    "lng": -71.10549639999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27263668029149,
+                        "lng": -71.1041474197085
+                    },
+                    "southwest": {
+                        "lat": 42.2699387197085,
+                        "lng": -71.1068453802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJxRpHXaR-44kRuTLkNUYOOgY",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5ac307d1679405852fe2f5f87190f1a5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:49.879215",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

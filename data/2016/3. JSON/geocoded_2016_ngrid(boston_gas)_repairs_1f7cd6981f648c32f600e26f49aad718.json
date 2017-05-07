@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1f7cd6981f648c32f600e26f49aad718.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "College Road",
+                    "short_name": "College Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "36 College Rd, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3339436,
+                    "lng": -71.1724861
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3352925802915,
+                        "lng": -71.1711371197085
+                    },
+                    "southwest": {
+                        "lat": 42.3325946197085,
+                        "lng": -71.17383508029151
+                    }
+                }
+            },
+            "place_id": "ChIJob-l2WF444kR9YipVM7L4kg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1f7cd6981f648c32f600e26f49aad718",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:30.044022",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

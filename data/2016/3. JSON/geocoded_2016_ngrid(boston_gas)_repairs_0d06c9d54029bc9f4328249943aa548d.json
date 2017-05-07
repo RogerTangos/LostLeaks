@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0d06c9d54029bc9f4328249943aa548d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "165",
+                    "short_name": "165",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Avenue",
+                    "short_name": "South Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weston",
+                    "short_name": "Weston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02493",
+                    "short_name": "02493",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "165 South Ave, Weston, MA 02493, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3407515,
+                        "lng": -71.27622459999999
+                    },
+                    "southwest": {
+                        "lat": 42.3407376,
+                        "lng": -71.2762255
+                    }
+                },
+                "location": {
+                    "lat": 42.3407515,
+                    "lng": -71.2762255
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3420935302915,
+                        "lng": -71.2748760697085
+                    },
+                    "southwest": {
+                        "lat": 42.3393955697085,
+                        "lng": -71.2775740302915
+                    }
+                }
+            },
+            "place_id": "EiQxNjUgU291dGggQXZlLCBXZXN0b24sIE1BIDAyNDkzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0d06c9d54029bc9f4328249943aa548d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:06.498170",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

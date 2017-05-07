@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0452ae2ced67fc9d548243182d5854bc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "126",
+                    "short_name": "126",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Redington Street",
+                    "short_name": "Redington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2137",
+                    "short_name": "2137",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "126 Redington St, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4706951,
+                        "lng": -70.91225159999999
+                    },
+                    "southwest": {
+                        "lat": 42.4705962,
+                        "lng": -70.9124101
+                    }
+                },
+                "location": {
+                    "lat": 42.4706456,
+                    "lng": -70.91233079999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4719946302915,
+                        "lng": -70.9109818697085
+                    },
+                    "southwest": {
+                        "lat": 42.4692966697085,
+                        "lng": -70.9136798302915
+                    }
+                }
+            },
+            "place_id": "ChIJC_V9t6hs44kR3-5syd4wP5Q",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0452ae2ced67fc9d548243182d5854bc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:32.007614",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

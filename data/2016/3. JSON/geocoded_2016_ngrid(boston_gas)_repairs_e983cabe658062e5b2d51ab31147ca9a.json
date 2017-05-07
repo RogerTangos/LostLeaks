@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e983cabe658062e5b2d51ab31147ca9a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "489",
+                    "short_name": "489",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill Street",
+                    "short_name": "Haverhill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rowley",
+                    "short_name": "Rowley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rowley",
+                    "short_name": "Rowley",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01969",
+                    "short_name": "01969",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "489 Haverhill St, Rowley, MA 01969, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7061992,
+                        "lng": -70.9173948
+                    },
+                    "southwest": {
+                        "lat": 42.7061185,
+                        "lng": -70.9175539
+                    }
+                },
+                "location": {
+                    "lat": 42.7061589,
+                    "lng": -70.9174743
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7075078302915,
+                        "lng": -70.9161253697085
+                    },
+                    "southwest": {
+                        "lat": 42.7048098697085,
+                        "lng": -70.9188233302915
+                    }
+                }
+            },
+            "place_id": "ChIJTzrUbPgb44kR_NQ5FgtMteY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e983cabe658062e5b2d51ab31147ca9a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:10.316691",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

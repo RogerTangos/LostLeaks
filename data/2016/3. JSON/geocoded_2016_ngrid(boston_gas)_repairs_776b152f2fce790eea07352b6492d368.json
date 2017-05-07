@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_776b152f2fce790eea07352b6492d368.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dalton Road",
+                    "short_name": "Dalton Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3722",
+                    "short_name": "3722",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Dalton Rd, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3801767,
+                        "lng": -71.1603408
+                    },
+                    "southwest": {
+                        "lat": 42.3800679,
+                        "lng": -71.1605428
+                    }
+                },
+                "location": {
+                    "lat": 42.3801223,
+                    "lng": -71.1604418
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3814712802915,
+                        "lng": -71.15909281970849
+                    },
+                    "southwest": {
+                        "lat": 42.3787733197085,
+                        "lng": -71.1617907802915
+                    }
+                }
+            },
+            "place_id": "ChIJTzb4xZF344kRGKMyO1I64lI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "776b152f2fce790eea07352b6492d368",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:18.811076",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_418b380878558007dd69951f95d56a88.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cedar Street",
+                    "short_name": "Cedar St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02481",
+                    "short_name": "02481",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "27 Cedar St, Wellesley, MA 02481, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3206685,
+                    "lng": -71.2535891
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3220174802915,
+                        "lng": -71.25224011970849
+                    },
+                    "southwest": {
+                        "lat": 42.3193195197085,
+                        "lng": -71.25493808029151
+                    }
+                }
+            },
+            "place_id": "ChIJhwrEEsWD44kRq0rw-YZxLZM",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "418b380878558007dd69951f95d56a88",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:50.138889",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

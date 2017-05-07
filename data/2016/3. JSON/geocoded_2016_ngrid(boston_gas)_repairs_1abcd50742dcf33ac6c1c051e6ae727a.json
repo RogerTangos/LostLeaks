@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1abcd50742dcf33ac6c1c051e6ae727a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "46",
+                    "short_name": "46",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Anderson Street",
+                    "short_name": "Anderson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beacon Hill",
+                    "short_name": "Beacon Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02114",
+                    "short_name": "02114",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3612",
+                    "short_name": "3612",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "46 Anderson St, Boston, MA 02114, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3595026,
+                        "lng": -71.06770809999999
+                    },
+                    "southwest": {
+                        "lat": 42.3595017,
+                        "lng": -71.0677269
+                    }
+                },
+                "location": {
+                    "lat": 42.3595026,
+                    "lng": -71.06770809999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3608511302915,
+                        "lng": -71.06636851970849
+                    },
+                    "southwest": {
+                        "lat": 42.3581531697085,
+                        "lng": -71.06906648029151
+                    }
+                }
+            },
+            "place_id": "EiU0NiBBbmRlcnNvbiBTdCwgQm9zdG9uLCBNQSAwMjExNCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1abcd50742dcf33ac6c1c051e6ae727a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:52.645510",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

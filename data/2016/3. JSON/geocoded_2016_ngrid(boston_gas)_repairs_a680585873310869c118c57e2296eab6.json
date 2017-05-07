@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a680585873310869c118c57e2296eab6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "285",
+                    "short_name": "285",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lynn Shore Drive",
+                    "short_name": "Lynn Shore Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "285 Lynn Shore Dr, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4605657,
+                        "lng": -70.9329461
+                    },
+                    "southwest": {
+                        "lat": 42.4602648,
+                        "lng": -70.9334624
+                    }
+                },
+                "location": {
+                    "lat": 42.4604152,
+                    "lng": -70.93320419999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4617642302915,
+                        "lng": -70.93185526970849
+                    },
+                    "southwest": {
+                        "lat": 42.4590662697085,
+                        "lng": -70.9345532302915
+                    }
+                }
+            },
+            "place_id": "ChIJufeMDets44kRAGMIDxeD6EM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a680585873310869c118c57e2296eab6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:10.630359",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_dbbfe72446a69d1b7e1d839995ee5cfe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "344",
+                    "short_name": "344",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boston Post Road East",
+                    "short_name": "Boston Post Rd E",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "344 Boston Post Rd E, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3488732,
+                        "lng": -71.51678059999999
+                    },
+                    "southwest": {
+                        "lat": 42.3488617,
+                        "lng": -71.51679109999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3488732,
+                    "lng": -71.51678059999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3502164302915,
+                        "lng": -71.5154368697085
+                    },
+                    "southwest": {
+                        "lat": 42.3475184697085,
+                        "lng": -71.5181348302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjAzNDQgQm9zdG9uIFBvc3QgUmQgRSwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dbbfe72446a69d1b7e1d839995ee5cfe",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:20:12.036767",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

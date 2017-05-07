@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5f640d6da5f6425702ef0e8fff10ee45.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "South Street",
+                    "short_name": "South St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "South St & Jamaica St, Boston, MA 02130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3062958,
+                    "lng": -71.11508549999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3076447802915,
+                        "lng": -71.1137365197085
+                    },
+                    "southwest": {
+                        "lat": 42.3049468197085,
+                        "lng": -71.1164344802915
+                    }
+                }
+            },
+            "place_id": "EixTb3V0aCBTdCAmIEphbWFpY2EgU3QsIEJvc3RvbiwgTUEgMDIxMzAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "5f640d6da5f6425702ef0e8fff10ee45",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:32.921962",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

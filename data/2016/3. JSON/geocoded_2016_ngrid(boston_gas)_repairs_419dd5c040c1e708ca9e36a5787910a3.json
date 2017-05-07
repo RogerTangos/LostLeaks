@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_419dd5c040c1e708ca9e36a5787910a3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Phillips Drive",
+                    "short_name": "Phillips Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newburyport",
+                    "short_name": "Newburyport",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01950",
+                    "short_name": "01950",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6221",
+                    "short_name": "6221",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Phillips Dr, Newburyport, MA 01950, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8168929,
+                        "lng": -70.92179689999999
+                    },
+                    "southwest": {
+                        "lat": 42.8167592,
+                        "lng": -70.9219537
+                    }
+                },
+                "location": {
+                    "lat": 42.816826,
+                    "lng": -70.9218753
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8181750302915,
+                        "lng": -70.92052631970849
+                    },
+                    "southwest": {
+                        "lat": 42.8154770697085,
+                        "lng": -70.92322428029149
+                    }
+                }
+            },
+            "place_id": "ChIJcZgWMzLi4okRkNKeymKTYzQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "419dd5c040c1e708ca9e36a5787910a3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:32.750088",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

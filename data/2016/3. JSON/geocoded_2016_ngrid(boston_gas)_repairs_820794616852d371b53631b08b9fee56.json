@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_820794616852d371b53631b08b9fee56.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "916",
+                    "short_name": "916",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "916 Pleasant St, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.168672,
+                        "lng": -71.2035228
+                    },
+                    "southwest": {
+                        "lat": 42.1673944,
+                        "lng": -71.20460589999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1680332,
+                    "lng": -71.2040643
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1693821802915,
+                        "lng": -71.2027153697085
+                    },
+                    "southwest": {
+                        "lat": 42.1666842197085,
+                        "lng": -71.2054133302915
+                    }
+                }
+            },
+            "place_id": "ChIJGQ6gqSJ-5IkRtKGFA2jfJ54",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "820794616852d371b53631b08b9fee56",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:49.979845",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

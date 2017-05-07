@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bf446ce6487f3290be561bfa22005a08.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "107",
+                    "short_name": "107",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "College Avenue",
+                    "short_name": "College Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2149",
+                    "short_name": "2149",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "107 College Ave, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.42624439999999,
+                        "lng": -71.15990359999999
+                    },
+                    "southwest": {
+                        "lat": 42.4260878,
+                        "lng": -71.1601493
+                    }
+                },
+                "location": {
+                    "lat": 42.4261661,
+                    "lng": -71.16002639999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4275150802915,
+                        "lng": -71.1586774697085
+                    },
+                    "southwest": {
+                        "lat": 42.4248171197085,
+                        "lng": -71.1613754302915
+                    }
+                }
+            },
+            "place_id": "ChIJp22QfEJ244kRINWr0nKKtZ4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bf446ce6487f3290be561bfa22005a08",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:34.422187",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f59d7965630556490e7da66724edbb7f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "496",
+                    "short_name": "496",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Eliot Street",
+                    "short_name": "Eliot St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1652",
+                    "short_name": "1652",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "496 Eliot St, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2645504,
+                        "lng": -71.0892568
+                    },
+                    "southwest": {
+                        "lat": 42.26439560000001,
+                        "lng": -71.0894426
+                    }
+                },
+                "location": {
+                    "lat": 42.264473,
+                    "lng": -71.0893497
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26582198029151,
+                        "lng": -71.08800071970849
+                    },
+                    "southwest": {
+                        "lat": 42.26312401970851,
+                        "lng": -71.09069868029151
+                    }
+                }
+            },
+            "place_id": "ChIJ4bRX5Bh844kR-OYvUOjQkAw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f59d7965630556490e7da66724edbb7f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:14.317365",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

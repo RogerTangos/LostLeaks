@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9d1ad0207a80af476b727fa32b8b4aed.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "141",
+                    "short_name": "141",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Payson Road",
+                    "short_name": "Payson Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3271",
+                    "short_name": "3271",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "141 Payson Rd, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2992602,
+                        "lng": -71.1455103
+                    },
+                    "southwest": {
+                        "lat": 42.2992597,
+                        "lng": -71.14552909999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2992597,
+                    "lng": -71.14552909999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3006089302915,
+                        "lng": -71.1441707197085
+                    },
+                    "southwest": {
+                        "lat": 42.2979109697085,
+                        "lng": -71.1468686802915
+                    }
+                }
+            },
+            "place_id": "EisxNDEgUGF5c29uIFJkLCBDaGVzdG51dCBIaWxsLCBNQSAwMjQ2NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9d1ad0207a80af476b727fa32b8b4aed",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:07.762376",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

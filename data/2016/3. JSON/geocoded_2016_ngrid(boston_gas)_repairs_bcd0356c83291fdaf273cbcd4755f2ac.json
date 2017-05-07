@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bcd0356c83291fdaf273cbcd4755f2ac.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "788",
+                    "short_name": "788",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3016",
+                    "short_name": "3016",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "788 Broadway, Chelsea, MA 02150, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.397638,
+                    "lng": -71.026034
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3989869802915,
+                        "lng": -71.0246850197085
+                    },
+                    "southwest": {
+                        "lat": 42.3962890197085,
+                        "lng": -71.0273829802915
+                    }
+                }
+            },
+            "place_id": "ChIJv-kYnrhx44kRqcB30Fdgqq0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bcd0356c83291fdaf273cbcd4755f2ac",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:53.811043",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

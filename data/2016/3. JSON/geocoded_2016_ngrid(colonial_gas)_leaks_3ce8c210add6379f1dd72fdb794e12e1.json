@@ -1,0 +1,79 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_3ce8c210add6379f1dd72fdb794e12e1.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "West Boylston Street",
+                    "short_name": "W Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "W Boylston St, Massachusetts, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4104208,
+                        "lng": -71.69697409999999
+                    },
+                    "southwest": {
+                        "lat": 42.3998844,
+                        "lng": -71.7376752
+                    }
+                },
+                "location": {
+                    "lat": 42.4054442,
+                    "lng": -71.7179465
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4104208,
+                        "lng": -71.69697409999999
+                    },
+                    "southwest": {
+                        "lat": 42.3998844,
+                        "lng": -71.7376752
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJTSEZzt_w44kRwnnrFttoKPA",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "3ce8c210add6379f1dd72fdb794e12e1",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:39.477829",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

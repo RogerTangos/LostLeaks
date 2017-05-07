@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_518da2df0b053d925d27ab2db751f79a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Street",
+                    "short_name": "Pine St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02190",
+                    "short_name": "02190",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2616",
+                    "short_name": "2616",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Pine St, Weymouth, MA 02190, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1868098,
+                        "lng": -70.93265889999999
+                    },
+                    "southwest": {
+                        "lat": 42.186797,
+                        "lng": -70.9326662
+                    }
+                },
+                "location": {
+                    "lat": 42.1868098,
+                    "lng": -70.93265889999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1881523802915,
+                        "lng": -70.9313135697085
+                    },
+                    "southwest": {
+                        "lat": 42.1854544197085,
+                        "lng": -70.9340115302915
+                    }
+                }
+            },
+            "place_id": "EiMyMiBQaW5lIFN0LCBXZXltb3V0aCwgTUEgMDIxOTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "518da2df0b053d925d27ab2db751f79a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:47.063279",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

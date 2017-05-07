@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a8b10d19efb42216c7b962f2645b4154.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "382",
+                    "short_name": "382",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Concord Avenue",
+                    "short_name": "Concord Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02421",
+                    "short_name": "02421",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8008",
+                    "short_name": "8008",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "382 Concord Ave, Lexington, MA 02421, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4182599,
+                        "lng": -71.2322337
+                    },
+                    "southwest": {
+                        "lat": 42.418115,
+                        "lng": -71.23250709999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4181874,
+                    "lng": -71.2323704
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41953643029149,
+                        "lng": -71.23102141970848
+                    },
+                    "southwest": {
+                        "lat": 42.4168384697085,
+                        "lng": -71.2337193802915
+                    }
+                }
+            },
+            "place_id": "ChIJk2mYFwed44kR40VB9ARUvy0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a8b10d19efb42216c7b962f2645b4154",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:49.785990",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

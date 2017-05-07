@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a5ff23e7a9c08ae9ed1083b5c7ac0789.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stanley Drive",
+                    "short_name": "Stanley Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2727",
+                    "short_name": "2727",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Stanley Dr, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7892371,
+                        "lng": -71.0748204
+                    },
+                    "southwest": {
+                        "lat": 42.7892243,
+                        "lng": -71.07482730000001
+                    }
+                },
+                "location": {
+                    "lat": 42.7892243,
+                    "lng": -71.0748204
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7905796802915,
+                        "lng": -71.07347486970849
+                    },
+                    "southwest": {
+                        "lat": 42.7878817197085,
+                        "lng": -71.07617283029151
+                    }
+                }
+            },
+            "place_id": "EiY5IFN0YW5sZXkgRHIsIEhhdmVyaGlsbCwgTUEgMDE4MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a5ff23e7a9c08ae9ed1083b5c7ac0789",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:41.554389",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

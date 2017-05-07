@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_92df092dfa0d16075ffd1bd9e55f1c29.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5320",
+                    "short_name": "5320",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Union St, Norwood, MA 02062, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.159541,
+                    "lng": -71.198852
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.16088998029149,
+                        "lng": -71.19750301970849
+                    },
+                    "southwest": {
+                        "lat": 42.15819201970849,
+                        "lng": -71.20020098029151
+                    }
+                }
+            },
+            "place_id": "ChIJq4iMeBt-5IkRaYBMy1JZdYU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "92df092dfa0d16075ffd1bd9e55f1c29",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:32.242274",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

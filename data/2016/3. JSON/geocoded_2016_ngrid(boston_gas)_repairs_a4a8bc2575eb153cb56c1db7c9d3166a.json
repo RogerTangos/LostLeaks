@@ -1,0 +1,106 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a4a8bc2575eb153cb56c1db7c9d3166a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "86",
+                    "short_name": "86",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ballou Avenue",
+                    "short_name": "Ballou Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4124",
+                    "short_name": "4124",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "86 Ballou Ave, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2853325,
+                    "lng": -71.0826234
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.28668148029149,
+                        "lng": -71.08127441970849
+                    },
+                    "southwest": {
+                        "lat": 42.28398351970849,
+                        "lng": -71.0839723802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJdVWp1fB744kRVail09-bBhY",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a4a8bc2575eb153cb56c1db7c9d3166a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:25.172329",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a6687b4b4ffdbda6be8c8606559715f0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "370",
+                    "short_name": "370",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4341",
+                    "short_name": "4341",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "370 High St, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0434752,
+                        "lng": -71.8852161
+                    },
+                    "southwest": {
+                        "lat": 42.0434731,
+                        "lng": -71.8852347
+                    }
+                },
+                "location": {
+                    "lat": 42.0434731,
+                    "lng": -71.8852347
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0448231302915,
+                        "lng": -71.88387641970849
+                    },
+                    "southwest": {
+                        "lat": 42.0421251697085,
+                        "lng": -71.8865743802915
+                    }
+                }
+            },
+            "place_id": "EiMzNzAgSGlnaCBTdCwgV2Vic3RlciwgTUEgMDE1NzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a6687b4b4ffdbda6be8c8606559715f0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:40.150888",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

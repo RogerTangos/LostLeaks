@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_f8e5ebd10f96ae29b2db3e721d0e1e7c.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "219",
+                    "short_name": "219",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Main Street",
+                    "short_name": "N Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Natick",
+                    "short_name": "Natick",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01760",
+                    "short_name": "01760",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "219 N Main St, Natick, MA 01760, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3019213,
+                        "lng": -71.36096260000001
+                    },
+                    "southwest": {
+                        "lat": 42.3019167,
+                        "lng": -71.3609803
+                    }
+                },
+                "location": {
+                    "lat": 42.3019213,
+                    "lng": -71.36096260000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30326798029149,
+                        "lng": -71.3596224697085
+                    },
+                    "southwest": {
+                        "lat": 42.30057001970849,
+                        "lng": -71.3623204302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQyMTkgTiBNYWluIFN0LCBOYXRpY2ssIE1BIDAxNzYwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f8e5ebd10f96ae29b2db3e721d0e1e7c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:05:13.959703",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

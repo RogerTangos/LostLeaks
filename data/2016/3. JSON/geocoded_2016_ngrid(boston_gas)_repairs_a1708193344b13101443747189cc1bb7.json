@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a1708193344b13101443747189cc1bb7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Water Street",
+                    "short_name": "Water St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Water St & Lincoln Ave, Haverhill, MA 01830, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.7638117,
+                    "lng": -71.053401
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.76516068029149,
+                        "lng": -71.05205201970848
+                    },
+                    "southwest": {
+                        "lat": 42.76246271970849,
+                        "lng": -71.0547499802915
+                    }
+                }
+            },
+            "place_id": "EjBXYXRlciBTdCAmIExpbmNvbG4gQXZlLCBIYXZlcmhpbGwsIE1BIDAxODMwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "a1708193344b13101443747189cc1bb7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:57.692580",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

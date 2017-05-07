@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cc2e2feae6a9030b9a6fac62e225e1ce.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Clyde Street",
+                    "short_name": "Clyde St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3909",
+                    "short_name": "3909",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Clyde St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3913022,
+                        "lng": -71.1628215
+                    },
+                    "southwest": {
+                        "lat": 42.3911266,
+                        "lng": -71.1629796
+                    }
+                },
+                "location": {
+                    "lat": 42.3912144,
+                    "lng": -71.1629006
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39256338029151,
+                        "lng": -71.16155156970851
+                    },
+                    "southwest": {
+                        "lat": 42.38986541970851,
+                        "lng": -71.16424953029151
+                    }
+                }
+            },
+            "place_id": "ChIJKXQueb5344kRJ9p5VaMGdkI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cc2e2feae6a9030b9a6fac62e225e1ce",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:43.886474",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

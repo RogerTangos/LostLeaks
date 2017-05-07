@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f09004d9b0d653478efec9653c24520c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Mill Street",
+                    "short_name": "Mill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Mill St & Bacon St, Arlington, MA 02476, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.41716359999999,
+                    "lng": -71.1578289
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4185125802915,
+                        "lng": -71.15647991970849
+                    },
+                    "southwest": {
+                        "lat": 42.4158146197085,
+                        "lng": -71.1591778802915
+                    }
+                }
+            },
+            "place_id": "EixNaWxsIFN0ICYgQmFjb24gU3QsIEFybGluZ3RvbiwgTUEgMDI0NzYsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "f09004d9b0d653478efec9653c24520c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:39.340480",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fd403e199b01e83d5fdff517b5deee4c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "127",
+                    "short_name": "127",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Union Street",
+                    "short_name": "N Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3630",
+                    "short_name": "3630",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "127 N Union St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4138286,
+                        "lng": -71.13539399999999
+                    },
+                    "southwest": {
+                        "lat": 42.4136812,
+                        "lng": -71.13558340000002
+                    }
+                },
+                "location": {
+                    "lat": 42.41375490000001,
+                    "lng": -71.1354887
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4151038802915,
+                        "lng": -71.1341397197085
+                    },
+                    "southwest": {
+                        "lat": 42.4124059197085,
+                        "lng": -71.13683768029152
+                    }
+                }
+            },
+            "place_id": "ChIJPftmZPB244kRbIVlxQlar0Q",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fd403e199b01e83d5fdff517b5deee4c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:32.593820",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

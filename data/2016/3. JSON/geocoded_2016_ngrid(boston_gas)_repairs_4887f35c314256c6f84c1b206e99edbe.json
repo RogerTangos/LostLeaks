@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4887f35c314256c6f84c1b206e99edbe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3724",
+                    "short_name": "3724",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "3724 Washington St, Boston, MA 02130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2999449,
+                    "lng": -71.1133852
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3012938802915,
+                        "lng": -71.1120362197085
+                    },
+                    "southwest": {
+                        "lat": 42.2985959197085,
+                        "lng": -71.1147341802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJbWhzikN544kRhgj3X3tt1Fo",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4887f35c314256c6f84c1b206e99edbe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:40.779480",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d370525baf213d7aa36b59761c2ed32f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "120",
+                    "short_name": "120",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Charles Street South",
+                    "short_name": "Charles St S",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Downtown",
+                    "short_name": "Downtown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02116",
+                    "short_name": "02116",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "120 Charles St S, Boston, MA 02116, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3494903,
+                        "lng": -71.0665006
+                    },
+                    "southwest": {
+                        "lat": 42.3494879,
+                        "lng": -71.0665191
+                    }
+                },
+                "location": {
+                    "lat": 42.3494903,
+                    "lng": -71.0665006
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3508380802915,
+                        "lng": -71.06516086970849
+                    },
+                    "southwest": {
+                        "lat": 42.3481401197085,
+                        "lng": -71.06785883029151
+                    }
+                }
+            },
+            "place_id": "EicxMjAgQ2hhcmxlcyBTdCBTLCBCb3N0b24sIE1BIDAyMTE2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d370525baf213d7aa36b59761c2ed32f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:19.787695",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4d26b3cb3cc97926b27543aae218e9fc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ocean Avenue",
+                    "short_name": "Ocean Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5406",
+                    "short_name": "5406",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Ocean Ave, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5086508,
+                        "lng": -70.890159
+                    },
+                    "southwest": {
+                        "lat": 42.5084953,
+                        "lng": -70.8903263
+                    }
+                },
+                "location": {
+                    "lat": 42.5085731,
+                    "lng": -70.8902427
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50992203029149,
+                        "lng": -70.8888936697085
+                    },
+                    "southwest": {
+                        "lat": 42.50722406970849,
+                        "lng": -70.8915916302915
+                    }
+                }
+            },
+            "place_id": "ChIJR4ZRTIkU44kRj6YW0MR31bQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4d26b3cb3cc97926b27543aae218e9fc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:32.220729",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c6d159073c6b07a73d12193c862e5276.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Church Street",
+                    "short_name": "Church St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01432",
+                    "short_name": "01432",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1603",
+                    "short_name": "1603",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Church St, Ayer, MA 01432, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5587293,
+                        "lng": -71.5862794
+                    },
+                    "southwest": {
+                        "lat": 42.5587247,
+                        "lng": -71.5862971
+                    }
+                },
+                "location": {
+                    "lat": 42.5587293,
+                    "lng": -71.5862971
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5600759802915,
+                        "lng": -71.5849392697085
+                    },
+                    "southwest": {
+                        "lat": 42.5573780197085,
+                        "lng": -71.5876372302915
+                    }
+                }
+            },
+            "place_id": "EiAxIENodXJjaCBTdCwgQXllciwgTUEgMDE0MzIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c6d159073c6b07a73d12193c862e5276",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:01.783539",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

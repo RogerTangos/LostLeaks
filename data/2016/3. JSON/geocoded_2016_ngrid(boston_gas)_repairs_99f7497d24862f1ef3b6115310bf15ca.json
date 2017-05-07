@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_99f7497d24862f1ef3b6115310bf15ca.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "503",
+                    "short_name": "503",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury",
+                    "short_name": "Amesbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01913",
+                    "short_name": "01913",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "503 Main St, Amesbury, MA 01913, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.837117,
+                    "lng": -70.9112959
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8384659802915,
+                        "lng": -70.9099469197085
+                    },
+                    "southwest": {
+                        "lat": 42.8357680197085,
+                        "lng": -70.91264488029151
+                    }
+                }
+            },
+            "place_id": "ChIJQSS4PN7j4okR_d_AGgA-zkk",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "99f7497d24862f1ef3b6115310bf15ca",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:28.476083",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

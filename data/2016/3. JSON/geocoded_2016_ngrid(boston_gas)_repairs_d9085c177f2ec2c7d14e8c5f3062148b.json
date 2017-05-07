@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d9085c177f2ec2c7d14e8c5f3062148b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Lowell Street",
+                    "short_name": "Lowell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Lowell St & Hartshorn St, Reading, MA 01867, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5311895,
+                    "lng": -71.1174668
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.53253848029149,
+                        "lng": -71.11611781970849
+                    },
+                    "southwest": {
+                        "lat": 42.5298405197085,
+                        "lng": -71.11881578029151
+                    }
+                }
+            },
+            "place_id": "EjBMb3dlbGwgU3QgJiBIYXJ0c2hvcm4gU3QsIFJlYWRpbmcsIE1BIDAxODY3LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d9085c177f2ec2c7d14e8c5f3062148b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:30.966609",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

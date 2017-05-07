@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2a87299851a4e08c809fd2bbe1676062.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "73",
+                    "short_name": "73",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "H Street",
+                    "short_name": "H St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1820",
+                    "short_name": "1820",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "73 H St, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.296654,
+                        "lng": -70.8793944
+                    },
+                    "southwest": {
+                        "lat": 42.2966408,
+                        "lng": -70.8794003
+                    }
+                },
+                "location": {
+                    "lat": 42.296654,
+                    "lng": -70.8794003
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2979963802915,
+                        "lng": -70.8780483697085
+                    },
+                    "southwest": {
+                        "lat": 42.2952984197085,
+                        "lng": -70.8807463302915
+                    }
+                }
+            },
+            "place_id": "Ehw3MyBIIFN0LCBIdWxsLCBNQSAwMjA0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2a87299851a4e08c809fd2bbe1676062",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:36.003359",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6e38e66dfe9cfe528a146053553eec33.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fisher Hill",
+                    "short_name": "Fisher Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Boylston St & Fisher Ave, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3268509,
+                    "lng": -71.14024739999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32819988029151,
+                        "lng": -71.13889841970848
+                    },
+                    "southwest": {
+                        "lat": 42.32550191970851,
+                        "lng": -71.1415963802915
+                    }
+                }
+            },
+            "place_id": "EjJCb3lsc3RvbiBTdCAmIEZpc2hlciBBdmUsIEJyb29rbGluZSwgTUEgMDI0NDUsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "6e38e66dfe9cfe528a146053553eec33",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:16.544008",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8896a3eb7030d90b4a6eadf722a0463e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "73",
+                    "short_name": "73",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Springdale Avenue",
+                    "short_name": "Springdale Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2657",
+                    "short_name": "2657",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "73 Springdale Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4536662,
+                        "lng": -71.00003029999999
+                    },
+                    "southwest": {
+                        "lat": 42.45354820000001,
+                        "lng": -71.0001844
+                    }
+                },
+                "location": {
+                    "lat": 42.4536072,
+                    "lng": -71.0001073
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4549561802915,
+                        "lng": -70.99875836970848
+                    },
+                    "southwest": {
+                        "lat": 42.4522582197085,
+                        "lng": -71.0014563302915
+                    }
+                }
+            },
+            "place_id": "ChIJjZiz8IBt44kRQWFS9Rv-rGs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8896a3eb7030d90b4a6eadf722a0463e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:37.470657",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

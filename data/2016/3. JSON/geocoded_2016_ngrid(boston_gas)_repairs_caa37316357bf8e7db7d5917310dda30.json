@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_caa37316357bf8e7db7d5917310dda30.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "371",
+                    "short_name": "371",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Street",
+                    "short_name": "Walnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "371 Walnut St, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3276204,
+                    "lng": -71.1296507
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3289693802915,
+                        "lng": -71.1283017197085
+                    },
+                    "southwest": {
+                        "lat": 42.3262714197085,
+                        "lng": -71.13099968029151
+                    }
+                }
+            },
+            "place_id": "ChIJKeGldKd544kR4qdnAy2ytcc",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "caa37316357bf8e7db7d5917310dda30",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:40.395443",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

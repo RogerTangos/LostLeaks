@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ba1e3faa92f6559b642853329ca65b4b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "102",
+                    "short_name": "102",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Moreland Street",
+                    "short_name": "Moreland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2326",
+                    "short_name": "2326",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "102 Moreland St, Boston, MA 02119, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3231212,
+                        "lng": -71.0768221
+                    },
+                    "southwest": {
+                        "lat": 42.3230463,
+                        "lng": -71.07693569999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3230838,
+                    "lng": -71.0768789
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3244327302915,
+                        "lng": -71.0755299197085
+                    },
+                    "southwest": {
+                        "lat": 42.3217347697085,
+                        "lng": -71.07822788029151
+                    }
+                }
+            },
+            "place_id": "ChIJPwQEjDZ644kR8rXzC8dVQmg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ba1e3faa92f6559b642853329ca65b4b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:24.598665",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_abdc6fa1f03e93e20e8c916dff97e29b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "174",
+                    "short_name": "174",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Holyoke Street",
+                    "short_name": "Holyoke St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01905",
+                    "short_name": "01905",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1456",
+                    "short_name": "1456",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "174 Holyoke St, Lynn, MA 01905, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4657796,
+                        "lng": -70.9825877
+                    },
+                    "southwest": {
+                        "lat": 42.465646,
+                        "lng": -70.9827683
+                    }
+                },
+                "location": {
+                    "lat": 42.4657128,
+                    "lng": -70.98267799999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4670617802915,
+                        "lng": -70.9813290197085
+                    },
+                    "southwest": {
+                        "lat": 42.4643638197085,
+                        "lng": -70.9840269802915
+                    }
+                }
+            },
+            "place_id": "ChIJff6ESGxt44kRVwR5UwCdT-Q",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "abdc6fa1f03e93e20e8c916dff97e29b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:21.490159",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_13df273f312031dbe541bf6673b08b11.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1235",
+                    "short_name": "1235",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02464",
+                    "short_name": "02464",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1235 Boylston St, Newton, MA 02464, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3175038,
+                        "lng": -71.2229625
+                    },
+                    "southwest": {
+                        "lat": 42.31749019999999,
+                        "lng": -71.2229658
+                    }
+                },
+                "location": {
+                    "lat": 42.3175038,
+                    "lng": -71.2229658
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31884598029149,
+                        "lng": -71.22161516970849
+                    },
+                    "southwest": {
+                        "lat": 42.3161480197085,
+                        "lng": -71.2243131302915
+                    }
+                }
+            },
+            "place_id": "EicxMjM1IEJveWxzdG9uIFN0LCBOZXd0b24sIE1BIDAyNDY0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "13df273f312031dbe541bf6673b08b11",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:30:12.226323",
+    "utility": "ngrid",
+    "year": 2016
+}

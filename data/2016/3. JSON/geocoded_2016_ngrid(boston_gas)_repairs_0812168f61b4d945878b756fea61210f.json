@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0812168f61b4d945878b756fea61210f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cambridge Street",
+                    "short_name": "Cambridge St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West End",
+                    "short_name": "West End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02114",
+                    "short_name": "02114",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Cambridge St, Boston, MA 02114, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3612865,
+                    "lng": -71.0688644
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36263548029149,
+                        "lng": -71.06751541970849
+                    },
+                    "southwest": {
+                        "lat": 42.3599375197085,
+                        "lng": -71.0702133802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJjT8vnplw44kRicVPRTOLNNw",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0812168f61b4d945878b756fea61210f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:01.666732",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_29c07ed4b07f09f19d88bc883b123b1a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Main Street",
+                    "short_name": "E Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ayer",
+                    "short_name": "Ayer",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01432",
+                    "short_name": "01432",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1605",
+                    "short_name": "1605",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 E Main St, Ayer, MA 01432, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.558553,
+                        "lng": -71.5855643
+                    },
+                    "southwest": {
+                        "lat": 42.55854069999999,
+                        "lng": -71.5855729
+                    }
+                },
+                "location": {
+                    "lat": 42.55854069999999,
+                    "lng": -71.5855729
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5598958302915,
+                        "lng": -71.58421961970849
+                    },
+                    "southwest": {
+                        "lat": 42.5571978697085,
+                        "lng": -71.5869175802915
+                    }
+                }
+            },
+            "place_id": "EiA3IEUgTWFpbiBTdCwgQXllciwgTUEgMDE0MzIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "29c07ed4b07f09f19d88bc883b123b1a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:19.231725",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

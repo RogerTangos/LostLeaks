@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_17019fb8f30d1c68224076c51af5a8e1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "153",
+                    "short_name": "153",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Guggins Lane",
+                    "short_name": "Guggins Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boxborough",
+                    "short_name": "Boxborough",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01719",
+                    "short_name": "01719",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1518",
+                    "short_name": "1518",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "153 Guggins Ln, Boxborough, MA 01719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4857985,
+                        "lng": -71.4974182
+                    },
+                    "southwest": {
+                        "lat": 42.48559729999999,
+                        "lng": -71.49757850000002
+                    }
+                },
+                "location": {
+                    "lat": 42.4856979,
+                    "lng": -71.4974984
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.48704688029149,
+                        "lng": -71.49614936970849
+                    },
+                    "southwest": {
+                        "lat": 42.4843489197085,
+                        "lng": -71.49884733029151
+                    }
+                }
+            },
+            "place_id": "ChIJobSFUuqT44kR577VIT3CrOQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "17019fb8f30d1c68224076c51af5a8e1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:37.573229",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

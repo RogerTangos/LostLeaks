@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_63a0c527e5c1a6d71fc30f8701f51769.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Staniford Street",
+                    "short_name": "Staniford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Staniford St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.353835,
+                        "lng": -71.24644719999999
+                    },
+                    "southwest": {
+                        "lat": 42.3538212,
+                        "lng": -71.2464481
+                    }
+                },
+                "location": {
+                    "lat": 42.353835,
+                    "lng": -71.24644719999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3551770802915,
+                        "lng": -71.24509866970848
+                    },
+                    "southwest": {
+                        "lat": 42.3524791197085,
+                        "lng": -71.24779663029149
+                    }
+                }
+            },
+            "place_id": "EiozMyBTdGFuaWZvcmQgU3QsIEF1YnVybmRhbGUsIE1BIDAyNDY2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "63a0c527e5c1a6d71fc30f8701f51769",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:06.074945",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

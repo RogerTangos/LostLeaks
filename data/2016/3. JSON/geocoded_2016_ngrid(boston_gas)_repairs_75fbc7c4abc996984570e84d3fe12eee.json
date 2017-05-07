@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_75fbc7c4abc996984570e84d3fe12eee.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cornwall Street",
+                    "short_name": "Cornwall St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2663",
+                    "short_name": "2663",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Cornwall St, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3118266,
+                    "lng": -71.1029588
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31317558029149,
+                        "lng": -71.10160981970849
+                    },
+                    "southwest": {
+                        "lat": 42.31047761970849,
+                        "lng": -71.10430778029149
+                    }
+                }
+            },
+            "place_id": "ChIJeRJfV2N544kR4e3YwshbWxU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "75fbc7c4abc996984570e84d3fe12eee",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:19.999437",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_861819258d686c23fc46c364782cecf7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "228",
+                    "short_name": "228",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Everett Avenue",
+                    "short_name": "Everett Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1817",
+                    "short_name": "1817",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "228 Everett Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3981517,
+                        "lng": -71.0404834
+                    },
+                    "southwest": {
+                        "lat": 42.3980118,
+                        "lng": -71.0408684
+                    }
+                },
+                "location": {
+                    "lat": 42.3980817,
+                    "lng": -71.0406759
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3994307302915,
+                        "lng": -71.0393269197085
+                    },
+                    "southwest": {
+                        "lat": 42.3967327697085,
+                        "lng": -71.0420248802915
+                    }
+                }
+            },
+            "place_id": "ChIJyY3gCqVx44kRZ54NfQaUDRs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "861819258d686c23fc46c364782cecf7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:55.372596",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

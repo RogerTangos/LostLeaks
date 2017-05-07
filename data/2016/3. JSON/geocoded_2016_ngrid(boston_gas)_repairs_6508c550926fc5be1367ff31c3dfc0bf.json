@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6508c550926fc5be1367ff31c3dfc0bf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mountwood Road",
+                    "short_name": "Mountwood Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2904",
+                    "short_name": "2904",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Mountwood Rd, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.47541409999999,
+                        "lng": -70.9101603
+                    },
+                    "southwest": {
+                        "lat": 42.4751819,
+                        "lng": -70.9103909
+                    }
+                },
+                "location": {
+                    "lat": 42.475298,
+                    "lng": -70.91027559999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4766469802915,
+                        "lng": -70.9089266197085
+                    },
+                    "southwest": {
+                        "lat": 42.4739490197085,
+                        "lng": -70.9116245802915
+                    }
+                }
+            },
+            "place_id": "ChIJyUV0tats44kRW92teViHKAc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6508c550926fc5be1367ff31c3dfc0bf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:14.408177",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

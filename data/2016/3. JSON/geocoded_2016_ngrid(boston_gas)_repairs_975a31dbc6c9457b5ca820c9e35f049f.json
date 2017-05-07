@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_975a31dbc6c9457b5ca820c9e35f049f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Boston-Providence Turnpike",
+                    "short_name": "Boston-Providence Turnpike",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Boston-Providence Turnpike & Access Rd, Norwood, MA 02062, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.193628,
+                    "lng": -71.1835947
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.19497698029149,
+                        "lng": -71.18224571970849
+                    },
+                    "southwest": {
+                        "lat": 42.1922790197085,
+                        "lng": -71.1849436802915
+                    }
+                }
+            },
+            "place_id": "Ej5Cb3N0b24tUHJvdmlkZW5jZSBUdXJucGlrZSAmIEFjY2VzcyBSZCwgTm9yd29vZCwgTUEgMDIwNjIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "975a31dbc6c9457b5ca820c9e35f049f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:09.812857",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

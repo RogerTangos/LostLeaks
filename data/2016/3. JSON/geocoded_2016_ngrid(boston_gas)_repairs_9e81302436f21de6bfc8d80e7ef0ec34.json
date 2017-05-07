@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9e81302436f21de6bfc8d80e7ef0ec34.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Holly Street",
+                    "short_name": "Holly St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4654",
+                    "short_name": "4654",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Holly St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5108626,
+                        "lng": -70.8939079
+                    },
+                    "southwest": {
+                        "lat": 42.5107612,
+                        "lng": -70.894053
+                    }
+                },
+                "location": {
+                    "lat": 42.5108119,
+                    "lng": -70.8939804
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5121608802915,
+                        "lng": -70.89263146970849
+                    },
+                    "southwest": {
+                        "lat": 42.5094629197085,
+                        "lng": -70.8953294302915
+                    }
+                }
+            },
+            "place_id": "ChIJB_NmkogU44kR_1WcdNwTSh8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9e81302436f21de6bfc8d80e7ef0ec34",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:37.008057",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

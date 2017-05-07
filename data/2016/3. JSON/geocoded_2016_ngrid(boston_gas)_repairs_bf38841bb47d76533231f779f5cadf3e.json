@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bf38841bb47d76533231f779f5cadf3e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "331",
+                    "short_name": "331",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lafayette Street",
+                    "short_name": "Lafayette St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5420",
+                    "short_name": "5420",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "331 Lafayette St, Salem, MA 01970, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5056088,
+                    "lng": -70.8904609
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50695778029149,
+                        "lng": -70.8891119197085
+                    },
+                    "southwest": {
+                        "lat": 42.5042598197085,
+                        "lng": -70.8918098802915
+                    }
+                }
+            },
+            "place_id": "ChIJGaI4ZI4U44kRN5M4_K_4kIE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bf38841bb47d76533231f779f5cadf3e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:08.600750",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

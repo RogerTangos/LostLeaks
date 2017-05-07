@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7e8157d4dff1dd4f07e115dbe2fdabf7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ruthven Street",
+                    "short_name": "Ruthven St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2523",
+                    "short_name": "2523",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Ruthven St, Quincy, MA 02171, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2704191,
+                        "lng": -71.0379778
+                    },
+                    "southwest": {
+                        "lat": 42.2702622,
+                        "lng": -71.0381561
+                    }
+                },
+                "location": {
+                    "lat": 42.2703407,
+                    "lng": -71.03806689999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2716896302915,
+                        "lng": -71.03671796970849
+                    },
+                    "southwest": {
+                        "lat": 42.2689916697085,
+                        "lng": -71.03941593029151
+                    }
+                }
+            },
+            "place_id": "ChIJZXNeKoN844kRjMrJ1gew6co",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7e8157d4dff1dd4f07e115dbe2fdabf7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:11.864432",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

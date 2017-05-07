@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e308ea28461d47fe089b9681d6818211.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "141",
+                    "short_name": "141",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Goodale Street",
+                    "short_name": "Goodale St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1253",
+                    "short_name": "1253",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "141 Goodale St, Peabody, MA 01960, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.552931,
+                    "lng": -70.998755
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5542799802915,
+                        "lng": -70.99740601970849
+                    },
+                    "southwest": {
+                        "lat": 42.5515820197085,
+                        "lng": -71.0001039802915
+                    }
+                }
+            },
+            "place_id": "ChIJ0zXtBgsS44kRzaUvKw7UYk0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e308ea28461d47fe089b9681d6818211",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:07.289091",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

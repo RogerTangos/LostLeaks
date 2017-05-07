@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ecae6ca49bdcb91d308d57cc3fa423a8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "39",
+                    "short_name": "39",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hemenway Street",
+                    "short_name": "Hemenway St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fenway/Kenmore",
+                    "short_name": "Fenway/Kenmore",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02115",
+                    "short_name": "02115",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "39 Hemenway St, Boston, MA 02115, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.345425,
+                        "lng": -71.0894924
+                    },
+                    "southwest": {
+                        "lat": 42.3454226,
+                        "lng": -71.0895109
+                    }
+                },
+                "location": {
+                    "lat": 42.345425,
+                    "lng": -71.0895109
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3467727802915,
+                        "lng": -71.08815266970849
+                    },
+                    "southwest": {
+                        "lat": 42.3440748197085,
+                        "lng": -71.09085063029151
+                    }
+                }
+            },
+            "place_id": "EiUzOSBIZW1lbndheSBTdCwgQm9zdG9uLCBNQSAwMjExNSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ecae6ca49bdcb91d308d57cc3fa423a8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:52.964470",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

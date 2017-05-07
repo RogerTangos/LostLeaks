@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ddfcd08412c41172743f1be0d388c862.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "289",
+                    "short_name": "289",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Shaw Street",
+                    "short_name": "Shaw St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2224",
+                    "short_name": "2224",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "289 Shaw St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2288079,
+                        "lng": -70.9767439
+                    },
+                    "southwest": {
+                        "lat": 42.2286939,
+                        "lng": -70.9768881
+                    }
+                },
+                "location": {
+                    "lat": 42.2287509,
+                    "lng": -70.976816
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2300998802915,
+                        "lng": -70.97546701970849
+                    },
+                    "southwest": {
+                        "lat": 42.2274019197085,
+                        "lng": -70.9781649802915
+                    }
+                }
+            },
+            "place_id": "ChIJIz3JNR9j44kRE4EcvV8B35A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ddfcd08412c41172743f1be0d388c862",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:12.063274",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

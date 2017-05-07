@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_19e77a902af9f0327c8340ba79bcd020.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "69",
+                    "short_name": "69",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Meredith Circle",
+                    "short_name": "Meredith Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3915",
+                    "short_name": "3915",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "69 Meredith Cir, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2511906,
+                        "lng": -71.0715493
+                    },
+                    "southwest": {
+                        "lat": 42.2510451,
+                        "lng": -71.07167319999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2511178,
+                    "lng": -71.07161119999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2524668302915,
+                        "lng": -71.0702622697085
+                    },
+                    "southwest": {
+                        "lat": 42.2497688697085,
+                        "lng": -71.0729602302915
+                    }
+                }
+            },
+            "place_id": "ChIJIxtDx0d844kR4PK8pMD6l_g",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "19e77a902af9f0327c8340ba79bcd020",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:14.154782",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

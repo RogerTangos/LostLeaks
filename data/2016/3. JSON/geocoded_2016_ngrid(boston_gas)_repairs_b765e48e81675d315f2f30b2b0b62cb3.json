@@ -1,0 +1,106 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b765e48e81675d315f2f30b2b0b62cb3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Atherton Street",
+                    "short_name": "Atherton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3119",
+                    "short_name": "3119",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Atherton St, Roxbury, MA 02119, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3161158,
+                    "lng": -71.0986715
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31746478029149,
+                        "lng": -71.09732251970848
+                    },
+                    "southwest": {
+                        "lat": 42.3147668197085,
+                        "lng": -71.1000204802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJSQsx531544kR4GAgi7eiZBI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b765e48e81675d315f2f30b2b0b62cb3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:15.376062",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9bb71046aefe93ce33529eb1d9156772.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Pleasant St & Pearl St, Boston, MA 02125, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3152245,
+                    "lng": -71.05987189999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3165734802915,
+                        "lng": -71.05852291970848
+                    },
+                    "southwest": {
+                        "lat": 42.3138755197085,
+                        "lng": -71.06122088029149
+                    }
+                }
+            },
+            "place_id": "Ei1QbGVhc2FudCBTdCAmIFBlYXJsIFN0LCBCb3N0b24sIE1BIDAyMTI1LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "9bb71046aefe93ce33529eb1d9156772",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:45.234422",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

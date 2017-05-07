@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_252fe24b2964873ed780473b109c15a0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "39",
+                    "short_name": "39",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Woodside Road",
+                    "short_name": "Woodside Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1752",
+                    "short_name": "1752",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "39 Woodside Rd, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.458012,
+                        "lng": -71.1505933
+                    },
+                    "southwest": {
+                        "lat": 42.4578934,
+                        "lng": -71.1507309
+                    }
+                },
+                "location": {
+                    "lat": 42.4579527,
+                    "lng": -71.15066209999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4593016802915,
+                        "lng": -71.1493131197085
+                    },
+                    "southwest": {
+                        "lat": 42.4566037197085,
+                        "lng": -71.1520110802915
+                    }
+                }
+            },
+            "place_id": "ChIJaQglAsx144kRl7vDk7neVp0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "252fe24b2964873ed780473b109c15a0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:55.441096",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

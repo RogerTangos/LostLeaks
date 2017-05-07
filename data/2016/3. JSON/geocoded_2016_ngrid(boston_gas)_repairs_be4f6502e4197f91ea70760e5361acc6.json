@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_be4f6502e4197f91ea70760e5361acc6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "116",
+                    "short_name": "116",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stoughton Street",
+                    "short_name": "Stoughton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1900",
+                    "short_name": "1900",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "116 Stoughton St, Dorchester, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3154805,
+                        "lng": -71.0609466
+                    },
+                    "southwest": {
+                        "lat": 42.3153264,
+                        "lng": -71.06113669999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3154035,
+                    "lng": -71.06104169999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31675243029149,
+                        "lng": -71.05969266970848
+                    },
+                    "southwest": {
+                        "lat": 42.31405446970849,
+                        "lng": -71.06239063029149
+                    }
+                }
+            },
+            "place_id": "ChIJR5h6pVJ644kR0mMyEN1Ry2o",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "be4f6502e4197f91ea70760e5361acc6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:04.010576",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

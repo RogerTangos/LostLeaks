@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b5f4e7064d3c32669e2e25e116bb4305.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "660",
+                    "short_name": "660",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3201",
+                    "short_name": "3201",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "660 Broadway, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.475905,
+                        "lng": -71.02281289999999
+                    },
+                    "southwest": {
+                        "lat": 42.475599,
+                        "lng": -71.0231775
+                    }
+                },
+                "location": {
+                    "lat": 42.475752,
+                    "lng": -71.0229952
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4771009802915,
+                        "lng": -71.02164621970849
+                    },
+                    "southwest": {
+                        "lat": 42.4744030197085,
+                        "lng": -71.0243441802915
+                    }
+                }
+            },
+            "place_id": "ChIJ1QKDX5Ry44kRCZY2Imuhh6g",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b5f4e7064d3c32669e2e25e116bb4305",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:03.657005",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

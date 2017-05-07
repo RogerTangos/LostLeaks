@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9ee3d73d326521c9613d507950a8d757.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tennyson Road",
+                    "short_name": "Tennyson Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02481",
+                    "short_name": "02481",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5231",
+                    "short_name": "5231",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Tennyson Rd, Wellesley, MA 02481, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3185337,
+                        "lng": -71.26063549999999
+                    },
+                    "southwest": {
+                        "lat": 42.31835299999999,
+                        "lng": -71.2608454
+                    }
+                },
+                "location": {
+                    "lat": 42.31844330000001,
+                    "lng": -71.2607405
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31979233029149,
+                        "lng": -71.25939146970848
+                    },
+                    "southwest": {
+                        "lat": 42.31709436970849,
+                        "lng": -71.2620894302915
+                    }
+                }
+            },
+            "place_id": "ChIJI9JCHd2D44kRsmLqF-UZ4zQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9ee3d73d326521c9613d507950a8d757",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:06.222515",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

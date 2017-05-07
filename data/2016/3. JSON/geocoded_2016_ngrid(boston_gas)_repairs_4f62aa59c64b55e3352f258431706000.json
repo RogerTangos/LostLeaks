@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4f62aa59c64b55e3352f258431706000.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "402",
+                    "short_name": "402",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mystic Avenue",
+                    "short_name": "Mystic Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1902",
+                    "short_name": "1902",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "402 Mystic Ave, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3948134,
+                        "lng": -71.0881453
+                    },
+                    "southwest": {
+                        "lat": 42.39465999999999,
+                        "lng": -71.0883508
+                    }
+                },
+                "location": {
+                    "lat": 42.3947367,
+                    "lng": -71.088248
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39608568029149,
+                        "lng": -71.0868990697085
+                    },
+                    "southwest": {
+                        "lat": 42.39338771970849,
+                        "lng": -71.0895970302915
+                    }
+                }
+            },
+            "place_id": "ChIJuY0Fzddw44kRThsgena4TwY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4f62aa59c64b55e3352f258431706000",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:14.593528",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

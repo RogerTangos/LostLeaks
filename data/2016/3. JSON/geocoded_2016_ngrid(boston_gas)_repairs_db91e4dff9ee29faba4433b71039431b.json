@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_db91e4dff9ee29faba4433b71039431b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cedar Glen Circle",
+                    "short_name": "Cedar Glen Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1916",
+                    "short_name": "1916",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Cedar Glen Cir, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4983002,
+                        "lng": -71.0272813
+                    },
+                    "southwest": {
+                        "lat": 42.4982882,
+                        "lng": -71.0272906
+                    }
+                },
+                "location": {
+                    "lat": 42.4982882,
+                    "lng": -71.0272906
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.49964318029149,
+                        "lng": -71.0259369697085
+                    },
+                    "southwest": {
+                        "lat": 42.49694521970849,
+                        "lng": -71.0286349302915
+                    }
+                }
+            },
+            "place_id": "Eic1IENlZGFyIEdsZW4gQ2lyLCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "db91e4dff9ee29faba4433b71039431b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:16.126542",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

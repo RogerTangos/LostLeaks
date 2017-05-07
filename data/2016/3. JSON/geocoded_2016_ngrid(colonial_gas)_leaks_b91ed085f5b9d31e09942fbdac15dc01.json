@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_b91ed085f5b9d31e09942fbdac15dc01.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Macarthur Drive",
+                    "short_name": "MacArthur Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02740",
+                    "short_name": "02740",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5720",
+                    "short_name": "5720",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "49 MacArthur Dr, New Bedford, MA 02740, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6236977,
+                        "lng": -70.91931079999999
+                    },
+                    "southwest": {
+                        "lat": 41.6236949,
+                        "lng": -70.91932919999999
+                    }
+                },
+                "location": {
+                    "lat": 41.6236949,
+                    "lng": -70.91932919999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.62504528029149,
+                        "lng": -70.91797101970849
+                    },
+                    "southwest": {
+                        "lat": 41.6223473197085,
+                        "lng": -70.92066898029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eis0OSBNYWNBcnRodXIgRHIsIE5ldyBCZWRmb3JkLCBNQSAwMjc0MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b91ed085f5b9d31e09942fbdac15dc01",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:38.537199",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

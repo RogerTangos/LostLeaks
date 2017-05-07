@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9bcfbce7f31b606a03279b08dc40805c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Pine Street",
+                    "short_name": "W Pine St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1113",
+                    "short_name": "1113",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 W Pine St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.35167209999999,
+                        "lng": -71.2478596
+                    },
+                    "southwest": {
+                        "lat": 42.3516582,
+                        "lng": -71.2478601
+                    }
+                },
+                "location": {
+                    "lat": 42.35167209999999,
+                    "lng": -71.2478601
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35301413029149,
+                        "lng": -71.24651086970849
+                    },
+                    "southwest": {
+                        "lat": 42.3503161697085,
+                        "lng": -71.24920883029151
+                    }
+                }
+            },
+            "place_id": "EiY5IFcgUGluZSBTdCwgQXVidXJuZGFsZSwgTUEgMDI0NjYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9bcfbce7f31b606a03279b08dc40805c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:43.390538",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

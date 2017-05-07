@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_ffb4b58f42e1634bb815f75d0bb4ba2a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Porter Road",
+                    "short_name": "Porter Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Porter Rd, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3618351,
+                        "lng": -71.5345796
+                    },
+                    "southwest": {
+                        "lat": 42.3618213,
+                        "lng": -71.5345799
+                    }
+                },
+                "location": {
+                    "lat": 42.3618213,
+                    "lng": -71.5345799
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36317718029149,
+                        "lng": -71.5332307697085
+                    },
+                    "southwest": {
+                        "lat": 42.36047921970849,
+                        "lng": -71.5359287302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EigyMCBQb3J0ZXIgUmQsIE1hcmxib3JvdWdoLCBNQSAwMTc1MiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ffb4b58f42e1634bb815f75d0bb4ba2a",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:05:01.365650",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

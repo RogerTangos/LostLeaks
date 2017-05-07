@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_99f4826e2c228af986f230c8cd67e893.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "440",
+                    "short_name": "440",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Columbus",
+                    "short_name": "Columbus",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "440 Massachusetts Ave, Boston, MA 02118, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.34072949999999,
+                        "lng": -71.0818182
+                    },
+                    "southwest": {
+                        "lat": 42.3407192,
+                        "lng": -71.0818309
+                    }
+                },
+                "location": {
+                    "lat": 42.34072949999999,
+                    "lng": -71.0818182
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.34207333029149,
+                        "lng": -71.0804755697085
+                    },
+                    "southwest": {
+                        "lat": 42.33937536970849,
+                        "lng": -71.08317353029152
+                    }
+                }
+            },
+            "place_id": "Eiw0NDAgTWFzc2FjaHVzZXR0cyBBdmUsIEJvc3RvbiwgTUEgMDIxMTgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "99f4826e2c228af986f230c8cd67e893",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:41.673594",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

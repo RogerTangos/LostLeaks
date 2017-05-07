@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f743f50106ede84d0b2072850116790d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Hill Avenue",
+                    "short_name": "W Hill Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1130",
+                    "short_name": "1130",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 W Hill Ave, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.472216,
+                        "lng": -71.0754321
+                    },
+                    "southwest": {
+                        "lat": 42.4722156,
+                        "lng": -71.07545089999999
+                    }
+                },
+                "location": {
+                    "lat": 42.472216,
+                    "lng": -71.07545089999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47356478029149,
+                        "lng": -71.0740925197085
+                    },
+                    "southwest": {
+                        "lat": 42.47086681970849,
+                        "lng": -71.07679048029152
+                    }
+                }
+            },
+            "place_id": "EiUzOCBXIEhpbGwgQXZlLCBNZWxyb3NlLCBNQSAwMjE3NiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f743f50106ede84d0b2072850116790d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:48.840776",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

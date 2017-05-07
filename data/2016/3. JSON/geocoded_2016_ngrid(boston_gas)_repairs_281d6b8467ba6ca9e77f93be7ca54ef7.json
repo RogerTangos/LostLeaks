@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_281d6b8467ba6ca9e77f93be7ca54ef7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "140",
+                    "short_name": "140",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Federal Street",
+                    "short_name": "Federal St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3247",
+                    "short_name": "3247",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "140 Federal St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5208042,
+                        "lng": -70.90409009999999
+                    },
+                    "southwest": {
+                        "lat": 42.5206069,
+                        "lng": -70.90431269999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5207056,
+                    "lng": -70.90420139999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.52205453029151,
+                        "lng": -70.90285241970848
+                    },
+                    "southwest": {
+                        "lat": 42.51935656970851,
+                        "lng": -70.9055503802915
+                    }
+                }
+            },
+            "place_id": "ChIJr1w91ngU44kRYYmfzMqLHgw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "281d6b8467ba6ca9e77f93be7ca54ef7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:05.076845",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

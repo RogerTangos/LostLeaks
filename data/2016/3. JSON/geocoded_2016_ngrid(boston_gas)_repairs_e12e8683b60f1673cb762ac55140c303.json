@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e12e8683b60f1673cb762ac55140c303.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "119",
+                    "short_name": "119",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Shore Drive",
+                    "short_name": "Shore Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ten Hills",
+                    "short_name": "Ten Hills",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1027",
+                    "short_name": "1027",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "119 Shore Dr, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.398929,
+                        "lng": -71.0860326
+                    },
+                    "southwest": {
+                        "lat": 42.3989181,
+                        "lng": -71.0860441
+                    }
+                },
+                "location": {
+                    "lat": 42.3989181,
+                    "lng": -71.0860441
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4002725302915,
+                        "lng": -71.0846893697085
+                    },
+                    "southwest": {
+                        "lat": 42.3975745697085,
+                        "lng": -71.0873873302915
+                    }
+                }
+            },
+            "place_id": "EicxMTkgU2hvcmUgRHIsIFNvbWVydmlsbGUsIE1BIDAyMTQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e12e8683b60f1673cb762ac55140c303",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:08.482945",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_335cbdd36e8daba0b95b81e9868adbbe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Webster Street",
+                    "short_name": "Webster St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1516",
+                    "short_name": "1516",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Webster St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4779463,
+                        "lng": -70.9378744
+                    },
+                    "southwest": {
+                        "lat": 42.477807,
+                        "lng": -70.93804229999999
+                    }
+                },
+                "location": {
+                    "lat": 42.47787659999999,
+                    "lng": -70.93795829999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4792256302915,
+                        "lng": -70.93660936970849
+                    },
+                    "southwest": {
+                        "lat": 42.4765276697085,
+                        "lng": -70.9393073302915
+                    }
+                }
+            },
+            "place_id": "ChIJvbpUuc5s44kReiuVmsUGiqw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "335cbdd36e8daba0b95b81e9868adbbe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:05.461478",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

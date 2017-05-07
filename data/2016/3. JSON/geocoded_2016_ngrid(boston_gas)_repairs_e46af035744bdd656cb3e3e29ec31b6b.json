@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e46af035744bdd656cb3e3e29ec31b6b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Robinson Avenue",
+                    "short_name": "Robinson Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5602",
+                    "short_name": "5602",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Robinson Ave, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2125274,
+                        "lng": -71.0062736
+                    },
+                    "southwest": {
+                        "lat": 42.2124107,
+                        "lng": -71.0064245
+                    }
+                },
+                "location": {
+                    "lat": 42.212469,
+                    "lng": -71.006349
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2138180302915,
+                        "lng": -71.0050000697085
+                    },
+                    "southwest": {
+                        "lat": 42.2111200697085,
+                        "lng": -71.00769803029151
+                    }
+                }
+            },
+            "place_id": "ChIJPzt8tDV944kRKeyk3mkEcNs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e46af035744bdd656cb3e3e29ec31b6b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:48.190906",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

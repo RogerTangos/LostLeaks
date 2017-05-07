@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f1f4865bb61fd20184980cc29f444d9d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "201",
+                    "short_name": "201",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Charlestown",
+                    "short_name": "Charlestown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02129",
+                    "short_name": "02129",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "201 Main St, Charlestown, MA 02129, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3763985,
+                        "lng": -71.0649062
+                    },
+                    "southwest": {
+                        "lat": 42.3761606,
+                        "lng": -71.0652264
+                    }
+                },
+                "location": {
+                    "lat": 42.3762796,
+                    "lng": -71.0650663
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3776285302915,
+                        "lng": -71.0637173197085
+                    },
+                    "southwest": {
+                        "lat": 42.3749305697085,
+                        "lng": -71.06641528029151
+                    }
+                }
+            },
+            "place_id": "ChIJq2eiNuxw44kRWhfMYOESIwE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f1f4865bb61fd20184980cc29f444d9d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:20.423575",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

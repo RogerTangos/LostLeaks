@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_34b022b58f085582a05671e18bef3d6e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "102",
+                    "short_name": "102",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tuckers Lane",
+                    "short_name": "Tuckers Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "102 Tuckers Ln, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2413113,
+                        "lng": -70.9214028
+                    },
+                    "southwest": {
+                        "lat": 42.2412984,
+                        "lng": -70.92140979999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2413113,
+                    "lng": -70.9214028
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24265383029149,
+                        "lng": -70.92005731970849
+                    },
+                    "southwest": {
+                        "lat": 42.2399558697085,
+                        "lng": -70.9227552802915
+                    }
+                }
+            },
+            "place_id": "EiYxMDIgVHVja2VycyBMbiwgSGluZ2hhbSwgTUEgMDIwNDMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "34b022b58f085582a05671e18bef3d6e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:25.301908",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

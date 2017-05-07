@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_17cf8f7c83b90723f07ee48d24db0db9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "134",
+                    "short_name": "134",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Waterston Avenue",
+                    "short_name": "Waterston Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3432",
+                    "short_name": "3432",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "134 Waterston Ave, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2701991,
+                        "lng": -71.0098288
+                    },
+                    "southwest": {
+                        "lat": 42.270194,
+                        "lng": -71.00984629999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2701991,
+                    "lng": -71.00984629999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2715455302915,
+                        "lng": -71.00848856970849
+                    },
+                    "southwest": {
+                        "lat": 42.2688475697085,
+                        "lng": -71.0111865302915
+                    }
+                }
+            },
+            "place_id": "EigxMzQgV2F0ZXJzdG9uIEF2ZSwgUXVpbmN5LCBNQSAwMjE3MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "17cf8f7c83b90723f07ee48d24db0db9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:48.147666",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

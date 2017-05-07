@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bb7ddc055168d5402b829041db2cc78a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "389",
+                    "short_name": "389",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Revere Beach Boulevard",
+                    "short_name": "Revere Beach Blvd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "389 Revere Beach Blvd, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.42260659999999,
+                        "lng": -70.98437729999999
+                    },
+                    "southwest": {
+                        "lat": 42.4226001,
+                        "lng": -70.9843939
+                    }
+                },
+                "location": {
+                    "lat": 42.42260659999999,
+                    "lng": -70.9843939
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4239523302915,
+                        "lng": -70.98303661970849
+                    },
+                    "southwest": {
+                        "lat": 42.4212543697085,
+                        "lng": -70.9857345802915
+                    }
+                }
+            },
+            "place_id": "EiwzODkgUmV2ZXJlIEJlYWNoIEJsdmQsIFJldmVyZSwgTUEgMDIxNTEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bb7ddc055168d5402b829041db2cc78a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:50.925449",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

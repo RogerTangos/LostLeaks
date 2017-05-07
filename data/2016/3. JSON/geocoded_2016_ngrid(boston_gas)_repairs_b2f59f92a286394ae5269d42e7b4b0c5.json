@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b2f59f92a286394ae5269d42e7b4b0c5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "980",
+                    "short_name": "980",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4531",
+                    "short_name": "4531",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "980 Massachusetts Ave, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4190637,
+                        "lng": -71.1674275
+                    },
+                    "southwest": {
+                        "lat": 42.4188901,
+                        "lng": -71.1676753
+                    }
+                },
+                "location": {
+                    "lat": 42.4189769,
+                    "lng": -71.1675514
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4203258802915,
+                        "lng": -71.1662024197085
+                    },
+                    "southwest": {
+                        "lat": 42.4176279197085,
+                        "lng": -71.1689003802915
+                    }
+                }
+            },
+            "place_id": "ChIJA5m45Ud244kRQsiuucpp4cE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b2f59f92a286394ae5269d42e7b4b0c5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:07.038208",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

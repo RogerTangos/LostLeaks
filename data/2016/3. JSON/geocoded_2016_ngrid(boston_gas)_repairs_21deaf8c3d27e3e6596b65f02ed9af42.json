@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_21deaf8c3d27e3e6596b65f02ed9af42.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Orchard Street",
+                    "short_name": "Orchard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2939",
+                    "short_name": "2939",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Orchard St, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4908879,
+                        "lng": -70.8617192
+                    },
+                    "southwest": {
+                        "lat": 42.4907153,
+                        "lng": -70.8619393
+                    }
+                },
+                "location": {
+                    "lat": 42.4908016,
+                    "lng": -70.8618292
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4921505802915,
+                        "lng": -70.86048026970849
+                    },
+                    "southwest": {
+                        "lat": 42.4894526197085,
+                        "lng": -70.8631782302915
+                    }
+                }
+            },
+            "place_id": "ChIJuZ-hXOAU44kR0pnGmTQ7GRo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "21deaf8c3d27e3e6596b65f02ed9af42",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:22.054576",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d2fc436c6730ffddaeb302505b84bf61.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "340",
+                    "short_name": "340",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hancock Street",
+                    "short_name": "Hancock St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7506",
+                    "short_name": "7506",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "340 Hancock St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1916605,
+                        "lng": -71.0064046
+                    },
+                    "southwest": {
+                        "lat": 42.191591,
+                        "lng": -71.0065201
+                    }
+                },
+                "location": {
+                    "lat": 42.1916258,
+                    "lng": -71.0064623
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1929747302915,
+                        "lng": -71.0051133697085
+                    },
+                    "southwest": {
+                        "lat": 42.1902767697085,
+                        "lng": -71.00781133029152
+                    }
+                }
+            },
+            "place_id": "ChIJ_bdRjFV944kRQw2hEjQAjsc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d2fc436c6730ffddaeb302505b84bf61",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:14.575797",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

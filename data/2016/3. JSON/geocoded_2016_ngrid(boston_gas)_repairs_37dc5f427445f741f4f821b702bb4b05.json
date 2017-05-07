@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_37dc5f427445f741f4f821b702bb4b05.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beacon Street",
+                    "short_name": "Beacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Downtown",
+                    "short_name": "Downtown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02108",
+                    "short_name": "02108",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Beacon St, Boston, MA 02108, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3584478,
+                    "lng": -71.0608489
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3597967802915,
+                        "lng": -71.05949991970849
+                    },
+                    "southwest": {
+                        "lat": 42.3570988197085,
+                        "lng": -71.0621978802915
+                    }
+                }
+            },
+            "place_id": "ChIJlalAuYRw44kRvGH0-SsNylk",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "37dc5f427445f741f4f821b702bb4b05",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:00.608435",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

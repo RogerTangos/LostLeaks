@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5f1bdd41ed79c5825dbd236739dc59e0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mayflower Road",
+                    "short_name": "Mayflower Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1107",
+                    "short_name": "1107",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Mayflower Rd, Quincy, MA 02171, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2987876,
+                        "lng": -71.0133501
+                    },
+                    "southwest": {
+                        "lat": 42.2986716,
+                        "lng": -71.0134679
+                    }
+                },
+                "location": {
+                    "lat": 42.2987296,
+                    "lng": -71.013409
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3000785802915,
+                        "lng": -71.0120600197085
+                    },
+                    "southwest": {
+                        "lat": 42.29738061970851,
+                        "lng": -71.0147579802915
+                    }
+                }
+            },
+            "place_id": "ChIJBe8mji9744kRR7rjzaHv3Qw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5f1bdd41ed79c5825dbd236739dc59e0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:21.523444",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

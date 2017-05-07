@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_27b19efe51873d97f2e5540ff894c0ee.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "229",
+                    "short_name": "229",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "7th Street",
+                    "short_name": "7th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5746",
+                    "short_name": "5746",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "229 7th St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5222316,
+                        "lng": -71.7474428
+                    },
+                    "southwest": {
+                        "lat": 42.5222273,
+                        "lng": -71.74746069999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5222316,
+                    "lng": -71.74746069999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5235784302915,
+                        "lng": -71.74610276970849
+                    },
+                    "southwest": {
+                        "lat": 42.5208804697085,
+                        "lng": -71.7488007302915
+                    }
+                }
+            },
+            "place_id": "EiUyMjkgN3RoIFN0LCBMZW9taW5zdGVyLCBNQSAwMTQ1MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "27b19efe51873d97f2e5540ff894c0ee",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:56.454678",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_75d8c34e67a88ea58a64cb6d977b716c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "125",
+                    "short_name": "125",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Richmond Street",
+                    "short_name": "Richmond St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "125 Richmond St, Boston, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2751372,
+                        "lng": -71.0625725
+                    },
+                    "southwest": {
+                        "lat": 42.2749821,
+                        "lng": -71.0627392
+                    }
+                },
+                "location": {
+                    "lat": 42.2750597,
+                    "lng": -71.0626559
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27640863029149,
+                        "lng": -71.0613068697085
+                    },
+                    "southwest": {
+                        "lat": 42.27371066970849,
+                        "lng": -71.06400483029151
+                    }
+                }
+            },
+            "place_id": "ChIJ822zm3d844kRFCIMu17Y3_E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "75d8c34e67a88ea58a64cb6d977b716c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:29.544431",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

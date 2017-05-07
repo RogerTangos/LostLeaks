@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_26c4f0bb84202fd5c9824e846081553a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "180",
+                    "short_name": "180",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Waltham Street",
+                    "short_name": "Waltham St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "180 Waltham St, West Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3609981,
+                        "lng": -71.2227564
+                    },
+                    "southwest": {
+                        "lat": 42.36087920000001,
+                        "lng": -71.22297929999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3609387,
+                    "lng": -71.2228679
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3622876302915,
+                        "lng": -71.22151886970849
+                    },
+                    "southwest": {
+                        "lat": 42.35958966970851,
+                        "lng": -71.2242168302915
+                    }
+                }
+            },
+            "place_id": "ChIJ_x3I5OmC44kRMkEsjJCnzFc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "26c4f0bb84202fd5c9824e846081553a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:35.528622",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

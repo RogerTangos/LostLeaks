@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_6d8d3b900dad10ce24695a0f80b0f8dd.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "37",
+                    "short_name": "37",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Williams Street",
+                    "short_name": "Williams St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Upton",
+                    "short_name": "Upton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01568",
+                    "short_name": "01568",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "37 Williams St, Upton, MA 01568, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1707663,
+                        "lng": -71.6363058
+                    },
+                    "southwest": {
+                        "lat": 42.1707531,
+                        "lng": -71.6363121
+                    }
+                },
+                "location": {
+                    "lat": 42.1707663,
+                    "lng": -71.6363121
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1721086802915,
+                        "lng": -71.6349599697085
+                    },
+                    "southwest": {
+                        "lat": 42.1694107197085,
+                        "lng": -71.63765793029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQzNyBXaWxsaWFtcyBTdCwgVXB0b24sIE1BIDAxNTY4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6d8d3b900dad10ce24695a0f80b0f8dd",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:06:51.257540",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

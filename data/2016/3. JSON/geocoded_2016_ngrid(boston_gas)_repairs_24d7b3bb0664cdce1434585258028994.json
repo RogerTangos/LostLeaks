@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_24d7b3bb0664cdce1434585258028994.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1466",
+                    "short_name": "1466",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2832",
+                    "short_name": "2832",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1466 Commonwealth Avenue, West Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3381427,
+                        "lng": -71.2266199
+                    },
+                    "southwest": {
+                        "lat": 42.337816,
+                        "lng": -71.2270723
+                    }
+                },
+                "location": {
+                    "lat": 42.3379793,
+                    "lng": -71.2268461
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33932833029149,
+                        "lng": -71.22549711970849
+                    },
+                    "southwest": {
+                        "lat": 42.3366303697085,
+                        "lng": -71.22819508029151
+                    }
+                }
+            },
+            "place_id": "ChIJ2aGYHlqC44kRpR_jOPGy3FM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "24d7b3bb0664cdce1434585258028994",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:13.991409",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

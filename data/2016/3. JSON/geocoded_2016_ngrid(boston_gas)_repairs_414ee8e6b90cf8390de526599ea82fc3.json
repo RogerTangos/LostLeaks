@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_414ee8e6b90cf8390de526599ea82fc3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "335",
+                    "short_name": "335",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Central Street",
+                    "short_name": "Central St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2321",
+                    "short_name": "2321",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "335 Central St, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4624565,
+                        "lng": -71.0095659
+                    },
+                    "southwest": {
+                        "lat": 42.4623005,
+                        "lng": -71.0098218
+                    }
+                },
+                "location": {
+                    "lat": 42.4623785,
+                    "lng": -71.0096938
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4637274802915,
+                        "lng": -71.0083448697085
+                    },
+                    "southwest": {
+                        "lat": 42.4610295197085,
+                        "lng": -71.0110428302915
+                    }
+                }
+            },
+            "place_id": "ChIJobBTn4Zy44kRa2NIUS8C8qs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "414ee8e6b90cf8390de526599ea82fc3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:09.739194",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a42874537bf472dad0e356fd6202855e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "717",
+                    "short_name": "717",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Fifth Street",
+                    "short_name": "E Fifth St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "717 E Fifth St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3340129,
+                        "lng": -71.0311042
+                    },
+                    "southwest": {
+                        "lat": 42.333999,
+                        "lng": -71.03110459999999
+                    }
+                },
+                "location": {
+                    "lat": 42.333999,
+                    "lng": -71.0311042
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3353549302915,
+                        "lng": -71.0297554197085
+                    },
+                    "southwest": {
+                        "lat": 42.3326569697085,
+                        "lng": -71.03245338029151
+                    }
+                }
+            },
+            "place_id": "EiU3MTcgRSBGaWZ0aCBTdCwgQm9zdG9uLCBNQSAwMjEyNywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a42874537bf472dad0e356fd6202855e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:31.621975",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

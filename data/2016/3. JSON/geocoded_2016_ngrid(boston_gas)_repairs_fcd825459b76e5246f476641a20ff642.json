@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fcd825459b76e5246f476641a20ff642.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cantwell Road",
+                    "short_name": "Cantwell Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1743",
+                    "short_name": "1743",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Cantwell Rd, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2661837,
+                        "lng": -71.08248669999999
+                    },
+                    "southwest": {
+                        "lat": 42.2660533,
+                        "lng": -71.0826654
+                    }
+                },
+                "location": {
+                    "lat": 42.2661185,
+                    "lng": -71.0825761
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2674674802915,
+                        "lng": -71.08122706970848
+                    },
+                    "southwest": {
+                        "lat": 42.2647695197085,
+                        "lng": -71.0839250302915
+                    }
+                }
+            },
+            "place_id": "ChIJndvLKhd844kRiTp9K6QmkJI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fcd825459b76e5246f476641a20ff642",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:10.298263",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

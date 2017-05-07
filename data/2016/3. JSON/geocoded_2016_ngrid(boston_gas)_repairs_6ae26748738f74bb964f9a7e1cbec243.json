@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6ae26748738f74bb964f9a7e1cbec243.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "296",
+                    "short_name": "296",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Castle Road",
+                    "short_name": "Castle Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nahant",
+                    "short_name": "Nahant",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01908",
+                    "short_name": "01908",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "296 Castle Rd, Nahant, MA 01908, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.42112110000001,
+                    "lng": -70.93300409999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42247008029151,
+                        "lng": -70.9316551197085
+                    },
+                    "southwest": {
+                        "lat": 42.41977211970851,
+                        "lng": -70.9343530802915
+                    }
+                }
+            },
+            "place_id": "ChIJu4q4dz5s44kRf3PA_D7bVd0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6ae26748738f74bb964f9a7e1cbec243",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:20.542264",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

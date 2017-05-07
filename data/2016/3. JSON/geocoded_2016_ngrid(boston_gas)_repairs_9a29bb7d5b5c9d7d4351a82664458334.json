@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9a29bb7d5b5c9d7d4351a82664458334.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Street",
+                    "short_name": "South St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3112",
+                    "short_name": "3112",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 South St, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3088919,
+                    "lng": -71.1158715
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3102408802915,
+                        "lng": -71.1145225197085
+                    },
+                    "southwest": {
+                        "lat": 42.3075429197085,
+                        "lng": -71.11722048029151
+                    }
+                }
+            },
+            "place_id": "ChIJ912P6Gt544kRMG11mgpc5j0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9a29bb7d5b5c9d7d4351a82664458334",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:34.178592",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

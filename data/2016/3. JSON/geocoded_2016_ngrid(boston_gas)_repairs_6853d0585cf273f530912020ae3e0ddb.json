@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6853d0585cf273f530912020ae3e0ddb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "462",
+                    "short_name": "462",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Common Street",
+                    "short_name": "Common St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "462 Common St, Belmont, MA 02478, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3808738,
+                    "lng": -71.17448879999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3822227802915,
+                        "lng": -71.1731398197085
+                    },
+                    "southwest": {
+                        "lat": 42.3795248197085,
+                        "lng": -71.1758377802915
+                    }
+                }
+            },
+            "place_id": "ChIJVW4i9vF344kRsM3YxsBFGT0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6853d0585cf273f530912020ae3e0ddb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:55.523807",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

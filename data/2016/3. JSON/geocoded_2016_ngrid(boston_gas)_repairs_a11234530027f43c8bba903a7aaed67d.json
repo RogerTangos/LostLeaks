@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a11234530027f43c8bba903a7aaed67d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "273",
+                    "short_name": "273",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Independence Road",
+                    "short_name": "Independence Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2655",
+                    "short_name": "2655",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "273 Independence Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4611156,
+                        "lng": -71.3310947
+                    },
+                    "southwest": {
+                        "lat": 42.4609226,
+                        "lng": -71.3313283
+                    }
+                },
+                "location": {
+                    "lat": 42.4610191,
+                    "lng": -71.3312115
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4623680802915,
+                        "lng": -71.3298625197085
+                    },
+                    "southwest": {
+                        "lat": 42.4596701197085,
+                        "lng": -71.3325604802915
+                    }
+                }
+            },
+            "place_id": "ChIJo5yLb8yb44kRPeo37nwxz0Y",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a11234530027f43c8bba903a7aaed67d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:57.612017",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

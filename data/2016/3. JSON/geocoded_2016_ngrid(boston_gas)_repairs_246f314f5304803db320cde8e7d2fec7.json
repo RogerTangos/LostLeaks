@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_246f314f5304803db320cde8e7d2fec7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "211",
+                    "short_name": "211",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2249",
+                    "short_name": "2249",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "211 Main St, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.04998440000001,
+                        "lng": -71.8829521
+                    },
+                    "southwest": {
+                        "lat": 42.0492855,
+                        "lng": -71.8833909
+                    }
+                },
+                "location": {
+                    "lat": 42.0496349,
+                    "lng": -71.8831715
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0509839302915,
+                        "lng": -71.88182251970848
+                    },
+                    "southwest": {
+                        "lat": 42.0482859697085,
+                        "lng": -71.8845204802915
+                    }
+                }
+            },
+            "place_id": "ChIJT76U52of5IkR8msRexwCNRg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "246f314f5304803db320cde8e7d2fec7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:37.151128",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

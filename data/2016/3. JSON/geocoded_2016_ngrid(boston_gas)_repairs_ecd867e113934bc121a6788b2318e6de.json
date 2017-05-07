@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ecd867e113934bc121a6788b2318e6de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Derby Street",
+                    "short_name": "Derby St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "101 Derby St, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1809725,
+                        "lng": -70.9076186
+                    },
+                    "southwest": {
+                        "lat": 42.1806622,
+                        "lng": -70.90824959999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1808173,
+                    "lng": -70.90793409999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1821663302915,
+                        "lng": -70.9065851197085
+                    },
+                    "southwest": {
+                        "lat": 42.1794683697085,
+                        "lng": -70.9092830802915
+                    }
+                }
+            },
+            "place_id": "ChIJObL2bwJi44kR5hl5W4tVBg8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ecd867e113934bc121a6788b2318e6de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:21.178632",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

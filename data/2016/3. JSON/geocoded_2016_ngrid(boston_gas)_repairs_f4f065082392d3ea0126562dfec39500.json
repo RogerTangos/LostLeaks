@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f4f065082392d3ea0126562dfec39500.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hancock Street",
+                    "short_name": "Hancock St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1316",
+                    "short_name": "1316",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Hancock St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4329221,
+                        "lng": -71.1763521
+                    },
+                    "southwest": {
+                        "lat": 42.4328472,
+                        "lng": -71.17649279999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4328847,
+                    "lng": -71.17642239999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43423363029149,
+                        "lng": -71.17507346970848
+                    },
+                    "southwest": {
+                        "lat": 42.4315356697085,
+                        "lng": -71.1777714302915
+                    }
+                }
+            },
+            "place_id": "ChIJM5iL6RZ244kRHHIIx9Nxg0Q",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f4f065082392d3ea0126562dfec39500",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:12.074098",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

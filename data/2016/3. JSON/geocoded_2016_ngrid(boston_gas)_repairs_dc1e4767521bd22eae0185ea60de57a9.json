@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dc1e4767521bd22eae0185ea60de57a9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "156",
+                    "short_name": "156",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3132",
+                    "short_name": "3132",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "156 High St, Danvers, MA 01923, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.556589,
+                    "lng": -70.925214
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5579379802915,
+                        "lng": -70.92386501970849
+                    },
+                    "southwest": {
+                        "lat": 42.5552400197085,
+                        "lng": -70.92656298029151
+                    }
+                }
+            },
+            "place_id": "ChIJHau8-eET44kR1Pp1alhdpMQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dc1e4767521bd22eae0185ea60de57a9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:42.539170",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_df888edc5a649ae09aae20acfe85624d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "63",
+                    "short_name": "63",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Monroe Street",
+                    "short_name": "Monroe St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Abington",
+                    "short_name": "Abington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02351",
+                    "short_name": "02351",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "63 Monroe St, Abington, MA 02351, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1240956,
+                        "lng": -70.9388561
+                    },
+                    "southwest": {
+                        "lat": 42.124092,
+                        "lng": -70.9388742
+                    }
+                },
+                "location": {
+                    "lat": 42.1240956,
+                    "lng": -70.9388561
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.12544278029149,
+                        "lng": -70.9375161697085
+                    },
+                    "southwest": {
+                        "lat": 42.1227448197085,
+                        "lng": -70.94021413029151
+                    }
+                }
+            },
+            "place_id": "EiU2MyBNb25yb2UgU3QsIEFiaW5ndG9uLCBNQSAwMjM1MSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "df888edc5a649ae09aae20acfe85624d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:46.917964",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

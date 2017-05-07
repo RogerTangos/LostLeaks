@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a6f95a838b2887efc56b62692c37f11f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Sumner Street",
+                    "short_name": "Sumner St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Sumner St & Orleans St, Boston, MA 02128, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3681036,
+                    "lng": -71.03796489999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36945258029149,
+                        "lng": -71.03661591970848
+                    },
+                    "southwest": {
+                        "lat": 42.36675461970849,
+                        "lng": -71.0393138802915
+                    }
+                }
+            },
+            "place_id": "Ei1TdW1uZXIgU3QgJiBPcmxlYW5zIFN0LCBCb3N0b24sIE1BIDAyMTI4LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "a6f95a838b2887efc56b62692c37f11f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:43.266803",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

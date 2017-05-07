@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_15fe6d816829764f7cf4c99c67ce6061.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tileston Road",
+                    "short_name": "Tileston Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2735",
+                    "short_name": "2735",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Tileston Rd, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3804648,
+                        "lng": -70.99009339999999
+                    },
+                    "southwest": {
+                        "lat": 42.38045109999999,
+                        "lng": -70.9900955
+                    }
+                },
+                "location": {
+                    "lat": 42.3804648,
+                    "lng": -70.9900955
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3818069302915,
+                        "lng": -70.98874546970849
+                    },
+                    "southwest": {
+                        "lat": 42.3791089697085,
+                        "lng": -70.9914434302915
+                    }
+                }
+            },
+            "place_id": "Eic0NCBUaWxlc3RvbiBSZCwgV2ludGhyb3AsIE1BIDAyMTUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "15fe6d816829764f7cf4c99c67ce6061",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:41.062775",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

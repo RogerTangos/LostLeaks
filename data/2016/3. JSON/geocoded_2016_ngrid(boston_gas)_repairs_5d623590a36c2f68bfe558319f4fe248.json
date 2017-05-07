@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5d623590a36c2f68bfe558319f4fe248.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Sohier Street",
+                    "short_name": "Sohier St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Sohier St & Ripley Rd, Cohasset, MA 02025, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2427034,
+                    "lng": -70.8094488
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2440523802915,
+                        "lng": -70.80809981970849
+                    },
+                    "southwest": {
+                        "lat": 42.2413544197085,
+                        "lng": -70.81079778029151
+                    }
+                }
+            },
+            "place_id": "Ei5Tb2hpZXIgU3QgJiBSaXBsZXkgUmQsIENvaGFzc2V0LCBNQSAwMjAyNSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "5d623590a36c2f68bfe558319f4fe248",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:46.694695",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_851fdb0c785f4afae3d821b2245181d1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Point Street",
+                    "short_name": "Point St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4615",
+                    "short_name": "4615",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Point St, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7760187,
+                        "lng": -71.0983181
+                    },
+                    "southwest": {
+                        "lat": 42.7759434,
+                        "lng": -71.09852479999999
+                    }
+                },
+                "location": {
+                    "lat": 42.7759811,
+                    "lng": -71.09842139999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.77733003029149,
+                        "lng": -71.0970724697085
+                    },
+                    "southwest": {
+                        "lat": 42.7746320697085,
+                        "lng": -71.0997704302915
+                    }
+                }
+            },
+            "place_id": "ChIJQdhVGYAB44kRqUYl6M4gHNs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "851fdb0c785f4afae3d821b2245181d1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:14.175566",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

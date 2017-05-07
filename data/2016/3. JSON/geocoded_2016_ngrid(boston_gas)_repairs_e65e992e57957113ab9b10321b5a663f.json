@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e65e992e57957113ab9b10321b5a663f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "321",
+                    "short_name": "321",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Seaver Street",
+                    "short_name": "Seaver St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "321 Seaver St, Boston, MA 02119, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3102211,
+                        "lng": -71.0926276
+                    },
+                    "southwest": {
+                        "lat": 42.31021190000001,
+                        "lng": -71.0926416
+                    }
+                },
+                "location": {
+                    "lat": 42.31021190000001,
+                    "lng": -71.0926416
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31156548029151,
+                        "lng": -71.0912856197085
+                    },
+                    "southwest": {
+                        "lat": 42.30886751970851,
+                        "lng": -71.0939835802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQzMjEgU2VhdmVyIFN0LCBCb3N0b24sIE1BIDAyMTE5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e65e992e57957113ab9b10321b5a663f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:59.333556",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

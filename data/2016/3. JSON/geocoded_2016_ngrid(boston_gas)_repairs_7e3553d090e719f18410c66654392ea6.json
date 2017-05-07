@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7e3553d090e719f18410c66654392ea6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pigeon Hill Road",
+                    "short_name": "Pigeon Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weston",
+                    "short_name": "Weston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02493",
+                    "short_name": "02493",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1619",
+                    "short_name": "1619",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Pigeon Hill Rd, Weston, MA 02493, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3729669,
+                        "lng": -71.2945699
+                    },
+                    "southwest": {
+                        "lat": 42.3728457,
+                        "lng": -71.2948894
+                    }
+                },
+                "location": {
+                    "lat": 42.3729063,
+                    "lng": -71.2947296
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3742552802915,
+                        "lng": -71.2933806697085
+                    },
+                    "southwest": {
+                        "lat": 42.3715573197085,
+                        "lng": -71.2960786302915
+                    }
+                }
+            },
+            "place_id": "ChIJwXwno5iE44kRxyGaLwAHN6U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7e3553d090e719f18410c66654392ea6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:38.174655",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

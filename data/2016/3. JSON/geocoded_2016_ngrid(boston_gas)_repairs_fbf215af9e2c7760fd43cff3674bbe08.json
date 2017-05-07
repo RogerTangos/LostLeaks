@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fbf215af9e2c7760fd43cff3674bbe08.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "47",
+                    "short_name": "47",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rice Avenue",
+                    "short_name": "Rice Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1709",
+                    "short_name": "1709",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "47 Rice Ave, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4413641,
+                        "lng": -70.9646009
+                    },
+                    "southwest": {
+                        "lat": 42.4412579,
+                        "lng": -70.9647043
+                    }
+                },
+                "location": {
+                    "lat": 42.441311,
+                    "lng": -70.9646526
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4426599802915,
+                        "lng": -70.9633036197085
+                    },
+                    "southwest": {
+                        "lat": 42.4399620197085,
+                        "lng": -70.9660015802915
+                    }
+                }
+            },
+            "place_id": "ChIJy3G2xK9t44kRbb1TLb4oCfE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fbf215af9e2c7760fd43cff3674bbe08",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:00.440995",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

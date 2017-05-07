@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_87aca97892a86731e91854efd218e7fe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "93",
+                    "short_name": "93",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Glen Street",
+                    "short_name": "Glen St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Somerville",
+                    "short_name": "East Somerville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "93 Glen St, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3845713,
+                        "lng": -71.0864057
+                    },
+                    "southwest": {
+                        "lat": 42.3845657,
+                        "lng": -71.0864229
+                    }
+                },
+                "location": {
+                    "lat": 42.3845713,
+                    "lng": -71.0864229
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3859174802915,
+                        "lng": -71.08506531970849
+                    },
+                    "southwest": {
+                        "lat": 42.3832195197085,
+                        "lng": -71.0877632802915
+                    }
+                }
+            },
+            "place_id": "EiU5MyBHbGVuIFN0LCBTb21lcnZpbGxlLCBNQSAwMjE0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "87aca97892a86731e91854efd218e7fe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:53.240300",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

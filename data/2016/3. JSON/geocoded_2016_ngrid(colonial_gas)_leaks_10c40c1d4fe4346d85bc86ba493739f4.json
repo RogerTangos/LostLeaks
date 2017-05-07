@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_10c40c1d4fe4346d85bc86ba493739f4.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Clover Hill Street",
+                    "short_name": "Clover Hill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Clover Hill St, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.338397,
+                        "lng": -71.5593787
+                    },
+                    "southwest": {
+                        "lat": 42.3383865,
+                        "lng": -71.559391
+                    }
+                },
+                "location": {
+                    "lat": 42.3383865,
+                    "lng": -71.5593787
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3397407302915,
+                        "lng": -71.5580358697085
+                    },
+                    "southwest": {
+                        "lat": 42.3370427697085,
+                        "lng": -71.56073383029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei0zNiBDbG92ZXIgSGlsbCBTdCwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "10c40c1d4fe4346d85bc86ba493739f4",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:06:43.421857",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

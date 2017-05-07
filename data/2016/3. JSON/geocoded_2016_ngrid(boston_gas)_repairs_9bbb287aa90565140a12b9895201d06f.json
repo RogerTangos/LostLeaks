@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9bbb287aa90565140a12b9895201d06f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "100",
+                    "short_name": "100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Westchester Road",
+                    "short_name": "Westchester Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3453",
+                    "short_name": "3453",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "100 Westchester Rd, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.304118,
+                    "lng": -71.13049699999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30546698029149,
+                        "lng": -71.1291480197085
+                    },
+                    "southwest": {
+                        "lat": 42.30276901970849,
+                        "lng": -71.1318459802915
+                    }
+                }
+            },
+            "place_id": "ChIJZyoX8zx544kRUnTqZTE22cg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9bbb287aa90565140a12b9895201d06f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:20.390120",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_52a7ccb5a62760a2ea8cc2d440324f38.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "321",
+                    "short_name": "321",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Country Club Road",
+                    "short_name": "Country Club Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oak Hill",
+                    "short_name": "Oak Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3148",
+                    "short_name": "3148",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "321 Country Club Rd, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3038214,
+                        "lng": -71.1864396
+                    },
+                    "southwest": {
+                        "lat": 42.3036575,
+                        "lng": -71.18662420000001
+                    }
+                },
+                "location": {
+                    "lat": 42.3037395,
+                    "lng": -71.18653189999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.30508843029149,
+                        "lng": -71.1851829197085
+                    },
+                    "southwest": {
+                        "lat": 42.30239046970849,
+                        "lng": -71.1878808802915
+                    }
+                }
+            },
+            "place_id": "ChIJX9ZfS6l444kRvPW5l_PU8go",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "52a7ccb5a62760a2ea8cc2d440324f38",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:59.096809",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

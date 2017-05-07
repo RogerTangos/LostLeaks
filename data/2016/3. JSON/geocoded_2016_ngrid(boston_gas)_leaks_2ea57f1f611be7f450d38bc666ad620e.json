@@ -1,0 +1,93 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_2ea57f1f611be7f450d38bc666ad620e.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1000",
+                    "short_name": "1000",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hancock Street",
+                    "short_name": "Hancock St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "1000 Hancock St, Quincy, MA, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2580392,
+                        "lng": -71.0085211
+                    },
+                    "southwest": {
+                        "lat": 42.2580329,
+                        "lng": -71.0085378
+                    }
+                },
+                "location": {
+                    "lat": 42.2580392,
+                    "lng": -71.0085211
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2593850302915,
+                        "lng": -71.00718046970849
+                    },
+                    "southwest": {
+                        "lat": 42.2566870697085,
+                        "lng": -71.00987843029151
+                    }
+                }
+            },
+            "place_id": "EiAxMDAwIEhhbmNvY2sgU3QsIFF1aW5jeSwgTUEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2ea57f1f611be7f450d38bc666ad620e",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:28:28.775514",
+    "utility": "ngrid",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0d98007c6f31ecfcd3275e80ca6955e3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carolina Avenue",
+                    "short_name": "Carolina Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Carolina Ave, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3080564,
+                        "lng": -71.1133609
+                    },
+                    "southwest": {
+                        "lat": 42.30790409999999,
+                        "lng": -71.11349129999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3079803,
+                    "lng": -71.1134261
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3093292302915,
+                        "lng": -71.11207711970849
+                    },
+                    "southwest": {
+                        "lat": 42.3066312697085,
+                        "lng": -71.11477508029151
+                    }
+                }
+            },
+            "place_id": "ChIJUQp6FGl544kRLcwCURFsdgw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0d98007c6f31ecfcd3275e80ca6955e3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:24.072368",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

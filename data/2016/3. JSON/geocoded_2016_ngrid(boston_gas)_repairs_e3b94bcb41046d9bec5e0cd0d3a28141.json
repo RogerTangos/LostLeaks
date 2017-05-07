@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e3b94bcb41046d9bec5e0cd0d3a28141.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "65",
+                    "short_name": "65",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Street",
+                    "short_name": "West St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "65 West St, Beverly, MA 01915, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.558998,
+                    "lng": -70.81024099999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.56034698029149,
+                        "lng": -70.8088920197085
+                    },
+                    "southwest": {
+                        "lat": 42.55764901970849,
+                        "lng": -70.8115899802915
+                    }
+                }
+            },
+            "place_id": "ChIJr4fqXIo944kRtkVtyy5NjOU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e3b94bcb41046d9bec5e0cd0d3a28141",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:58.691950",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

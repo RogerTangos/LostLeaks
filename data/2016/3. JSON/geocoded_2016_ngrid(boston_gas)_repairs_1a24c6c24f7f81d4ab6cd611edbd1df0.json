@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1a24c6c24f7f81d4ab6cd611edbd1df0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lantern Lane",
+                    "short_name": "Lantern Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2525",
+                    "short_name": "2525",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Lantern Ln, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3196704,
+                        "lng": -71.1916367
+                    },
+                    "southwest": {
+                        "lat": 42.31965659999999,
+                        "lng": -71.1916375
+                    }
+                },
+                "location": {
+                    "lat": 42.31965659999999,
+                    "lng": -71.1916375
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32101248029149,
+                        "lng": -71.1902881197085
+                    },
+                    "southwest": {
+                        "lat": 42.31831451970849,
+                        "lng": -71.19298608029152
+                    }
+                }
+            },
+            "place_id": "EiQyNCBMYW50ZXJuIExuLCBOZXd0b24sIE1BIDAyNDU5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1a24c6c24f7f81d4ab6cd611edbd1df0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:13.367869",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

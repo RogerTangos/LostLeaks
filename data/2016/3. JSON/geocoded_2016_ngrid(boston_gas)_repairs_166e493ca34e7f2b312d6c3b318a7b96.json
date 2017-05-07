@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_166e493ca34e7f2b312d6c3b318a7b96.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Porter Street",
+                    "short_name": "Porter St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2810",
+                    "short_name": "2810",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Porter St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4610364,
+                        "lng": -71.06141420000002
+                    },
+                    "southwest": {
+                        "lat": 42.4609285,
+                        "lng": -71.0615694
+                    }
+                },
+                "location": {
+                    "lat": 42.4609824,
+                    "lng": -71.0614918
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4623314302915,
+                        "lng": -71.0601428197085
+                    },
+                    "southwest": {
+                        "lat": 42.4596334697085,
+                        "lng": -71.06284078029151
+                    }
+                }
+            },
+            "place_id": "ChIJUbKtX69z44kRFqKgJo6yVrM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "166e493ca34e7f2b312d6c3b318a7b96",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:16.814385",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

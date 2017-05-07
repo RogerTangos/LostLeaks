@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1c52544129f7bae7b2f39fc1320149cd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "301",
+                    "short_name": "301",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "King Street",
+                    "short_name": "King St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Littleton Common",
+                    "short_name": "Littleton Common",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Littleton",
+                    "short_name": "Littleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01460",
+                    "short_name": "01460",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "301 King St, Littleton, MA 01460, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5389974,
+                    "lng": -71.4847863
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5403463802915,
+                        "lng": -71.48343731970849
+                    },
+                    "southwest": {
+                        "lat": 42.5376484197085,
+                        "lng": -71.48613528029149
+                    }
+                }
+            },
+            "place_id": "ChIJ07mdR9OV44kRRNgaCNtIiC4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1c52544129f7bae7b2f39fc1320149cd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:40.597094",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ed406ed812ff6c50b2178f82d5c3888b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Flint Street",
+                    "short_name": "Flint St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01905",
+                    "short_name": "01905",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1809",
+                    "short_name": "1809",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Flint St, Lynn, MA 01905, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4647014,
+                        "lng": -70.9723437
+                    },
+                    "southwest": {
+                        "lat": 42.4646259,
+                        "lng": -70.9725096
+                    }
+                },
+                "location": {
+                    "lat": 42.4646637,
+                    "lng": -70.97242659999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4660126302915,
+                        "lng": -70.97107766970849
+                    },
+                    "southwest": {
+                        "lat": 42.4633146697085,
+                        "lng": -70.9737756302915
+                    }
+                }
+            },
+            "place_id": "ChIJob6WXxFt44kRVq4mtIFcaBI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ed406ed812ff6c50b2178f82d5c3888b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:01.707604",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

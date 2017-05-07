@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ce4d6d9df14df4e2a53813a3cf7acb58.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "109",
+                    "short_name": "109",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Davis Avenue",
+                    "short_name": "Davis Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Emerson Gardens",
+                    "short_name": "Emerson Gardens",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "109 Davis Ave, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3318509,
+                        "lng": -71.1237436
+                    },
+                    "southwest": {
+                        "lat": 42.3318371,
+                        "lng": -71.1237458
+                    }
+                },
+                "location": {
+                    "lat": 42.3318509,
+                    "lng": -71.1237458
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3331929802915,
+                        "lng": -71.12239571970849
+                    },
+                    "southwest": {
+                        "lat": 42.3304950197085,
+                        "lng": -71.1250936802915
+                    }
+                }
+            },
+            "place_id": "EicxMDkgRGF2aXMgQXZlLCBCcm9va2xpbmUsIE1BIDAyNDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ce4d6d9df14df4e2a53813a3cf7acb58",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:38.469761",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

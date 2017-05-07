@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5f67b940e537c05745dc9434b4b0113d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Randolph Avenue",
+                    "short_name": "Randolph Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Randolph Ave & Russell St, Milton, MA 02186, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2640134,
+                    "lng": -71.0684083
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2653623802915,
+                        "lng": -71.06705931970849
+                    },
+                    "southwest": {
+                        "lat": 42.2626644197085,
+                        "lng": -71.06975728029151
+                    }
+                }
+            },
+            "place_id": "EjBSYW5kb2xwaCBBdmUgJiBSdXNzZWxsIFN0LCBNaWx0b24sIE1BIDAyMTg2LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "5f67b940e537c05745dc9434b4b0113d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:47.666212",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

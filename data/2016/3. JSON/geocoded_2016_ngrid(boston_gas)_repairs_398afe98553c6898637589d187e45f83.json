@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_398afe98553c6898637589d187e45f83.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "620",
+                    "short_name": "620",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5756",
+                    "short_name": "5756",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "620 Washington St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2117831,
+                        "lng": -71.0038299
+                    },
+                    "southwest": {
+                        "lat": 42.211662,
+                        "lng": -71.00409789999999
+                    }
+                },
+                "location": {
+                    "lat": 42.21172259999999,
+                    "lng": -71.0039639
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2130715302915,
+                        "lng": -71.00261491970849
+                    },
+                    "southwest": {
+                        "lat": 42.2103735697085,
+                        "lng": -71.00531288029151
+                    }
+                }
+            },
+            "place_id": "ChIJQQ-7GTV944kRhibc9NXOg5M",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "398afe98553c6898637589d187e45f83",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:43.134665",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

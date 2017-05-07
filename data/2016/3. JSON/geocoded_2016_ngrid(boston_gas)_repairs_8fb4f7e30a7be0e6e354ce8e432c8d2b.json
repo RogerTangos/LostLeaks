@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8fb4f7e30a7be0e6e354ce8e432c8d2b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "710",
+                    "short_name": "710",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Furnace Brook Parkway",
+                    "short_name": "Furnace Brook Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "710 Furnace Brook Pkwy, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2552661,
+                        "lng": -71.0220076
+                    },
+                    "southwest": {
+                        "lat": 42.2550757,
+                        "lng": -71.0222185
+                    }
+                },
+                "location": {
+                    "lat": 42.2551709,
+                    "lng": -71.0221131
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.25651988029149,
+                        "lng": -71.02076406970849
+                    },
+                    "southwest": {
+                        "lat": 42.2538219197085,
+                        "lng": -71.0234620302915
+                    }
+                }
+            },
+            "place_id": "ChIJH0x8kL5844kRjB-Xf6arB-o",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8fb4f7e30a7be0e6e354ce8e432c8d2b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:30.508370",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

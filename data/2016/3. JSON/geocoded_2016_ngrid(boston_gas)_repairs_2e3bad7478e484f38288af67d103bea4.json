@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2e3bad7478e484f38288af67d103bea4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ames Street",
+                    "short_name": "Ames St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2610",
+                    "short_name": "2610",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Ames St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5358805,
+                        "lng": -70.8876674
+                    },
+                    "southwest": {
+                        "lat": 42.5357712,
+                        "lng": -70.88780179999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5358259,
+                    "lng": -70.8877346
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5371748302915,
+                        "lng": -70.88638561970849
+                    },
+                    "southwest": {
+                        "lat": 42.5344768697085,
+                        "lng": -70.88908358029151
+                    }
+                }
+            },
+            "place_id": "ChIJmV2zIhQU44kRyn0ZByOdU7A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2e3bad7478e484f38288af67d103bea4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:56.056854",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

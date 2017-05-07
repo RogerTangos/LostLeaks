@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d7e35c600e4ce8b3416ed22d27b4abb0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Piedmont Street",
+                    "short_name": "Piedmont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1922",
+                    "short_name": "1922",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Piedmont St, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4886324,
+                        "lng": -70.9560651
+                    },
+                    "southwest": {
+                        "lat": 42.4885415,
+                        "lng": -70.9561404
+                    }
+                },
+                "location": {
+                    "lat": 42.488587,
+                    "lng": -70.9561028
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4899359302915,
+                        "lng": -70.9547537697085
+                    },
+                    "southwest": {
+                        "lat": 42.4872379697085,
+                        "lng": -70.95745173029151
+                    }
+                }
+            },
+            "place_id": "ChIJsz8kc9US44kRu0w4IACG0Ic",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d7e35c600e4ce8b3416ed22d27b4abb0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:26.221204",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

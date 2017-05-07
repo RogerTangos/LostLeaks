@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dc705a831f47e5d2d17ff5aab7538458.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "105",
+                    "short_name": "105",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West First Street",
+                    "short_name": "W First St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "D Street / West Broadway",
+                    "short_name": "D Street / West Broadway",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "105 W First St, Boston, MA 02127, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.342903,
+                    "lng": -71.053134
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3442519802915,
+                        "lng": -71.05178501970849
+                    },
+                    "southwest": {
+                        "lat": 42.3415540197085,
+                        "lng": -71.0544829802915
+                    }
+                }
+            },
+            "place_id": "ChIJTwMf3Hx644kRo_e9Fb1BmKA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dc705a831f47e5d2d17ff5aab7538458",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:32.112311",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eaa59ae80d4b7c622e9d6356dc28752f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "96",
+                    "short_name": "96",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bridle Path",
+                    "short_name": "Bridle Path",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2200",
+                    "short_name": "2200",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "96 Bridle Path, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.369732,
+                        "lng": -71.4332685
+                    },
+                    "southwest": {
+                        "lat": 42.3697305,
+                        "lng": -71.4332872
+                    }
+                },
+                "location": {
+                    "lat": 42.369732,
+                    "lng": -71.4332872
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3710802302915,
+                        "lng": -71.43192886970849
+                    },
+                    "southwest": {
+                        "lat": 42.3683822697085,
+                        "lng": -71.4346268302915
+                    }
+                }
+            },
+            "place_id": "EiY5NiBCcmlkbGUgUGF0aCwgU3VkYnVyeSwgTUEgMDE3NzYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "eaa59ae80d4b7c622e9d6356dc28752f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:00.332455",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

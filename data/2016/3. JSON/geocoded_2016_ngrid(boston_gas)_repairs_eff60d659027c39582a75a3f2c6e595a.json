@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_eff60d659027c39582a75a3f2c6e595a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Shepard Avenue",
+                    "short_name": "Shepard Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1614",
+                    "short_name": "1614",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Shepard Ave, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4749805,
+                        "lng": -70.8848904
+                    },
+                    "southwest": {
+                        "lat": 42.4747608,
+                        "lng": -70.88509049999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4748707,
+                    "lng": -70.8849905
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4762196302915,
+                        "lng": -70.8836414697085
+                    },
+                    "southwest": {
+                        "lat": 42.4735216697085,
+                        "lng": -70.8863394302915
+                    }
+                }
+            },
+            "place_id": "ChIJlfilN7UU44kR8-RksTva3LA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "eff60d659027c39582a75a3f2c6e595a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:33.568993",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

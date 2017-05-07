@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_58e15b1a15b6b0a9daafa66528b5b923.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "232",
+                    "short_name": "232",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "232 Boylston St, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3195068,
+                        "lng": -71.17721279999999
+                    },
+                    "southwest": {
+                        "lat": 42.3193489,
+                        "lng": -71.1775375
+                    }
+                },
+                "location": {
+                    "lat": 42.3194278,
+                    "lng": -71.1773752
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3207768302915,
+                        "lng": -71.17602616970849
+                    },
+                    "southwest": {
+                        "lat": 42.3180788697085,
+                        "lng": -71.1787241302915
+                    }
+                }
+            },
+            "place_id": "ChIJjxbN2JZ444kROqHjjoqptJI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "58e15b1a15b6b0a9daafa66528b5b923",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:06.691273",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

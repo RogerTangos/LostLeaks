@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c52c3a152d14e8cbb9f7ce88983e86a4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "37",
+                    "short_name": "37",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fordham Road",
+                    "short_name": "Fordham Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1206",
+                    "short_name": "1206",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "37 Fordham Rd, Newton, MA 02465, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3614762,
+                        "lng": -71.2258564
+                    },
+                    "southwest": {
+                        "lat": 42.361476,
+                        "lng": -71.22587519999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3614762,
+                    "lng": -71.22587519999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36282508029149,
+                        "lng": -71.22451681970848
+                    },
+                    "southwest": {
+                        "lat": 42.36012711970849,
+                        "lng": -71.22721478029149
+                    }
+                }
+            },
+            "place_id": "EiQzNyBGb3JkaGFtIFJkLCBOZXd0b24sIE1BIDAyNDY1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c52c3a152d14e8cbb9f7ce88983e86a4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:36.924064",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

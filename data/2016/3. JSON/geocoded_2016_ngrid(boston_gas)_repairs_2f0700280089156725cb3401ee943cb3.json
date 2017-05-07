@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2f0700280089156725cb3401ee943cb3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "214",
+                    "short_name": "214",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Main Street",
+                    "short_name": "W Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dudley",
+                    "short_name": "Dudley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01571",
+                    "short_name": "01571",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "214 W Main St, Dudley, MA 01571, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0380572,
+                        "lng": -71.916646
+                    },
+                    "southwest": {
+                        "lat": 42.0380458,
+                        "lng": -71.9166568
+                    }
+                },
+                "location": {
+                    "lat": 42.0380572,
+                    "lng": -71.9166568
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0394004802915,
+                        "lng": -71.9153024197085
+                    },
+                    "southwest": {
+                        "lat": 42.0367025197085,
+                        "lng": -71.9180003802915
+                    }
+                }
+            },
+            "place_id": "EiQyMTQgVyBNYWluIFN0LCBEdWRsZXksIE1BIDAxNTcxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2f0700280089156725cb3401ee943cb3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:39.113315",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

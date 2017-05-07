@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d8ead6f441557af0d8c4415222288a9d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Boylston Street",
+                    "short_name": "Boylston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Boylston St & Eliot St, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3264353,
+                    "lng": -71.1440513
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3277842802915,
+                        "lng": -71.14270231970849
+                    },
+                    "southwest": {
+                        "lat": 42.3250863197085,
+                        "lng": -71.1454002802915
+                    }
+                }
+            },
+            "place_id": "EjRCb3lsc3RvbiBTdCAmIEVsaW90IFN0LCBDaGVzdG51dCBIaWxsLCBNQSAwMjQ2NywgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d8ead6f441557af0d8c4415222288a9d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:16.192369",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

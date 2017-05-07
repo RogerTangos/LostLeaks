@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c8e65b430156b115fcb5c9547ee649f2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "View Street",
+                    "short_name": "View St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1808",
+                    "short_name": "1808",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "14 View St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4258505,
+                        "lng": -71.6954231
+                    },
+                    "southwest": {
+                        "lat": 42.4258375,
+                        "lng": -71.69542969999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4258505,
+                    "lng": -71.69542969999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4271929802915,
+                        "lng": -71.69407741970848
+                    },
+                    "southwest": {
+                        "lat": 42.4244950197085,
+                        "lng": -71.6967753802915
+                    }
+                }
+            },
+            "place_id": "EiIxNCBWaWV3IFN0LCBDbGludG9uLCBNQSAwMTUxMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c8e65b430156b115fcb5c9547ee649f2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:02.751714",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

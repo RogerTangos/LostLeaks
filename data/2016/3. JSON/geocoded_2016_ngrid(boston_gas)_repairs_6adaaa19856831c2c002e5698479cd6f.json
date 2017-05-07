@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6adaaa19856831c2c002e5698479cd6f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Old Ayer Road",
+                    "short_name": "Old Ayer Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Groton",
+                    "short_name": "Groton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Groton",
+                    "short_name": "Groton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01450",
+                    "short_name": "01450",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1827",
+                    "short_name": "1827",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "41 Old Ayer Rd, Groton, MA 01450, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5990792,
+                        "lng": -71.56839699999999
+                    },
+                    "southwest": {
+                        "lat": 42.5990709,
+                        "lng": -71.5684121
+                    }
+                },
+                "location": {
+                    "lat": 42.5990709,
+                    "lng": -71.56839699999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6004240302915,
+                        "lng": -71.56705556970849
+                    },
+                    "southwest": {
+                        "lat": 42.5977260697085,
+                        "lng": -71.56975353029149
+                    }
+                }
+            },
+            "place_id": "EiU0MSBPbGQgQXllciBSZCwgR3JvdG9uLCBNQSAwMTQ1MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6adaaa19856831c2c002e5698479cd6f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:19.131293",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

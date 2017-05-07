@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_7a9793367360ea619cfd4a272bd0fa19.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ivy Lane",
+                    "short_name": "Ivy Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Ivy Ln, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6307474,
+                        "lng": -70.89824709999999
+                    },
+                    "southwest": {
+                        "lat": 41.6307441,
+                        "lng": -70.89826529999999
+                    }
+                },
+                "location": {
+                    "lat": 41.6307474,
+                    "lng": -70.89824709999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6320947302915,
+                        "lng": -70.89690721970848
+                    },
+                    "southwest": {
+                        "lat": 41.6293967697085,
+                        "lng": -70.89960518029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMyNSBJdnkgTG4sIEZhaXJoYXZlbiwgTUEgMDI3MTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7a9793367360ea619cfd4a272bd0fa19",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:19:20.681993",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

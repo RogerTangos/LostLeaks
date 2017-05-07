@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5ba6d95a096d5df008b76660460668bc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "357",
+                    "short_name": "357",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Common Street",
+                    "short_name": "Common St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2869",
+                    "short_name": "2869",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "357 Common St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3846231,
+                        "lng": -71.1755611
+                    },
+                    "southwest": {
+                        "lat": 42.3845096,
+                        "lng": -71.1757141
+                    }
+                },
+                "location": {
+                    "lat": 42.3845663,
+                    "lng": -71.1756376
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3859153302915,
+                        "lng": -71.17428861970849
+                    },
+                    "southwest": {
+                        "lat": 42.3832173697085,
+                        "lng": -71.17698658029151
+                    }
+                }
+            },
+            "place_id": "ChIJ4bmYju5344kRrYzIBHh0VGY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5ba6d95a096d5df008b76660460668bc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:27.931125",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

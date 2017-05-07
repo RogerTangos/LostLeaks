@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_55d873681d96fcd0e6a2ee1db848fcc6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7006",
+                    "short_name": "7006",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 High St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4228379,
+                        "lng": -71.06312559999999
+                    },
+                    "southwest": {
+                        "lat": 42.4226701,
+                        "lng": -71.0633625
+                    }
+                },
+                "location": {
+                    "lat": 42.422754,
+                    "lng": -71.063244
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.42410298029149,
+                        "lng": -71.06189506970848
+                    },
+                    "southwest": {
+                        "lat": 42.42140501970849,
+                        "lng": -71.0645930302915
+                    }
+                }
+            },
+            "place_id": "ChIJyxFK6GRx44kRZDs4DnAEaXw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "55d873681d96fcd0e6a2ee1db848fcc6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:13.498308",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

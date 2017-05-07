@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dc19487f1125977394de0502970b9e23.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Marsh Street",
+                    "short_name": "Marsh St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2132",
+                    "short_name": "2132",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Marsh St, Belmont, MA 02478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4071907,
+                        "lng": -71.18369969999999
+                    },
+                    "southwest": {
+                        "lat": 42.40717679999999,
+                        "lng": -71.1836998
+                    }
+                },
+                "location": {
+                    "lat": 42.4071907,
+                    "lng": -71.1836998
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4085327302915,
+                        "lng": -71.18235076970849
+                    },
+                    "southwest": {
+                        "lat": 42.4058347697085,
+                        "lng": -71.18504873029151
+                    }
+                }
+            },
+            "place_id": "EiM1MSBNYXJzaCBTdCwgQmVsbW9udCwgTUEgMDI0NzgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dc19487f1125977394de0502970b9e23",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:33.408000",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

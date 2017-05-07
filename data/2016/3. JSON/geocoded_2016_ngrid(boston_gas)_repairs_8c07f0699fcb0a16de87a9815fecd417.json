@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8c07f0699fcb0a16de87a9815fecd417.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "34",
+                    "short_name": "34",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cambridge Street",
+                    "short_name": "Cambridge St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "34 Cambridge St, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4851093,
+                        "lng": -71.18509399999999
+                    },
+                    "southwest": {
+                        "lat": 42.4834782,
+                        "lng": -71.18855049999999
+                    }
+                },
+                "location": {
+                    "lat": 42.48429369999999,
+                    "lng": -71.1868222
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4856427302915,
+                        "lng": -71.18509399999999
+                    },
+                    "southwest": {
+                        "lat": 42.4829447697085,
+                        "lng": -71.18855049999999
+                    }
+                }
+            },
+            "place_id": "ChIJWUOmXoF144kRX3CVIQ5W_6s",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8c07f0699fcb0a16de87a9815fecd417",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:11.898155",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

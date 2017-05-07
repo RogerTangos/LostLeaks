@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e3cecce5d8d3b350c72906549277ff14.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Canton Avenue",
+                    "short_name": "Canton Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Canton Ave & Corey Ln, Milton, MA 02186, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2372723,
+                    "lng": -71.1066086
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2386212802915,
+                        "lng": -71.10525961970849
+                    },
+                    "southwest": {
+                        "lat": 42.2359233197085,
+                        "lng": -71.10795758029151
+                    }
+                }
+            },
+            "place_id": "EixDYW50b24gQXZlICYgQ29yZXkgTG4sIE1pbHRvbiwgTUEgMDIxODYsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "e3cecce5d8d3b350c72906549277ff14",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:19.343206",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

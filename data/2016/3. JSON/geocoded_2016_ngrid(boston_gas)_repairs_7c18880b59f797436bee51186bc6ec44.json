@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7c18880b59f797436bee51186bc6ec44.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "86",
+                    "short_name": "86",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "McKay Street",
+                    "short_name": "McKay St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3032",
+                    "short_name": "3032",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "86 McKay St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5610775,
+                        "lng": -70.89204219999999
+                    },
+                    "southwest": {
+                        "lat": 42.5609764,
+                        "lng": -70.8921788
+                    }
+                },
+                "location": {
+                    "lat": 42.561027,
+                    "lng": -70.8921105
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5623759302915,
+                        "lng": -70.8907615197085
+                    },
+                    "southwest": {
+                        "lat": 42.5596779697085,
+                        "lng": -70.89345948029151
+                    }
+                }
+            },
+            "place_id": "ChIJmStMKrsW44kRctJbog0PfXI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7c18880b59f797436bee51186bc6ec44",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:26.822842",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2750553a81866c8f7b93a5f52eda5305.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "29",
+                    "short_name": "29",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Peabody Street",
+                    "short_name": "Peabody St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "29 Peabody St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5185699,
+                        "lng": -70.8906004
+                    },
+                    "southwest": {
+                        "lat": 42.5185565,
+                        "lng": -70.89060529999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5185699,
+                    "lng": -70.8906004
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.51991218029149,
+                        "lng": -70.88925386970848
+                    },
+                    "southwest": {
+                        "lat": 42.5172142197085,
+                        "lng": -70.89195183029149
+                    }
+                }
+            },
+            "place_id": "EiMyOSBQZWFib2R5IFN0LCBTYWxlbSwgTUEgMDE5NzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2750553a81866c8f7b93a5f52eda5305",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:16.076213",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

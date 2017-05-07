@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_003bf7f575ee0d1e666d749c4548e438.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "585",
+                    "short_name": "585",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Columbus Avenue",
+                    "short_name": "Columbus Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "585 Columbus Ave, Boston, MA 02118, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3406267,
+                        "lng": -71.0819659
+                    },
+                    "southwest": {
+                        "lat": 42.3403894,
+                        "lng": -71.08227819999999
+                    }
+                },
+                "location": {
+                    "lat": 42.340508,
+                    "lng": -71.08212209999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3418570302915,
+                        "lng": -71.0807730697085
+                    },
+                    "southwest": {
+                        "lat": 42.33915906970851,
+                        "lng": -71.0834710302915
+                    }
+                }
+            },
+            "place_id": "ChIJk-bH4xZ644kR_fmfobQCTg0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "003bf7f575ee0d1e666d749c4548e438",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:11.021656",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

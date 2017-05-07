@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c6389eaf81cfe26e64d50dbf01b0bf8b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bass Street",
+                    "short_name": "Bass St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2811",
+                    "short_name": "2811",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "33 Bass St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2683183,
+                        "lng": -71.0144455
+                    },
+                    "southwest": {
+                        "lat": 42.2682091,
+                        "lng": -71.0146503
+                    }
+                },
+                "location": {
+                    "lat": 42.2682637,
+                    "lng": -71.0145479
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2696126802915,
+                        "lng": -71.0131989197085
+                    },
+                    "southwest": {
+                        "lat": 42.2669147197085,
+                        "lng": -71.0158968802915
+                    }
+                }
+            },
+            "place_id": "ChIJxwJp-6d844kRoiIMIvWaxR4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c6389eaf81cfe26e64d50dbf01b0bf8b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:02.358244",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

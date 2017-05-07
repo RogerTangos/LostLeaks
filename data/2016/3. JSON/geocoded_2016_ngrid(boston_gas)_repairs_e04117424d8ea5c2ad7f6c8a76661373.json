@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e04117424d8ea5c2ad7f6c8a76661373.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sargent Street",
+                    "short_name": "Sargent St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2805",
+                    "short_name": "2805",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Sargent St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.372196,
+                        "lng": -70.99185659999999
+                    },
+                    "southwest": {
+                        "lat": 42.3721869,
+                        "lng": -70.9918708
+                    }
+                },
+                "location": {
+                    "lat": 42.372196,
+                    "lng": -70.9918708
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3735404302915,
+                        "lng": -70.99051471970849
+                    },
+                    "southwest": {
+                        "lat": 42.3708424697085,
+                        "lng": -70.9932126802915
+                    }
+                }
+            },
+            "place_id": "EiY1NSBTYXJnZW50IFN0LCBXaW50aHJvcCwgTUEgMDIxNTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e04117424d8ea5c2ad7f6c8a76661373",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:53.064907",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

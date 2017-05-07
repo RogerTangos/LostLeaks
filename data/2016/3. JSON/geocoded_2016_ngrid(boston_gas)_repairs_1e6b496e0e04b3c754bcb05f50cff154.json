@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1e6b496e0e04b3c754bcb05f50cff154.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "164",
+                    "short_name": "164",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill Road",
+                    "short_name": "Chestnut Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1314",
+                    "short_name": "1314",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "164 Chestnut Hill Rd, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3303671,
+                    "lng": -71.1601548
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3317160802915,
+                        "lng": -71.1588058197085
+                    },
+                    "southwest": {
+                        "lat": 42.3290181197085,
+                        "lng": -71.16150378029151
+                    }
+                }
+            },
+            "place_id": "ChIJ5ZiwN_Z444kRWIcxbUdK0P8",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1e6b496e0e04b3c754bcb05f50cff154",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:05.139828",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

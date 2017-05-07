@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6f17434cbaf19748937169d8c0500c13.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chaucer Street",
+                    "short_name": "Chaucer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1528",
+                    "short_name": "1528",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Chaucer St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3831465,
+                        "lng": -71.0206115
+                    },
+                    "southwest": {
+                        "lat": 42.3829813,
+                        "lng": -71.0207848
+                    }
+                },
+                "location": {
+                    "lat": 42.3830639,
+                    "lng": -71.0206982
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38441288029149,
+                        "lng": -71.01934916970849
+                    },
+                    "southwest": {
+                        "lat": 42.3817149197085,
+                        "lng": -71.0220471302915
+                    }
+                }
+            },
+            "place_id": "ChIJt1GapDRw44kRmlC1LZaP5fI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6f17434cbaf19748937169d8c0500c13",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:26.628773",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

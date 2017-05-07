@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_53bd0f5c24033e15bf8177f7b48ba1e0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "627",
+                    "short_name": "627",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4139",
+                    "short_name": "4139",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "627 Pleasant St, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2588371,
+                        "lng": -71.0509486
+                    },
+                    "southwest": {
+                        "lat": 42.2587114,
+                        "lng": -71.0511199
+                    }
+                },
+                "location": {
+                    "lat": 42.2587743,
+                    "lng": -71.0510342
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2601232302915,
+                        "lng": -71.04968526970849
+                    },
+                    "southwest": {
+                        "lat": 42.2574252697085,
+                        "lng": -71.0523832302915
+                    }
+                }
+            },
+            "place_id": "ChIJI3AayWF844kRwe29Dl4S1tc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "53bd0f5c24033e15bf8177f7b48ba1e0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:45.487956",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

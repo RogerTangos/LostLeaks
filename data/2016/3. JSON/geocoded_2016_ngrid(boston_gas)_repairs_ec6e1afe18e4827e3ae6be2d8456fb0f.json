@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ec6e1afe18e4827e3ae6be2d8456fb0f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Edge Hill Street",
+                    "short_name": "Edge Hill St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1216",
+                    "short_name": "1216",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Edge Hill St, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3243727,
+                        "lng": -71.1059341
+                    },
+                    "southwest": {
+                        "lat": 42.32420219999999,
+                        "lng": -71.1061017
+                    }
+                },
+                "location": {
+                    "lat": 42.3242874,
+                    "lng": -71.1060179
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3256364302915,
+                        "lng": -71.10466891970849
+                    },
+                    "southwest": {
+                        "lat": 42.3229384697085,
+                        "lng": -71.10736688029151
+                    }
+                }
+            },
+            "place_id": "ChIJ5891V4J544kR_NK-IoNo3jk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ec6e1afe18e4827e3ae6be2d8456fb0f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:19.620832",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

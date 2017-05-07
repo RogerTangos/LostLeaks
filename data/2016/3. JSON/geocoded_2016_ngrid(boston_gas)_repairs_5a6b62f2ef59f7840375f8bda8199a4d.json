@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5a6b62f2ef59f7840375f8bda8199a4d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Simmons Road",
+                    "short_name": "Simmons Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nahant",
+                    "short_name": "Nahant",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01908",
+                    "short_name": "01908",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1025",
+                    "short_name": "1025",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Simmons Rd, Nahant, MA 01908, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4360145,
+                        "lng": -70.93365
+                    },
+                    "southwest": {
+                        "lat": 42.4358897,
+                        "lng": -70.9338327
+                    }
+                },
+                "location": {
+                    "lat": 42.4359521,
+                    "lng": -70.9337414
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4373010802915,
+                        "lng": -70.93239236970848
+                    },
+                    "southwest": {
+                        "lat": 42.4346031197085,
+                        "lng": -70.9350903302915
+                    }
+                }
+            },
+            "place_id": "ChIJleF6KF1s44kRaJNEkJwjNfs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5a6b62f2ef59f7840375f8bda8199a4d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:27.650025",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

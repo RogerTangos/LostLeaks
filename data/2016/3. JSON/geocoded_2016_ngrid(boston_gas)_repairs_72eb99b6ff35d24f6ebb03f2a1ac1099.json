@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72eb99b6ff35d24f6ebb03f2a1ac1099.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "141",
+                    "short_name": "141",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bell Rock Street",
+                    "short_name": "Bell Rock St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1109",
+                    "short_name": "1109",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "141 Bell Rock St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.41399089999999,
+                        "lng": -71.0681321
+                    },
+                    "southwest": {
+                        "lat": 42.4139109,
+                        "lng": -71.0682932
+                    }
+                },
+                "location": {
+                    "lat": 42.4139509,
+                    "lng": -71.0682126
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4152998802915,
+                        "lng": -71.0668636697085
+                    },
+                    "southwest": {
+                        "lat": 42.4126019197085,
+                        "lng": -71.0695616302915
+                    }
+                }
+            },
+            "place_id": "ChIJWydlhWtx44kRZfrTX1k_rR4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "72eb99b6ff35d24f6ebb03f2a1ac1099",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:07.182692",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1a7666a02efa0b56fe9c68b34cac8138.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Loring Avenue",
+                    "short_name": "Loring Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boxborough",
+                    "short_name": "Boxborough",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01719",
+                    "short_name": "01719",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Loring Avenue & Joyce Lane, Boxborough, MA 01719, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.481087,
+                    "lng": -71.5107171
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.48243598029149,
+                        "lng": -71.5093681197085
+                    },
+                    "southwest": {
+                        "lat": 42.4797380197085,
+                        "lng": -71.5120660802915
+                    }
+                }
+            },
+            "place_id": "EjVMb3JpbmcgQXZlbnVlICYgSm95Y2UgTGFuZSwgQm94Ym9yb3VnaCwgTUEgMDE3MTksIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "1a7666a02efa0b56fe9c68b34cac8138",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:33.328259",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_5a38af3cb5e157c615d33cfd1a18088c.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Street",
+                    "short_name": "Pine St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "41 Pine St, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1418972,
+                        "lng": -71.5211195
+                    },
+                    "southwest": {
+                        "lat": 42.1418838,
+                        "lng": -71.5211247
+                    }
+                },
+                "location": {
+                    "lat": 42.1418972,
+                    "lng": -71.5211195
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.14323948029149,
+                        "lng": -71.5197731197085
+                    },
+                    "southwest": {
+                        "lat": 42.14054151970849,
+                        "lng": -71.52247108029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiI0MSBQaW5lIFN0LCBNaWxmb3JkLCBNQSAwMTc1NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5a38af3cb5e157c615d33cfd1a18088c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:11.158632",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_863eea56b4cfe74a436eb310390f1a8a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "62",
+                    "short_name": "62",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Buckminster Road",
+                    "short_name": "Buckminster Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fisher Hill",
+                    "short_name": "Fisher Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "62 Buckminster Rd, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3301701,
+                        "lng": -71.1336756
+                    },
+                    "southwest": {
+                        "lat": 42.3301573,
+                        "lng": -71.1336828
+                    }
+                },
+                "location": {
+                    "lat": 42.3301573,
+                    "lng": -71.1336828
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3315126802915,
+                        "lng": -71.13233021970849
+                    },
+                    "southwest": {
+                        "lat": 42.3288147197085,
+                        "lng": -71.13502818029151
+                    }
+                }
+            },
+            "place_id": "Eis2MiBCdWNrbWluc3RlciBSZCwgQnJvb2tsaW5lLCBNQSAwMjQ0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "863eea56b4cfe74a436eb310390f1a8a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:39.775472",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

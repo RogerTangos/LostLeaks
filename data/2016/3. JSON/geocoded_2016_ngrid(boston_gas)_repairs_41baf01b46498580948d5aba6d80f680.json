@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_41baf01b46498580948d5aba6d80f680.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "109",
+                    "short_name": "109",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Verchild Street",
+                    "short_name": "Verchild St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8909",
+                    "short_name": "8909",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "109 Verchild St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2339105,
+                        "lng": -71.00548909999999
+                    },
+                    "southwest": {
+                        "lat": 42.2338077,
+                        "lng": -71.0056237
+                    }
+                },
+                "location": {
+                    "lat": 42.2338591,
+                    "lng": -71.0055564
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.23520808029149,
+                        "lng": -71.0042074197085
+                    },
+                    "southwest": {
+                        "lat": 42.2325101197085,
+                        "lng": -71.0069053802915
+                    }
+                }
+            },
+            "place_id": "ChIJlfRLf9R844kREIZ9g9PW8YQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "41baf01b46498580948d5aba6d80f680",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:39.562086",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

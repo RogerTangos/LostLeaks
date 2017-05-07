@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e3786226c4fedbee1c7df7a66ebcef9f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Baker Avenue",
+                    "short_name": "Baker Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3503",
+                    "short_name": "3503",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Baker Ave, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5543681,
+                        "lng": -70.87429840000001
+                    },
+                    "southwest": {
+                        "lat": 42.5542355,
+                        "lng": -70.8744762
+                    }
+                },
+                "location": {
+                    "lat": 42.5543018,
+                    "lng": -70.8743873
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.55565078029149,
+                        "lng": -70.8730383197085
+                    },
+                    "southwest": {
+                        "lat": 42.5529528197085,
+                        "lng": -70.8757362802915
+                    }
+                }
+            },
+            "place_id": "ChIJTdebCpsW44kRbLpYcW7Gmps",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e3786226c4fedbee1c7df7a66ebcef9f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:25.054584",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

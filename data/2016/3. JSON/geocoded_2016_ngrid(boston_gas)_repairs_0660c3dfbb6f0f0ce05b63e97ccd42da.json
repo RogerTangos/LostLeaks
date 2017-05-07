@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0660c3dfbb6f0f0ce05b63e97ccd42da.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "158",
+                    "short_name": "158",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dartmouth Street",
+                    "short_name": "Dartmouth St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1256",
+                    "short_name": "1256",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "158 Dartmouth St, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.49948149999999,
+                        "lng": -70.9860052
+                    },
+                    "southwest": {
+                        "lat": 42.4993478,
+                        "lng": -70.98620079999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4994147,
+                    "lng": -70.986103
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5007636302915,
+                        "lng": -70.98475401970849
+                    },
+                    "southwest": {
+                        "lat": 42.4980656697085,
+                        "lng": -70.9874519802915
+                    }
+                }
+            },
+            "place_id": "ChIJBcVJ5rAS44kRwqVOBLuF8y4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0660c3dfbb6f0f0ce05b63e97ccd42da",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:45.250515",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

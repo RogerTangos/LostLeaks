@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3867c4d56374571cb292c0958ce01c44.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Clark's Road",
+                    "short_name": "Clark's Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury",
+                    "short_name": "Amesbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01913",
+                    "short_name": "01913",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Clark's Rd, Amesbury, MA 01913, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8451654,
+                        "lng": -70.9059127
+                    },
+                    "southwest": {
+                        "lat": 42.8448792,
+                        "lng": -70.90667719999999
+                    }
+                },
+                "location": {
+                    "lat": 42.8450223,
+                    "lng": -70.906295
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8463712802915,
+                        "lng": -70.90494596970849
+                    },
+                    "southwest": {
+                        "lat": 42.8436733197085,
+                        "lng": -70.9076439302915
+                    }
+                }
+            },
+            "place_id": "ChIJO8kSbVjh4okRpbfHnR-BbyE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3867c4d56374571cb292c0958ce01c44",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:18.240064",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

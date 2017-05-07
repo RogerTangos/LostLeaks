@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8accc484f271b972274db033a747dfc5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cleveland Road",
+                    "short_name": "Cleveland Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4414",
+                    "short_name": "4414",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Cleveland Rd, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4947044,
+                        "lng": -70.892836
+                    },
+                    "southwest": {
+                        "lat": 42.4945504,
+                        "lng": -70.8930404
+                    }
+                },
+                "location": {
+                    "lat": 42.4946274,
+                    "lng": -70.8929382
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.49597638029149,
+                        "lng": -70.8915892197085
+                    },
+                    "southwest": {
+                        "lat": 42.4932784197085,
+                        "lng": -70.89428718029151
+                    }
+                }
+            },
+            "place_id": "ChIJh8Y4fb0U44kRapqkcZ9h9WQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8accc484f271b972274db033a747dfc5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:27.610064",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

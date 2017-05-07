@@ -1,0 +1,69 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ec17452d8820a7c299aeca366d099a53.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "establishment",
+                        "point_of_interest",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Massachusetts, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.88679,
+                        "lng": -69.85886099999999
+                    },
+                    "southwest": {
+                        "lat": 41.18705300000001,
+                        "lng": -73.5081419
+                    }
+                },
+                "location": {
+                    "lat": 42.4072107,
+                    "lng": -71.3824374
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.886691,
+                        "lng": -69.9287422
+                    },
+                    "southwest": {
+                        "lat": 41.2390737,
+                        "lng": -73.5081419
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+            "types": [
+                "administrative_area_level_1",
+                "establishment",
+                "point_of_interest",
+                "political"
+            ]
+        }
+    ],
+    "row_id": "ec17452d8820a7c299aeca366d099a53",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:02.305416",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

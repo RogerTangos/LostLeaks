@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_f48bfb357f09ed93264968642812e1cd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Shirley Street",
+                    "short_name": "Shirley St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburn",
+                    "short_name": "Auburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01501",
+                    "short_name": "01501",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1712",
+                    "short_name": "1712",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Shirley St, Auburn, MA 01501, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2224322,
+                        "lng": -71.8371719
+                    },
+                    "southwest": {
+                        "lat": 42.22242929999999,
+                        "lng": -71.8371903
+                    }
+                },
+                "location": {
+                    "lat": 42.22242929999999,
+                    "lng": -71.8371903
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.22377973029149,
+                        "lng": -71.8358321197085
+                    },
+                    "southwest": {
+                        "lat": 42.2210817697085,
+                        "lng": -71.8385300802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQxMSBTaGlybGV5IFN0LCBBdWJ1cm4sIE1BIDAxNTAxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f48bfb357f09ed93264968642812e1cd",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:18:42.977472",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

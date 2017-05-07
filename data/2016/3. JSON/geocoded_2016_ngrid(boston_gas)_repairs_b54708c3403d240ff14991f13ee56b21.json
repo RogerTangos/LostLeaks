@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b54708c3403d240ff14991f13ee56b21.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gould Street",
+                    "short_name": "Gould St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3824",
+                    "short_name": "3824",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Gould St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4805251,
+                        "lng": -71.0925808
+                    },
+                    "southwest": {
+                        "lat": 42.4804384,
+                        "lng": -71.0926901
+                    }
+                },
+                "location": {
+                    "lat": 42.4804817,
+                    "lng": -71.0926355
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4818307302915,
+                        "lng": -71.0912864697085
+                    },
+                    "southwest": {
+                        "lat": 42.4791327697085,
+                        "lng": -71.09398443029151
+                    }
+                }
+            },
+            "place_id": "ChIJwYVGvnxz44kRNeCOyOdDWnA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b54708c3403d240ff14991f13ee56b21",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:44.587193",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

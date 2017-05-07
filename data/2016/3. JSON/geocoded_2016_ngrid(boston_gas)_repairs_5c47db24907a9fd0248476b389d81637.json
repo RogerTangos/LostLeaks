@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5c47db24907a9fd0248476b389d81637.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "339",
+                    "short_name": "339",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Salem Street",
+                    "short_name": "Salem St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "339 Salem St, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4432701,
+                        "lng": -71.0132174
+                    },
+                    "southwest": {
+                        "lat": 42.4431674,
+                        "lng": -71.01340239999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4432188,
+                    "lng": -71.0133099
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4445677302915,
+                        "lng": -71.01196091970849
+                    },
+                    "southwest": {
+                        "lat": 42.4418697697085,
+                        "lng": -71.0146588802915
+                    }
+                }
+            },
+            "place_id": "ChIJ142WEnJy44kRCROG90nMqAI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5c47db24907a9fd0248476b389d81637",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:10.815936",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

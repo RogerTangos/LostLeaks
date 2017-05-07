@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_90eaea520590ca38c65915c9e3d1745c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5303",
+                    "short_name": "5303",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Washington St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.25103379999999,
+                        "lng": -71.0010326
+                    },
+                    "southwest": {
+                        "lat": 42.2510207,
+                        "lng": -71.0010392
+                    }
+                },
+                "location": {
+                    "lat": 42.2510207,
+                    "lng": -71.0010392
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2523762302915,
+                        "lng": -70.9996869197085
+                    },
+                    "southwest": {
+                        "lat": 42.2496782697085,
+                        "lng": -71.0023848802915
+                    }
+                }
+            },
+            "place_id": "Eic1NSBXYXNoaW5ndG9uIFN0LCBRdWluY3ksIE1BIDAyMTY5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "90eaea520590ca38c65915c9e3d1745c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:53.566117",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

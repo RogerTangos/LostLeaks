@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6274594d61487de0462ce3280f230f2e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "377",
+                    "short_name": "377",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2360",
+                    "short_name": "2360",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "377 Main St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3703358,
+                        "lng": -71.1931403
+                    },
+                    "southwest": {
+                        "lat": 42.3701564,
+                        "lng": -71.1933707
+                    }
+                },
+                "location": {
+                    "lat": 42.3702461,
+                    "lng": -71.19325549999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3715950802915,
+                        "lng": -71.1919065197085
+                    },
+                    "southwest": {
+                        "lat": 42.3688971197085,
+                        "lng": -71.1946044802915
+                    }
+                }
+            },
+            "place_id": "ChIJX2PM8KmC44kRvRg3G8w_q_0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6274594d61487de0462ce3280f230f2e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:42.107243",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

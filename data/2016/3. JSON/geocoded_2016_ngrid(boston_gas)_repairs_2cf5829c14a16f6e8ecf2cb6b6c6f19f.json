@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2cf5829c14a16f6e8ecf2cb6b6c6f19f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "109",
+                    "short_name": "109",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Spring Street",
+                    "short_name": "Spring St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "109 Spring St, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.30243480000001,
+                        "lng": -70.9058582
+                    },
+                    "southwest": {
+                        "lat": 42.302421,
+                        "lng": -70.9058604
+                    }
+                },
+                "location": {
+                    "lat": 42.302421,
+                    "lng": -70.9058604
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3037768802915,
+                        "lng": -70.90451031970849
+                    },
+                    "southwest": {
+                        "lat": 42.3010789197085,
+                        "lng": -70.9072082802915
+                    }
+                }
+            },
+            "place_id": "EiIxMDkgU3ByaW5nIFN0LCBIdWxsLCBNQSAwMjA0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2cf5829c14a16f6e8ecf2cb6b6c6f19f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:39.479557",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

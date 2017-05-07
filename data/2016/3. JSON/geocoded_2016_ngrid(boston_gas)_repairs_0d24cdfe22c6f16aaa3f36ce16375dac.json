@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0d24cdfe22c6f16aaa3f36ce16375dac.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "King Hill Road",
+                    "short_name": "King Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6615",
+                    "short_name": "6615",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 King Hill Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1989504,
+                        "lng": -71.0264919
+                    },
+                    "southwest": {
+                        "lat": 42.1987323,
+                        "lng": -71.0266312
+                    }
+                },
+                "location": {
+                    "lat": 42.1988413,
+                    "lng": -71.0265616
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2001903302915,
+                        "lng": -71.0252125697085
+                    },
+                    "southwest": {
+                        "lat": 42.1974923697085,
+                        "lng": -71.0279105302915
+                    }
+                }
+            },
+            "place_id": "ChIJA9h7r2B944kRWCKde2pMJJ4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0d24cdfe22c6f16aaa3f36ce16375dac",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:22.692309",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

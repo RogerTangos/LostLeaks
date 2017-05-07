@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a0054718e1d7a3dece5ff3e6e66141dc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "100",
+                    "short_name": "100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "William T Morrissey Boulevard",
+                    "short_name": "William T Morrissey Blvd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3300",
+                    "short_name": "3300",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "100 William T Morrissey Blvd, Boston, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.31582239999999,
+                        "lng": -71.04798699999999
+                    },
+                    "southwest": {
+                        "lat": 42.3158163,
+                        "lng": -71.0480039
+                    }
+                },
+                "location": {
+                    "lat": 42.31582239999999,
+                    "lng": -71.04798699999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3171683302915,
+                        "lng": -71.04664646970848
+                    },
+                    "southwest": {
+                        "lat": 42.3144703697085,
+                        "lng": -71.04934443029148
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjMxMDAgV2lsbGlhbSBUIE1vcnJpc3NleSBCbHZkLCBCb3N0b24sIE1BIDAyMTI1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a0054718e1d7a3dece5ff3e6e66141dc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:19.314795",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

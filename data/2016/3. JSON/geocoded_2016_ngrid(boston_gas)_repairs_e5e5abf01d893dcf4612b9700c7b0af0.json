@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e5e5abf01d893dcf4612b9700c7b0af0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sutcliffe Road",
+                    "short_name": "Sutcliffe Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1712",
+                    "short_name": "1712",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Sutcliffe Rd, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.49536579999999,
+                        "lng": -70.97001039999999
+                    },
+                    "southwest": {
+                        "lat": 42.4952589,
+                        "lng": -70.9701341
+                    }
+                },
+                "location": {
+                    "lat": 42.4953124,
+                    "lng": -70.97007219999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4966613302915,
+                        "lng": -70.96872326970848
+                    },
+                    "southwest": {
+                        "lat": 42.4939633697085,
+                        "lng": -70.9714212302915
+                    }
+                }
+            },
+            "place_id": "ChIJ4U9u8c4S44kRuJQJih0k-hQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e5e5abf01d893dcf4612b9700c7b0af0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:42.399272",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

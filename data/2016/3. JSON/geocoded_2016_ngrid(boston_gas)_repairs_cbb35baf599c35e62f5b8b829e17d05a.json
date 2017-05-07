@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cbb35baf599c35e62f5b8b829e17d05a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "North Franklin Street",
+                    "short_name": "N Franklin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "N Franklin St & Lovers Leap Ave, Lynn, MA 01904, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4717707,
+                    "lng": -70.962136
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4731196802915,
+                        "lng": -70.96078701970849
+                    },
+                    "southwest": {
+                        "lat": 42.4704217197085,
+                        "lng": -70.96348498029151
+                    }
+                }
+            },
+            "place_id": "EjROIEZyYW5rbGluIFN0ICYgTG92ZXJzIExlYXAgQXZlLCBMeW5uLCBNQSAwMTkwNCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "cbb35baf599c35e62f5b8b829e17d05a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:35.756705",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

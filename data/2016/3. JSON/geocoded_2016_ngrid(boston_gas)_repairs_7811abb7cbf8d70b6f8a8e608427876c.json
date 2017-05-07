@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7811abb7cbf8d70b6f8a8e608427876c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Palfrey Road",
+                    "short_name": "Palfrey Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gloucester",
+                    "short_name": "Gloucester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01930",
+                    "short_name": "01930",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1920",
+                    "short_name": "1920",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Palfrey Rd, Gloucester, MA 01930, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.62451009999999,
+                        "lng": -70.6227215
+                    },
+                    "southwest": {
+                        "lat": 42.6244138,
+                        "lng": -70.62283
+                    }
+                },
+                "location": {
+                    "lat": 42.62446200000001,
+                    "lng": -70.6227758
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.62581093029149,
+                        "lng": -70.62142676970849
+                    },
+                    "southwest": {
+                        "lat": 42.62311296970849,
+                        "lng": -70.6241247302915
+                    }
+                }
+            },
+            "place_id": "ChIJmRL3cYcl44kRjfJpjCKEF7Y",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7811abb7cbf8d70b6f8a8e608427876c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:20.775594",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

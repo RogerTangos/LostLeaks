@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_856cc83d4da885250b268c92e34a2c94.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "498",
+                    "short_name": "498",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2837",
+                    "short_name": "2837",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "498 Main St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.47414149999999,
+                        "lng": -71.1002664
+                    },
+                    "southwest": {
+                        "lat": 42.4739736,
+                        "lng": -71.1005192
+                    }
+                },
+                "location": {
+                    "lat": 42.4740575,
+                    "lng": -71.1003928
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47540653029149,
+                        "lng": -71.09904381970848
+                    },
+                    "southwest": {
+                        "lat": 42.4727085697085,
+                        "lng": -71.10174178029149
+                    }
+                }
+            },
+            "place_id": "ChIJDe9tiIB044kRas5xgQjTDXA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "856cc83d4da885250b268c92e34a2c94",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:14.564495",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

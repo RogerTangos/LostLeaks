@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e0eaa05e47f120758552fcdb602aac84.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hanover Street",
+                    "short_name": "Hanover St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4333",
+                    "short_name": "4333",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Hanover St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4649264,
+                        "lng": -70.9560741
+                    },
+                    "southwest": {
+                        "lat": 42.4648396,
+                        "lng": -70.9562662
+                    }
+                },
+                "location": {
+                    "lat": 42.464883,
+                    "lng": -70.9561701
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4662319802915,
+                        "lng": -70.9548211697085
+                    },
+                    "southwest": {
+                        "lat": 42.4635340197085,
+                        "lng": -70.95751913029152
+                    }
+                }
+            },
+            "place_id": "ChIJCw4pNh5t44kRUGnETJ1YFI8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e0eaa05e47f120758552fcdb602aac84",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:36.125005",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fcfef20447ea7c32ec36eaf228eb94b0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Breck Avenue",
+                    "short_name": "Breck Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oak Square",
+                    "short_name": "Oak Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02135",
+                    "short_name": "02135",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Breck Ave & N Crescent Circuit, Boston, MA 02135, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3494537,
+                    "lng": -71.1685029
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35080268029149,
+                        "lng": -71.1671539197085
+                    },
+                    "southwest": {
+                        "lat": 42.34810471970849,
+                        "lng": -71.1698518802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjVCcmVjayBBdmUgJiBOIENyZXNjZW50IENpcmN1aXQsIEJvc3RvbiwgTUEgMDIxMzUsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "fcfef20447ea7c32ec36eaf228eb94b0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:17.170030",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

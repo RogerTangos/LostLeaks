@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c6854cbe6d5ce5823eec751f0dfb538f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "106",
+                    "short_name": "106",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Monatiquot Avenue",
+                    "short_name": "Monatiquot Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4641",
+                    "short_name": "4641",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "106 Monatiquot Ave, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2155215,
+                        "lng": -71.00910329999999
+                    },
+                    "southwest": {
+                        "lat": 42.2153863,
+                        "lng": -71.00926749999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2154539,
+                    "lng": -71.00918539999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2168028802915,
+                        "lng": -71.00783641970848
+                    },
+                    "southwest": {
+                        "lat": 42.2141049197085,
+                        "lng": -71.01053438029149
+                    }
+                }
+            },
+            "place_id": "ChIJpzg3szZ944kRSje8TmEKPZc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c6854cbe6d5ce5823eec751f0dfb538f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:33.543619",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

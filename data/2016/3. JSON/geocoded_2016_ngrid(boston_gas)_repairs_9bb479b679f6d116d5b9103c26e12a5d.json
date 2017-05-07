@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9bb479b679f6d116d5b9103c26e12a5d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Appleton Street",
+                    "short_name": "Appleton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02116",
+                    "short_name": "02116",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Appleton St, Boston, MA 02116, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3458794,
+                    "lng": -71.071652
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3472283802915,
+                        "lng": -71.07030301970849
+                    },
+                    "southwest": {
+                        "lat": 42.3445304197085,
+                        "lng": -71.07300098029151
+                    }
+                }
+            },
+            "place_id": "ChIJzQkvkXJ644kRLyXzB12nf0s",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9bb479b679f6d116d5b9103c26e12a5d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:32.097583",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

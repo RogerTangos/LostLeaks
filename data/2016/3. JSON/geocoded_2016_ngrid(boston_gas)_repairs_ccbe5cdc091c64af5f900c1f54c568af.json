@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ccbe5cdc091c64af5f900c1f54c568af.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pond Street",
+                    "short_name": "Pond St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2612",
+                    "short_name": "2612",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Pond St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4739463,
+                        "lng": -71.0965776
+                    },
+                    "southwest": {
+                        "lat": 42.4737782,
+                        "lng": -71.09688779999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4738623,
+                    "lng": -71.09673269999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4752112302915,
+                        "lng": -71.0953837197085
+                    },
+                    "southwest": {
+                        "lat": 42.47251326970851,
+                        "lng": -71.0980816802915
+                    }
+                }
+            },
+            "place_id": "ChIJR32q539z44kRElUHagyUkv4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ccbe5cdc091c64af5f900c1f54c568af",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:39.792586",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

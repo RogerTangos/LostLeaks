@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ba4c22c6f0f4def18e5ebc880e1cf4f7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Swains Pond Avenue",
+                    "short_name": "Swains Pond Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Swains Pond Ave & Worth St, Melrose, MA 02176, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4432489,
+                    "lng": -71.0483777
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4445978802915,
+                        "lng": -71.04702871970849
+                    },
+                    "southwest": {
+                        "lat": 42.4418999197085,
+                        "lng": -71.0497266802915
+                    }
+                }
+            },
+            "place_id": "EjJTd2FpbnMgUG9uZCBBdmUgJiBXb3J0aCBTdCwgTWVscm9zZSwgTUEgMDIxNzYsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "ba4c22c6f0f4def18e5ebc880e1cf4f7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:53.483126",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

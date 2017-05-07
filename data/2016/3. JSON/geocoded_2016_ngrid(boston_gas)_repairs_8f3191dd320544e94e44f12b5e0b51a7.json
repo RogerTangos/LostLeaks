@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8f3191dd320544e94e44f12b5e0b51a7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Elmwood Avenue",
+                    "short_name": "Elmwood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Elmwood Ave & Safford St, Quincy, MA 02170, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2657028,
+                    "lng": -71.0243804
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2670517802915,
+                        "lng": -71.0230314197085
+                    },
+                    "southwest": {
+                        "lat": 42.2643538197085,
+                        "lng": -71.02572938029151
+                    }
+                }
+            },
+            "place_id": "Ei9FbG13b29kIEF2ZSAmIFNhZmZvcmQgU3QsIFF1aW5jeSwgTUEgMDIxNzAsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "8f3191dd320544e94e44f12b5e0b51a7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:26.460898",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

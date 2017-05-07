@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6c865b10a450c708270a4b0408057e45.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "255",
+                    "short_name": "255",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Street",
+                    "short_name": "Chestnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "255 Chestnut St, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3935593,
+                        "lng": -71.0347125
+                    },
+                    "southwest": {
+                        "lat": 42.3935482,
+                        "lng": -71.0347238
+                    }
+                },
+                "location": {
+                    "lat": 42.3935482,
+                    "lng": -71.0347125
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3949027302915,
+                        "lng": -71.0333691697085
+                    },
+                    "southwest": {
+                        "lat": 42.3922047697085,
+                        "lng": -71.0360671302915
+                    }
+                }
+            },
+            "place_id": "EicyNTUgQ2hlc3RudXQgU3QsIENoZWxzZWEsIE1BIDAyMTUwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6c865b10a450c708270a4b0408057e45",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:37.657796",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

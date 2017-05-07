@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1b202617a484817b567294427655fdee.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "278",
+                    "short_name": "278",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Concord Road",
+                    "short_name": "Concord Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2055",
+                    "short_name": "2055",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "278 Concord Rd, Bedford, MA 01730, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4829136,
+                        "lng": -71.3035249
+                    },
+                    "southwest": {
+                        "lat": 42.482901,
+                        "lng": -71.3035326
+                    }
+                },
+                "location": {
+                    "lat": 42.482901,
+                    "lng": -71.3035249
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4842562802915,
+                        "lng": -71.3021797697085
+                    },
+                    "southwest": {
+                        "lat": 42.4815583197085,
+                        "lng": -71.30487773029151
+                    }
+                }
+            },
+            "place_id": "EiYyNzggQ29uY29yZCBSZCwgQmVkZm9yZCwgTUEgMDE3MzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1b202617a484817b567294427655fdee",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:59.425050",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

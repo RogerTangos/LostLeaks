@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_84fd2f144fd1c0bf7f7dcd4b68571d13.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "530",
+                    "short_name": "530",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mystic Avenue",
+                    "short_name": "Mystic Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "530 Mystic Ave, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3975499,
+                        "lng": -71.09163199999999
+                    },
+                    "southwest": {
+                        "lat": 42.3971697,
+                        "lng": -71.09221880000001
+                    }
+                },
+                "location": {
+                    "lat": 42.3973598,
+                    "lng": -71.0919254
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3987087802915,
+                        "lng": -71.0905764197085
+                    },
+                    "southwest": {
+                        "lat": 42.3960108197085,
+                        "lng": -71.0932743802915
+                    }
+                }
+            },
+            "place_id": "ChIJiXJWIipx44kRntS5cyciiHs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "84fd2f144fd1c0bf7f7dcd4b68571d13",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:45.521447",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

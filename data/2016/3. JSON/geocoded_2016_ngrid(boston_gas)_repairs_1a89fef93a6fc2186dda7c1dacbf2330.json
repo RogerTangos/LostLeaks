@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1a89fef93a6fc2186dda7c1dacbf2330.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "76",
+                    "short_name": "76",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Thurston Street",
+                    "short_name": "Thurston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winter Hill",
+                    "short_name": "Winter Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "76 Thurston St, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.39252630000001,
+                        "lng": -71.09703139999999
+                    },
+                    "southwest": {
+                        "lat": 42.3925201,
+                        "lng": -71.0970481
+                    }
+                },
+                "location": {
+                    "lat": 42.39252630000001,
+                    "lng": -71.0970481
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3938721802915,
+                        "lng": -71.09569076970848
+                    },
+                    "southwest": {
+                        "lat": 42.39117421970851,
+                        "lng": -71.09838873029149
+                    }
+                }
+            },
+            "place_id": "Eik3NiBUaHVyc3RvbiBTdCwgU29tZXJ2aWxsZSwgTUEgMDIxNDUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1a89fef93a6fc2186dda7c1dacbf2330",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:46.582656",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

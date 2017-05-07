@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_168f6854a1e8e01c1ad53c45145a5d7b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Ridge Road",
+                    "short_name": "Pine Ridge Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3735",
+                    "short_name": "3735",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Pine Ridge Rd, Reading, MA 01867, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5113913,
+                        "lng": -71.1159442
+                    },
+                    "southwest": {
+                        "lat": 42.5112823,
+                        "lng": -71.1160522
+                    }
+                },
+                "location": {
+                    "lat": 42.5113368,
+                    "lng": -71.11599819999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5126857802915,
+                        "lng": -71.1146492197085
+                    },
+                    "southwest": {
+                        "lat": 42.5099878197085,
+                        "lng": -71.1173471802915
+                    }
+                }
+            },
+            "place_id": "ChIJc0iZZLR044kRKiBz8f4EYLc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "168f6854a1e8e01c1ad53c45145a5d7b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:58.682785",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

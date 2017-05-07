@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_467dc3a9e90af0f42ee16cda3fd8ce15.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "82",
+                    "short_name": "82",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cedar Street",
+                    "short_name": "Cedar St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2226",
+                    "short_name": "2226",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "82 Cedar St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4175347,
+                        "lng": -71.6775735
+                    },
+                    "southwest": {
+                        "lat": 42.4175306,
+                        "lng": -71.6775914
+                    }
+                },
+                "location": {
+                    "lat": 42.4175347,
+                    "lng": -71.6775914
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4188816302915,
+                        "lng": -71.67623346970849
+                    },
+                    "southwest": {
+                        "lat": 42.4161836697085,
+                        "lng": -71.6789314302915
+                    }
+                }
+            },
+            "place_id": "EiM4MiBDZWRhciBTdCwgQ2xpbnRvbiwgTUEgMDE1MTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "467dc3a9e90af0f42ee16cda3fd8ce15",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:14.197750",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

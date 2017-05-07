@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c1ea35eb56d454354d09c40d83875e22.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mascot Street",
+                    "short_name": "Mascot St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Mascot St, Boston, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2857285,
+                        "lng": -71.084591
+                    },
+                    "southwest": {
+                        "lat": 42.2857276,
+                        "lng": -71.0846097
+                    }
+                },
+                "location": {
+                    "lat": 42.2857285,
+                    "lng": -71.084591
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2870770302915,
+                        "lng": -71.08325136970849
+                    },
+                    "southwest": {
+                        "lat": 42.2843790697085,
+                        "lng": -71.0859493302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiMyNCBNYXNjb3QgU3QsIEJvc3RvbiwgTUEgMDIxMjQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c1ea35eb56d454354d09c40d83875e22",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:14.203102",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

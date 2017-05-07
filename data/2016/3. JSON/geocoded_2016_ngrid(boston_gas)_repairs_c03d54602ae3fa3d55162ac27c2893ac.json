@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c03d54602ae3fa3d55162ac27c2893ac.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "72",
+                    "short_name": "72",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Robinwood Avenue",
+                    "short_name": "Robinwood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2100",
+                    "short_name": "2100",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "72 Robinwood Ave, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.31599440000001,
+                    "lng": -71.1105657
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31734338029151,
+                        "lng": -71.10921671970848
+                    },
+                    "southwest": {
+                        "lat": 42.31464541970851,
+                        "lng": -71.1119146802915
+                    }
+                }
+            },
+            "place_id": "ChIJgxZEYHB544kRmHqAxvHa2uI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c03d54602ae3fa3d55162ac27c2893ac",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:33.543238",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_07ba2e2f17ecd8493bd8adcfbe99c9b7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "105",
+                    "short_name": "105",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cottage Street",
+                    "short_name": "Cottage St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3331",
+                    "short_name": "3331",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "105 Cottage St, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3903927,
+                        "lng": -71.0280504
+                    },
+                    "southwest": {
+                        "lat": 42.3902469,
+                        "lng": -71.0282746
+                    }
+                },
+                "location": {
+                    "lat": 42.3903198,
+                    "lng": -71.0281625
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3916687802915,
+                        "lng": -71.0268135197085
+                    },
+                    "southwest": {
+                        "lat": 42.3889708197085,
+                        "lng": -71.02951148029152
+                    }
+                }
+            },
+            "place_id": "ChIJ5dmTcLZx44kRH4cKX1FzFWM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "07ba2e2f17ecd8493bd8adcfbe99c9b7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:30.856123",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9a5da660940937d764807ae7ca752a00.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "171",
+                    "short_name": "171",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Newbury Street",
+                    "short_name": "Newbury St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Back Bay",
+                    "short_name": "Back Bay",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02116",
+                    "short_name": "02116",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "171 Newbury St, Boston, MA 02116, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3508415,
+                        "lng": -71.07901559999999
+                    },
+                    "southwest": {
+                        "lat": 42.3506586,
+                        "lng": -71.0792486
+                    }
+                },
+                "location": {
+                    "lat": 42.3507501,
+                    "lng": -71.0791321
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3520990302915,
+                        "lng": -71.07778311970849
+                    },
+                    "southwest": {
+                        "lat": 42.3494010697085,
+                        "lng": -71.0804810802915
+                    }
+                }
+            },
+            "place_id": "ChIJ_zmQAwx644kRu4nru8qK1Qc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9a5da660940937d764807ae7ca752a00",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:17.844397",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

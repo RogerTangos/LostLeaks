@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_139fbe87c56c74007c975b6af9aabea4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "85",
+                    "short_name": "85",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Drive",
+                    "short_name": "Park Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Fens",
+                    "short_name": "West Fens",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02215",
+                    "short_name": "02215",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "85 Park Dr, Boston, MA 02215, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3424316,
+                        "lng": -71.0961581
+                    },
+                    "southwest": {
+                        "lat": 42.3421878,
+                        "lng": -71.0964309
+                    }
+                },
+                "location": {
+                    "lat": 42.3423097,
+                    "lng": -71.0962945
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3436586802915,
+                        "lng": -71.09494551970849
+                    },
+                    "southwest": {
+                        "lat": 42.3409607197085,
+                        "lng": -71.0976434802915
+                    }
+                }
+            },
+            "place_id": "ChIJc6wMMx5644kRIyLvrP7-SvE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "139fbe87c56c74007c975b6af9aabea4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:23.206749",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c1de13e362ab0c32e9a9f3014acd08dd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "86",
+                    "short_name": "86",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Street",
+                    "short_name": "Chestnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7538",
+                    "short_name": "7538",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "86 Chestnut St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3261824,
+                        "lng": -71.1242516
+                    },
+                    "southwest": {
+                        "lat": 42.3260256,
+                        "lng": -71.1244959
+                    }
+                },
+                "location": {
+                    "lat": 42.326104,
+                    "lng": -71.1243738
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3274529802915,
+                        "lng": -71.1230247697085
+                    },
+                    "southwest": {
+                        "lat": 42.3247550197085,
+                        "lng": -71.1257227302915
+                    }
+                }
+            },
+            "place_id": "ChIJ8fUShqB544kRt3OIHsTZlnI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c1de13e362ab0c32e9a9f3014acd08dd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:25.347211",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

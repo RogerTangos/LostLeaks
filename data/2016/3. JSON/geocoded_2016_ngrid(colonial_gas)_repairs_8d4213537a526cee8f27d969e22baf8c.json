@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_8d4213537a526cee8f27d969e22baf8c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "601",
+                    "short_name": "601",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Heritage Lane",
+                    "short_name": "Heritage Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburn",
+                    "short_name": "Auburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01501",
+                    "short_name": "01501",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "601 Heritage Ln, Auburn, MA 01501, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1899619,
+                        "lng": -71.8438378
+                    },
+                    "southwest": {
+                        "lat": 42.1899599,
+                        "lng": -71.84385639999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1899619,
+                    "lng": -71.8438378
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1913098802915,
+                        "lng": -71.8424981197085
+                    },
+                    "southwest": {
+                        "lat": 42.1886119197085,
+                        "lng": -71.84519608029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiY2MDEgSGVyaXRhZ2UgTG4sIEF1YnVybiwgTUEgMDE1MDEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8d4213537a526cee8f27d969e22baf8c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:18:44.232651",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

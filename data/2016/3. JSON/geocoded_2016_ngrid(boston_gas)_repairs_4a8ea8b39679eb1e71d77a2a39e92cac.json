@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4a8ea8b39679eb1e71d77a2a39e92cac.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "School Street",
+                    "short_name": "School St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "31 School St, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3355583,
+                    "lng": -71.1211739
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33690728029151,
+                        "lng": -71.11982491970849
+                    },
+                    "southwest": {
+                        "lat": 42.33420931970851,
+                        "lng": -71.12252288029151
+                    }
+                }
+            },
+            "place_id": "ChIJOVtzX71544kR6Jv9hfVRsps",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4a8ea8b39679eb1e71d77a2a39e92cac",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:48.704786",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

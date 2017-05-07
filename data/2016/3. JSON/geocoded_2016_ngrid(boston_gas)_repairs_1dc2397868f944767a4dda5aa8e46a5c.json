@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1dc2397868f944767a4dda5aa8e46a5c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Randolph Avenue",
+                    "short_name": "Randolph Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3404",
+                    "short_name": "3404",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Randolph Ave, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.26702969999999,
+                        "lng": -71.068499
+                    },
+                    "southwest": {
+                        "lat": 42.2668801,
+                        "lng": -71.06863229999999
+                    }
+                },
+                "location": {
+                    "lat": 42.26695489999999,
+                    "lng": -71.0685657
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2683038802915,
+                        "lng": -71.06721666970849
+                    },
+                    "southwest": {
+                        "lat": 42.26560591970851,
+                        "lng": -71.06991463029149
+                    }
+                }
+            },
+            "place_id": "ChIJhU9kxG1844kReJU_QC-Vo98",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1dc2397868f944767a4dda5aa8e46a5c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:34.185940",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

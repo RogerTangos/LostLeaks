@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8369998a494ea35471e64df7f8accb33.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "72",
+                    "short_name": "72",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Haven Circle",
+                    "short_name": "Pine Haven Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1022",
+                    "short_name": "1022",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "72 Pine Haven Cir, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1681237,
+                        "lng": -70.89410269999999
+                    },
+                    "southwest": {
+                        "lat": 42.1681166,
+                        "lng": -70.8941189
+                    }
+                },
+                "location": {
+                    "lat": 42.1681237,
+                    "lng": -70.89410269999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1694691302915,
+                        "lng": -70.89276181970848
+                    },
+                    "southwest": {
+                        "lat": 42.1667711697085,
+                        "lng": -70.8954597802915
+                    }
+                }
+            },
+            "place_id": "Eio3MiBQaW5lIEhhdmVuIENpciwgUm9ja2xhbmQsIE1BIDAyMzcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8369998a494ea35471e64df7f8accb33",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:33.260602",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

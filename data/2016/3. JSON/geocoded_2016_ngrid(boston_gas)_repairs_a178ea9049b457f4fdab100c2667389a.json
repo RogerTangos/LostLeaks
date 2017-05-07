@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a178ea9049b457f4fdab100c2667389a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "30",
+                    "short_name": "30",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Everett Avenue",
+                    "short_name": "Everett Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "30 Everett Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3915982,
+                        "lng": -71.0385648
+                    },
+                    "southwest": {
+                        "lat": 42.39159480000001,
+                        "lng": -71.038583
+                    }
+                },
+                "location": {
+                    "lat": 42.39159480000001,
+                    "lng": -71.038583
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39294548029151,
+                        "lng": -71.03722491970849
+                    },
+                    "southwest": {
+                        "lat": 42.39024751970851,
+                        "lng": -71.0399228802915
+                    }
+                }
+            },
+            "place_id": "EiYzMCBFdmVyZXR0IEF2ZSwgQ2hlbHNlYSwgTUEgMDIxNTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a178ea9049b457f4fdab100c2667389a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:35.558929",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

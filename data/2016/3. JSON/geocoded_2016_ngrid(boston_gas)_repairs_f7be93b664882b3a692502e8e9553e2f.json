@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f7be93b664882b3a692502e8e9553e2f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "203",
+                    "short_name": "203",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Humphrey Street",
+                    "short_name": "Humphrey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1618",
+                    "short_name": "1618",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "203 Humphrey St, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.485575,
+                        "lng": -70.886002
+                    },
+                    "southwest": {
+                        "lat": 42.4853779,
+                        "lng": -70.8862627
+                    }
+                },
+                "location": {
+                    "lat": 42.4854764,
+                    "lng": -70.8861323
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4868254302915,
+                        "lng": -70.8847833697085
+                    },
+                    "southwest": {
+                        "lat": 42.4841274697085,
+                        "lng": -70.88748133029151
+                    }
+                }
+            },
+            "place_id": "ChIJC4N1S7gU44kRSEVR54svlVU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f7be93b664882b3a692502e8e9553e2f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:22.136257",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2fb0d9b36a16af361dd464d95ec180f7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sewall Street",
+                    "short_name": "Sewall St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3027",
+                    "short_name": "3027",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Sewall St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2716897,
+                        "lng": -71.0088155
+                    },
+                    "southwest": {
+                        "lat": 42.2716006,
+                        "lng": -71.008986
+                    }
+                },
+                "location": {
+                    "lat": 42.2716451,
+                    "lng": -71.00890079999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27299413029149,
+                        "lng": -71.00755176970848
+                    },
+                    "southwest": {
+                        "lat": 42.2702961697085,
+                        "lng": -71.0102497302915
+                    }
+                }
+            },
+            "place_id": "ChIJVbZTo1Z744kRVgURrVF6BtA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2fb0d9b36a16af361dd464d95ec180f7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:55.861437",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

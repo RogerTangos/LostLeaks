@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5d6b8dc0ce7872a0b2082174ce8d1c8f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Prospect Terrace",
+                    "short_name": "Prospect Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3057",
+                    "short_name": "3057",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Prospect Terrace, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5395912,
+                        "lng": -71.73463579999999
+                    },
+                    "southwest": {
+                        "lat": 42.539584,
+                        "lng": -71.7346519
+                    }
+                },
+                "location": {
+                    "lat": 42.539584,
+                    "lng": -71.73463579999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.54093658029149,
+                        "lng": -71.73329486970849
+                    },
+                    "southwest": {
+                        "lat": 42.53823861970849,
+                        "lng": -71.73599283029151
+                    }
+                }
+            },
+            "place_id": "Ei40OSBQcm9zcGVjdCBUZXJyYWNlLCBMZW9taW5zdGVyLCBNQSAwMTQ1MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5d6b8dc0ce7872a0b2082174ce8d1c8f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:12.860322",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

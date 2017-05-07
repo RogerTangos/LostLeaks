@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3dad9691b8357b382bc45d24bbae98a1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "626",
+                    "short_name": "626",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winthrop",
+                    "short_name": "Winthrop",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02152",
+                    "short_name": "02152",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "626 Pleasant St, Winthrop, MA 02152, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3828604,
+                    "lng": -70.9916903
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3842093802915,
+                        "lng": -70.9903413197085
+                    },
+                    "southwest": {
+                        "lat": 42.3815114197085,
+                        "lng": -70.99303928029151
+                    }
+                }
+            },
+            "place_id": "ChIJr7Ki6S1u44kR7ew0RPzRkD4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3dad9691b8357b382bc45d24bbae98a1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:44.421288",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

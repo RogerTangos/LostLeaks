@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1a6da8dceba04312f5e57a08d3451ac7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "81",
+                    "short_name": "81",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Taylor Street",
+                    "short_name": "Taylor St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8020",
+                    "short_name": "8020",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "81 Taylor St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.423516,
+                        "lng": -71.0455859
+                    },
+                    "southwest": {
+                        "lat": 42.423419,
+                        "lng": -71.0457169
+                    }
+                },
+                "location": {
+                    "lat": 42.4234675,
+                    "lng": -71.0456514
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4248164802915,
+                        "lng": -71.0443024197085
+                    },
+                    "southwest": {
+                        "lat": 42.4221185197085,
+                        "lng": -71.04700038029151
+                    }
+                }
+            },
+            "place_id": "ChIJN9VMGYFx44kRd6Mom-vHkdk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1a6da8dceba04312f5e57a08d3451ac7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:12.020131",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

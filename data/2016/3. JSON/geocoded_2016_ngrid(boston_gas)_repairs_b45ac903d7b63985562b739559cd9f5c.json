@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b45ac903d7b63985562b739559cd9f5c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "145",
+                    "short_name": "145",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Street",
+                    "short_name": "Walnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3119",
+                    "short_name": "3119",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "145 Walnut St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5319027,
+                        "lng": -71.76385619999999
+                    },
+                    "southwest": {
+                        "lat": 42.5318893,
+                        "lng": -71.7638609
+                    }
+                },
+                "location": {
+                    "lat": 42.5319027,
+                    "lng": -71.76385619999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.53324498029151,
+                        "lng": -71.76250956970848
+                    },
+                    "southwest": {
+                        "lat": 42.53054701970851,
+                        "lng": -71.76520753029149
+                    }
+                }
+            },
+            "place_id": "EigxNDUgV2FsbnV0IFN0LCBMZW9taW5zdGVyLCBNQSAwMTQ1MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b45ac903d7b63985562b739559cd9f5c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:12.838703",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

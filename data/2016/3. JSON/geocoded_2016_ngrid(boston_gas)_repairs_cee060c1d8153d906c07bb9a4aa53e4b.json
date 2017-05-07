@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cee060c1d8153d906c07bb9a4aa53e4b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "61",
+                    "short_name": "61",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tappan Street",
+                    "short_name": "Tappan St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1307",
+                    "short_name": "1307",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "61 Tappan St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.41403700000001,
+                        "lng": -71.0569256
+                    },
+                    "southwest": {
+                        "lat": 42.4138828,
+                        "lng": -71.05712520000002
+                    }
+                },
+                "location": {
+                    "lat": 42.41395989999999,
+                    "lng": -71.0570254
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41530888029151,
+                        "lng": -71.0556764197085
+                    },
+                    "southwest": {
+                        "lat": 42.41261091970851,
+                        "lng": -71.05837438029153
+                    }
+                }
+            },
+            "place_id": "ChIJQdCnX3Fx44kRbVaSXW9oZm0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cee060c1d8153d906c07bb9a4aa53e4b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:36.628944",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

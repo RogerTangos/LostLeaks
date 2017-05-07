@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_85b360ce13b7fe791bda9216202eca1b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walden Avenue",
+                    "short_name": "Walden Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1026",
+                    "short_name": "1026",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Walden Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4984679,
+                        "lng": -71.0141374
+                    },
+                    "southwest": {
+                        "lat": 42.4984541,
+                        "lng": -71.01413769999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4984679,
+                    "lng": -71.01413769999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4998099802915,
+                        "lng": -71.01278856970849
+                    },
+                    "southwest": {
+                        "lat": 42.4971120197085,
+                        "lng": -71.0154865302915
+                    }
+                }
+            },
+            "place_id": "EiQxNiBXYWxkZW4gQXZlLCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "85b360ce13b7fe791bda9216202eca1b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:57.510455",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

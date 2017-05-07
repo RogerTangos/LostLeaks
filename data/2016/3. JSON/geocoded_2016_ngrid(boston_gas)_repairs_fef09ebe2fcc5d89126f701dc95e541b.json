@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fef09ebe2fcc5d89126f701dc95e541b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "45",
+                    "short_name": "45",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Blaney Street",
+                    "short_name": "Blaney St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2547",
+                    "short_name": "2547",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "45 Blaney St, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.46834459999999,
+                        "lng": -70.9150897
+                    },
+                    "southwest": {
+                        "lat": 42.4682406,
+                        "lng": -70.9152227
+                    }
+                },
+                "location": {
+                    "lat": 42.4682926,
+                    "lng": -70.9151562
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4696415802915,
+                        "lng": -70.91380721970849
+                    },
+                    "southwest": {
+                        "lat": 42.4669436197085,
+                        "lng": -70.9165051802915
+                    }
+                }
+            },
+            "place_id": "ChIJbQFksKVs44kRg3rN2ypeXOQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fef09ebe2fcc5d89126f701dc95e541b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:45.306740",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

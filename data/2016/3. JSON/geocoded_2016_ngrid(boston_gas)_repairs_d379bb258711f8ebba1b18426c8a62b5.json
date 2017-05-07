@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d379bb258711f8ebba1b18426c8a62b5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "149",
+                    "short_name": "149",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Homeland Drive",
+                    "short_name": "Homeland Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "149 Homeland Dr, Whitman, MA 02382, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0739579,
+                        "lng": -70.9559903
+                    },
+                    "southwest": {
+                        "lat": 42.0739543,
+                        "lng": -70.9560084
+                    }
+                },
+                "location": {
+                    "lat": 42.0739579,
+                    "lng": -70.9559903
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.07530508029149,
+                        "lng": -70.9546503697085
+                    },
+                    "southwest": {
+                        "lat": 42.07260711970849,
+                        "lng": -70.95734833029152
+                    }
+                }
+            },
+            "place_id": "EicxNDkgSG9tZWxhbmQgRHIsIFdoaXRtYW4sIE1BIDAyMzgyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d379bb258711f8ebba1b18426c8a62b5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:16.936714",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

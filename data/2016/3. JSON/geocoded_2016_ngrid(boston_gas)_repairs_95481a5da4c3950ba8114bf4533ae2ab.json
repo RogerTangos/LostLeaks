@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_95481a5da4c3950ba8114bf4533ae2ab.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Howard Street",
+                    "short_name": "Howard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4042",
+                    "short_name": "4042",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Howard St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7834472,
+                        "lng": -71.0761468
+                    },
+                    "southwest": {
+                        "lat": 42.78326970000001,
+                        "lng": -71.0763802
+                    }
+                },
+                "location": {
+                    "lat": 42.7833585,
+                    "lng": -71.0762635
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7847074302915,
+                        "lng": -71.0749145197085
+                    },
+                    "southwest": {
+                        "lat": 42.78200946970851,
+                        "lng": -71.0776124802915
+                    }
+                }
+            },
+            "place_id": "ChIJB9iLUzgC44kRblkBTgtPVm0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "95481a5da4c3950ba8114bf4533ae2ab",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:47.783561",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

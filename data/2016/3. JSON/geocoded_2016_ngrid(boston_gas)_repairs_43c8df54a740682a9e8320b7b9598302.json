@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_43c8df54a740682a9e8320b7b9598302.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "177",
+                    "short_name": "177",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2119",
+                    "short_name": "2119",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "177 Pleasant St, Whitman, MA 02382, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0891438,
+                        "lng": -70.92107709999999
+                    },
+                    "southwest": {
+                        "lat": 42.0891405,
+                        "lng": -70.92109529999999
+                    }
+                },
+                "location": {
+                    "lat": 42.0891405,
+                    "lng": -70.92107709999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0904911302915,
+                        "lng": -70.9197372197085
+                    },
+                    "southwest": {
+                        "lat": 42.0877931697085,
+                        "lng": -70.9224351802915
+                    }
+                }
+            },
+            "place_id": "EicxNzcgUGxlYXNhbnQgU3QsIFdoaXRtYW4sIE1BIDAyMzgyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "43c8df54a740682a9e8320b7b9598302",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:24.870370",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0fc6f2f5320ec50a5e01b5b887a9357b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Whittaker Avenue",
+                    "short_name": "Whittaker Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2030",
+                    "short_name": "2030",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Whittaker Ave, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.802556,
+                        "lng": -71.09045859999999
+                    },
+                    "southwest": {
+                        "lat": 42.8025486,
+                        "lng": -71.09047439999999
+                    }
+                },
+                "location": {
+                    "lat": 42.802556,
+                    "lng": -71.09047439999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8039012802915,
+                        "lng": -71.08911751970848
+                    },
+                    "southwest": {
+                        "lat": 42.8012033197085,
+                        "lng": -71.0918154802915
+                    }
+                }
+            },
+            "place_id": "Eio2MCBXaGl0dGFrZXIgQXZlLCBIYXZlcmhpbGwsIE1BIDAxODMwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0fc6f2f5320ec50a5e01b5b887a9357b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:32.366674",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

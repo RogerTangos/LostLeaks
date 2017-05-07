@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1028633c1e1a5e7d1d7581c55861792a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "160",
+                    "short_name": "160",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline Village",
+                    "short_name": "Brookline Village",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7612",
+                    "short_name": "7612",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "160 Washington St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3316507,
+                        "lng": -71.11757759999999
+                    },
+                    "southwest": {
+                        "lat": 42.3316404,
+                        "lng": -71.1175902
+                    }
+                },
+                "location": {
+                    "lat": 42.3316404,
+                    "lng": -71.1175902
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3329945302915,
+                        "lng": -71.11623491970849
+                    },
+                    "southwest": {
+                        "lat": 42.3302965697085,
+                        "lng": -71.1189328802915
+                    }
+                }
+            },
+            "place_id": "EisxNjAgV2FzaGluZ3RvbiBTdCwgQnJvb2tsaW5lLCBNQSAwMjQ0NSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1028633c1e1a5e7d1d7581c55861792a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:00.551773",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

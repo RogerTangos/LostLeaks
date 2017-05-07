@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_aee2d17a821118d04d53e1bcc481301d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "65",
+                    "short_name": "65",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lexington Circle",
+                    "short_name": "Lexington Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2163",
+                    "short_name": "2163",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "65 Lexington Cir, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4731876,
+                        "lng": -70.9083441
+                    },
+                    "southwest": {
+                        "lat": 42.4730284,
+                        "lng": -70.90852029999999
+                    }
+                },
+                "location": {
+                    "lat": 42.473108,
+                    "lng": -70.9084322
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4744569802915,
+                        "lng": -70.9070832197085
+                    },
+                    "southwest": {
+                        "lat": 42.4717590197085,
+                        "lng": -70.9097811802915
+                    }
+                }
+            },
+            "place_id": "ChIJ_8F_8qls44kRGYWdGZV8YR0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "aee2d17a821118d04d53e1bcc481301d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:57.180050",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

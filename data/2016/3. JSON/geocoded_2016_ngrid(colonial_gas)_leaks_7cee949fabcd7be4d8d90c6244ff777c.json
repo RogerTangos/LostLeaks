@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_7cee949fabcd7be4d8d90c6244ff777c.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nottingham Road",
+                    "short_name": "Nottingham Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Grafton",
+                    "short_name": "Grafton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01519",
+                    "short_name": "01519",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Nottingham Rd, Grafton, MA 01519, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1995665,
+                        "lng": -71.688371
+                    },
+                    "southwest": {
+                        "lat": 42.1995589,
+                        "lng": -71.6883867
+                    }
+                },
+                "location": {
+                    "lat": 42.1995665,
+                    "lng": -71.688371
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2009116802915,
+                        "lng": -71.6870298697085
+                    },
+                    "southwest": {
+                        "lat": 42.1982137197085,
+                        "lng": -71.6897278302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicxIE5vdHRpbmdoYW0gUmQsIEdyYWZ0b24sIE1BIDAxNTE5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7cee949fabcd7be4d8d90c6244ff777c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:02:46.967428",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

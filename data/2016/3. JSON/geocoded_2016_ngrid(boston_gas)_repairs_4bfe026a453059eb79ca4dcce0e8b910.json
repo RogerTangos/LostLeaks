@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4bfe026a453059eb79ca4dcce0e8b910.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "402",
+                    "short_name": "402",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Centre Street",
+                    "short_name": "Centre St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1147",
+                    "short_name": "1147",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "402 Centre St, Dorchester, MA 02122, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.29528699999999,
+                    "lng": -71.056657
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29663598029149,
+                        "lng": -71.0553080197085
+                    },
+                    "southwest": {
+                        "lat": 42.29393801970849,
+                        "lng": -71.05800598029151
+                    }
+                }
+            },
+            "place_id": "ChIJezcqCaJ744kRqbgW6woq2m8",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4bfe026a453059eb79ca4dcce0e8b910",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:14.055129",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

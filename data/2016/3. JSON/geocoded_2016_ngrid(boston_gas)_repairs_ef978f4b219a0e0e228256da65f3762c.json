@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ef978f4b219a0e0e228256da65f3762c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kenwin Road",
+                    "short_name": "Kenwin Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1310",
+                    "short_name": "1310",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Kenwin Rd, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4649971,
+                        "lng": -71.12401880000002
+                    },
+                    "southwest": {
+                        "lat": 42.4648495,
+                        "lng": -71.124194
+                    }
+                },
+                "location": {
+                    "lat": 42.4649233,
+                    "lng": -71.1241064
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4662722802915,
+                        "lng": -71.12275741970852
+                    },
+                    "southwest": {
+                        "lat": 42.4635743197085,
+                        "lng": -71.12545538029153
+                    }
+                }
+            },
+            "place_id": "ChIJNZrFskN044kRf2Bg8I1Hl7k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ef978f4b219a0e0e228256da65f3762c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:45.591548",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

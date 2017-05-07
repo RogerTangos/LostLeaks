@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2d04015ea9a14f094c870ed91fd6ba1a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "217",
+                    "short_name": "217",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Beacon Street",
+                    "short_name": "N Beacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2752",
+                    "short_name": "2752",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "217 N Beacon St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3631394,
+                        "lng": -71.1725616
+                    },
+                    "southwest": {
+                        "lat": 42.3631259,
+                        "lng": -71.172566
+                    }
+                },
+                "location": {
+                    "lat": 42.3631259,
+                    "lng": -71.172566
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3644816302915,
+                        "lng": -71.1712148197085
+                    },
+                    "southwest": {
+                        "lat": 42.3617836697085,
+                        "lng": -71.1739127802915
+                    }
+                }
+            },
+            "place_id": "EikyMTcgTiBCZWFjb24gU3QsIFdhdGVydG93biwgTUEgMDI0NzIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2d04015ea9a14f094c870ed91fd6ba1a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:41.238329",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

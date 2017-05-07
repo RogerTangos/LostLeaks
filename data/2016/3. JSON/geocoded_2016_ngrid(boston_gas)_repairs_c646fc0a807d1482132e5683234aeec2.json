@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c646fc0a807d1482132e5683234aeec2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Shawmut Avenue",
+                    "short_name": "Shawmut Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Shawmut Ave & E Berkeley St, Boston, MA 02118, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.344308,
+                    "lng": -71.067073
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3456569802915,
+                        "lng": -71.0657240197085
+                    },
+                    "southwest": {
+                        "lat": 42.3429590197085,
+                        "lng": -71.0684219802915
+                    }
+                }
+            },
+            "place_id": "EjJTaGF3bXV0IEF2ZSAmIEUgQmVya2VsZXkgU3QsIEJvc3RvbiwgTUEgMDIxMTgsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "c646fc0a807d1482132e5683234aeec2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:25.245008",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

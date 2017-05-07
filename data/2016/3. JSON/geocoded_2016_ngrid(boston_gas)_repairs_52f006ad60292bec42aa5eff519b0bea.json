@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_52f006ad60292bec42aa5eff519b0bea.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stuart Street",
+                    "short_name": "Stuart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Theatre District",
+                    "short_name": "Theatre District",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02116",
+                    "short_name": "02116",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4723",
+                    "short_name": "4723",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Stuart St, Boston, MA 02116, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3511995,
+                    "lng": -71.0641984
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3525484802915,
+                        "lng": -71.06284941970848
+                    },
+                    "southwest": {
+                        "lat": 42.3498505197085,
+                        "lng": -71.0655473802915
+                    }
+                }
+            },
+            "place_id": "ChIJL8vvp3d644kR9FahPH9XPuk",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "52f006ad60292bec42aa5eff519b0bea",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:35.394059",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

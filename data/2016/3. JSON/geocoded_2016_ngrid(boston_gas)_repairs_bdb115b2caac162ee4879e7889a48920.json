@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_bdb115b2caac162ee4879e7889a48920.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "47",
+                    "short_name": "47",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mountain Avenue",
+                    "short_name": "Mountain Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3713",
+                    "short_name": "3713",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "47 Mountain Ave, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4299584,
+                        "lng": -71.0721025
+                    },
+                    "southwest": {
+                        "lat": 42.4297846,
+                        "lng": -71.0722439
+                    }
+                },
+                "location": {
+                    "lat": 42.4298715,
+                    "lng": -71.0721732
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43122048029149,
+                        "lng": -71.07082421970848
+                    },
+                    "southwest": {
+                        "lat": 42.42852251970849,
+                        "lng": -71.0735221802915
+                    }
+                }
+            },
+            "place_id": "ChIJn0hBFmBx44kRwd_ytj1icDs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "bdb115b2caac162ee4879e7889a48920",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:59.736041",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

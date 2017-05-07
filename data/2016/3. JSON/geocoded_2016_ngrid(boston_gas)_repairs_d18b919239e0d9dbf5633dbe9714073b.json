@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d18b919239e0d9dbf5633dbe9714073b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Draper Avenue",
+                    "short_name": "Draper Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Draper Ave & Mystic Bank, Arlington, MA 02474, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.42329,
+                    "lng": -71.15003999999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4246389802915,
+                        "lng": -71.1486910197085
+                    },
+                    "southwest": {
+                        "lat": 42.42194101970851,
+                        "lng": -71.1513889802915
+                    }
+                }
+            },
+            "place_id": "EjJEcmFwZXIgQXZlICYgTXlzdGljIEJhbmssIEFybGluZ3RvbiwgTUEgMDI0NzQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d18b919239e0d9dbf5633dbe9714073b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:24.915439",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

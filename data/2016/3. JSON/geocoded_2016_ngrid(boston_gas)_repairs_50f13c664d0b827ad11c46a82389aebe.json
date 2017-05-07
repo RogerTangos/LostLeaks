@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_50f13c664d0b827ad11c46a82389aebe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Thoreau Road",
+                    "short_name": "Thoreau Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02420",
+                    "short_name": "02420",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Thoreau Rd & Emerson Rd, Lexington, MA 02420, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.461225,
+                    "lng": -71.21377199999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4625739802915,
+                        "lng": -71.21242301970848
+                    },
+                    "southwest": {
+                        "lat": 42.4598760197085,
+                        "lng": -71.21512098029149
+                    }
+                }
+            },
+            "place_id": "EjFUaG9yZWF1IFJkICYgRW1lcnNvbiBSZCwgTGV4aW5ndG9uLCBNQSAwMjQyMCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "50f13c664d0b827ad11c46a82389aebe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:26.503122",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

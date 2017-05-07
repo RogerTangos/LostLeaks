@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_495d0ddb340f5f74446b393f94a79826.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "363",
+                    "short_name": "363",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lowell Street",
+                    "short_name": "Lowell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02420",
+                    "short_name": "02420",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2501",
+                    "short_name": "2501",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "363 Lowell St, Lexington, MA 02420, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4478145,
+                        "lng": -71.1976516
+                    },
+                    "southwest": {
+                        "lat": 42.447641,
+                        "lng": -71.1978433
+                    }
+                },
+                "location": {
+                    "lat": 42.4477278,
+                    "lng": -71.1977474
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44907673029149,
+                        "lng": -71.1963984697085
+                    },
+                    "southwest": {
+                        "lat": 42.4463787697085,
+                        "lng": -71.1990964302915
+                    }
+                }
+            },
+            "place_id": "ChIJzYX2rv6d44kRktY0Kar7o1U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "495d0ddb340f5f74446b393f94a79826",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:34.562890",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_637c88c6a05966622a9f501abaeb4a0b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bacon Street",
+                    "short_name": "Bacon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2307",
+                    "short_name": "2307",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Bacon St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3688904,
+                        "lng": -71.1939305
+                    },
+                    "southwest": {
+                        "lat": 42.3687517,
+                        "lng": -71.1941238
+                    }
+                },
+                "location": {
+                    "lat": 42.368821,
+                    "lng": -71.1940272
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3701700302915,
+                        "lng": -71.19267816970849
+                    },
+                    "southwest": {
+                        "lat": 42.3674720697085,
+                        "lng": -71.19537613029149
+                    }
+                }
+            },
+            "place_id": "ChIJdVx1t6mC44kR1Ct_KmhNjvE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "637c88c6a05966622a9f501abaeb4a0b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:36.745693",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

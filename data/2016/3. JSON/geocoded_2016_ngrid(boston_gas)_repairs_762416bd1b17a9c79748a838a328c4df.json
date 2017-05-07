@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_762416bd1b17a9c79748a838a328c4df.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sherwood Road",
+                    "short_name": "Sherwood Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4004",
+                    "short_name": "4004",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Sherwood Rd, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4389952,
+                        "lng": -71.13051469999999
+                    },
+                    "southwest": {
+                        "lat": 42.4388651,
+                        "lng": -71.1306969
+                    }
+                },
+                "location": {
+                    "lat": 42.4389302,
+                    "lng": -71.1306058
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4402791302915,
+                        "lng": -71.12925681970849
+                    },
+                    "southwest": {
+                        "lat": 42.4375811697085,
+                        "lng": -71.13195478029151
+                    }
+                }
+            },
+            "place_id": "ChIJN0O9D51244kRgRr6Zg7Js80",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "762416bd1b17a9c79748a838a328c4df",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:22.257562",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

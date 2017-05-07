@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3a2aeb2916da97f68f0c75e05b98d6df.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "80",
+                    "short_name": "80",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Jaques Street",
+                    "short_name": "Jaques St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1802",
+                    "short_name": "1802",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "80 Jaques St, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3948822,
+                        "lng": -71.093099
+                    },
+                    "southwest": {
+                        "lat": 42.3948707,
+                        "lng": -71.09310959999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3948707,
+                    "lng": -71.09310959999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3962254302915,
+                        "lng": -71.09175531970848
+                    },
+                    "southwest": {
+                        "lat": 42.3935274697085,
+                        "lng": -71.0944532802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eic4MCBKYXF1ZXMgU3QsIFNvbWVydmlsbGUsIE1BIDAyMTQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3a2aeb2916da97f68f0c75e05b98d6df",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:07.027125",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

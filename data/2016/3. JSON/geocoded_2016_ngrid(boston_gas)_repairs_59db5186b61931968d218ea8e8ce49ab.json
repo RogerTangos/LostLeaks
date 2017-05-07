@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_59db5186b61931968d218ea8e8ce49ab.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gallison Avenue",
+                    "short_name": "Gallison Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2803",
+                    "short_name": "2803",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Gallison Ave, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4890602,
+                        "lng": -70.86439709999999
+                    },
+                    "southwest": {
+                        "lat": 42.4888968,
+                        "lng": -70.864656
+                    }
+                },
+                "location": {
+                    "lat": 42.48897849999999,
+                    "lng": -70.8645265
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4903274802915,
+                        "lng": -70.86317756970848
+                    },
+                    "southwest": {
+                        "lat": 42.4876295197085,
+                        "lng": -70.86587553029149
+                    }
+                }
+            },
+            "place_id": "ChIJl3RtEd4U44kRgXc_k-67IDY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "59db5186b61931968d218ea8e8ce49ab",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:43.726322",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

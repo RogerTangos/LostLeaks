@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3b0ead73ab1989ea1662c90159abf2d4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "175",
+                    "short_name": "175",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hancock Street",
+                    "short_name": "Hancock St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1345",
+                    "short_name": "1345",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "175 Hancock St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4153632,
+                        "lng": -71.0577079
+                    },
+                    "southwest": {
+                        "lat": 42.4151783,
+                        "lng": -71.0579916
+                    }
+                },
+                "location": {
+                    "lat": 42.41527070000001,
+                    "lng": -71.0578498
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4166197302915,
+                        "lng": -71.05650076970848
+                    },
+                    "southwest": {
+                        "lat": 42.4139217697085,
+                        "lng": -71.05919873029148
+                    }
+                }
+            },
+            "place_id": "ChIJD77sEnFx44kRrkRbKXeyjCI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3b0ead73ab1989ea1662c90159abf2d4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:22.167156",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

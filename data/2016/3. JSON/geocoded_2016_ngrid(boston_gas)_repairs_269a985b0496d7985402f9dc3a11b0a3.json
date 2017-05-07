@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_269a985b0496d7985402f9dc3a11b0a3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ledgewood Road",
+                    "short_name": "Ledgewood Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Ledgewood Rd, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.44665029999999,
+                        "lng": -71.1281089
+                    },
+                    "southwest": {
+                        "lat": 42.4465063,
+                        "lng": -71.12842839999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4465783,
+                    "lng": -71.1282686
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44792728029149,
+                        "lng": -71.12691966970849
+                    },
+                    "southwest": {
+                        "lat": 42.4452293197085,
+                        "lng": -71.12961763029149
+                    }
+                }
+            },
+            "place_id": "ChIJW_UaaSR044kR4u4Mc8Kvwq4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "269a985b0496d7985402f9dc3a11b0a3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:04.749044",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

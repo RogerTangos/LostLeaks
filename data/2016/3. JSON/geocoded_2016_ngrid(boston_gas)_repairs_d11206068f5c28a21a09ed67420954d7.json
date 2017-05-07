@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d11206068f5c28a21a09ed67420954d7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "28",
+                    "short_name": "28",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Centre Street",
+                    "short_name": "Centre St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1440",
+                    "short_name": "1440",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "28 Centre St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.56274690000001,
+                        "lng": -70.9601687
+                    },
+                    "southwest": {
+                        "lat": 42.5625296,
+                        "lng": -70.9603793
+                    }
+                },
+                "location": {
+                    "lat": 42.56263819999999,
+                    "lng": -70.960274
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5639872302915,
+                        "lng": -70.9589250197085
+                    },
+                    "southwest": {
+                        "lat": 42.5612892697085,
+                        "lng": -70.96162298029151
+                    }
+                }
+            },
+            "place_id": "ChIJow58AyoS44kR7ST21hIGXU8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d11206068f5c28a21a09ed67420954d7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:01.879785",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

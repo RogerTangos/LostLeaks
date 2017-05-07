@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8f826aa5cac5617fec9d1a268aa8613b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Percival Street",
+                    "short_name": "Percival St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1713",
+                    "short_name": "1713",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Percival St, Dorchester, MA 02122, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.30772959999999,
+                        "lng": -71.0639738
+                    },
+                    "southwest": {
+                        "lat": 42.3075918,
+                        "lng": -71.0641978
+                    }
+                },
+                "location": {
+                    "lat": 42.3076607,
+                    "lng": -71.0640858
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3090096802915,
+                        "lng": -71.0627368197085
+                    },
+                    "southwest": {
+                        "lat": 42.3063117197085,
+                        "lng": -71.06543478029151
+                    }
+                }
+            },
+            "place_id": "ChIJO9f1ULB744kRxjrGSSA_DYw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8f826aa5cac5617fec9d1a268aa8613b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:14.937822",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

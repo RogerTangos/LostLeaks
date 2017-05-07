@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7a9cffe9d0d31a3a7e59ed7bb38231d5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "437",
+                    "short_name": "437",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4124",
+                    "short_name": "4124",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "437 Union St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2140947,
+                        "lng": -70.9871417
+                    },
+                    "southwest": {
+                        "lat": 42.2139795,
+                        "lng": -70.9872944
+                    }
+                },
+                "location": {
+                    "lat": 42.2140371,
+                    "lng": -70.98721809999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2153860802915,
+                        "lng": -70.9858690697085
+                    },
+                    "southwest": {
+                        "lat": 42.2126881197085,
+                        "lng": -70.9885670302915
+                    }
+                }
+            },
+            "place_id": "ChIJ8RdzVcRi44kRgyCMJrzFIYw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7a9cffe9d0d31a3a7e59ed7bb38231d5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:36.180066",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

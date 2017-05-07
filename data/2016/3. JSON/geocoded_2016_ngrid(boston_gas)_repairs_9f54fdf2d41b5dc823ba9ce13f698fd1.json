@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9f54fdf2d41b5dc823ba9ce13f698fd1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "443",
+                    "short_name": "443",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Essex Street",
+                    "short_name": "Essex St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1227",
+                    "short_name": "1227",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "443 Essex St, Swampscott, MA 01907, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.482304,
+                    "lng": -70.91031199999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4836529802915,
+                        "lng": -70.90896301970848
+                    },
+                    "southwest": {
+                        "lat": 42.4809550197085,
+                        "lng": -70.9116609802915
+                    }
+                }
+            },
+            "place_id": "ChIJRel4SlQT44kRqvpmn3AOJ3Q",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9f54fdf2d41b5dc823ba9ce13f698fd1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:43.068212",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

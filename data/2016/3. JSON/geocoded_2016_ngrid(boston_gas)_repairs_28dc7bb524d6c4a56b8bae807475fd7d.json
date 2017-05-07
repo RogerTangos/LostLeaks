@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_28dc7bb524d6c4a56b8bae807475fd7d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "96",
+                    "short_name": "96",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott Road",
+                    "short_name": "Swampscott Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7004",
+                    "short_name": "7004",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "96 Swampscott Rd, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4948486,
+                        "lng": -70.9214535
+                    },
+                    "southwest": {
+                        "lat": 42.4933723,
+                        "lng": -70.9238179
+                    }
+                },
+                "location": {
+                    "lat": 42.4941105,
+                    "lng": -70.9226357
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4954594302915,
+                        "lng": -70.92128671970849
+                    },
+                    "southwest": {
+                        "lat": 42.4927614697085,
+                        "lng": -70.92398468029151
+                    }
+                }
+            },
+            "place_id": "ChIJY7c4ZkQT44kRSrPB0-bSptY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "28dc7bb524d6c4a56b8bae807475fd7d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:01.502278",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

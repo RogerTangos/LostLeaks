@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cd07d92daafeb2a4a734cf677030a441.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "315",
+                    "short_name": "315",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pond Street",
+                    "short_name": "Pond St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1031",
+                    "short_name": "1031",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "315 Pond St, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1583416,
+                        "lng": -70.88945939999999
+                    },
+                    "southwest": {
+                        "lat": 42.1583385,
+                        "lng": -70.8894777
+                    }
+                },
+                "location": {
+                    "lat": 42.1583385,
+                    "lng": -70.8894777
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1596890302915,
+                        "lng": -70.88811956970848
+                    },
+                    "southwest": {
+                        "lat": 42.1569910697085,
+                        "lng": -70.8908175302915
+                    }
+                }
+            },
+            "place_id": "EiQzMTUgUG9uZCBTdCwgUm9ja2xhbmQsIE1BIDAyMzcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cd07d92daafeb2a4a734cf677030a441",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:52.344643",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_215834b7f1efd32e145c6dc169dcca5c.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "562",
+                    "short_name": "562",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Shrewsbury Street",
+                    "short_name": "Shrewsbury St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Holden",
+                    "short_name": "Holden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01520",
+                    "short_name": "01520",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "562 Shrewsbury St, Holden, MA 01520, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3392088,
+                        "lng": -71.80994419999999
+                    },
+                    "southwest": {
+                        "lat": 42.3391954,
+                        "lng": -71.80994869999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3392088,
+                    "lng": -71.80994869999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3405510802915,
+                        "lng": -71.80859746970849
+                    },
+                    "southwest": {
+                        "lat": 42.3378531197085,
+                        "lng": -71.8112954302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig1NjIgU2hyZXdzYnVyeSBTdCwgSG9sZGVuLCBNQSAwMTUyMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "215834b7f1efd32e145c6dc169dcca5c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:08:04.715177",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

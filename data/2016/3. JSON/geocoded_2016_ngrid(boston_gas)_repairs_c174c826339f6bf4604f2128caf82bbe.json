@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c174c826339f6bf4604f2128caf82bbe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "64",
+                    "short_name": "64",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley Street",
+                    "short_name": "Wellesley St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weston",
+                    "short_name": "Weston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02493",
+                    "short_name": "02493",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2510",
+                    "short_name": "2510",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "64 Wellesley St, Weston, MA 02493, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3624836,
+                        "lng": -71.29223499999999
+                    },
+                    "southwest": {
+                        "lat": 42.362478,
+                        "lng": -71.2922521
+                    }
+                },
+                "location": {
+                    "lat": 42.362478,
+                    "lng": -71.29223499999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3638297802915,
+                        "lng": -71.29089456970848
+                    },
+                    "southwest": {
+                        "lat": 42.3611318197085,
+                        "lng": -71.2935925302915
+                    }
+                }
+            },
+            "place_id": "EiY2NCBXZWxsZXNsZXkgU3QsIFdlc3RvbiwgTUEgMDI0OTMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c174c826339f6bf4604f2128caf82bbe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:53.373660",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

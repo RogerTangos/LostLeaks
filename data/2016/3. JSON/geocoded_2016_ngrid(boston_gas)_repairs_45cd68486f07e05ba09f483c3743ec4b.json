@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_45cd68486f07e05ba09f483c3743ec4b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kings Road",
+                    "short_name": "Kings Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynnfield",
+                    "short_name": "Lynnfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01940",
+                    "short_name": "01940",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2226",
+                    "short_name": "2226",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Kings Rd, Lynnfield, MA 01940, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5199258,
+                        "lng": -71.01464519999999
+                    },
+                    "southwest": {
+                        "lat": 42.51968979999999,
+                        "lng": -71.0149192
+                    }
+                },
+                "location": {
+                    "lat": 42.5198078,
+                    "lng": -71.0147822
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5211567802915,
+                        "lng": -71.01343321970847
+                    },
+                    "southwest": {
+                        "lat": 42.5184588197085,
+                        "lng": -71.0161311802915
+                    }
+                }
+            },
+            "place_id": "ChIJqSmLr2gN44kRgRmMrhTisRY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "45cd68486f07e05ba09f483c3743ec4b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:12.723929",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

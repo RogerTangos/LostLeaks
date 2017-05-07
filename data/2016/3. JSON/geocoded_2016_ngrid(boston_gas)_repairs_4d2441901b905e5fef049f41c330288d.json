@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4d2441901b905e5fef049f41c330288d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Waverley Avenue",
+                    "short_name": "Waverley Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Corner",
+                    "short_name": "Newton Corner",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02458",
+                    "short_name": "02458",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2103",
+                    "short_name": "2103",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Waverley Ave, Newton, MA 02458, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3543246,
+                        "lng": -71.1786736
+                    },
+                    "southwest": {
+                        "lat": 42.3543172,
+                        "lng": -71.1786896
+                    }
+                },
+                "location": {
+                    "lat": 42.3543246,
+                    "lng": -71.1786896
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3556698802915,
+                        "lng": -71.17733261970848
+                    },
+                    "southwest": {
+                        "lat": 42.3529719197085,
+                        "lng": -71.18003058029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiYzMSBXYXZlcmxleSBBdmUsIE5ld3RvbiwgTUEgMDI0NTgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4d2441901b905e5fef049f41c330288d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:49.714213",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

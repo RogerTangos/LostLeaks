@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_50d5ef0a21b39fd3ca89c0235ae72ad1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "159",
+                    "short_name": "159",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Eastern Avenue",
+                    "short_name": "Eastern Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5605",
+                    "short_name": "5605",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "159 Eastern Ave, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4250555,
+                        "lng": -71.06350789999999
+                    },
+                    "southwest": {
+                        "lat": 42.425044,
+                        "lng": -71.06351830000001
+                    }
+                },
+                "location": {
+                    "lat": 42.425044,
+                    "lng": -71.06350789999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4263987302915,
+                        "lng": -71.0621641197085
+                    },
+                    "southwest": {
+                        "lat": 42.4237007697085,
+                        "lng": -71.0648620802915
+                    }
+                }
+            },
+            "place_id": "EiYxNTkgRWFzdGVybiBBdmUsIE1hbGRlbiwgTUEgMDIxNDgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "50d5ef0a21b39fd3ca89c0235ae72ad1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:46.879718",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

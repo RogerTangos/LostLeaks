@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7c59a0a42589b409485c2bfd9d1755b9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Lagrange Street",
+                    "short_name": "Lagrange St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brook Farm",
+                    "short_name": "Brook Farm",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02132",
+                    "short_name": "02132",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Lagrange St & Vermont St, Boston, MA 02132, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2874481,
+                    "lng": -71.1653181
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.28879708029149,
+                        "lng": -71.1639691197085
+                    },
+                    "southwest": {
+                        "lat": 42.2860991197085,
+                        "lng": -71.1666670802915
+                    }
+                }
+            },
+            "place_id": "Ei9MYWdyYW5nZSBTdCAmIFZlcm1vbnQgU3QsIEJvc3RvbiwgTUEgMDIxMzIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "7c59a0a42589b409485c2bfd9d1755b9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:54.992532",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_80d6d2fc8a0f587150a08be45cdb1c90.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Columbia Road",
+                    "short_name": "Columbia Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02121",
+                    "short_name": "02121",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "150 Columbia Rd, Boston, MA 02121, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3061643,
+                    "lng": -71.07902709999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3075132802915,
+                        "lng": -71.07767811970848
+                    },
+                    "southwest": {
+                        "lat": 42.3048153197085,
+                        "lng": -71.08037608029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJL1c_fMZ744kRC17QUlSyhVE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "80d6d2fc8a0f587150a08be45cdb1c90",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:32.104140",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9c6fe7de413fa012df81fec0279f935a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newtonville",
+                    "short_name": "Newtonville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Washington St & Walnut St, Newton, MA 02460, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3516103,
+                    "lng": -71.2073681
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35295928029149,
+                        "lng": -71.20601911970849
+                    },
+                    "southwest": {
+                        "lat": 42.3502613197085,
+                        "lng": -71.2087170802915
+                    }
+                }
+            },
+            "place_id": "EjBXYXNoaW5ndG9uIFN0ICYgV2FsbnV0IFN0LCBOZXd0b24sIE1BIDAyNDYwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "9c6fe7de413fa012df81fec0279f935a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:57.172502",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_51e6cccfb25874b26877e0c1ee56330b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "326",
+                    "short_name": "326",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lebanon Street",
+                    "short_name": "Lebanon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "326 Lebanon St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.439362,
+                        "lng": -71.0481119
+                    },
+                    "southwest": {
+                        "lat": 42.4393557,
+                        "lng": -71.0481286
+                    }
+                },
+                "location": {
+                    "lat": 42.4393557,
+                    "lng": -71.0481286
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44070783029149,
+                        "lng": -71.04677126970849
+                    },
+                    "southwest": {
+                        "lat": 42.43800986970849,
+                        "lng": -71.0494692302915
+                    }
+                }
+            },
+            "place_id": "EiUzMjYgTGViYW5vbiBTdCwgTWFsZGVuLCBNQSAwMjE0OCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "51e6cccfb25874b26877e0c1ee56330b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:00.636219",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

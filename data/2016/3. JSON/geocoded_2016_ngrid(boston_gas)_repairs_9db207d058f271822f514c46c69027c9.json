@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9db207d058f271822f514c46c69027c9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln Street",
+                    "short_name": "Lincoln St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2316",
+                    "short_name": "2316",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Lincoln St, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2844854,
+                        "lng": -70.87377699999999
+                    },
+                    "southwest": {
+                        "lat": 42.2844728,
+                        "lng": -70.87378509999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2844854,
+                    "lng": -70.87378509999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2858280802915,
+                        "lng": -70.8724320697085
+                    },
+                    "southwest": {
+                        "lat": 42.2831301197085,
+                        "lng": -70.8751300302915
+                    }
+                }
+            },
+            "place_id": "EiE3IExpbmNvbG4gU3QsIEh1bGwsIE1BIDAyMDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9db207d058f271822f514c46c69027c9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:20.715639",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

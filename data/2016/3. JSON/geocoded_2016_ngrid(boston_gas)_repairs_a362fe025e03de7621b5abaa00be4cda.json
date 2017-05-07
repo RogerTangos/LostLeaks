@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a362fe025e03de7621b5abaa00be4cda.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ten Hills Road",
+                    "short_name": "Ten Hills Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ten Hills",
+                    "short_name": "Ten Hills",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02145",
+                    "short_name": "02145",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1023",
+                    "short_name": "1023",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Ten Hills Rd, Somerville, MA 02145, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3957444,
+                        "lng": -71.08573679999999
+                    },
+                    "southwest": {
+                        "lat": 42.3955876,
+                        "lng": -71.0859497
+                    }
+                },
+                "location": {
+                    "lat": 42.395666,
+                    "lng": -71.0858432
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39701498029149,
+                        "lng": -71.0844942697085
+                    },
+                    "southwest": {
+                        "lat": 42.3943170197085,
+                        "lng": -71.0871922302915
+                    }
+                }
+            },
+            "place_id": "ChIJgRpQDyhx44kR4DN28r34gNA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "a362fe025e03de7621b5abaa00be4cda",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:48.730588",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

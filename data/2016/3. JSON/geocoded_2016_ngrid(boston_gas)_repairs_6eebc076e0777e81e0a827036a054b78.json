@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6eebc076e0777e81e0a827036a054b78.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Brookhouse Drive",
+                    "short_name": "Brookhouse Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1611",
+                    "short_name": "1611",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Brookhouse Dr, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.48536199999999,
+                        "lng": -70.8884956
+                    },
+                    "southwest": {
+                        "lat": 42.4852412,
+                        "lng": -70.88867379999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4853016,
+                    "lng": -70.8885847
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4866505802915,
+                        "lng": -70.8872357197085
+                    },
+                    "southwest": {
+                        "lat": 42.4839526197085,
+                        "lng": -70.8899336802915
+                    }
+                }
+            },
+            "place_id": "ChIJLZTn8bkU44kRxn5wsSsW9sk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6eebc076e0777e81e0a827036a054b78",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:42.864391",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

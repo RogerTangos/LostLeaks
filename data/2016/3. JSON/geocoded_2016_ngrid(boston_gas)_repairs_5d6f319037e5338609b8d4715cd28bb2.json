@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5d6f319037e5338609b8d4715cd28bb2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "535",
+                    "short_name": "535",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "535 Broadway, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4127904,
+                        "lng": -71.0101577
+                    },
+                    "southwest": {
+                        "lat": 42.4126033,
+                        "lng": -71.0105257
+                    }
+                },
+                "location": {
+                    "lat": 42.4126969,
+                    "lng": -71.0103417
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4140458302915,
+                        "lng": -71.00899271970849
+                    },
+                    "southwest": {
+                        "lat": 42.4113478697085,
+                        "lng": -71.0116906802915
+                    }
+                }
+            },
+            "place_id": "ChIJTS-4CPtx44kRNy62_X8xKlk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5d6f319037e5338609b8d4715cd28bb2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:46.192796",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

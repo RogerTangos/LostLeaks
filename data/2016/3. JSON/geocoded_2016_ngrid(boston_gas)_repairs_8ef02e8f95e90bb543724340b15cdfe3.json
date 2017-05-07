@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8ef02e8f95e90bb543724340b15cdfe3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "123",
+                    "short_name": "123",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Street",
+                    "short_name": "North St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newtonville",
+                    "short_name": "Newtonville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02460",
+                    "short_name": "02460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1008",
+                    "short_name": "1008",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "123 North St, Newtonville, MA 02460, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3633918,
+                    "lng": -71.2183464
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36474078029149,
+                        "lng": -71.21699741970849
+                    },
+                    "southwest": {
+                        "lat": 42.36204281970849,
+                        "lng": -71.21969538029151
+                    }
+                }
+            },
+            "place_id": "ChIJA5Pi-sCC44kRqIPX3furzoM",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8ef02e8f95e90bb543724340b15cdfe3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:26.229412",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

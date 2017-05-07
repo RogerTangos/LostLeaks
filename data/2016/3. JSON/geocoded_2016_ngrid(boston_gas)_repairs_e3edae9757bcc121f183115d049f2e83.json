@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e3edae9757bcc121f183115d049f2e83.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carnegie Row",
+                    "short_name": "Carnegie Row",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5009",
+                    "short_name": "5009",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Carnegie Row, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1717073,
+                        "lng": -71.1926515
+                    },
+                    "southwest": {
+                        "lat": 42.1713004,
+                        "lng": -71.1933177
+                    }
+                },
+                "location": {
+                    "lat": 42.1715039,
+                    "lng": -71.1929846
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1728528302915,
+                        "lng": -71.19163561970849
+                    },
+                    "southwest": {
+                        "lat": 42.1701548697085,
+                        "lng": -71.19433358029151
+                    }
+                }
+            },
+            "place_id": "ChIJUf-MXCd-5IkRNZ0xmEnuvB0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e3edae9757bcc121f183115d049f2e83",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:51.036872",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

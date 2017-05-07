@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72fc9bb00a816d4ae351fe55a04bd393.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lovell Street",
+                    "short_name": "Lovell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Lovell St, Boston, MA 02128, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3796261,
+                    "lng": -71.0209844
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3809750802915,
+                        "lng": -71.0196354197085
+                    },
+                    "southwest": {
+                        "lat": 42.3782771197085,
+                        "lng": -71.0223333802915
+                    }
+                }
+            },
+            "place_id": "ChIJd_lqqDZw44kRtTbbLKg-2mI",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "72fc9bb00a816d4ae351fe55a04bd393",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:31.982464",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

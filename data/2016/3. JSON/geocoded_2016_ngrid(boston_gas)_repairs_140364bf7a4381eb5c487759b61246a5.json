@@ -1,0 +1,94 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_140364bf7a4381eb5c487759b61246a5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Forsythia Lane",
+                    "short_name": "Forsythia Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Forsythia Ln, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.135893,
+                        "lng": -70.928663
+                    },
+                    "southwest": {
+                        "lat": 42.135367,
+                        "lng": -70.9299437
+                    }
+                },
+                "location": {
+                    "lat": 42.135725,
+                    "lng": -70.929265
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1369789802915,
+                        "lng": -70.92795436970849
+                    },
+                    "southwest": {
+                        "lat": 42.1342810197085,
+                        "lng": -70.93065233029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJjUL3zjWc5IkRgSwwHmrzjzs",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "140364bf7a4381eb5c487759b61246a5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:21.646412",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

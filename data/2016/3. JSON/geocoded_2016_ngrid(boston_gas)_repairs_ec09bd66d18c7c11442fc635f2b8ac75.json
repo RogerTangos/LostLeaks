@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ec09bd66d18c7c11442fc635f2b8ac75.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Verndale Road",
+                    "short_name": "Verndale Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1414",
+                    "short_name": "1414",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Verndale Rd, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2585509,
+                        "lng": -71.0948196
+                    },
+                    "southwest": {
+                        "lat": 42.2583809,
+                        "lng": -71.0950213
+                    }
+                },
+                "location": {
+                    "lat": 42.2584659,
+                    "lng": -71.0949205
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.25981488029149,
+                        "lng": -71.0935714697085
+                    },
+                    "southwest": {
+                        "lat": 42.2571169197085,
+                        "lng": -71.0962694302915
+                    }
+                }
+            },
+            "place_id": "ChIJP-_OLSd844kRZk_QVCI5Crk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ec09bd66d18c7c11442fc635f2b8ac75",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:18.541947",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

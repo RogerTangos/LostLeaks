@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_30fb5ec73dcb82d6e503654dad86e08c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "248",
+                    "short_name": "248",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Street",
+                    "short_name": "South St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "248 South St, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2378546,
+                        "lng": -70.9018674
+                    },
+                    "southwest": {
+                        "lat": 42.2378461,
+                        "lng": -70.9018822
+                    }
+                },
+                "location": {
+                    "lat": 42.2378461,
+                    "lng": -70.9018674
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2391993302915,
+                        "lng": -70.9005258197085
+                    },
+                    "southwest": {
+                        "lat": 42.2365013697085,
+                        "lng": -70.90322378029151
+                    }
+                }
+            },
+            "place_id": "EiQyNDggU291dGggU3QsIEhpbmdoYW0sIE1BIDAyMDQzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "30fb5ec73dcb82d6e503654dad86e08c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:24.206135",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

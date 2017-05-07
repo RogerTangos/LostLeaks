@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ba69606e0c715f0d8d49eab5cd98d868.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "392",
+                    "short_name": "392",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Homer Street",
+                    "short_name": "Homer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "392 Homer St, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.336606,
+                        "lng": -71.208517
+                    },
+                    "southwest": {
+                        "lat": 42.33659309999999,
+                        "lng": -71.20852409999999
+                    }
+                },
+                "location": {
+                    "lat": 42.33659309999999,
+                    "lng": -71.20852409999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33794853029149,
+                        "lng": -71.20717156970848
+                    },
+                    "southwest": {
+                        "lat": 42.33525056970849,
+                        "lng": -71.20986953029148
+                    }
+                }
+            },
+            "place_id": "EiMzOTIgSG9tZXIgU3QsIE5ld3RvbiwgTUEgMDI0NTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ba69606e0c715f0d8d49eab5cd98d868",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:56.451054",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

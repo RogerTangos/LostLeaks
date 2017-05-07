@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9b7849057b864487724f275298a957fc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "39",
+                    "short_name": "39",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Taft Avenue",
+                    "short_name": "Taft Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Newton",
+                    "short_name": "West Newton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02465",
+                    "short_name": "02465",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1325",
+                    "short_name": "1325",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "39 Taft Ave, West Newton, MA 02465, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3620538,
+                    "lng": -71.2229928
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3634027802915,
+                        "lng": -71.2216438197085
+                    },
+                    "southwest": {
+                        "lat": 42.3607048197085,
+                        "lng": -71.22434178029151
+                    }
+                }
+            },
+            "place_id": "ChIJ-b3fD8KC44kRqqwl2vOvrJk",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9b7849057b864487724f275298a957fc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:54.820090",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

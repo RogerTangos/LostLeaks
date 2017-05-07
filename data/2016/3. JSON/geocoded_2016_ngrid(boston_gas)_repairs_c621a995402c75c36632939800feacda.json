@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c621a995402c75c36632939800feacda.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Munroe Street",
+                    "short_name": "Munroe St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newburyport",
+                    "short_name": "Newburyport",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01950",
+                    "short_name": "01950",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2223",
+                    "short_name": "2223",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Munroe St, Newburyport, MA 01950, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8143502,
+                        "lng": -70.8819791
+                    },
+                    "southwest": {
+                        "lat": 42.8143405,
+                        "lng": -70.88199230000001
+                    }
+                },
+                "location": {
+                    "lat": 42.8143502,
+                    "lng": -70.8819791
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8156943302915,
+                        "lng": -70.88063671970849
+                    },
+                    "southwest": {
+                        "lat": 42.8129963697085,
+                        "lng": -70.88333468029151
+                    }
+                }
+            },
+            "place_id": "Eic4IE11bnJvZSBTdCwgTmV3YnVyeXBvcnQsIE1BIDAxOTUwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c621a995402c75c36632939800feacda",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:02.268182",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

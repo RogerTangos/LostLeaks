@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fca82f08d129a7a3c058159d6b6abf70.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "64",
+                    "short_name": "64",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Piermont Street",
+                    "short_name": "Piermont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2516",
+                    "short_name": "2516",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "64 Piermont St, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2625153,
+                        "lng": -71.0322812
+                    },
+                    "southwest": {
+                        "lat": 42.2623988,
+                        "lng": -71.03252789999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2624571,
+                    "lng": -71.03240459999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2638060302915,
+                        "lng": -71.0310555697085
+                    },
+                    "southwest": {
+                        "lat": 42.2611080697085,
+                        "lng": -71.0337535302915
+                    }
+                }
+            },
+            "place_id": "ChIJtW4gB5p844kRFdlaJx3NNgE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fca82f08d129a7a3c058159d6b6abf70",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:52.715754",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

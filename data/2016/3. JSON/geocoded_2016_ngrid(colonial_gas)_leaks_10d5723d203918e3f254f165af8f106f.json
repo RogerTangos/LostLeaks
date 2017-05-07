@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_10d5723d203918e3f254f165af8f106f.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Colonial Drive",
+                    "short_name": "Colonial Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Shrewsbury",
+                    "short_name": "Shrewsbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01545",
+                    "short_name": "01545",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1522",
+                    "short_name": "1522",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Colonial Dr, Shrewsbury, MA 01545, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3259682,
+                        "lng": -71.71491940000001
+                    },
+                    "southwest": {
+                        "lat": 42.3257904,
+                        "lng": -71.7151737
+                    }
+                },
+                "location": {
+                    "lat": 42.3258793,
+                    "lng": -71.7150466
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3272282802915,
+                        "lng": -71.7136975697085
+                    },
+                    "southwest": {
+                        "lat": 42.3245303197085,
+                        "lng": -71.71639553029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJrwdpNMv344kRtiO3CaP4uVk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "10d5723d203918e3f254f165af8f106f",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:05:07.276484",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2f064e7ef3c13daf64afba2fcd350b8d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Glenwood Street",
+                    "short_name": "Glenwood St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2407",
+                    "short_name": "2407",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Glenwood St, Burlington, MA 01803, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.51179750000001,
+                        "lng": -71.2078901
+                    },
+                    "southwest": {
+                        "lat": 42.5116239,
+                        "lng": -71.2080852
+                    }
+                },
+                "location": {
+                    "lat": 42.51171069999999,
+                    "lng": -71.20798769999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.51305968029151,
+                        "lng": -71.2066386697085
+                    },
+                    "southwest": {
+                        "lat": 42.51036171970851,
+                        "lng": -71.2093366302915
+                    }
+                }
+            },
+            "place_id": "ChIJfyYpxumf44kRslwgo6nNgTk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2f064e7ef3c13daf64afba2fcd350b8d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:12.105345",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

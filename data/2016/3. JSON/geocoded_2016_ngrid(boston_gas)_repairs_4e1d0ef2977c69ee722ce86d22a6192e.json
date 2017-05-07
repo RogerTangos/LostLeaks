@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4e1d0ef2977c69ee722ce86d22a6192e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "42",
+                    "short_name": "42",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Haviland Avenue",
+                    "short_name": "Haviland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1523",
+                    "short_name": "1523",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "42 Haviland Ave, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4800297,
+                        "lng": -70.9408643
+                    },
+                    "southwest": {
+                        "lat": 42.4799146,
+                        "lng": -70.9410296
+                    }
+                },
+                "location": {
+                    "lat": 42.4799722,
+                    "lng": -70.9409469
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4813211302915,
+                        "lng": -70.93959796970849
+                    },
+                    "southwest": {
+                        "lat": 42.4786231697085,
+                        "lng": -70.9422959302915
+                    }
+                }
+            },
+            "place_id": "ChIJBQRhw81s44kR2YIqACsU8ns",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4e1d0ef2977c69ee722ce86d22a6192e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:24.944020",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

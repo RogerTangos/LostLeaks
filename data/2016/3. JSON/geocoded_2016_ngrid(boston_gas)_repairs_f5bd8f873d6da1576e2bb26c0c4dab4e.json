@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f5bd8f873d6da1576e2bb26c0c4dab4e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Huron Street",
+                    "short_name": "Huron St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1815",
+                    "short_name": "1815",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Huron St, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.47105080000001,
+                        "lng": -70.923407
+                    },
+                    "southwest": {
+                        "lat": 42.4708857,
+                        "lng": -70.9235763
+                    }
+                },
+                "location": {
+                    "lat": 42.4709683,
+                    "lng": -70.9234917
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4723172302915,
+                        "lng": -70.92214266970848
+                    },
+                    "southwest": {
+                        "lat": 42.4696192697085,
+                        "lng": -70.9248406302915
+                    }
+                }
+            },
+            "place_id": "ChIJA2hWDbps44kRGI9acIJ5Q5k",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f5bd8f873d6da1576e2bb26c0c4dab4e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:20.374073",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

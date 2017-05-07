@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d44c958c9a949160e96d50497e828de1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Beach Lane",
+                    "short_name": "Beach Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Hingham",
+                    "short_name": "Hingham",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02043",
+                    "short_name": "02043",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1128",
+                    "short_name": "1128",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Beach Ln, Hingham, MA 02043, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2610889,
+                        "lng": -70.9132821
+                    },
+                    "southwest": {
+                        "lat": 42.261078,
+                        "lng": -70.9132937
+                    }
+                },
+                "location": {
+                    "lat": 42.261078,
+                    "lng": -70.9132821
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2624324302915,
+                        "lng": -70.91193891970849
+                    },
+                    "southwest": {
+                        "lat": 42.2597344697085,
+                        "lng": -70.9146368802915
+                    }
+                }
+            },
+            "place_id": "EiMxMSBCZWFjaCBMbiwgSGluZ2hhbSwgTUEgMDIwNDMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d44c958c9a949160e96d50497e828de1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:40.599258",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

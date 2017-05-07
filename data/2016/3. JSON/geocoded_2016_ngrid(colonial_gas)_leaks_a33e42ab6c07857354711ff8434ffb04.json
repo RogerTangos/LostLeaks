@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_a33e42ab6c07857354711ff8434ffb04.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gardner Street",
+                    "short_name": "Gardner St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fairhaven",
+                    "short_name": "Fairhaven",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02719",
+                    "short_name": "02719",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4724",
+                    "short_name": "4724",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Gardner St, Fairhaven, MA 02719, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6518304,
+                        "lng": -70.892196
+                    },
+                    "southwest": {
+                        "lat": 41.6518166,
+                        "lng": -70.8921991
+                    }
+                },
+                "location": {
+                    "lat": 41.6518166,
+                    "lng": -70.892196
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.6531724802915,
+                        "lng": -70.89084856970848
+                    },
+                    "southwest": {
+                        "lat": 41.6504745197085,
+                        "lng": -70.8935465302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiY1IEdhcmRuZXIgU3QsIEZhaXJoYXZlbiwgTUEgMDI3MTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a33e42ab6c07857354711ff8434ffb04",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:44.325966",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

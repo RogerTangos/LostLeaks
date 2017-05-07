@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_27b173ed1879ed2c075be7f8d34e07a3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elmlawn Road",
+                    "short_name": "Elmlawn Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1526",
+                    "short_name": "1526",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Elmlawn Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2274958,
+                        "lng": -70.99391589999999
+                    },
+                    "southwest": {
+                        "lat": 42.2273667,
+                        "lng": -70.9940975
+                    }
+                },
+                "location": {
+                    "lat": 42.2274312,
+                    "lng": -70.9940067
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2287802302915,
+                        "lng": -70.99265771970848
+                    },
+                    "southwest": {
+                        "lat": 42.2260822697085,
+                        "lng": -70.9953556802915
+                    }
+                }
+            },
+            "place_id": "ChIJdUBF1ylj44kRUewIzV6SfAk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "27b173ed1879ed2c075be7f8d34e07a3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:44.167222",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

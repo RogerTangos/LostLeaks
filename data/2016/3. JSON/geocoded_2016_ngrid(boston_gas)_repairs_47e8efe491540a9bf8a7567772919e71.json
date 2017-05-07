@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_47e8efe491540a9bf8a7567772919e71.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Orchard Avenue",
+                    "short_name": "Orchard Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3260",
+                    "short_name": "3260",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Orchard Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4620281,
+                        "lng": -71.0217863
+                    },
+                    "southwest": {
+                        "lat": 42.4620143,
+                        "lng": -71.0217873
+                    }
+                },
+                "location": {
+                    "lat": 42.4620281,
+                    "lng": -71.0217873
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4633701802915,
+                        "lng": -71.0204378197085
+                    },
+                    "southwest": {
+                        "lat": 42.46067221970851,
+                        "lng": -71.02313578029151
+                    }
+                }
+            },
+            "place_id": "EiQ0IE9yY2hhcmQgQXZlLCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "47e8efe491540a9bf8a7567772919e71",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:05.100182",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

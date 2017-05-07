@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6443ed2ee79af850010e806c58117726.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2",
+                    "short_name": "2",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chapel Street",
+                    "short_name": "Chapel St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newburyport",
+                    "short_name": "Newburyport",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01950",
+                    "short_name": "01950",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2006",
+                    "short_name": "2006",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2 Chapel St, Newburyport, MA 01950, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8209703,
+                        "lng": -70.88749290000001
+                    },
+                    "southwest": {
+                        "lat": 42.820836,
+                        "lng": -70.8876828
+                    }
+                },
+                "location": {
+                    "lat": 42.8209032,
+                    "lng": -70.88758779999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8222521302915,
+                        "lng": -70.88623886970849
+                    },
+                    "southwest": {
+                        "lat": 42.8195541697085,
+                        "lng": -70.8889368302915
+                    }
+                }
+            },
+            "place_id": "ChIJXWDkvnPh4okRW1k53gOZ65c",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "6443ed2ee79af850010e806c58117726",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:02.215558",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

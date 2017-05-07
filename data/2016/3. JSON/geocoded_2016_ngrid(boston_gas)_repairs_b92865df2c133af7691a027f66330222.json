@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b92865df2c133af7691a027f66330222.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Highland Terrace",
+                    "short_name": "Highland Terrace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Highland Terrace, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5461488,
+                        "lng": -70.88189229999999
+                    },
+                    "southwest": {
+                        "lat": 42.5461358,
+                        "lng": -70.8818987
+                    }
+                },
+                "location": {
+                    "lat": 42.5461358,
+                    "lng": -70.8818987
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5474912802915,
+                        "lng": -70.88054651970849
+                    },
+                    "southwest": {
+                        "lat": 42.5447933197085,
+                        "lng": -70.8832444802915
+                    }
+                }
+            },
+            "place_id": "EiozIEhpZ2hsYW5kIFRlcnJhY2UsIEJldmVybHksIE1BIDAxOTE1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b92865df2c133af7691a027f66330222",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:26.172089",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

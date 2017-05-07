@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8ac76d8f349ea1cd2de91cd7196d0f33.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Charlestown",
+                    "short_name": "Charlestown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02129",
+                    "short_name": "02129",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3314",
+                    "short_name": "3314",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "27 High St, Charlestown, MA 02129, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.376243,
+                    "lng": -71.0622456
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37759198029149,
+                        "lng": -71.0608966197085
+                    },
+                    "southwest": {
+                        "lat": 42.3748940197085,
+                        "lng": -71.06359458029151
+                    }
+                }
+            },
+            "place_id": "ChIJiauK-u1w44kRkEppyc2UpLY",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8ac76d8f349ea1cd2de91cd7196d0f33",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:53.056714",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

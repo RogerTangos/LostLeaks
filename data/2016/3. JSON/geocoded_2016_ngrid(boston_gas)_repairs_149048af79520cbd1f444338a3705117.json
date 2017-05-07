@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_149048af79520cbd1f444338a3705117.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "115",
+                    "short_name": "115",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wood Road",
+                    "short_name": "Wood Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "115 Wood Rd, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2242387,
+                        "lng": -71.0356659
+                    },
+                    "southwest": {
+                        "lat": 42.2239458,
+                        "lng": -71.0362579
+                    }
+                },
+                "location": {
+                    "lat": 42.2240922,
+                    "lng": -71.0359619
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2254412302915,
+                        "lng": -71.0346129197085
+                    },
+                    "southwest": {
+                        "lat": 42.2227432697085,
+                        "lng": -71.0373108802915
+                    }
+                }
+            },
+            "place_id": "ChIJ3_-KbhB944kR07qNb5YIjNw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "149048af79520cbd1f444338a3705117",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:01.539981",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

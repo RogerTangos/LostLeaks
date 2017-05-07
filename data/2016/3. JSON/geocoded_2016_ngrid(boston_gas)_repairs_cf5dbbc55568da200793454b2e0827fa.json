@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cf5dbbc55568da200793454b2e0827fa.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "39",
+                    "short_name": "39",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fairbanks Road",
+                    "short_name": "Fairbanks Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02421",
+                    "short_name": "02421",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7728",
+                    "short_name": "7728",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "39 Fairbanks Rd, Lexington, MA 02421, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.43219120000001,
+                        "lng": -71.2458039
+                    },
+                    "southwest": {
+                        "lat": 42.431967,
+                        "lng": -71.2459895
+                    }
+                },
+                "location": {
+                    "lat": 42.4320791,
+                    "lng": -71.2458967
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43342808029151,
+                        "lng": -71.24454771970848
+                    },
+                    "southwest": {
+                        "lat": 42.43073011970851,
+                        "lng": -71.2472456802915
+                    }
+                }
+            },
+            "place_id": "ChIJDelCB06c44kRRVPgNZ8SQoM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cf5dbbc55568da200793454b2e0827fa",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:52.006202",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c607f94f5305416f8bcaa4554e837e12.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Valley Street",
+                    "short_name": "Valley St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2020",
+                    "short_name": "2020",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Valley St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.40958029999999,
+                        "lng": -71.0648949
+                    },
+                    "southwest": {
+                        "lat": 42.4095729,
+                        "lng": -71.06491079999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4095729,
+                    "lng": -71.06491079999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4109255802915,
+                        "lng": -71.06355386970849
+                    },
+                    "southwest": {
+                        "lat": 42.4082276197085,
+                        "lng": -71.0662518302915
+                    }
+                }
+            },
+            "place_id": "EiQ0NCBWYWxsZXkgU3QsIEV2ZXJldHQsIE1BIDAyMTQ5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c607f94f5305416f8bcaa4554e837e12",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:41.215133",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

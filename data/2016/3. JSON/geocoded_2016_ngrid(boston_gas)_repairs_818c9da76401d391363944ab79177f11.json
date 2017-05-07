@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_818c9da76401d391363944ab79177f11.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "45",
+                    "short_name": "45",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Chapin Road",
+                    "short_name": "Chapin Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1806",
+                    "short_name": "1806",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "45 Chapin Rd, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.33399490000001,
+                        "lng": -71.1998863
+                    },
+                    "southwest": {
+                        "lat": 42.3339874,
+                        "lng": -71.1999021
+                    }
+                },
+                "location": {
+                    "lat": 42.3339874,
+                    "lng": -71.1998863
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3353401302915,
+                        "lng": -71.1985452197085
+                    },
+                    "southwest": {
+                        "lat": 42.3326421697085,
+                        "lng": -71.20124318029151
+                    }
+                }
+            },
+            "place_id": "EiM0NSBDaGFwaW4gUmQsIE5ld3RvbiwgTUEgMDI0NTksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "818c9da76401d391363944ab79177f11",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:45.888913",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

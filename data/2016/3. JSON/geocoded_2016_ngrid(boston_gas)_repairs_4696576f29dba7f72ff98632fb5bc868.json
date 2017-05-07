@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4696576f29dba7f72ff98632fb5bc868.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Saint Paul Street",
+                    "short_name": "St Paul St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Coolidge Corner South Side",
+                    "short_name": "Coolidge Corner South Side",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02446",
+                    "short_name": "02446",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "15 St Paul St, Brookline, MA 02446, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3376402,
+                        "lng": -71.11805989999999
+                    },
+                    "southwest": {
+                        "lat": 42.3371825,
+                        "lng": -71.11849099999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3374113,
+                    "lng": -71.1182755
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33876033029149,
+                        "lng": -71.11692646970849
+                    },
+                    "southwest": {
+                        "lat": 42.3360623697085,
+                        "lng": -71.1196244302915
+                    }
+                }
+            },
+            "place_id": "ChIJGc3QWJZ544kRLgaC4HlMr7g",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4696576f29dba7f72ff98632fb5bc868",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:27.528244",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

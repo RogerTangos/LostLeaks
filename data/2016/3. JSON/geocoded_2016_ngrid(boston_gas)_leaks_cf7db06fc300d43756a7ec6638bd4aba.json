@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_cf7db06fc300d43756a7ec6638bd4aba.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "61",
+                    "short_name": "61",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Main Street",
+                    "short_name": "W Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Merrimac",
+                    "short_name": "Merrimac",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01860",
+                    "short_name": "01860",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "61 W Main St, Merrimac, MA 01860, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8338628,
+                        "lng": -71.0023398
+                    },
+                    "southwest": {
+                        "lat": 42.8338505,
+                        "lng": -71.00234809999999
+                    }
+                },
+                "location": {
+                    "lat": 42.8338505,
+                    "lng": -71.0023398
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8352056302915,
+                        "lng": -71.00099496970849
+                    },
+                    "southwest": {
+                        "lat": 42.8325076697085,
+                        "lng": -71.00369293029149
+                    }
+                }
+            },
+            "place_id": "EiU2MSBXIE1haW4gU3QsIE1lcnJpbWFjLCBNQSAwMTg2MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cf7db06fc300d43756a7ec6638bd4aba",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:42:40.345153",
+    "utility": "ngrid",
+    "year": 2016
+}

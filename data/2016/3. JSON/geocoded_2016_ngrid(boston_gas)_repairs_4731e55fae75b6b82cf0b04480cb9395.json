@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4731e55fae75b6b82cf0b04480cb9395.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Conant Street",
+                    "short_name": "Conant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Conant St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5771346,
+                        "lng": -70.8929771
+                    },
+                    "southwest": {
+                        "lat": 42.5771211,
+                        "lng": -70.8929813
+                    }
+                },
+                "location": {
+                    "lat": 42.5771346,
+                    "lng": -70.8929771
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5784768302915,
+                        "lng": -70.89163021970849
+                    },
+                    "southwest": {
+                        "lat": 42.5757788697085,
+                        "lng": -70.89432818029151
+                    }
+                }
+            },
+            "place_id": "EiQxNSBDb25hbnQgU3QsIEJldmVybHksIE1BIDAxOTE1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4731e55fae75b6b82cf0b04480cb9395",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:19.401272",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b8259013017fe832c7cab485e5003492.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "280",
+                    "short_name": "280",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cypress Street",
+                    "short_name": "Cypress St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6764",
+                    "short_name": "6764",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "280 Cypress St, Brookline, MA 02445, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3259988,
+                        "lng": -71.1225954
+                    },
+                    "southwest": {
+                        "lat": 42.32589470000001,
+                        "lng": -71.1227214
+                    }
+                },
+                "location": {
+                    "lat": 42.3259467,
+                    "lng": -71.12265839999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3272957302915,
+                        "lng": -71.1213094197085
+                    },
+                    "southwest": {
+                        "lat": 42.3245977697085,
+                        "lng": -71.1240073802915
+                    }
+                }
+            },
+            "place_id": "ChIJAeo-baB544kRLE21thQ4NvU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b8259013017fe832c7cab485e5003492",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:07.281003",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

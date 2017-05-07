@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b657fadcdbb968110edb1613fd1a43b6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "298",
+                    "short_name": "298",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lynn Fells Parkway",
+                    "short_name": "Lynn Fells Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "298 Lynn Fells Pkwy, Saugus, MA 01906, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4786156,
+                        "lng": -71.02916909999999
+                    },
+                    "southwest": {
+                        "lat": 42.4786041,
+                        "lng": -71.0291795
+                    }
+                },
+                "location": {
+                    "lat": 42.4786156,
+                    "lng": -71.0291795
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.47995883029149,
+                        "lng": -71.02782531970848
+                    },
+                    "southwest": {
+                        "lat": 42.47726086970849,
+                        "lng": -71.0305232802915
+                    }
+                }
+            },
+            "place_id": "EioyOTggTHlubiBGZWxscyBQa3d5LCBTYXVndXMsIE1BIDAxOTA2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b657fadcdbb968110edb1613fd1a43b6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:21.457803",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

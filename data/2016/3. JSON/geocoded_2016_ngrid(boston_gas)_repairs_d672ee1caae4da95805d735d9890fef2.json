@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d672ee1caae4da95805d735d9890fef2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "91",
+                    "short_name": "91",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Slater Street",
+                    "short_name": "Slater St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2334",
+                    "short_name": "2334",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "91 Slater St, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0625381,
+                        "lng": -71.877012
+                    },
+                    "southwest": {
+                        "lat": 42.06252569999999,
+                        "lng": -71.8770207
+                    }
+                },
+                "location": {
+                    "lat": 42.06252569999999,
+                    "lng": -71.8770207
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.06388088029149,
+                        "lng": -71.8756673697085
+                    },
+                    "southwest": {
+                        "lat": 42.06118291970849,
+                        "lng": -71.87836533029152
+                    }
+                }
+            },
+            "place_id": "EiQ5MSBTbGF0ZXIgU3QsIFdlYnN0ZXIsIE1BIDAxNTcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d672ee1caae4da95805d735d9890fef2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:49.415668",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

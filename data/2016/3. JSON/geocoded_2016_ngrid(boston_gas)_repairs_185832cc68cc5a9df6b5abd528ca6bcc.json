@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_185832cc68cc5a9df6b5abd528ca6bcc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Swallow Cave Road",
+                    "short_name": "Swallow Cave Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nahant",
+                    "short_name": "Nahant",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01908",
+                    "short_name": "01908",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Swallow Cave Rd & Vernon St, Nahant, MA 01908, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4183891,
+                    "lng": -70.90860099999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41973808029149,
+                        "lng": -70.9072520197085
+                    },
+                    "southwest": {
+                        "lat": 42.4170401197085,
+                        "lng": -70.9099499802915
+                    }
+                }
+            },
+            "place_id": "EjJTd2FsbG93IENhdmUgUmQgJiBWZXJub24gU3QsIE5haGFudCwgTUEgMDE5MDgsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "185832cc68cc5a9df6b5abd528ca6bcc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:55.021528",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

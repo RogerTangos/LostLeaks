@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_84c7003c13534b051d11dc1ef84f29db.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "189",
+                    "short_name": "189",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "189 Pleasant St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4135177,
+                        "lng": -71.6829199
+                    },
+                    "southwest": {
+                        "lat": 42.4135067,
+                        "lng": -71.68293129999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4135067,
+                    "lng": -71.68293129999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4148611802915,
+                        "lng": -71.6815766197085
+                    },
+                    "southwest": {
+                        "lat": 42.4121632197085,
+                        "lng": -71.6842745802915
+                    }
+                }
+            },
+            "place_id": "EicxODkgUGxlYXNhbnQgU3QsIENsaW50b24sIE1BIDAxNTEwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "84c7003c13534b051d11dc1ef84f29db",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:42.077161",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

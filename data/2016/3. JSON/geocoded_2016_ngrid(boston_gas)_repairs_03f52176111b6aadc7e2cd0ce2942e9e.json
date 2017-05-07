@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_03f52176111b6aadc7e2cd0ce2942e9e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "17",
+                    "short_name": "17",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Uphill Lane",
+                    "short_name": "Uphill Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1726",
+                    "short_name": "1726",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "17 Uphill Ln, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.49285769999999,
+                        "lng": -70.964247
+                    },
+                    "southwest": {
+                        "lat": 42.4927147,
+                        "lng": -70.96443909999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4927862,
+                    "lng": -70.9643431
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.49413518029149,
+                        "lng": -70.96299406970849
+                    },
+                    "southwest": {
+                        "lat": 42.4914372197085,
+                        "lng": -70.9656920302915
+                    }
+                }
+            },
+            "place_id": "ChIJBc__J9IS44kRDxsNVeQO6jE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "03f52176111b6aadc7e2cd0ce2942e9e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:15.930447",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

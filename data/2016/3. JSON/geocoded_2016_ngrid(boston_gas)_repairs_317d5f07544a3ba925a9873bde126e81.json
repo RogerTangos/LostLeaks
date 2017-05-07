@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_317d5f07544a3ba925a9873bde126e81.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "145",
+                    "short_name": "145",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Maple Street",
+                    "short_name": "Maple St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2060",
+                    "short_name": "2060",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "145 Maple St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.569487,
+                        "lng": -70.9390078
+                    },
+                    "southwest": {
+                        "lat": 42.5693475,
+                        "lng": -70.9391979
+                    }
+                },
+                "location": {
+                    "lat": 42.5694172,
+                    "lng": -70.9391028
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5707662302915,
+                        "lng": -70.9377538697085
+                    },
+                    "southwest": {
+                        "lat": 42.5680682697085,
+                        "lng": -70.94045183029151
+                    }
+                }
+            },
+            "place_id": "ChIJjbzOem8R44kRX_AtNA3u6ig",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "317d5f07544a3ba925a9873bde126e81",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:12.812261",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

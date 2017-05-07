@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1ac9b44acd3204ef971b751d0d6eb236.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "89",
+                    "short_name": "89",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cliff Street",
+                    "short_name": "Cliff St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1421",
+                    "short_name": "1421",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "89 Cliff St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2528629,
+                        "lng": -71.0328696
+                    },
+                    "southwest": {
+                        "lat": 42.2527315,
+                        "lng": -71.0330609
+                    }
+                },
+                "location": {
+                    "lat": 42.2527972,
+                    "lng": -71.0329653
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2541461802915,
+                        "lng": -71.0316162697085
+                    },
+                    "southwest": {
+                        "lat": 42.2514482197085,
+                        "lng": -71.0343142302915
+                    }
+                }
+            },
+            "place_id": "ChIJH6QUs-x844kRN2QPyiD1ewg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "1ac9b44acd3204ef971b751d0d6eb236",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:32.370254",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3f10bd139a37982a677df78417855f4d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "171",
+                    "short_name": "171",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cherry Street",
+                    "short_name": "Cherry St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1603",
+                    "short_name": "1603",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "171 Cherry St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4385296,
+                        "lng": -71.0545018
+                    },
+                    "southwest": {
+                        "lat": 42.4385185,
+                        "lng": -71.0545132
+                    }
+                },
+                "location": {
+                    "lat": 42.4385296,
+                    "lng": -71.0545018
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43987303029149,
+                        "lng": -71.0531585197085
+                    },
+                    "southwest": {
+                        "lat": 42.43717506970849,
+                        "lng": -71.05585648029151
+                    }
+                }
+            },
+            "place_id": "EiQxNzEgQ2hlcnJ5IFN0LCBNYWxkZW4sIE1BIDAyMTQ4LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3f10bd139a37982a677df78417855f4d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:17.431648",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

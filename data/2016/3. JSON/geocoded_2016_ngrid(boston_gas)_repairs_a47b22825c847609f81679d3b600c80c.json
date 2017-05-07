@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a47b22825c847609f81679d3b600c80c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Sea Street",
+                    "short_name": "Sea St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Sea St & Samoset Ave, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2613593,
+                    "lng": -70.9928983
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2627082802915,
+                        "lng": -70.99154931970848
+                    },
+                    "southwest": {
+                        "lat": 42.2600103197085,
+                        "lng": -70.99424728029149
+                    }
+                }
+            },
+            "place_id": "EitTZWEgU3QgJiBTYW1vc2V0IEF2ZSwgUXVpbmN5LCBNQSAwMjE2OSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "a47b22825c847609f81679d3b600c80c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:48.193208",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e668c14af7f2ae0a27c13158b8a26234.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "291",
+                    "short_name": "291",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Newport Avenue",
+                    "short_name": "Newport Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "291 Newport Ave, Quincy, MA 02170, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2665593,
+                    "lng": -71.0209915
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2679082802915,
+                        "lng": -71.0196425197085
+                    },
+                    "southwest": {
+                        "lat": 42.2652103197085,
+                        "lng": -71.0223404802915
+                    }
+                }
+            },
+            "place_id": "ChIJ7XYhOqF844kR1mhn7K7b34g",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e668c14af7f2ae0a27c13158b8a26234",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:18.287570",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

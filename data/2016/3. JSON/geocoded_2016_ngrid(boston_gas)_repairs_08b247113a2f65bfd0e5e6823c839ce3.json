@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_08b247113a2f65bfd0e5e6823c839ce3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Old Country Way",
+                    "short_name": "Old Country Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8306",
+                    "short_name": "8306",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Old Country Way, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1723656,
+                        "lng": -71.0176689
+                    },
+                    "southwest": {
+                        "lat": 42.1722477,
+                        "lng": -71.0179515
+                    }
+                },
+                "location": {
+                    "lat": 42.1723066,
+                    "lng": -71.0178102
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1736556302915,
+                        "lng": -71.01646121970849
+                    },
+                    "southwest": {
+                        "lat": 42.1709576697085,
+                        "lng": -71.0191591802915
+                    }
+                }
+            },
+            "place_id": "ChIJ37CqGseC5IkRcMk9EWlzvMc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "08b247113a2f65bfd0e5e6823c839ce3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:46.727675",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

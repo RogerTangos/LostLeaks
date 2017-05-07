@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_919044b91926722ff309bd07509b80e4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "159",
+                    "short_name": "159",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Reservoir Road",
+                    "short_name": "Reservoir Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3612",
+                    "short_name": "3612",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "159 Reservoir Rd, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2549708,
+                        "lng": -71.0280731
+                    },
+                    "southwest": {
+                        "lat": 42.2548926,
+                        "lng": -71.02821829999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2549317,
+                    "lng": -71.0281457
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2562806802915,
+                        "lng": -71.02679671970849
+                    },
+                    "southwest": {
+                        "lat": 42.2535827197085,
+                        "lng": -71.02949468029149
+                    }
+                }
+            },
+            "place_id": "ChIJ5SUSpZV844kR1T6WO5QW6ZM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "919044b91926722ff309bd07509b80e4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:47.497254",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

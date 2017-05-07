@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_41b93acee6fc6f79c39e6890d6bee6a5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Styles Drive",
+                    "short_name": "Styles Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1105",
+                    "short_name": "1105",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "10 Styles Dr, Peabody, MA 01960, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5591686,
+                        "lng": -71.01030659999999
+                    },
+                    "southwest": {
+                        "lat": 42.5590596,
+                        "lng": -71.0105205
+                    }
+                },
+                "location": {
+                    "lat": 42.5591141,
+                    "lng": -71.0104135
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5604630802915,
+                        "lng": -71.0090645697085
+                    },
+                    "southwest": {
+                        "lat": 42.5577651197085,
+                        "lng": -71.0117625302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJe1goDvEN44kRCH9FvqYyBos",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "41b93acee6fc6f79c39e6890d6bee6a5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:17.049970",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

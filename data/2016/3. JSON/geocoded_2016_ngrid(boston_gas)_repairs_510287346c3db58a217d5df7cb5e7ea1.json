@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_510287346c3db58a217d5df7cb5e7ea1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "153",
+                    "short_name": "153",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mount Vernon Street",
+                    "short_name": "Mt Vernon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Winchester",
+                    "short_name": "Winchester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01890",
+                    "short_name": "01890",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2830",
+                    "short_name": "2830",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "153 Mt Vernon St, Winchester, MA 01890, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4527091,
+                        "lng": -71.1302989
+                    },
+                    "southwest": {
+                        "lat": 42.45256089999999,
+                        "lng": -71.1304507
+                    }
+                },
+                "location": {
+                    "lat": 42.452635,
+                    "lng": -71.1303748
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4539839802915,
+                        "lng": -71.1290258197085
+                    },
+                    "southwest": {
+                        "lat": 42.4512860197085,
+                        "lng": -71.13172378029151
+                    }
+                }
+            },
+            "place_id": "ChIJ_7-CVjp044kR5rJovSc6sTQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "510287346c3db58a217d5df7cb5e7ea1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:38.227450",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

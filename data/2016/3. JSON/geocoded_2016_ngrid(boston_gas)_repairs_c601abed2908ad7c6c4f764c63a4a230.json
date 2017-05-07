@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c601abed2908ad7c6c4f764c63a4a230.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broad Street",
+                    "short_name": "Broad St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3138",
+                    "short_name": "3138",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Broad St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5167374,
+                        "lng": -70.9028166
+                    },
+                    "southwest": {
+                        "lat": 42.5166024,
+                        "lng": -70.9030157
+                    }
+                },
+                "location": {
+                    "lat": 42.5166699,
+                    "lng": -70.90291619999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5180188802915,
+                        "lng": -70.90156716970849
+                    },
+                    "southwest": {
+                        "lat": 42.5153209197085,
+                        "lng": -70.90426513029149
+                    }
+                }
+            },
+            "place_id": "ChIJyc7lQH4U44kR5dDZsreChH8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c601abed2908ad7c6c4f764c63a4a230",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:31.028197",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

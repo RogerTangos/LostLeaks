@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_849ff67d763688173d85be68901eb4a8.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Somerville",
+                    "short_name": "Somerville",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02144",
+                    "short_name": "02144",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Broadway & Boston Ave, Somerville, MA 02144, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.399676,
+                    "lng": -71.111491
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4010249802915,
+                        "lng": -71.11014201970849
+                    },
+                    "southwest": {
+                        "lat": 42.3983270197085,
+                        "lng": -71.1128399802915
+                    }
+                }
+            },
+            "place_id": "EjBCcm9hZHdheSAmIEJvc3RvbiBBdmUsIFNvbWVydmlsbGUsIE1BIDAyMTQ0LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "849ff67d763688173d85be68901eb4a8",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:05.411643",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

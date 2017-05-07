@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5915a5046d2c14f0e8ec3f383ec073d2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "47",
+                    "short_name": "47",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Simon Street",
+                    "short_name": "Simon St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3117",
+                    "short_name": "3117",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "47 Simon St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5587393,
+                        "lng": -70.8845638
+                    },
+                    "southwest": {
+                        "lat": 42.5586064,
+                        "lng": -70.8847155
+                    }
+                },
+                "location": {
+                    "lat": 42.5586728,
+                    "lng": -70.8846397
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5600218302915,
+                        "lng": -70.8832906697085
+                    },
+                    "southwest": {
+                        "lat": 42.5573238697085,
+                        "lng": -70.88598863029151
+                    }
+                }
+            },
+            "place_id": "ChIJd8wpuaIW44kRzwjYJll9meo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5915a5046d2c14f0e8ec3f383ec073d2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:01.056643",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

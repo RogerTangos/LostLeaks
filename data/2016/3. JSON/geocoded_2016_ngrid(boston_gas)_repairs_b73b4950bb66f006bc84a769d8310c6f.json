@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b73b4950bb66f006bc84a769d8310c6f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "224",
+                    "short_name": "224",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Allerton Commons Lane",
+                    "short_name": "Allerton Commons Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "224 Allerton Commons Ln, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1765871,
+                        "lng": -70.98273979999999
+                    },
+                    "southwest": {
+                        "lat": 42.1765845,
+                        "lng": -70.98275819999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1765845,
+                    "lng": -70.98273979999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1779347802915,
+                        "lng": -70.98140001970849
+                    },
+                    "southwest": {
+                        "lat": 42.1752368197085,
+                        "lng": -70.9840979802915
+                    }
+                }
+            },
+            "place_id": "EjEyMjQgQWxsZXJ0b24gQ29tbW9ucyBMbiwgQnJhaW50cmVlLCBNQSAwMjE4NCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b73b4950bb66f006bc84a769d8310c6f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:52.324247",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

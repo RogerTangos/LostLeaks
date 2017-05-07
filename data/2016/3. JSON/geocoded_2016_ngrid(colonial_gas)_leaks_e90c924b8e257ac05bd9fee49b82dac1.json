@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_e90c924b8e257ac05bd9fee49b82dac1.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Jersey Street",
+                    "short_name": "Jersey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dedham",
+                    "short_name": "Dedham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02026",
+                    "short_name": "02026",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Jersey St & York St, Dedham, MA 02026, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2415335,
+                    "lng": -71.1682968
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24288248029149,
+                        "lng": -71.16694781970848
+                    },
+                    "southwest": {
+                        "lat": 42.24018451970849,
+                        "lng": -71.16964578029149
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EipKZXJzZXkgU3QgJiBZb3JrIFN0LCBEZWRoYW0sIE1BIDAyMDI2LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "e90c924b8e257ac05bd9fee49b82dac1",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:37.623383",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

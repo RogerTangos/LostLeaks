@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4a72eb1fd8570f3cfb5244997cf03df4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Centre Street",
+                    "short_name": "Centre St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Centre St & Remington St, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2930921,
+                    "lng": -71.0641113
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.29444108029149,
+                        "lng": -71.0627623197085
+                    },
+                    "southwest": {
+                        "lat": 42.29174311970849,
+                        "lng": -71.0654602802915
+                    }
+                }
+            },
+            "place_id": "Ei9DZW50cmUgU3QgJiBSZW1pbmd0b24gU3QsIEJvc3RvbiwgTUEgMDIxMjQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "4a72eb1fd8570f3cfb5244997cf03df4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:20.584711",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

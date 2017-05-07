@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c7dc2566367ef8cf64cff776fb85d781.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "North Putnam Street",
+                    "short_name": "N Putnam St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "N Putnam St & Bell St, Danvers, MA 01923, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.567716,
+                    "lng": -70.9410086
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5690649802915,
+                        "lng": -70.9396596197085
+                    },
+                    "southwest": {
+                        "lat": 42.5663670197085,
+                        "lng": -70.94235758029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei1OIFB1dG5hbSBTdCAmIEJlbGwgU3QsIERhbnZlcnMsIE1BIDAxOTIzLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "c7dc2566367ef8cf64cff776fb85d781",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:14.010295",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

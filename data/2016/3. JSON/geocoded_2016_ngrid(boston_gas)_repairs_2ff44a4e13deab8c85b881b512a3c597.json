@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2ff44a4e13deab8c85b881b512a3c597.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Walpole Street",
+                    "short_name": "Walpole St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Walpole St & Evergreen Cir, Norwood, MA 02062, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1831385,
+                    "lng": -71.2141697
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.18448748029149,
+                        "lng": -71.2128207197085
+                    },
+                    "southwest": {
+                        "lat": 42.1817895197085,
+                        "lng": -71.21551868029151
+                    }
+                }
+            },
+            "place_id": "EjJXYWxwb2xlIFN0ICYgRXZlcmdyZWVuIENpciwgTm9yd29vZCwgTUEgMDIwNjIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "2ff44a4e13deab8c85b881b512a3c597",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:27.585766",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

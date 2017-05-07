@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8e45984861d1f46543f4b0e4cd81eecc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Monroe Road",
+                    "short_name": "Monroe Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2835",
+                    "short_name": "2835",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Monroe Rd, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4861226,
+                        "lng": -70.8658153
+                    },
+                    "southwest": {
+                        "lat": 42.4858786,
+                        "lng": -70.8661116
+                    }
+                },
+                "location": {
+                    "lat": 42.4860006,
+                    "lng": -70.8659635
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4873495802915,
+                        "lng": -70.8646144697085
+                    },
+                    "southwest": {
+                        "lat": 42.4846516197085,
+                        "lng": -70.8673124302915
+                    }
+                }
+            },
+            "place_id": "ChIJY4AUG9wU44kRr-goFpVOmyE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8e45984861d1f46543f4b0e4cd81eecc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:04.244684",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

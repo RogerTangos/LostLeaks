@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_da2d2b98662c9135d356f458ccfe939c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "167",
+                    "short_name": "167",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sydney Street",
+                    "short_name": "Sydney St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1202",
+                    "short_name": "1202",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "167 Sydney St, Dorchester, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3173235,
+                        "lng": -71.05235960000002
+                    },
+                    "southwest": {
+                        "lat": 42.3172395,
+                        "lng": -71.0524964
+                    }
+                },
+                "location": {
+                    "lat": 42.3172815,
+                    "lng": -71.05242799999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3186304802915,
+                        "lng": -71.05107901970851
+                    },
+                    "southwest": {
+                        "lat": 42.3159325197085,
+                        "lng": -71.05377698029152
+                    }
+                }
+            },
+            "place_id": "ChIJQRIwzFV644kRxt2JiLS6ZzY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "da2d2b98662c9135d356f458ccfe939c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:07.802689",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

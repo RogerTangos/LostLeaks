@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8d505b54b67360d8eade389cf61d631b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "346",
+                    "short_name": "346",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2922",
+                    "short_name": "2922",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "346 Broadway, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.78190360000001,
+                        "lng": -71.1103036
+                    },
+                    "southwest": {
+                        "lat": 42.7818907,
+                        "lng": -71.1103104
+                    }
+                },
+                "location": {
+                    "lat": 42.7818907,
+                    "lng": -71.1103104
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7832461302915,
+                        "lng": -71.1089580197085
+                    },
+                    "southwest": {
+                        "lat": 42.7805481697085,
+                        "lng": -71.1116559802915
+                    }
+                }
+            },
+            "place_id": "EiYzNDYgQnJvYWR3YXksIEhhdmVyaGlsbCwgTUEgMDE4MzIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8d505b54b67360d8eade389cf61d631b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:16.118672",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

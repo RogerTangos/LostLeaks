@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_962d747b48fe5b521f4768eedf9d6ed0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sagamore Road",
+                    "short_name": "Sagamore Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Highlands",
+                    "short_name": "Newton Highlands",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02461",
+                    "short_name": "02461",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Sagamore Rd, Newton Highlands, MA 02461, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3264739,
+                        "lng": -71.2153422
+                    },
+                    "southwest": {
+                        "lat": 42.3262973,
+                        "lng": -71.2156273
+                    }
+                },
+                "location": {
+                    "lat": 42.32638559999999,
+                    "lng": -71.2154848
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3277345802915,
+                        "lng": -71.21413576970848
+                    },
+                    "southwest": {
+                        "lat": 42.3250366197085,
+                        "lng": -71.2168337302915
+                    }
+                }
+            },
+            "place_id": "ChIJk4jBBGqC44kRVEa66dRVjH8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "962d747b48fe5b521f4768eedf9d6ed0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:47.736566",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

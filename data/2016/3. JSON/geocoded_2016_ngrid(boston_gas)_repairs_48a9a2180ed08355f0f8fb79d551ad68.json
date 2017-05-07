@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_48a9a2180ed08355f0f8fb79d551ad68.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Circle Hill Road",
+                    "short_name": "Circle Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1043",
+                    "short_name": "1043",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Circle Hill Rd, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5124103,
+                        "lng": -70.9219352
+                    },
+                    "southwest": {
+                        "lat": 42.5122815,
+                        "lng": -70.9220547
+                    }
+                },
+                "location": {
+                    "lat": 42.5123459,
+                    "lng": -70.9219949
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5136948802915,
+                        "lng": -70.92064596970849
+                    },
+                    "southwest": {
+                        "lat": 42.5109969197085,
+                        "lng": -70.9233439302915
+                    }
+                }
+            },
+            "place_id": "ChIJhdGIHXET44kRDtN5zPlXHiU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "48a9a2180ed08355f0f8fb79d551ad68",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:27.212024",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

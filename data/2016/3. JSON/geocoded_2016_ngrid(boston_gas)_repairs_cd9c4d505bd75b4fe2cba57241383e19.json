@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cd9c4d505bd75b4fe2cba57241383e19.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "29",
+                    "short_name": "29",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Perkins Street",
+                    "short_name": "Perkins St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7318",
+                    "short_name": "7318",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "29 Perkins St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5165836,
+                        "lng": -70.888072
+                    },
+                    "southwest": {
+                        "lat": 42.5164912,
+                        "lng": -70.888341
+                    }
+                },
+                "location": {
+                    "lat": 42.5165374,
+                    "lng": -70.8882065
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.51788638029149,
+                        "lng": -70.88685751970849
+                    },
+                    "southwest": {
+                        "lat": 42.51518841970849,
+                        "lng": -70.88955548029149
+                    }
+                }
+            },
+            "place_id": "ChIJLajTQ2EU44kRqzPQzz2EVhs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cd9c4d505bd75b4fe2cba57241383e19",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:16.250485",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

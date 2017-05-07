@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9b55490d84b2bfe07c57a97b05f19f74.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "28",
+                    "short_name": "28",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Street",
+                    "short_name": "Pine St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dudley",
+                    "short_name": "Dudley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01571",
+                    "short_name": "01571",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "28 Pine St, Dudley, MA 01571, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0553637,
+                        "lng": -71.887793
+                    },
+                    "southwest": {
+                        "lat": 42.0553505,
+                        "lng": -71.8877993
+                    }
+                },
+                "location": {
+                    "lat": 42.0553637,
+                    "lng": -71.887793
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0567060802915,
+                        "lng": -71.8864471697085
+                    },
+                    "southwest": {
+                        "lat": 42.05400811970851,
+                        "lng": -71.88914513029151
+                    }
+                }
+            },
+            "place_id": "EiEyOCBQaW5lIFN0LCBEdWRsZXksIE1BIDAxNTcxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9b55490d84b2bfe07c57a97b05f19f74",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:04.836586",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c504ab5b1c3f3b6c347e0bf86ebf1dae.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Avenue",
+                    "short_name": "Park Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1826",
+                    "short_name": "1826",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Park Ave, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0551922,
+                        "lng": -71.8681852
+                    },
+                    "southwest": {
+                        "lat": 42.0551828,
+                        "lng": -71.8681991
+                    }
+                },
+                "location": {
+                    "lat": 42.0551828,
+                    "lng": -71.8681991
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.05653648029149,
+                        "lng": -71.8668431697085
+                    },
+                    "southwest": {
+                        "lat": 42.0538385197085,
+                        "lng": -71.86954113029151
+                    }
+                }
+            },
+            "place_id": "EiMzNiBQYXJrIEF2ZSwgV2Vic3RlciwgTUEgMDE1NzAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c504ab5b1c3f3b6c347e0bf86ebf1dae",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:32.307855",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

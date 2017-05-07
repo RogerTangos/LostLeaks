@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_84576cce8b806073a174cee9a8b70691.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bowdoin Drive",
+                    "short_name": "Bowdoin Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Bowdoin Dr, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.160702,
+                        "lng": -71.5482584
+                    },
+                    "southwest": {
+                        "lat": 42.16069239999999,
+                        "lng": -71.548272
+                    }
+                },
+                "location": {
+                    "lat": 42.160702,
+                    "lng": -71.548272
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1620461802915,
+                        "lng": -71.5469162197085
+                    },
+                    "southwest": {
+                        "lat": 42.15934821970851,
+                        "lng": -71.54961418029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiUxMSBCb3dkb2luIERyLCBNaWxmb3JkLCBNQSAwMTc1NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "84576cce8b806073a174cee9a8b70691",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:03:06.981962",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

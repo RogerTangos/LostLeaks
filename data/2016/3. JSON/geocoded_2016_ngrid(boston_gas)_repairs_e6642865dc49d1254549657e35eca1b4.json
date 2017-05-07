@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e6642865dc49d1254549657e35eca1b4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1077",
+                    "short_name": "1077",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West End",
+                    "short_name": "West End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1077 Main St, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3763522,
+                        "lng": -71.2549623
+                    },
+                    "southwest": {
+                        "lat": 42.3763384,
+                        "lng": -71.2549624
+                    }
+                },
+                "location": {
+                    "lat": 42.3763522,
+                    "lng": -71.2549623
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3776942802915,
+                        "lng": -71.2536133697085
+                    },
+                    "southwest": {
+                        "lat": 42.37499631970851,
+                        "lng": -71.25631133029151
+                    }
+                }
+            },
+            "place_id": "EiQxMDc3IE1haW4gU3QsIFdhbHRoYW0sIE1BIDAyNDUzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e6642865dc49d1254549657e35eca1b4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:35.717456",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

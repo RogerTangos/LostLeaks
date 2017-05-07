@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d54c42fefeff0f6a10d017fb1cb820cd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3",
+                    "short_name": "3",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hawthorne Street",
+                    "short_name": "Hawthorne St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3807",
+                    "short_name": "3807",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3 Hawthorne St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4277564,
+                        "lng": -71.0796876
+                    },
+                    "southwest": {
+                        "lat": 42.4276264,
+                        "lng": -71.079836
+                    }
+                },
+                "location": {
+                    "lat": 42.4276914,
+                    "lng": -71.0797618
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4290403802915,
+                        "lng": -71.0784128197085
+                    },
+                    "southwest": {
+                        "lat": 42.4263424197085,
+                        "lng": -71.08111078029151
+                    }
+                }
+            },
+            "place_id": "ChIJ4eVBUllx44kRlmcS_uChkSU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d54c42fefeff0f6a10d017fb1cb820cd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:26.043888",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

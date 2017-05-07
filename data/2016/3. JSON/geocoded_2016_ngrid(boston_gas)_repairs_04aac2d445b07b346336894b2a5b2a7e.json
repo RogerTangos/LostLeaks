@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_04aac2d445b07b346336894b2a5b2a7e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Charlton Street",
+                    "short_name": "Charlton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Charlton St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4009896,
+                        "lng": -71.06293389999999
+                    },
+                    "southwest": {
+                        "lat": 42.40023910000001,
+                        "lng": -71.0645767
+                    }
+                },
+                "location": {
+                    "lat": 42.4006143,
+                    "lng": -71.0637553
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4019633302915,
+                        "lng": -71.0624063197085
+                    },
+                    "southwest": {
+                        "lat": 42.3992653697085,
+                        "lng": -71.06510428029151
+                    }
+                }
+            },
+            "place_id": "ChIJe6CxnRpx44kRpDnMRlYe4Dc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "04aac2d445b07b346336894b2a5b2a7e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:27.007925",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

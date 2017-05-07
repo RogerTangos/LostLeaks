@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ae935713decc91c5f8f1b2b750268b8e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Crown Street",
+                    "short_name": "Crown St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Crown St, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0453723,
+                        "lng": -71.88457860000001
+                    },
+                    "southwest": {
+                        "lat": 42.0453586,
+                        "lng": -71.884582
+                    }
+                },
+                "location": {
+                    "lat": 42.0453723,
+                    "lng": -71.884582
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0467144302915,
+                        "lng": -71.8832313197085
+                    },
+                    "southwest": {
+                        "lat": 42.0440164697085,
+                        "lng": -71.8859292802915
+                    }
+                }
+            },
+            "place_id": "EiI4IENyb3duIFN0LCBXZWJzdGVyLCBNQSAwMTU3MCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ae935713decc91c5f8f1b2b750268b8e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:58.210546",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4e7d968510ee006892cfec0d7f21b48a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Princeton Street",
+                    "short_name": "Princeton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1342",
+                    "short_name": "1342",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "27 Princeton St, Peabody, MA 01960, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5424837,
+                        "lng": -70.9710389
+                    },
+                    "southwest": {
+                        "lat": 42.5422872,
+                        "lng": -70.97138860000001
+                    }
+                },
+                "location": {
+                    "lat": 42.54238549999999,
+                    "lng": -70.97121369999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5437344302915,
+                        "lng": -70.96986476970851
+                    },
+                    "southwest": {
+                        "lat": 42.5410364697085,
+                        "lng": -70.97256273029151
+                    }
+                }
+            },
+            "place_id": "ChIJ-ySmv0YS44kRBBXueZ2qwTM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4e7d968510ee006892cfec0d7f21b48a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:53.659929",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

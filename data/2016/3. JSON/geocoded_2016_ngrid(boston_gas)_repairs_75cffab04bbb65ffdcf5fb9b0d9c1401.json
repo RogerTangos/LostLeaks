@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_75cffab04bbb65ffdcf5fb9b0d9c1401.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mathewson Drive",
+                    "short_name": "Mathewson Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02189",
+                    "short_name": "02189",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "41 Mathewson Dr, Weymouth, MA 02189, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1926501,
+                        "lng": -70.9320753
+                    },
+                    "southwest": {
+                        "lat": 42.1926363,
+                        "lng": -70.9320764
+                    }
+                },
+                "location": {
+                    "lat": 42.1926501,
+                    "lng": -70.9320753
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1939921802915,
+                        "lng": -70.9307268697085
+                    },
+                    "southwest": {
+                        "lat": 42.1912942197085,
+                        "lng": -70.9334248302915
+                    }
+                }
+            },
+            "place_id": "Eig0MSBNYXRoZXdzb24gRHIsIFdleW1vdXRoLCBNQSAwMjE4OSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "75cffab04bbb65ffdcf5fb9b0d9c1401",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:18.621323",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

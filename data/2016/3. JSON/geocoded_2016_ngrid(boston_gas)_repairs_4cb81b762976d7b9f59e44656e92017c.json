@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4cb81b762976d7b9f59e44656e92017c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Abbott Road",
+                    "short_name": "Abbott Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02481",
+                    "short_name": "02481",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7517",
+                    "short_name": "7517",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Abbott Rd, Wellesley, MA 02481, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3099279,
+                        "lng": -71.27595149999999
+                    },
+                    "southwest": {
+                        "lat": 42.30978,
+                        "lng": -71.276121
+                    }
+                },
+                "location": {
+                    "lat": 42.309854,
+                    "lng": -71.2760363
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3112029302915,
+                        "lng": -71.27468726970848
+                    },
+                    "southwest": {
+                        "lat": 42.3085049697085,
+                        "lng": -71.2773852302915
+                    }
+                }
+            },
+            "place_id": "ChIJrQ77ZleB44kRP-8gM5n9WX0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4cb81b762976d7b9f59e44656e92017c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:17.800771",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_38ff813a44bffef83a425e969118420f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "204",
+                    "short_name": "204",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bedford Street",
+                    "short_name": "Bedford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "204 Bedford St, Whitman, MA 02382, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0662186,
+                        "lng": -70.9490668
+                    },
+                    "southwest": {
+                        "lat": 42.0662156,
+                        "lng": -70.94908509999999
+                    }
+                },
+                "location": {
+                    "lat": 42.0662186,
+                    "lng": -70.94908509999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0675660802915,
+                        "lng": -70.9477269697085
+                    },
+                    "southwest": {
+                        "lat": 42.0648681197085,
+                        "lng": -70.9504249302915
+                    }
+                }
+            },
+            "place_id": "EiYyMDQgQmVkZm9yZCBTdCwgV2hpdG1hbiwgTUEgMDIzODIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "38ff813a44bffef83a425e969118420f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:22.921840",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

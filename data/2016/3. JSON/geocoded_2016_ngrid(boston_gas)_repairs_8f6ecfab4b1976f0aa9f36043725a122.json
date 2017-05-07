@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8f6ecfab4b1976f0aa9f36043725a122.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "245",
+                    "short_name": "245",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arsenal Street",
+                    "short_name": "Arsenal St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2718",
+                    "short_name": "2718",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "245 Arsenal St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.364159,
+                        "lng": -71.17153789999999
+                    },
+                    "southwest": {
+                        "lat": 42.363997,
+                        "lng": -71.17167189999999
+                    }
+                },
+                "location": {
+                    "lat": 42.364078,
+                    "lng": -71.17160489999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3654269802915,
+                        "lng": -71.17025591970848
+                    },
+                    "southwest": {
+                        "lat": 42.3627290197085,
+                        "lng": -71.17295388029149
+                    }
+                }
+            },
+            "place_id": "ChIJO-3TrBl444kR1iPyg9tf348",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8f6ecfab4b1976f0aa9f36043725a122",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:21.099019",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

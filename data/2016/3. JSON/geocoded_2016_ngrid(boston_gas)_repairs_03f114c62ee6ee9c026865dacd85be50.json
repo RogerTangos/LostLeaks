@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_03f114c62ee6ee9c026865dacd85be50.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nelson Street",
+                    "short_name": "Nelson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Nelson St, Leominster, MA 01453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.54301239999999,
+                        "lng": -71.7605686
+                    },
+                    "southwest": {
+                        "lat": 42.5427836,
+                        "lng": -71.7611167
+                    }
+                },
+                "location": {
+                    "lat": 42.542898,
+                    "lng": -71.7608426
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5442469802915,
+                        "lng": -71.75949366970849
+                    },
+                    "southwest": {
+                        "lat": 42.5415490197085,
+                        "lng": -71.7621916302915
+                    }
+                }
+            },
+            "place_id": "ChIJt2a2l1Xv44kR2vnmAztwV1U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "03f114c62ee6ee9c026865dacd85be50",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:39.084581",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6909e0f3a4fe801f7b5163233a0024de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Four Mile Village",
+                    "short_name": "Four Mile Village",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boxford",
+                    "short_name": "Boxford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boxford",
+                    "short_name": "Boxford",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01921",
+                    "short_name": "01921",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Four Mile Village, Boxford, MA 01921, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6855711,
+                        "lng": -71.00363519999999
+                    },
+                    "southwest": {
+                        "lat": 42.6855665,
+                        "lng": -71.00365289999999
+                    }
+                },
+                "location": {
+                    "lat": 42.6855711,
+                    "lng": -71.00363519999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.68691778029149,
+                        "lng": -71.00229506970848
+                    },
+                    "southwest": {
+                        "lat": 42.6842198197085,
+                        "lng": -71.0049930302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eiw1MCBGb3VyIE1pbGUgVmlsbGFnZSwgQm94Zm9yZCwgTUEgMDE5MjEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6909e0f3a4fe801f7b5163233a0024de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:25.737160",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

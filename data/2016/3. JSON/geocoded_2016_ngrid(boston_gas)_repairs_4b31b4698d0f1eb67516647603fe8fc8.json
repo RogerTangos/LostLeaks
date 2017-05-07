@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4b31b4698d0f1eb67516647603fe8fc8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "37",
+                    "short_name": "37",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oakland Street",
+                    "short_name": "Oakland St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2250",
+                    "short_name": "2250",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "37 Oakland St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3702003,
+                        "lng": -71.1966431
+                    },
+                    "southwest": {
+                        "lat": 42.3700793,
+                        "lng": -71.1968224
+                    }
+                },
+                "location": {
+                    "lat": 42.3701398,
+                    "lng": -71.19673279999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37148878029149,
+                        "lng": -71.19538376970851
+                    },
+                    "southwest": {
+                        "lat": 42.36879081970849,
+                        "lng": -71.19808173029152
+                    }
+                }
+            },
+            "place_id": "ChIJGQBmaqmC44kR0shNm39fbzY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4b31b4698d0f1eb67516647603fe8fc8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:37.882797",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

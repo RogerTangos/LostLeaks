@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_dcdbc54f5585f3486446f301e89333aa.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "26",
+                    "short_name": "26",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Street",
+                    "short_name": "West St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4145",
+                    "short_name": "4145",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "26 West St, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1406064,
+                        "lng": -71.5249664
+                    },
+                    "southwest": {
+                        "lat": 42.1405926,
+                        "lng": -71.5249682
+                    }
+                },
+                "location": {
+                    "lat": 42.1405926,
+                    "lng": -71.5249664
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1419484802915,
+                        "lng": -71.52361831970849
+                    },
+                    "southwest": {
+                        "lat": 42.1392505197085,
+                        "lng": -71.5263162802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiIyNiBXZXN0IFN0LCBNaWxmb3JkLCBNQSAwMTc1NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dcdbc54f5585f3486446f301e89333aa",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:20:23.701405",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

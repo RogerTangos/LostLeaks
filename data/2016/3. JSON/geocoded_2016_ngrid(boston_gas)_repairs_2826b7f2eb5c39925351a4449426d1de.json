@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2826b7f2eb5c39925351a4449426d1de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oak Street",
+                    "short_name": "Oak St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2214",
+                    "short_name": "2214",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Oak St, Cohasset, MA 02025, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2366454,
+                        "lng": -70.80242439999999
+                    },
+                    "southwest": {
+                        "lat": 42.2365627,
+                        "lng": -70.8025449
+                    }
+                },
+                "location": {
+                    "lat": 42.2366041,
+                    "lng": -70.8024847
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2379530302915,
+                        "lng": -70.80113566970849
+                    },
+                    "southwest": {
+                        "lat": 42.2352550697085,
+                        "lng": -70.8038336302915
+                    }
+                }
+            },
+            "place_id": "ChIJvQvxhPxd44kRLf3BXQVW_7U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2826b7f2eb5c39925351a4449426d1de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:47.023318",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fa224b3c5ae3e849cf7a4849e8f6fec1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Broadway, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4263217,
+                        "lng": -71.0418984
+                    },
+                    "southwest": {
+                        "lat": 42.4261099,
+                        "lng": -71.0421973
+                    }
+                },
+                "location": {
+                    "lat": 42.4262158,
+                    "lng": -71.04204779999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4275647802915,
+                        "lng": -71.04069886970849
+                    },
+                    "southwest": {
+                        "lat": 42.42486681970851,
+                        "lng": -71.0433968302915
+                    }
+                }
+            },
+            "place_id": "ChIJwzZuwyly44kR7RurtZpeeSw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fa224b3c5ae3e849cf7a4849e8f6fec1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:28.539282",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

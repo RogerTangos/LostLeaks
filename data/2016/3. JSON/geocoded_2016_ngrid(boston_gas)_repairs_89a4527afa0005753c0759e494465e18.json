@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_89a4527afa0005753c0759e494465e18.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "103",
+                    "short_name": "103",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Grove Street",
+                    "short_name": "Grove St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3630",
+                    "short_name": "3630",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "103 Grove St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4111523,
+                        "lng": -71.6845111
+                    },
+                    "southwest": {
+                        "lat": 42.41115,
+                        "lng": -71.68452959999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4111523,
+                    "lng": -71.68452959999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4125001302915,
+                        "lng": -71.68317136970849
+                    },
+                    "southwest": {
+                        "lat": 42.40980216970851,
+                        "lng": -71.6858693302915
+                    }
+                }
+            },
+            "place_id": "EiQxMDMgR3JvdmUgU3QsIENsaW50b24sIE1BIDAxNTEwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "89a4527afa0005753c0759e494465e18",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:26.857816",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

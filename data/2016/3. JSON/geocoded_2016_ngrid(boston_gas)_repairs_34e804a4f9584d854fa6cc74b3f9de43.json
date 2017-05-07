@@ -1,0 +1,84 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_34e804a4f9584d854fa6cc74b3f9de43.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Worcester Street",
+                    "short_name": "Worcester St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02481",
+                    "short_name": "02481",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Worcester St & Longfellow Rd, Wellesley, MA 02481, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.31422000000001,
+                    "lng": -71.25948
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31556898029151,
+                        "lng": -71.2581310197085
+                    },
+                    "southwest": {
+                        "lat": 42.31287101970851,
+                        "lng": -71.2608289802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjZXb3JjZXN0ZXIgU3QgJiBMb25nZmVsbG93IFJkLCBXZWxsZXNsZXksIE1BIDAyNDgxLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "34e804a4f9584d854fa6cc74b3f9de43",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:46:00.272723",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

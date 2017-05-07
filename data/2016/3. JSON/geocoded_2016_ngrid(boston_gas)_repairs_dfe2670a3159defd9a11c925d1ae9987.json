@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_dfe2670a3159defd9a11c925d1ae9987.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "57",
+                    "short_name": "57",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "High Street",
+                    "short_name": "High St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Side",
+                    "short_name": "South Side",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "57 High St, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3674323,
+                        "lng": -71.2347477
+                    },
+                    "southwest": {
+                        "lat": 42.36741869999999,
+                        "lng": -71.2347513
+                    }
+                },
+                "location": {
+                    "lat": 42.36741869999999,
+                    "lng": -71.2347513
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36877448029149,
+                        "lng": -71.2334005197085
+                    },
+                    "southwest": {
+                        "lat": 42.3660765197085,
+                        "lng": -71.2360984802915
+                    }
+                }
+            },
+            "place_id": "EiI1NyBIaWdoIFN0LCBXYWx0aGFtLCBNQSAwMjQ1MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "dfe2670a3159defd9a11c925d1ae9987",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:02.552736",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

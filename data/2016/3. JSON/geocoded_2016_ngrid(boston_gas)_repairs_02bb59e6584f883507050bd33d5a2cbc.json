@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_02bb59e6584f883507050bd33d5a2cbc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "121",
+                    "short_name": "121",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln Road",
+                    "short_name": "Lincoln Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln",
+                    "short_name": "Lincoln",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01773",
+                    "short_name": "01773",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "121 Lincoln Rd, Lincoln, MA 01773, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4159018,
+                    "lng": -71.320251
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4172507802915,
+                        "lng": -71.3189020197085
+                    },
+                    "southwest": {
+                        "lat": 42.4145528197085,
+                        "lng": -71.32159998029151
+                    }
+                }
+            },
+            "place_id": "ChIJj28B1Reb44kRnGs87Cg2qCU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "02bb59e6584f883507050bd33d5a2cbc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:22.513591",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

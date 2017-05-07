@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ec3646936608b122f7313184ee92003b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Roberts Street",
+                    "short_name": "Roberts St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6402",
+                    "short_name": "6402",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Roberts St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2413199,
+                        "lng": -71.0135702
+                    },
+                    "southwest": {
+                        "lat": 42.2412253,
+                        "lng": -71.0137646
+                    }
+                },
+                "location": {
+                    "lat": 42.24127259999999,
+                    "lng": -71.0136674
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2426215802915,
+                        "lng": -71.01231841970849
+                    },
+                    "southwest": {
+                        "lat": 42.2399236197085,
+                        "lng": -71.0150163802915
+                    }
+                }
+            },
+            "place_id": "ChIJTy60jM9844kR_u2Rwob_pg0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "ec3646936608b122f7313184ee92003b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:50.170221",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

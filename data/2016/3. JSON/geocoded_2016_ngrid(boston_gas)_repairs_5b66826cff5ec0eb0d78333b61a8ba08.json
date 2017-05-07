@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5b66826cff5ec0eb0d78333b61a8ba08.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "253",
+                    "short_name": "253",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Belgrade Avenue",
+                    "short_name": "Belgrade Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2755",
+                    "short_name": "2755",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "253 Belgrade Ave, Roslindale, MA 02131, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2863876,
+                        "lng": -71.1416258
+                    },
+                    "southwest": {
+                        "lat": 42.2862264,
+                        "lng": -71.1417526
+                    }
+                },
+                "location": {
+                    "lat": 42.286307,
+                    "lng": -71.1416892
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.28765598029149,
+                        "lng": -71.1403402197085
+                    },
+                    "southwest": {
+                        "lat": 42.2849580197085,
+                        "lng": -71.14303818029151
+                    }
+                }
+            },
+            "place_id": "ChIJp71-MtR-44kR4afCqMcAAUc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5b66826cff5ec0eb0d78333b61a8ba08",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:37.208737",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

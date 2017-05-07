@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_61ec0f3454ca975b978c3f04eae901de.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "73",
+                    "short_name": "73",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hillside Road",
+                    "short_name": "Hillside Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1445",
+                    "short_name": "1445",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "73 Hillside Rd, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3734235,
+                        "lng": -71.16132979999999
+                    },
+                    "southwest": {
+                        "lat": 42.3733084,
+                        "lng": -71.1615467
+                    }
+                },
+                "location": {
+                    "lat": 42.3733659,
+                    "lng": -71.1614383
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3747149302915,
+                        "lng": -71.16008926970851
+                    },
+                    "southwest": {
+                        "lat": 42.3720169697085,
+                        "lng": -71.16278723029151
+                    }
+                }
+            },
+            "place_id": "ChIJnQ1caol344kR_kkoNbHSlgY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "61ec0f3454ca975b978c3f04eae901de",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:36.164804",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

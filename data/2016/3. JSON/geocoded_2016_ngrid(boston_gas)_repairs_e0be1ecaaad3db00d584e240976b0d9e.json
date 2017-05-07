@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e0be1ecaaad3db00d584e240976b0d9e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "323",
+                    "short_name": "323",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Saratoga Street",
+                    "short_name": "Saratoga St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central-Maverick Square / Paris Street",
+                    "short_name": "Central-Maverick Square / Paris Street",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1414",
+                    "short_name": "1414",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "323 Saratoga St, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3785153,
+                        "lng": -71.0309706
+                    },
+                    "southwest": {
+                        "lat": 42.3784035,
+                        "lng": -71.03108619999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3784594,
+                    "lng": -71.0310284
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37980838029149,
+                        "lng": -71.02967941970849
+                    },
+                    "southwest": {
+                        "lat": 42.37711041970849,
+                        "lng": -71.03237738029149
+                    }
+                }
+            },
+            "place_id": "ChIJh4BY2Ehw44kRwsGbArLXMgY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e0be1ecaaad3db00d584e240976b0d9e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:00.102722",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

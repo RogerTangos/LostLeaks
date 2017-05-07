@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2bf17c9677e36afb8fe40ab6b77acc01.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Summer Street",
+                    "short_name": "Summer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "150 Summer St, Malden, MA 02148, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.431771,
+                    "lng": -71.07507199999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4331199802915,
+                        "lng": -71.0737230197085
+                    },
+                    "southwest": {
+                        "lat": 42.4304220197085,
+                        "lng": -71.0764209802915
+                    }
+                }
+            },
+            "place_id": "ChIJ9URSPeBz44kRn2HxbDB7D70",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2bf17c9677e36afb8fe40ab6b77acc01",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:33.397847",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

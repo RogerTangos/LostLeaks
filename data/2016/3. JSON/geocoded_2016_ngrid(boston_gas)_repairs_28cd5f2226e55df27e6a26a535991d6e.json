@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_28cd5f2226e55df27e6a26a535991d6e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Charles Street",
+                    "short_name": "Charles St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Banks Square",
+                    "short_name": "Banks Square",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "150 Charles St, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3739435,
+                        "lng": -71.24384359999999
+                    },
+                    "southwest": {
+                        "lat": 42.373931,
+                        "lng": -71.2438518
+                    }
+                },
+                "location": {
+                    "lat": 42.373931,
+                    "lng": -71.24384359999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3752862302915,
+                        "lng": -71.2424987197085
+                    },
+                    "southwest": {
+                        "lat": 42.3725882697085,
+                        "lng": -71.24519668029151
+                    }
+                }
+            },
+            "place_id": "EiYxNTAgQ2hhcmxlcyBTdCwgV2FsdGhhbSwgTUEgMDI0NTMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "28cd5f2226e55df27e6a26a535991d6e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:32.100997",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

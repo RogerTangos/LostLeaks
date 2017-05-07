@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_749cd74332e31b8df097fbf5a6ed4cde.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Central Street",
+                    "short_name": "Central St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5826",
+                    "short_name": "5826",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "41 Central St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5439867,
+                        "lng": -70.877006
+                    },
+                    "southwest": {
+                        "lat": 42.5437932,
+                        "lng": -70.8772393
+                    }
+                },
+                "location": {
+                    "lat": 42.5438899,
+                    "lng": -70.8771227
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5452389302915,
+                        "lng": -70.8757736697085
+                    },
+                    "southwest": {
+                        "lat": 42.5425409697085,
+                        "lng": -70.8784716302915
+                    }
+                }
+            },
+            "place_id": "ChIJE8YKASQU44kRpbQVtp90w-A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "749cd74332e31b8df097fbf5a6ed4cde",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:16.820789",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7f27cabab01bee8ef5692b2553ce0817.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "185",
+                    "short_name": "185",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lewis Street",
+                    "short_name": "Lewis St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01902",
+                    "short_name": "01902",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "185 Lewis St, Lynn, MA 01902, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4651894,
+                        "lng": -70.9333568
+                    },
+                    "southwest": {
+                        "lat": 42.4651796,
+                        "lng": -70.93337009999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4651894,
+                    "lng": -70.93337009999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4665334802915,
+                        "lng": -70.93201446970849
+                    },
+                    "southwest": {
+                        "lat": 42.4638355197085,
+                        "lng": -70.9347124302915
+                    }
+                }
+            },
+            "place_id": "EiExODUgTGV3aXMgU3QsIEx5bm4sIE1BIDAxOTAyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7f27cabab01bee8ef5692b2553ce0817",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:39.685792",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

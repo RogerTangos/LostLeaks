@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_39b63ddd5e3456532f6bf04badc6d4ef.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Martin Street",
+                    "short_name": "Martin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1855",
+                    "short_name": "1855",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "14 Martin St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5618009,
+                        "lng": -70.9572542
+                    },
+                    "southwest": {
+                        "lat": 42.5617249,
+                        "lng": -70.9574459
+                    }
+                },
+                "location": {
+                    "lat": 42.5617629,
+                    "lng": -70.95734999999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5631118802915,
+                        "lng": -70.95600106970849
+                    },
+                    "southwest": {
+                        "lat": 42.5604139197085,
+                        "lng": -70.9586990302915
+                    }
+                }
+            },
+            "place_id": "ChIJzXdEiSoS44kRPA4h6PsERBU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "39b63ddd5e3456532f6bf04badc6d4ef",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:58.505651",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

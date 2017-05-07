@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_87f9b881b937339ffdee15953bccc74b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "28",
+                    "short_name": "28",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Colonial Avenue",
+                    "short_name": "Colonial Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1602",
+                    "short_name": "1602",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "28 Colonial Ave, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4922008,
+                        "lng": -70.9734161
+                    },
+                    "southwest": {
+                        "lat": 42.4920885,
+                        "lng": -70.97353410000001
+                    }
+                },
+                "location": {
+                    "lat": 42.4921446,
+                    "lng": -70.9734751
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4934936302915,
+                        "lng": -70.9721261197085
+                    },
+                    "southwest": {
+                        "lat": 42.4907956697085,
+                        "lng": -70.97482408029151
+                    }
+                }
+            },
+            "place_id": "ChIJtSdTnMsS44kRO2jkjQb3fxI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "87f9b881b937339ffdee15953bccc74b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:01.962717",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

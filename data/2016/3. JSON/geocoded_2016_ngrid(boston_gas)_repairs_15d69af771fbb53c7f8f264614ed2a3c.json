@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_15d69af771fbb53c7f8f264614ed2a3c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "86",
+                    "short_name": "86",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gallivan Boulevard",
+                    "short_name": "Gallivan Blvd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4503",
+                    "short_name": "4503",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "86 Gallivan Blvd, Boston, MA 02124, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2781162,
+                        "lng": -71.0743113
+                    },
+                    "southwest": {
+                        "lat": 42.2781024,
+                        "lng": -71.0743134
+                    }
+                },
+                "location": {
+                    "lat": 42.2781162,
+                    "lng": -71.0743113
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2794582802915,
+                        "lng": -71.07296336970849
+                    },
+                    "southwest": {
+                        "lat": 42.2767603197085,
+                        "lng": -71.07566133029151
+                    }
+                }
+            },
+            "place_id": "Eic4NiBHYWxsaXZhbiBCbHZkLCBCb3N0b24sIE1BIDAyMTI0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "15d69af771fbb53c7f8f264614ed2a3c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:26.200957",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

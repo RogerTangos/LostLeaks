@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_10b2cffc22e07abd1564bb87a98519c1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "140",
+                    "short_name": "140",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Salem Street",
+                    "short_name": "Salem St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reading",
+                    "short_name": "Reading",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01867",
+                    "short_name": "01867",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2614",
+                    "short_name": "2614",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "140 Salem St, Reading, MA 01867, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5271792,
+                    "lng": -71.0946451
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5285281802915,
+                        "lng": -71.0932961197085
+                    },
+                    "southwest": {
+                        "lat": 42.5258302197085,
+                        "lng": -71.0959940802915
+                    }
+                }
+            },
+            "place_id": "ChIJ4S0UVKAM44kREtwuGmYJqWA",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "10b2cffc22e07abd1564bb87a98519c1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:05.652957",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_819055b659ed932fa78b9a29fe3d9ae5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "180",
+                    "short_name": "180",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Franklin Street",
+                    "short_name": "Franklin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Corner",
+                    "short_name": "Newton Corner",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02458",
+                    "short_name": "02458",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2415",
+                    "short_name": "2415",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "180 Franklin St, Newton, MA 02458, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.34911959999999,
+                        "lng": -71.1794147
+                    },
+                    "southwest": {
+                        "lat": 42.3491058,
+                        "lng": -71.1794152
+                    }
+                },
+                "location": {
+                    "lat": 42.3491058,
+                    "lng": -71.1794147
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3504616802915,
+                        "lng": -71.1780659697085
+                    },
+                    "southwest": {
+                        "lat": 42.3477637197085,
+                        "lng": -71.1807639302915
+                    }
+                }
+            },
+            "place_id": "EiYxODAgRnJhbmtsaW4gU3QsIE5ld3RvbiwgTUEgMDI0NTgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "819055b659ed932fa78b9a29fe3d9ae5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:34.246630",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

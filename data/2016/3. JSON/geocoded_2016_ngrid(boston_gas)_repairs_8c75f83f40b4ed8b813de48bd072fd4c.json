@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8c75f83f40b4ed8b813de48bd072fd4c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arthur Street",
+                    "short_name": "Arthur St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2801",
+                    "short_name": "2801",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Arthur St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.50536049999999,
+                        "lng": -70.9020755
+                    },
+                    "southwest": {
+                        "lat": 42.50525529999999,
+                        "lng": -70.9022002
+                    }
+                },
+                "location": {
+                    "lat": 42.5053079,
+                    "lng": -70.90213779999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.50665688029149,
+                        "lng": -70.90078886970849
+                    },
+                    "southwest": {
+                        "lat": 42.5039589197085,
+                        "lng": -70.90348683029151
+                    }
+                }
+            },
+            "place_id": "ChIJUUH8sJwU44kRw1NZ1e1_gzs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8c75f83f40b4ed8b813de48bd072fd4c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:35.680746",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

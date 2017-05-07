@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7336d1e2552a1240577c8aed528800b8.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Broadway",
+                    "short_name": "N Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "33 N Broadway, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.78201070000001,
+                        "lng": -71.1061393
+                    },
+                    "southwest": {
+                        "lat": 42.782003,
+                        "lng": -71.10615489999999
+                    }
+                },
+                "location": {
+                    "lat": 42.78201070000001,
+                    "lng": -71.1061393
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.78335583029151,
+                        "lng": -71.10479811970849
+                    },
+                    "southwest": {
+                        "lat": 42.78065786970851,
+                        "lng": -71.1074960802915
+                    }
+                }
+            },
+            "place_id": "EiczMyBOIEJyb2Fkd2F5LCBIYXZlcmhpbGwsIE1BIDAxODMyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7336d1e2552a1240577c8aed528800b8",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:04.733057",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

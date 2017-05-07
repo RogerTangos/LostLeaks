@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5a226d1314c5f940a80eca87c11b3fc5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "136",
+                    "short_name": "136",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough Street",
+                    "short_name": "Marlborough St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Back Bay East",
+                    "short_name": "Back Bay East",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02116",
+                    "short_name": "02116",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "136 Marlborough St, Boston, MA 02116, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3530959,
+                        "lng": -71.07784219999999
+                    },
+                    "southwest": {
+                        "lat": 42.3530829,
+                        "lng": -71.07784869999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3530829,
+                    "lng": -71.07784219999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3544383802915,
+                        "lng": -71.07649646970849
+                    },
+                    "southwest": {
+                        "lat": 42.3517404197085,
+                        "lng": -71.07919443029151
+                    }
+                }
+            },
+            "place_id": "EikxMzYgTWFybGJvcm91Z2ggU3QsIEJvc3RvbiwgTUEgMDIxMTYsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5a226d1314c5f940a80eca87c11b3fc5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:49.607429",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

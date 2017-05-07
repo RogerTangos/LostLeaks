@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9dda2ca3909f6efa008535ac5b9dc1a9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Squanto Road",
+                    "short_name": "Squanto Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Squanto Rd & Victoria Rd, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.26392999999999,
+                    "lng": -70.99521
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2652789802915,
+                        "lng": -70.99386101970849
+                    },
+                    "southwest": {
+                        "lat": 42.2625810197085,
+                        "lng": -70.99655898029151
+                    }
+                }
+            },
+            "place_id": "Ei9TcXVhbnRvIFJkICYgVmljdG9yaWEgUmQsIFF1aW5jeSwgTUEgMDIxNjksIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "9dda2ca3909f6efa008535ac5b9dc1a9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:55.317780",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

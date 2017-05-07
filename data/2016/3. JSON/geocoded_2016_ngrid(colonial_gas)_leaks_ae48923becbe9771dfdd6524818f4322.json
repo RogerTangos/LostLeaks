@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_ae48923becbe9771dfdd6524818f4322.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "98",
+                    "short_name": "98",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Street",
+                    "short_name": "West St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milford",
+                    "short_name": "Milford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01757",
+                    "short_name": "01757",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "98 West St, Milford, MA 01757, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1398627,
+                        "lng": -71.53165740000001
+                    },
+                    "southwest": {
+                        "lat": 42.1398491,
+                        "lng": -71.53166139999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1398491,
+                    "lng": -71.53165740000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1412048802915,
+                        "lng": -71.5303104197085
+                    },
+                    "southwest": {
+                        "lat": 42.1385069197085,
+                        "lng": -71.5330083802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiI5OCBXZXN0IFN0LCBNaWxmb3JkLCBNQSAwMTc1NywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ae48923becbe9771dfdd6524818f4322",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:09:51.672385",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

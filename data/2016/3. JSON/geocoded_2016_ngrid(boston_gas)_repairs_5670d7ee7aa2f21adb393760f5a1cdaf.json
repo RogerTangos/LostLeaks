@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5670d7ee7aa2f21adb393760f5a1cdaf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cottage Street",
+                    "short_name": "Cottage St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Warren",
+                    "short_name": "West Warren",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ware",
+                    "short_name": "Ware",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01082",
+                    "short_name": "01082",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Cottage St, Ware, MA 01082, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.210629,
+                        "lng": -72.2307598
+                    },
+                    "southwest": {
+                        "lat": 42.2106159,
+                        "lng": -72.23076619999999
+                    }
+                },
+                "location": {
+                    "lat": 42.210629,
+                    "lng": -72.23076619999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2119714302915,
+                        "lng": -72.2294140197085
+                    },
+                    "southwest": {
+                        "lat": 42.20927346970851,
+                        "lng": -72.2321119802915
+                    }
+                }
+            },
+            "place_id": "EiE2IENvdHRhZ2UgU3QsIFdhcmUsIE1BIDAxMDgyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5670d7ee7aa2f21adb393760f5a1cdaf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:21.060606",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

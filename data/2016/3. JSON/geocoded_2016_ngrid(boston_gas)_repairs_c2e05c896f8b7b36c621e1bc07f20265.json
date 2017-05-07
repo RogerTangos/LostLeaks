@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c2e05c896f8b7b36c621e1bc07f20265.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Saint Stephen Street",
+                    "short_name": "St Stephen St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fenway/Kenmore",
+                    "short_name": "Fenway/Kenmore",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02115",
+                    "short_name": "02115",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4510",
+                    "short_name": "4510",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "44 St Stephen St, Boston, MA 02115, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3422254,
+                    "lng": -71.08670099999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3435743802915,
+                        "lng": -71.08535201970848
+                    },
+                    "southwest": {
+                        "lat": 42.3408764197085,
+                        "lng": -71.0880499802915
+                    }
+                }
+            },
+            "place_id": "ChIJL9Cm7Rl644kRH7cvwgOPbg4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c2e05c896f8b7b36c621e1bc07f20265",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:40.824735",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

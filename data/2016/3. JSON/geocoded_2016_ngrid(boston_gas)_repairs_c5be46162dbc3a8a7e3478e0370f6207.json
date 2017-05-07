@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c5be46162dbc3a8a7e3478e0370f6207.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "425",
+                    "short_name": "425",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hingham Street",
+                    "short_name": "Hingham St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "425 Hingham St, Rockland, MA 02370, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.1482969,
+                    "lng": -70.9033166
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.14964588029149,
+                        "lng": -70.9019676197085
+                    },
+                    "southwest": {
+                        "lat": 42.1469479197085,
+                        "lng": -70.9046655802915
+                    }
+                }
+            },
+            "place_id": "ChIJH6SY7Xae5IkRpsxBme-EyxU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c5be46162dbc3a8a7e3478e0370f6207",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:28.452783",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

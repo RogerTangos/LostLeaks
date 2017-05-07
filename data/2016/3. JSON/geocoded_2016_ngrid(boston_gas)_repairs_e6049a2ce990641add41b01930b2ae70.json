@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e6049a2ce990641add41b01930b2ae70.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Park Street",
+                    "short_name": "Park St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Park St & Cross St, Chelsea, MA 02150, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3897943,
+                    "lng": -71.0376227
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39114328029149,
+                        "lng": -71.0362737197085
+                    },
+                    "southwest": {
+                        "lat": 42.3884453197085,
+                        "lng": -71.03897168029151
+                    }
+                }
+            },
+            "place_id": "EipQYXJrIFN0ICYgQ3Jvc3MgU3QsIENoZWxzZWEsIE1BIDAyMTUwLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "e6049a2ce990641add41b01930b2ae70",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:43.664148",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

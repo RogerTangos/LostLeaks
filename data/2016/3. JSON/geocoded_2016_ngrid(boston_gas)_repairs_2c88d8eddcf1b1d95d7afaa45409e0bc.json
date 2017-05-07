@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2c88d8eddcf1b1d95d7afaa45409e0bc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "116",
+                    "short_name": "116",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Spring Street",
+                    "short_name": "Spring St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Roxbury",
+                    "short_name": "West Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02132",
+                    "short_name": "02132",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "116 Spring St, West Roxbury, MA 02132, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2767686,
+                        "lng": -71.1649162
+                    },
+                    "southwest": {
+                        "lat": 42.276367,
+                        "lng": -71.1654041
+                    }
+                },
+                "location": {
+                    "lat": 42.2765678,
+                    "lng": -71.1651602
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2779167802915,
+                        "lng": -71.1638111697085
+                    },
+                    "southwest": {
+                        "lat": 42.2752188197085,
+                        "lng": -71.1665091302915
+                    }
+                }
+            },
+            "place_id": "ChIJA6Y8Nj5_44kRjTSQmGmGkXI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2c88d8eddcf1b1d95d7afaa45409e0bc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:03.643585",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

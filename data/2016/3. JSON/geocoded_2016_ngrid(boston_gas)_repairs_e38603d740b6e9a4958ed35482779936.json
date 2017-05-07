@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e38603d740b6e9a4958ed35482779936.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "75",
+                    "short_name": "75",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Loomis Street",
+                    "short_name": "Loomis St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2229",
+                    "short_name": "2229",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "75 Loomis St, Bedford, MA 01730, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4864766,
+                        "lng": -71.2767957
+                    },
+                    "southwest": {
+                        "lat": 42.4864654,
+                        "lng": -71.2768067
+                    }
+                },
+                "location": {
+                    "lat": 42.4864766,
+                    "lng": -71.2768067
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.48781998029149,
+                        "lng": -71.27545221970848
+                    },
+                    "southwest": {
+                        "lat": 42.48512201970849,
+                        "lng": -71.27815018029149
+                    }
+                }
+            },
+            "place_id": "EiQ3NSBMb29taXMgU3QsIEJlZGZvcmQsIE1BIDAxNzMwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e38603d740b6e9a4958ed35482779936",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:42.679445",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

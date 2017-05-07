@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_78d57734e2c04e57c9718bf09319c303.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "378",
+                    "short_name": "378",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Granite Street",
+                    "short_name": "Granite St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6405",
+                    "short_name": "6405",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "378 Granite St, Quincy, MA 02169, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2423536,
+                        "lng": -71.01477890000001
+                    },
+                    "southwest": {
+                        "lat": 42.2420766,
+                        "lng": -71.0152863
+                    }
+                },
+                "location": {
+                    "lat": 42.2422151,
+                    "lng": -71.0150326
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2435640802915,
+                        "lng": -71.0136836197085
+                    },
+                    "southwest": {
+                        "lat": 42.2408661197085,
+                        "lng": -71.01638158029151
+                    }
+                }
+            },
+            "place_id": "ChIJR91TcMV844kRsDiop8rdhw4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "78d57734e2c04e57c9718bf09319c303",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:42.677763",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1d7ab76bd49447ac7a0eada15077cc22.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "44",
+                    "short_name": "44",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Austin Street",
+                    "short_name": "Austin St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Charlestown",
+                    "short_name": "Charlestown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02129",
+                    "short_name": "02129",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "44 Austin St, Boston, MA 02129, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3748058,
+                        "lng": -71.0659572
+                    },
+                    "southwest": {
+                        "lat": 42.3747929,
+                        "lng": -71.06596429999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3747929,
+                    "lng": -71.0659572
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.37614833029149,
+                        "lng": -71.06461176970849
+                    },
+                    "southwest": {
+                        "lat": 42.3734503697085,
+                        "lng": -71.0673097302915
+                    }
+                }
+            },
+            "place_id": "EiM0NCBBdXN0aW4gU3QsIEJvc3RvbiwgTUEgMDIxMjksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1d7ab76bd49447ac7a0eada15077cc22",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:36.512174",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_43ea304324f1329f67125d0bec555c1d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "65",
+                    "short_name": "65",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Trapelo Road",
+                    "short_name": "Trapelo Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lincoln",
+                    "short_name": "Lincoln",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01773",
+                    "short_name": "01773",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2100",
+                    "short_name": "2100",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "65 Trapelo Rd, Lincoln, MA 01773, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4234129,
+                        "lng": -71.29181439999999
+                    },
+                    "southwest": {
+                        "lat": 42.4233991,
+                        "lng": -71.29181580000001
+                    }
+                },
+                "location": {
+                    "lat": 42.4234129,
+                    "lng": -71.29181439999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4247549802915,
+                        "lng": -71.2904661197085
+                    },
+                    "southwest": {
+                        "lat": 42.4220570197085,
+                        "lng": -71.2931640802915
+                    }
+                }
+            },
+            "place_id": "EiU2NSBUcmFwZWxvIFJkLCBMaW5jb2xuLCBNQSAwMTc3MywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "43ea304324f1329f67125d0bec555c1d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:58.426485",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

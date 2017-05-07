@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9cf7489415429c86cf6e8288a9b5f05c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Groveland",
+                    "short_name": "Groveland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01834",
+                    "short_name": "01834",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Washington St, Groveland, MA 01834, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.74897900000001,
+                    "lng": -71.04263499999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.75032798029151,
+                        "lng": -71.0412860197085
+                    },
+                    "southwest": {
+                        "lat": 42.74763001970851,
+                        "lng": -71.0439839802915
+                    }
+                }
+            },
+            "place_id": "ChIJIZIUkgwD44kRNsWVhr3bS_U",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9cf7489415429c86cf6e8288a9b5f05c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:08.108175",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3542c488da1f2c95998905cb1504f506.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "67",
+                    "short_name": "67",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wychwood Heights",
+                    "short_name": "Wychwood Heights",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Littleton",
+                    "short_name": "Littleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01460",
+                    "short_name": "01460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1105",
+                    "short_name": "1105",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "67 Wychwood Heights, Littleton, MA 01460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5416626,
+                        "lng": -71.49535139999999
+                    },
+                    "southwest": {
+                        "lat": 42.54151890000001,
+                        "lng": -71.4956175
+                    }
+                },
+                "location": {
+                    "lat": 42.5415907,
+                    "lng": -71.49548440000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5429397302915,
+                        "lng": -71.49413546970848
+                    },
+                    "southwest": {
+                        "lat": 42.5402417697085,
+                        "lng": -71.49683343029149
+                    }
+                }
+            },
+            "place_id": "ChIJBdjaY8uV44kRVo5ZomO5j3I",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3542c488da1f2c95998905cb1504f506",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:08.032913",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

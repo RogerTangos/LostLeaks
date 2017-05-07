@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_98358ec5448c26bfc5b71f6a79f3d680.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "89",
+                    "short_name": "89",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mayall Road",
+                    "short_name": "Mayall Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Warrendale",
+                    "short_name": "Warrendale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02453",
+                    "short_name": "02453",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8266",
+                    "short_name": "8266",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "89 Mayall Rd, Waltham, MA 02453, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3807993,
+                        "lng": -71.21187859999999
+                    },
+                    "southwest": {
+                        "lat": 42.3807949,
+                        "lng": -71.2118964
+                    }
+                },
+                "location": {
+                    "lat": 42.3807949,
+                    "lng": -71.21187859999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38214608029151,
+                        "lng": -71.21053851970849
+                    },
+                    "southwest": {
+                        "lat": 42.37944811970851,
+                        "lng": -71.2132364802915
+                    }
+                }
+            },
+            "place_id": "EiQ4OSBNYXlhbGwgUmQsIFdhbHRoYW0sIE1BIDAyNDUzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "98358ec5448c26bfc5b71f6a79f3d680",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:33.506403",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

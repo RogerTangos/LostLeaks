@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_200dbecf8da5690238f0ad39952ba8a2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2999",
+                    "short_name": "2999",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1201",
+                    "short_name": "1201",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2999 Washington St, Roxbury, MA 02119, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.317601,
+                    "lng": -71.096895
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31894998029151,
+                        "lng": -71.0955460197085
+                    },
+                    "southwest": {
+                        "lat": 42.31625201970851,
+                        "lng": -71.09824398029151
+                    }
+                }
+            },
+            "place_id": "ChIJMTkbjNV744kRhWmA0AIu2Ro",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "200dbecf8da5690238f0ad39952ba8a2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:21.933434",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

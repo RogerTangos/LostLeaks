@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0ffd432302f56ee8153498feb12719a5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "39",
+                    "short_name": "39",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gage Street",
+                    "short_name": "Gage St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2758",
+                    "short_name": "2758",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "39 Gage St, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4817926,
+                        "lng": -70.9470674
+                    },
+                    "southwest": {
+                        "lat": 42.4816195,
+                        "lng": -70.9472898
+                    }
+                },
+                "location": {
+                    "lat": 42.4817061,
+                    "lng": -70.9471786
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4830550302915,
+                        "lng": -70.94582961970848
+                    },
+                    "southwest": {
+                        "lat": 42.4803570697085,
+                        "lng": -70.9485275802915
+                    }
+                }
+            },
+            "place_id": "ChIJdZw0vtNs44kRz4a1a-FIgww",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0ffd432302f56ee8153498feb12719a5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:52.378041",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

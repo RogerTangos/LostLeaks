@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cde9903b726d7ba7c70f4814de74bd1b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "283",
+                    "short_name": "283",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Old Pickard Road",
+                    "short_name": "Old Pickard Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4725",
+                    "short_name": "4725",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "283 Old Pickard Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4286077,
+                        "lng": -71.4043222
+                    },
+                    "southwest": {
+                        "lat": 42.4283714,
+                        "lng": -71.4045635
+                    }
+                },
+                "location": {
+                    "lat": 42.4284895,
+                    "lng": -71.4044428
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4298385302915,
+                        "lng": -71.4030938697085
+                    },
+                    "southwest": {
+                        "lat": 42.4271405697085,
+                        "lng": -71.4057918302915
+                    }
+                }
+            },
+            "place_id": "ChIJMT9qFBWQ44kRWoQy6xWXuiA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "cde9903b726d7ba7c70f4814de74bd1b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:09.792489",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

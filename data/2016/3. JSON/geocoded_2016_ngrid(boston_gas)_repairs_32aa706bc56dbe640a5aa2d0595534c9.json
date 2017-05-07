@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_32aa706bc56dbe640a5aa2d0595534c9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "371",
+                    "short_name": "371",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sumner Street",
+                    "short_name": "Sumner St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "371 Sumner St, Boston, MA 02128, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3665181,
+                    "lng": -71.03462259999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3678670802915,
+                        "lng": -71.03327361970848
+                    },
+                    "southwest": {
+                        "lat": 42.3651691197085,
+                        "lng": -71.0359715802915
+                    }
+                }
+            },
+            "place_id": "ChIJ_W_OzWlw44kRcVEaIU5ekhg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "32aa706bc56dbe640a5aa2d0595534c9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:40.252043",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

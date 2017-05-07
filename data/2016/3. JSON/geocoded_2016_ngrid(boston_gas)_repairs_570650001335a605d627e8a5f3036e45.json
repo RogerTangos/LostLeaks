@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_570650001335a605d627e8a5f3036e45.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "62",
+                    "short_name": "62",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Shaker Lane",
+                    "short_name": "Shaker Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Littleton",
+                    "short_name": "Littleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01460",
+                    "short_name": "01460",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1985",
+                    "short_name": "1985",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "62 Shaker Ln, Littleton, MA 01460, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.529811,
+                        "lng": -71.4570947
+                    },
+                    "southwest": {
+                        "lat": 42.529667,
+                        "lng": -71.4573202
+                    }
+                },
+                "location": {
+                    "lat": 42.529739,
+                    "lng": -71.4572074
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5310879802915,
+                        "lng": -71.45585846970849
+                    },
+                    "southwest": {
+                        "lat": 42.5283900197085,
+                        "lng": -71.45855643029151
+                    }
+                }
+            },
+            "place_id": "ChIJIVNLmouW44kROg0-5TZETbY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "570650001335a605d627e8a5f3036e45",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:41.641647",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

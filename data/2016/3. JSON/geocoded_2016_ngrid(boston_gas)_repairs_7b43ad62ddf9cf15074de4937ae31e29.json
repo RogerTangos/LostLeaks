@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7b43ad62ddf9cf15074de4937ae31e29.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Felt Street",
+                    "short_name": "Felt St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2417",
+                    "short_name": "2417",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Felt St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5323803,
+                        "lng": -70.8974735
+                    },
+                    "southwest": {
+                        "lat": 42.5322597,
+                        "lng": -70.8976375
+                    }
+                },
+                "location": {
+                    "lat": 42.53232,
+                    "lng": -70.8975555
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5336689802915,
+                        "lng": -70.8962065197085
+                    },
+                    "southwest": {
+                        "lat": 42.5309710197085,
+                        "lng": -70.89890448029152
+                    }
+                }
+            },
+            "place_id": "ChIJwwci3XIU44kRdh1WjOYz2IU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7b43ad62ddf9cf15074de4937ae31e29",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:20.717879",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

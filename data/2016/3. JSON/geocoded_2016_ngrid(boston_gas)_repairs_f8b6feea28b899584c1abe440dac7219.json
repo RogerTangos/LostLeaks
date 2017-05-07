@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f8b6feea28b899584c1abe440dac7219.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "291",
+                    "short_name": "291",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Elmwood Avenue",
+                    "short_name": "Elmwood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2513",
+                    "short_name": "2513",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "291 Elmwood Ave, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2617463,
+                        "lng": -71.0325237
+                    },
+                    "southwest": {
+                        "lat": 42.26162300000001,
+                        "lng": -71.0326772
+                    }
+                },
+                "location": {
+                    "lat": 42.2616846,
+                    "lng": -71.03260039999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26303363029151,
+                        "lng": -71.0312514697085
+                    },
+                    "southwest": {
+                        "lat": 42.26033566970851,
+                        "lng": -71.0339494302915
+                    }
+                }
+            },
+            "place_id": "ChIJVaZssJB844kR3ZR90JNZ0pw",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f8b6feea28b899584c1abe440dac7219",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:17.867720",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

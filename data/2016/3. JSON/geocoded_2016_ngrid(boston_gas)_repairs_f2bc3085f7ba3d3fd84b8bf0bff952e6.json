@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f2bc3085f7ba3d3fd84b8bf0bff952e6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "98",
+                    "short_name": "98",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Huckins Avenue",
+                    "short_name": "Huckins Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02171",
+                    "short_name": "02171",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1134",
+                    "short_name": "1134",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "98 Huckins Ave, Quincy, MA 02171, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.29739379999999,
+                        "lng": -71.0100436
+                    },
+                    "southwest": {
+                        "lat": 42.2973015,
+                        "lng": -71.0101815
+                    }
+                },
+                "location": {
+                    "lat": 42.2973477,
+                    "lng": -71.01011249999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2986966302915,
+                        "lng": -71.0087635697085
+                    },
+                    "southwest": {
+                        "lat": 42.2959986697085,
+                        "lng": -71.01146153029151
+                    }
+                }
+            },
+            "place_id": "ChIJH_WWOy5744kRMjmOvInJEEY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f2bc3085f7ba3d3fd84b8bf0bff952e6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:05.453978",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

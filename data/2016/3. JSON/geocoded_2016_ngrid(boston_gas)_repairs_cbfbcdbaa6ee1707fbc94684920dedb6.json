@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cbfbcdbaa6ee1707fbc94684920dedb6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Dorchester Avenue",
+                    "short_name": "Dorchester Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Codman Hill / West Lower Mills",
+                    "short_name": "West Codman Hill / West Lower Mills",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Dorchester Ave & Adirondack Pl, Boston, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2732526,
+                    "lng": -71.0677967
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2746015802915,
+                        "lng": -71.06644771970849
+                    },
+                    "southwest": {
+                        "lat": 42.2719036197085,
+                        "lng": -71.06914568029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjVEb3JjaGVzdGVyIEF2ZSAmIEFkaXJvbmRhY2sgUGwsIEJvc3RvbiwgTUEgMDIxMjQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "cbfbcdbaa6ee1707fbc94684920dedb6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:24.705960",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

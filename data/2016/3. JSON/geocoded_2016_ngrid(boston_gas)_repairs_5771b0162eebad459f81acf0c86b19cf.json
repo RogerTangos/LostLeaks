@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5771b0162eebad459f81acf0c86b19cf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Millbrook Drive",
+                    "short_name": "Millbrook Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockland",
+                    "short_name": "Rockland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02370",
+                    "short_name": "02370",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Millbrook Dr, Rockland, MA 02370, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0930109,
+                        "lng": -70.8998003
+                    },
+                    "southwest": {
+                        "lat": 42.0928964,
+                        "lng": -70.89994759999999
+                    }
+                },
+                "location": {
+                    "lat": 42.0929537,
+                    "lng": -70.899874
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.09430263029149,
+                        "lng": -70.89852496970849
+                    },
+                    "southwest": {
+                        "lat": 42.0916046697085,
+                        "lng": -70.9012229302915
+                    }
+                }
+            },
+            "place_id": "ChIJVwng6lOZ5IkRnEa6X9W8zDc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5771b0162eebad459f81acf0c86b19cf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:12.339551",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

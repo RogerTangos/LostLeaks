@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2102410313933e1b6970affeefdaa533.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Old Farm Road",
+                    "short_name": "Old Farm Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wellesley",
+                    "short_name": "Wellesley",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02481",
+                    "short_name": "02481",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Old Farm Rd & Highgate, Wellesley, MA 02481, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3224741,
+                    "lng": -71.28101509999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3238230802915,
+                        "lng": -71.2796661197085
+                    },
+                    "southwest": {
+                        "lat": 42.3211251197085,
+                        "lng": -71.2823640802915
+                    }
+                }
+            },
+            "place_id": "EjBPbGQgRmFybSBSZCAmIEhpZ2hnYXRlLCBXZWxsZXNsZXksIE1BIDAyNDgxLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "2102410313933e1b6970affeefdaa533",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:31.721376",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_05789b5201d54aca99f19aabcd8a86d6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Lexington Street",
+                    "short_name": "Lexington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Belmont",
+                    "short_name": "Belmont",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02478",
+                    "short_name": "02478",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Lexington St & Burnham St, Belmont, MA 02478, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3840434,
+                    "lng": -71.1894574
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.38539238029149,
+                        "lng": -71.18810841970848
+                    },
+                    "southwest": {
+                        "lat": 42.3826944197085,
+                        "lng": -71.1908063802915
+                    }
+                }
+            },
+            "place_id": "EjFMZXhpbmd0b24gU3QgJiBCdXJuaGFtIFN0LCBCZWxtb250LCBNQSAwMjQ3OCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "05789b5201d54aca99f19aabcd8a86d6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:35.115689",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0345fa3430d7dbe2abe1dc49142bd8f0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "257",
+                    "short_name": "257",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Street",
+                    "short_name": "East St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "257 East St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4257911,
+                        "lng": -71.6817246
+                    },
+                    "southwest": {
+                        "lat": 42.4257877,
+                        "lng": -71.6817429
+                    }
+                },
+                "location": {
+                    "lat": 42.4257877,
+                    "lng": -71.6817246
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4271383802915,
+                        "lng": -71.6803847697085
+                    },
+                    "southwest": {
+                        "lat": 42.4244404197085,
+                        "lng": -71.6830827302915
+                    }
+                }
+            },
+            "place_id": "EiMyNTcgRWFzdCBTdCwgQ2xpbnRvbiwgTUEgMDE1MTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0345fa3430d7dbe2abe1dc49142bd8f0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:38.857302",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_518c9436333a9fc4ddf39f52efa19247.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Duncan Street",
+                    "short_name": "Duncan St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02122",
+                    "short_name": "02122",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2733",
+                    "short_name": "2733",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Duncan St, Dorchester, MA 02122, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3028166,
+                        "lng": -71.0585514
+                    },
+                    "southwest": {
+                        "lat": 42.3027035,
+                        "lng": -71.0587348
+                    }
+                },
+                "location": {
+                    "lat": 42.3027601,
+                    "lng": -71.0586431
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3041090302915,
+                        "lng": -71.05729411970849
+                    },
+                    "southwest": {
+                        "lat": 42.3014110697085,
+                        "lng": -71.05999208029151
+                    }
+                }
+            },
+            "place_id": "ChIJq7YcqqV744kRk-eUWaLOPAs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "518c9436333a9fc4ddf39f52efa19247",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:20.161948",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

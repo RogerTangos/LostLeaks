@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_db90333fc44505d492b0f1014069c192.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "575",
+                    "short_name": "575",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lowell Street",
+                    "short_name": "Lowell St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynnfield",
+                    "short_name": "Lynnfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01940",
+                    "short_name": "01940",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1648",
+                    "short_name": "1648",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "575 Lowell St, Lynnfield, MA 01940, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.55804089999999,
+                        "lng": -71.05666579999999
+                    },
+                    "southwest": {
+                        "lat": 42.5578586,
+                        "lng": -71.0569529
+                    }
+                },
+                "location": {
+                    "lat": 42.5579498,
+                    "lng": -71.0568093
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.55929873029149,
+                        "lng": -71.0554603697085
+                    },
+                    "southwest": {
+                        "lat": 42.5566007697085,
+                        "lng": -71.0581583302915
+                    }
+                }
+            },
+            "place_id": "ChIJqWx6cUkM44kRjppbVa7-DNY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "db90333fc44505d492b0f1014069c192",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:06.094160",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

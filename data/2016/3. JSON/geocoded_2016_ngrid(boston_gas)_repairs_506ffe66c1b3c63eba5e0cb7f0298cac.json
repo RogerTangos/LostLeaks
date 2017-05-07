@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_506ffe66c1b3c63eba5e0cb7f0298cac.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "107",
+                    "short_name": "107",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Federal Street",
+                    "short_name": "Federal St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "107 Federal St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5216967,
+                        "lng": -70.9013538
+                    },
+                    "southwest": {
+                        "lat": 42.5215865,
+                        "lng": -70.9014759
+                    }
+                },
+                "location": {
+                    "lat": 42.5216416,
+                    "lng": -70.9014148
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5229905802915,
+                        "lng": -70.90006586970848
+                    },
+                    "southwest": {
+                        "lat": 42.5202926197085,
+                        "lng": -70.90276383029149
+                    }
+                }
+            },
+            "place_id": "ChIJH7fRfHkU44kR2brVH3DV6ic",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "506ffe66c1b3c63eba5e0cb7f0298cac",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:34.574027",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

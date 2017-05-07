@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8fa3930b65d3a4f5e7ac8e382008d80e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "70",
+                    "short_name": "70",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oxford Street",
+                    "short_name": "Oxford St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6925",
+                    "short_name": "6925",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "70 Oxford St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4084996,
+                        "lng": -71.1409118
+                    },
+                    "southwest": {
+                        "lat": 42.4084901,
+                        "lng": -71.1409254
+                    }
+                },
+                "location": {
+                    "lat": 42.4084996,
+                    "lng": -71.1409254
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4098438302915,
+                        "lng": -71.1395696197085
+                    },
+                    "southwest": {
+                        "lat": 42.4071458697085,
+                        "lng": -71.14226758029152
+                    }
+                }
+            },
+            "place_id": "EiY3MCBPeGZvcmQgU3QsIEFybGluZ3RvbiwgTUEgMDI0NzQsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8fa3930b65d3a4f5e7ac8e382008d80e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:25.362968",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

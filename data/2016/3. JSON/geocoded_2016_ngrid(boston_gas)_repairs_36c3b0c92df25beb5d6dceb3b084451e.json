@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_36c3b0c92df25beb5d6dceb3b084451e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Warren Street",
+                    "short_name": "Warren St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Warren St & Beacon St, Arlington, MA 02474, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.413655,
+                    "lng": -71.1452035
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4150039802915,
+                        "lng": -71.14385451970848
+                    },
+                    "southwest": {
+                        "lat": 42.4123060197085,
+                        "lng": -71.1465524802915
+                    }
+                }
+            },
+            "place_id": "Ei9XYXJyZW4gU3QgJiBCZWFjb24gU3QsIEFybGluZ3RvbiwgTUEgMDI0NzQsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "36c3b0c92df25beb5d6dceb3b084451e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:12.896187",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

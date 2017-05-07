@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e62acd78370a356e2de9f2d549db2cfd.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "666",
+                    "short_name": "666",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Trapelo Road",
+                    "short_name": "Trapelo Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North Waltham",
+                    "short_name": "North Waltham",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02452",
+                    "short_name": "02452",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "666 Trapelo Rd, Waltham, MA 02452, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4058211,
+                        "lng": -71.2186783
+                    },
+                    "southwest": {
+                        "lat": 42.40581,
+                        "lng": -71.2186897
+                    }
+                },
+                "location": {
+                    "lat": 42.40581,
+                    "lng": -71.2186897
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4071645302915,
+                        "lng": -71.21733501970849
+                    },
+                    "southwest": {
+                        "lat": 42.4044665697085,
+                        "lng": -71.2200329802915
+                    }
+                }
+            },
+            "place_id": "EiY2NjYgVHJhcGVsbyBSZCwgV2FsdGhhbSwgTUEgMDI0NTIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e62acd78370a356e2de9f2d549db2cfd",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:04.216730",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

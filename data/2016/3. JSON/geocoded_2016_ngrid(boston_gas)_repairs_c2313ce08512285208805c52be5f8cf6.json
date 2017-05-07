@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c2313ce08512285208805c52be5f8cf6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "496",
+                    "short_name": "496",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Old West Warren Road",
+                    "short_name": "Old West Warren Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Warren",
+                    "short_name": "Warren",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01083",
+                    "short_name": "01083",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "496 Old West Warren Rd, Warren, MA 01083, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.214726,
+                        "lng": -72.22969379999999
+                    },
+                    "southwest": {
+                        "lat": 42.214714,
+                        "lng": -72.2297032
+                    }
+                },
+                "location": {
+                    "lat": 42.214726,
+                    "lng": -72.2297032
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2160689802915,
+                        "lng": -72.2283495197085
+                    },
+                    "southwest": {
+                        "lat": 42.2133710197085,
+                        "lng": -72.23104748029151
+                    }
+                }
+            },
+            "place_id": "Ei00OTYgT2xkIFdlc3QgV2FycmVuIFJkLCBXYXJyZW4sIE1BIDAxMDgzLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "c2313ce08512285208805c52be5f8cf6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:14.444593",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

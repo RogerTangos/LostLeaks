@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8411fbf00d0d3ec2933e5a28ad9c0f6e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "25",
+                    "short_name": "25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Baker Road",
+                    "short_name": "Baker Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nahant",
+                    "short_name": "Nahant",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01908",
+                    "short_name": "01908",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "25 Baker Rd, Nahant, MA 01908, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.43600300000001,
+                        "lng": -70.9329053
+                    },
+                    "southwest": {
+                        "lat": 42.435804,
+                        "lng": -70.93334899999999
+                    }
+                },
+                "location": {
+                    "lat": 42.43590349999999,
+                    "lng": -70.9331271
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.43725248029151,
+                        "lng": -70.9317781697085
+                    },
+                    "southwest": {
+                        "lat": 42.43455451970851,
+                        "lng": -70.9344761302915
+                    }
+                }
+            },
+            "place_id": "ChIJ6b-vOl1s44kReXTga55OAFE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8411fbf00d0d3ec2933e5a28ad9c0f6e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:25.192114",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

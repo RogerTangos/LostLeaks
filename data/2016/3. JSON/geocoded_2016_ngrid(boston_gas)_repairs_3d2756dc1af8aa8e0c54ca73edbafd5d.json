@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3d2756dc1af8aa8e0c54ca73edbafd5d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Broadway, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7789444,
+                        "lng": -71.0917011
+                    },
+                    "southwest": {
+                        "lat": 42.7788203,
+                        "lng": -71.0918193
+                    }
+                },
+                "location": {
+                    "lat": 42.7788824,
+                    "lng": -71.0917602
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7802313302915,
+                        "lng": -71.0904112197085
+                    },
+                    "southwest": {
+                        "lat": 42.7775333697085,
+                        "lng": -71.0931091802915
+                    }
+                }
+            },
+            "place_id": "ChIJ-6nE-ysC44kR8KvBI_By4Lg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3d2756dc1af8aa8e0c54ca73edbafd5d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:18.829374",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

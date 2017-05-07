@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_48930736d239522f5f104467e2e16d20.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "East Howard Street",
+                    "short_name": "E Howard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "E Howard St & Des Moines Rd, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2419688,
+                    "lng": -70.97810160000002
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2433177802915,
+                        "lng": -70.97675261970852
+                    },
+                    "southwest": {
+                        "lat": 42.2406198197085,
+                        "lng": -70.97945058029153
+                    }
+                }
+            },
+            "place_id": "EjJFIEhvd2FyZCBTdCAmIERlcyBNb2luZXMgUmQsIFF1aW5jeSwgTUEgMDIxNjksIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "48930736d239522f5f104467e2e16d20",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:25.763388",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

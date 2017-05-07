@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_76b1fcc7a73ec7bfa1ccf757765e45e1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tarbell Avenue",
+                    "short_name": "Tarbell Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lexington",
+                    "short_name": "Lexington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02421",
+                    "short_name": "02421",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6221",
+                    "short_name": "6221",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Tarbell Ave, Lexington, MA 02421, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4221934,
+                        "lng": -71.19857619999999
+                    },
+                    "southwest": {
+                        "lat": 42.4220566,
+                        "lng": -71.1987853
+                    }
+                },
+                "location": {
+                    "lat": 42.422125,
+                    "lng": -71.1986807
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4234739802915,
+                        "lng": -71.19733176970848
+                    },
+                    "southwest": {
+                        "lat": 42.4207760197085,
+                        "lng": -71.2000297302915
+                    }
+                }
+            },
+            "place_id": "ChIJ4Xdj2YWd44kRIBSEQ2Ledos",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "76b1fcc7a73ec7bfa1ccf757765e45e1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:48.320166",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

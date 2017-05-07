@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cda23d79164cf0051cc756fb32b3207b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "King Philip Road",
+                    "short_name": "King Philip Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2314",
+                    "short_name": "2314",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 King Philip Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3617494,
+                        "lng": -71.4089071
+                    },
+                    "southwest": {
+                        "lat": 42.3617404,
+                        "lng": -71.4089214
+                    }
+                },
+                "location": {
+                    "lat": 42.3617494,
+                    "lng": -71.4089071
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3630938802915,
+                        "lng": -71.4075652697085
+                    },
+                    "southwest": {
+                        "lat": 42.3603959197085,
+                        "lng": -71.4102632302915
+                    }
+                }
+            },
+            "place_id": "Eig0IEtpbmcgUGhpbGlwIFJkLCBTdWRidXJ5LCBNQSAwMTc3NiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cda23d79164cf0051cc756fb32b3207b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:02.998576",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

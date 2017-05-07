@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e02651c3c05abde42a6d9873a7c90b26.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Beulah Street",
+                    "short_name": "Beulah St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Whitman",
+                    "short_name": "Whitman",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02382",
+                    "short_name": "02382",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Beulah St & Chestnut St, Whitman, MA 02382, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.0858529,
+                    "lng": -70.942911
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0872018802915,
+                        "lng": -70.9415620197085
+                    },
+                    "southwest": {
+                        "lat": 42.0845039197085,
+                        "lng": -70.9442599802915
+                    }
+                }
+            },
+            "place_id": "Ei9CZXVsYWggU3QgJiBDaGVzdG51dCBTdCwgV2hpdG1hbiwgTUEgMDIzODIsIFVTQQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "e02651c3c05abde42a6d9873a7c90b26",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:14.857577",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

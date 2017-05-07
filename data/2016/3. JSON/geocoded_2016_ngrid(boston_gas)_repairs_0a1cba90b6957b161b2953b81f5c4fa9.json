@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0a1cba90b6957b161b2953b81f5c4fa9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "212",
+                    "short_name": "212",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lenox Street",
+                    "short_name": "Lenox St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Norwood",
+                    "short_name": "Norwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02062",
+                    "short_name": "02062",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3435",
+                    "short_name": "3435",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "212 Lenox St, Norwood, MA 02062, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1881487,
+                        "lng": -71.1983523
+                    },
+                    "southwest": {
+                        "lat": 42.1880651,
+                        "lng": -71.1985159
+                    }
+                },
+                "location": {
+                    "lat": 42.1881069,
+                    "lng": -71.1984341
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.18945588029149,
+                        "lng": -71.1970851197085
+                    },
+                    "southwest": {
+                        "lat": 42.1867579197085,
+                        "lng": -71.19978308029152
+                    }
+                }
+            },
+            "place_id": "ChIJxc-Tf9N_5IkRCxqQ2BgB32w",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "0a1cba90b6957b161b2953b81f5c4fa9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:37.848046",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

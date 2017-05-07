@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3a42be5463b0f6efafdaa3cfe26ea6a1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Village Way",
+                    "short_name": "Village Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central Village",
+                    "short_name": "Central Village",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02445",
+                    "short_name": "02445",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "7218",
+                    "short_name": "7218",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Village Way, Brookline, MA 02445, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.33386650000001,
+                    "lng": -71.11409139999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33521548029151,
+                        "lng": -71.11274241970848
+                    },
+                    "southwest": {
+                        "lat": 42.33251751970851,
+                        "lng": -71.11544038029149
+                    }
+                }
+            },
+            "place_id": "ChIJf0G8pJB544kR65gnNP1Ey3I",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3a42be5463b0f6efafdaa3cfe26ea6a1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:48.811363",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

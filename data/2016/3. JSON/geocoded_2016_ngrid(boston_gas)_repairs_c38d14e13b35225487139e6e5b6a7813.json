@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c38d14e13b35225487139e6e5b6a7813.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "6",
+                    "short_name": "6",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carver Street",
+                    "short_name": "Carver St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury",
+                    "short_name": "Amesbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01913",
+                    "short_name": "01913",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3306",
+                    "short_name": "3306",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "6 Carver St, Amesbury, MA 01913, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8511275,
+                        "lng": -70.93597009999999
+                    },
+                    "southwest": {
+                        "lat": 42.85101359999999,
+                        "lng": -70.9361248
+                    }
+                },
+                "location": {
+                    "lat": 42.85107050000001,
+                    "lng": -70.9360475
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8524195302915,
+                        "lng": -70.9346984697085
+                    },
+                    "southwest": {
+                        "lat": 42.8497215697085,
+                        "lng": -70.9373964302915
+                    }
+                }
+            },
+            "place_id": "ChIJM3xDD5Lj4okRRRTOjDEnjFg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c38d14e13b35225487139e6e5b6a7813",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:20.495865",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

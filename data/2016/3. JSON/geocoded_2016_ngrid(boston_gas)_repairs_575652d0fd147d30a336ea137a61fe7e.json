@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_575652d0fd147d30a336ea137a61fe7e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "73",
+                    "short_name": "73",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Musketaquid Road",
+                    "short_name": "Musketaquid Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Concord",
+                    "short_name": "Concord",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01742",
+                    "short_name": "01742",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1609",
+                    "short_name": "1609",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "73 Musketaquid Rd, Concord, MA 01742, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4608611,
+                        "lng": -71.364837
+                    },
+                    "southwest": {
+                        "lat": 42.4606924,
+                        "lng": -71.36509339999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4607767,
+                    "lng": -71.3649652
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4621257302915,
+                        "lng": -71.36361621970849
+                    },
+                    "southwest": {
+                        "lat": 42.4594277697085,
+                        "lng": -71.36631418029151
+                    }
+                }
+            },
+            "place_id": "ChIJcSXHqGya44kRhbs6JUKO0Ts",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "575652d0fd147d30a336ea137a61fe7e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:36.541667",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e01e9c0f5e06eead45531ecaa2c968cf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "41",
+                    "short_name": "41",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Walden Pond Avenue",
+                    "short_name": "Walden Pond Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saugus",
+                    "short_name": "Saugus",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01906",
+                    "short_name": "01906",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1145",
+                    "short_name": "1145",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "41 Walden Pond Ave, Saugus, MA 01906, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4901749,
+                    "lng": -71.01278490000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4915238802915,
+                        "lng": -71.01143591970852
+                    },
+                    "southwest": {
+                        "lat": 42.4888259197085,
+                        "lng": -71.01413388029152
+                    }
+                }
+            },
+            "place_id": "ChIJpfMuP65y44kRq39mB0m2RvU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e01e9c0f5e06eead45531ecaa2c968cf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:20.295616",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

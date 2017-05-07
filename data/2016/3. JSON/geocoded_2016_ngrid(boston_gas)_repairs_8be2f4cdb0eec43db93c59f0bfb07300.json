@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8be2f4cdb0eec43db93c59f0bfb07300.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "42",
+                    "short_name": "42",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ocean Avenue",
+                    "short_name": "Ocean Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hull",
+                    "short_name": "Hull",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Plymouth County",
+                    "short_name": "Plymouth County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02045",
+                    "short_name": "02045",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1014",
+                    "short_name": "1014",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "42 Ocean Ave, Hull, MA 02045, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.305384,
+                        "lng": -70.9131785
+                    },
+                    "southwest": {
+                        "lat": 42.3053765,
+                        "lng": -70.9131943
+                    }
+                },
+                "location": {
+                    "lat": 42.3053765,
+                    "lng": -70.9131785
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3067292302915,
+                        "lng": -70.9118374197085
+                    },
+                    "southwest": {
+                        "lat": 42.3040312697085,
+                        "lng": -70.91453538029151
+                    }
+                }
+            },
+            "place_id": "EiE0MiBPY2VhbiBBdmUsIEh1bGwsIE1BIDAyMDQ1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8be2f4cdb0eec43db93c59f0bfb07300",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:25.637650",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

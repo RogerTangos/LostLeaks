@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b70e1f699786221f433ef90b3ff4636e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "55",
+                    "short_name": "55",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Centre Street",
+                    "short_name": "Centre St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01905",
+                    "short_name": "01905",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2246",
+                    "short_name": "2246",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "55 Centre St, Lynn, MA 01905, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4646505,
+                        "lng": -70.9653891
+                    },
+                    "southwest": {
+                        "lat": 42.4645322,
+                        "lng": -70.9655643
+                    }
+                },
+                "location": {
+                    "lat": 42.4645913,
+                    "lng": -70.9654767
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4659403302915,
+                        "lng": -70.96412771970849
+                    },
+                    "southwest": {
+                        "lat": 42.4632423697085,
+                        "lng": -70.9668256802915
+                    }
+                }
+            },
+            "place_id": "ChIJHwoG9hlt44kRRnfC-APOo0E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b70e1f699786221f433ef90b3ff4636e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:51.455191",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

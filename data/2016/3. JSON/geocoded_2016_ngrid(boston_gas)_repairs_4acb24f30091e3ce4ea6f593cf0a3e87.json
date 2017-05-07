@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_4acb24f30091e3ce4ea6f593cf0a3e87.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "356",
+                    "short_name": "356",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Atlantic Avenue",
+                    "short_name": "Atlantic Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1159",
+                    "short_name": "1159",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "356 Atlantic Ave, Cohasset, MA 02025, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2579682,
+                        "lng": -70.80268099999999
+                    },
+                    "southwest": {
+                        "lat": 42.2575944,
+                        "lng": -70.80314539999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2577813,
+                    "lng": -70.80291319999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.25913028029149,
+                        "lng": -70.80156421970848
+                    },
+                    "southwest": {
+                        "lat": 42.25643231970849,
+                        "lng": -70.80426218029149
+                    }
+                }
+            },
+            "place_id": "ChIJkahbWI5d44kRmC2oS0Np0A0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "4acb24f30091e3ce4ea6f593cf0a3e87",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:27.377494",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

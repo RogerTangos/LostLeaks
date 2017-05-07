@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3efd9f609ba90db66687017b3b342574.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "96",
+                    "short_name": "96",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex Road",
+                    "short_name": "Middlesex Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1840",
+                    "short_name": "1840",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "96 Middlesex Rd, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.327299,
+                        "lng": -71.1611465
+                    },
+                    "southwest": {
+                        "lat": 42.3271163,
+                        "lng": -71.1614314
+                    }
+                },
+                "location": {
+                    "lat": 42.3272077,
+                    "lng": -71.161289
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.32855663029149,
+                        "lng": -71.1599399697085
+                    },
+                    "southwest": {
+                        "lat": 42.3258586697085,
+                        "lng": -71.16263793029151
+                    }
+                }
+            },
+            "place_id": "ChIJxRoNtfZ444kR0QzTGTxqULA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3efd9f609ba90db66687017b3b342574",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:01.189625",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

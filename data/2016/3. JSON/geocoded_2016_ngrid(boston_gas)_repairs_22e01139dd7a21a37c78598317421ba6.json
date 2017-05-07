@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_22e01139dd7a21a37c78598317421ba6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hopkins Road",
+                    "short_name": "Hopkins Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jamaica Plain",
+                    "short_name": "Jamaica Plain",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02130",
+                    "short_name": "02130",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3401",
+                    "short_name": "3401",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Hopkins Rd, Jamaica Plain, MA 02130, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3083007,
+                        "lng": -71.1343113
+                    },
+                    "southwest": {
+                        "lat": 42.3082002,
+                        "lng": -71.1345417
+                    }
+                },
+                "location": {
+                    "lat": 42.3082505,
+                    "lng": -71.1344265
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3095994302915,
+                        "lng": -71.1330775197085
+                    },
+                    "southwest": {
+                        "lat": 42.3069014697085,
+                        "lng": -71.1357754802915
+                    }
+                }
+            },
+            "place_id": "ChIJRdsGoCJ544kRDitJ1WZ2Mv0",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "22e01139dd7a21a37c78598317421ba6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:46.628007",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

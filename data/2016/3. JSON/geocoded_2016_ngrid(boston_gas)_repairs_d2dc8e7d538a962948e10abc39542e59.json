@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d2dc8e7d538a962948e10abc39542e59.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Faywood Avenue",
+                    "short_name": "Faywood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Boston",
+                    "short_name": "East Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1021",
+                    "short_name": "1021",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Faywood Ave, Boston, MA 02128, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3909701,
+                        "lng": -71.0013299
+                    },
+                    "southwest": {
+                        "lat": 42.3908187,
+                        "lng": -71.0015138
+                    }
+                },
+                "location": {
+                    "lat": 42.3908944,
+                    "lng": -71.0014219
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3922433802915,
+                        "lng": -71.00007286970849
+                    },
+                    "southwest": {
+                        "lat": 42.3895454197085,
+                        "lng": -71.00277083029151
+                    }
+                }
+            },
+            "place_id": "ChIJx9g97idu44kRg6s6p5deGRg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d2dc8e7d538a962948e10abc39542e59",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:31.671851",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

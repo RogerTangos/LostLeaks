@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d12e6d819c8a319d8b870ebaae1b4a3e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Hawthorne Street",
+                    "short_name": "Hawthorne St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Highland Park",
+                    "short_name": "Highland Park",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Hawthorne St & Ellis St, Boston, MA 02119, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.323929,
+                    "lng": -71.0924948
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3252779802915,
+                        "lng": -71.0911458197085
+                    },
+                    "southwest": {
+                        "lat": 42.3225800197085,
+                        "lng": -71.09384378029151
+                    }
+                }
+            },
+            "place_id": "Ei5IYXd0aG9ybmUgU3QgJiBFbGxpcyBTdCwgQm9zdG9uLCBNQSAwMjExOSwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d12e6d819c8a319d8b870ebaae1b4a3e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:31.197721",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fa3facc50e9ac513cb6ee13c0700c1b9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "245",
+                    "short_name": "245",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tremont Street",
+                    "short_name": "Tremont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1835",
+                    "short_name": "1835",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "245 Tremont St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4674179,
+                        "lng": -71.067816
+                    },
+                    "southwest": {
+                        "lat": 42.4673179,
+                        "lng": -71.0680157
+                    }
+                },
+                "location": {
+                    "lat": 42.4673679,
+                    "lng": -71.0679158
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4687168802915,
+                        "lng": -71.0665668697085
+                    },
+                    "southwest": {
+                        "lat": 42.4660189197085,
+                        "lng": -71.0692648302915
+                    }
+                }
+            },
+            "place_id": "ChIJdSToraBz44kRCkuX_XRf5MQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fa3facc50e9ac513cb6ee13c0700c1b9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:21.678761",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

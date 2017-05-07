@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fb7985b945889c00878dcef22f8f8587.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Howe Street",
+                    "short_name": "Howe St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Howe St, Boston, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3116683,
+                        "lng": -71.0639906
+                    },
+                    "southwest": {
+                        "lat": 42.3116582,
+                        "lng": -71.0640033
+                    }
+                },
+                "location": {
+                    "lat": 42.3116683,
+                    "lng": -71.0640033
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31301223029149,
+                        "lng": -71.0626479697085
+                    },
+                    "southwest": {
+                        "lat": 42.31031426970849,
+                        "lng": -71.0653459302915
+                    }
+                }
+            },
+            "place_id": "EiA5IEhvd2UgU3QsIEJvc3RvbiwgTUEgMDIxMjUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fb7985b945889c00878dcef22f8f8587",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:37.830785",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

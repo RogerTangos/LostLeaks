@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fc5f222a5e1e2ce08469e80619e9e4f7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Salutation Street",
+                    "short_name": "Salutation St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "North End",
+                    "short_name": "North End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02109",
+                    "short_name": "02109",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "19 Salutation St, Boston, MA 02109, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3660199,
+                    "lng": -71.0523213
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3673688802915,
+                        "lng": -71.0509723197085
+                    },
+                    "southwest": {
+                        "lat": 42.3646709197085,
+                        "lng": -71.05367028029151
+                    }
+                }
+            },
+            "place_id": "ChIJfQOCLopw44kReimiB2ylfdU",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "fc5f222a5e1e2ce08469e80619e9e4f7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:50.180026",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

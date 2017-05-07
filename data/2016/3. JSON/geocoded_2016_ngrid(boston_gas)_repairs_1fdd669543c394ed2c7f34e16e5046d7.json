@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_1fdd669543c394ed2c7f34e16e5046d7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Humphrey Street",
+                    "short_name": "Humphrey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Humphrey St & Puritan Rd, Swampscott, MA 01907, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4704644,
+                    "lng": -70.8948482
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4718133802915,
+                        "lng": -70.89349921970849
+                    },
+                    "southwest": {
+                        "lat": 42.4691154197085,
+                        "lng": -70.89619718029151
+                    }
+                }
+            },
+            "place_id": "EjNIdW1waHJleSBTdCAmIFB1cml0YW4gUmQsIFN3YW1wc2NvdHQsIE1BIDAxOTA3LCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "1fdd669543c394ed2c7f34e16e5046d7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:32.382846",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

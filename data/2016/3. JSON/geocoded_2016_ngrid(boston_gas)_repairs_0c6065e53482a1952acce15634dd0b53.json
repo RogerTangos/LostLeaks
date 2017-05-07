@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0c6065e53482a1952acce15634dd0b53.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "58",
+                    "short_name": "58",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Stratford Road",
+                    "short_name": "Stratford Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3213",
+                    "short_name": "3213",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "58 Stratford Rd, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4599621,
+                        "lng": -71.0555172
+                    },
+                    "southwest": {
+                        "lat": 42.4599588,
+                        "lng": -71.05553549999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4599588,
+                    "lng": -71.05553549999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.46130943029149,
+                        "lng": -71.05417736970848
+                    },
+                    "southwest": {
+                        "lat": 42.45861146970849,
+                        "lng": -71.0568753302915
+                    }
+                }
+            },
+            "place_id": "Eic1OCBTdHJhdGZvcmQgUmQsIE1lbHJvc2UsIE1BIDAyMTc2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0c6065e53482a1952acce15634dd0b53",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:09.328572",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

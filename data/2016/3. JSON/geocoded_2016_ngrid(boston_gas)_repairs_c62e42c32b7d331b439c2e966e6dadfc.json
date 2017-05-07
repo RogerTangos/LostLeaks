@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_c62e42c32b7d331b439c2e966e6dadfc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "80",
+                    "short_name": "80",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Banks Road",
+                    "short_name": "Banks Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Swampscott",
+                    "short_name": "Swampscott",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01907",
+                    "short_name": "01907",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2047",
+                    "short_name": "2047",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "80 Banks Rd, Swampscott, MA 01907, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4730674,
+                        "lng": -70.9118134
+                    },
+                    "southwest": {
+                        "lat": 42.4729738,
+                        "lng": -70.9119861
+                    }
+                },
+                "location": {
+                    "lat": 42.4730206,
+                    "lng": -70.91189969999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4743695802915,
+                        "lng": -70.9105507697085
+                    },
+                    "southwest": {
+                        "lat": 42.4716716197085,
+                        "lng": -70.91324873029151
+                    }
+                }
+            },
+            "place_id": "ChIJ32BpP6ls44kRlwnNJ0gMX1Q",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "c62e42c32b7d331b439c2e966e6dadfc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:06.203044",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

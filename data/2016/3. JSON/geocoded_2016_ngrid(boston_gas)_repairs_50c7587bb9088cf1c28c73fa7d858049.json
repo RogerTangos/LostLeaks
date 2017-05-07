@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_50c7587bb9088cf1c28c73fa7d858049.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Somerset Avenue",
+                    "short_name": "Somerset Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1022",
+                    "short_name": "1022",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "22 Somerset Ave, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5826577,
+                        "lng": -70.88728619999999
+                    },
+                    "southwest": {
+                        "lat": 42.582486,
+                        "lng": -70.88744799999999
+                    }
+                },
+                "location": {
+                    "lat": 42.5825719,
+                    "lng": -70.8873671
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5839208302915,
+                        "lng": -70.88601811970848
+                    },
+                    "southwest": {
+                        "lat": 42.5812228697085,
+                        "lng": -70.88871608029149
+                    }
+                }
+            },
+            "place_id": "ChIJi8DEONwW44kRNuLWbtm3wZg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "50c7587bb9088cf1c28c73fa7d858049",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:48.203572",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

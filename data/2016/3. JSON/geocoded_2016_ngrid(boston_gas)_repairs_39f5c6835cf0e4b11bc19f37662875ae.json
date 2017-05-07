@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_39f5c6835cf0e4b11bc19f37662875ae.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "404",
+                    "short_name": "404",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Groveland",
+                    "short_name": "Groveland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01834",
+                    "short_name": "01834",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1112",
+                    "short_name": "1112",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "404 Main St, Groveland, MA 01834, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.756461,
+                    "lng": -71.03581
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7578099802915,
+                        "lng": -71.03446101970849
+                    },
+                    "southwest": {
+                        "lat": 42.7551120197085,
+                        "lng": -71.0371589802915
+                    }
+                }
+            },
+            "place_id": "ChIJCVgwkhoD44kRCM5fql-cBW4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "39f5c6835cf0e4b11bc19f37662875ae",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:15.260005",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

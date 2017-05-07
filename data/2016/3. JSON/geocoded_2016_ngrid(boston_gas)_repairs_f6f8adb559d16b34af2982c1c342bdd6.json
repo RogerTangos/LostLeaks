@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f6f8adb559d16b34af2982c1c342bdd6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "738",
+                    "short_name": "738",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hale Street",
+                    "short_name": "Hale St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2178",
+                    "short_name": "2178",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "738 Hale St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.56311059999999,
+                        "lng": -70.81429
+                    },
+                    "southwest": {
+                        "lat": 42.563104,
+                        "lng": -70.8143065
+                    }
+                },
+                "location": {
+                    "lat": 42.56311059999999,
+                    "lng": -70.8143065
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.56445628029149,
+                        "lng": -70.8129492697085
+                    },
+                    "southwest": {
+                        "lat": 42.5617583197085,
+                        "lng": -70.8156472302915
+                    }
+                }
+            },
+            "place_id": "EiM3MzggSGFsZSBTdCwgQmV2ZXJseSwgTUEgMDE5MTUsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f6f8adb559d16b34af2982c1c342bdd6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:38.376007",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_20695bbe2cde606af3b49e6137cf8358.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "13",
+                    "short_name": "13",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Park Road",
+                    "short_name": "Park Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1227",
+                    "short_name": "1227",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "13 Park Rd, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4134885,
+                        "lng": -71.0606066
+                    },
+                    "southwest": {
+                        "lat": 42.41331479999999,
+                        "lng": -71.0607952
+                    }
+                },
+                "location": {
+                    "lat": 42.4134017,
+                    "lng": -71.06070090000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.41475063029149,
+                        "lng": -71.0593519197085
+                    },
+                    "southwest": {
+                        "lat": 42.41205266970849,
+                        "lng": -71.06204988029151
+                    }
+                }
+            },
+            "place_id": "ChIJzU8bE3Jx44kRhk8w9APfGro",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "20695bbe2cde606af3b49e6137cf8358",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:38.045485",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

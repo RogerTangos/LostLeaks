@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d62a0d8327c03b007092203f6c7e4eb5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rutherford Avenue",
+                    "short_name": "Rutherford Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Charlestown",
+                    "short_name": "Charlestown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02129",
+                    "short_name": "02129",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Rutherford Ave, Boston, MA 02129, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3719954,
+                        "lng": -71.0639132
+                    },
+                    "southwest": {
+                        "lat": 42.371984,
+                        "lng": -71.0639241
+                    }
+                },
+                "location": {
+                    "lat": 42.3719954,
+                    "lng": -71.0639132
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3733386802915,
+                        "lng": -71.0625696697085
+                    },
+                    "southwest": {
+                        "lat": 42.3706407197085,
+                        "lng": -71.0652676302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EigyNCBSdXRoZXJmb3JkIEF2ZSwgQm9zdG9uLCBNQSAwMjEyOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d62a0d8327c03b007092203f6c7e4eb5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:15.921560",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

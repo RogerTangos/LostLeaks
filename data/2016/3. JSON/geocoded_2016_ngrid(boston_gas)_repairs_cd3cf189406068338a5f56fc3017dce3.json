@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cd3cf189406068338a5f56fc3017dce3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "14",
+                    "short_name": "14",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "14 Washington St, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.44053539999999,
+                        "lng": -71.0717088
+                    },
+                    "southwest": {
+                        "lat": 42.4405335,
+                        "lng": -71.07172740000001
+                    }
+                },
+                "location": {
+                    "lat": 42.4405335,
+                    "lng": -71.07172740000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4418834302915,
+                        "lng": -71.0703691197085
+                    },
+                    "southwest": {
+                        "lat": 42.4391854697085,
+                        "lng": -71.07306708029151
+                    }
+                }
+            },
+            "place_id": "EigxNCBXYXNoaW5ndG9uIFN0LCBNZWxyb3NlLCBNQSAwMjE3NiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cd3cf189406068338a5f56fc3017dce3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:03.349101",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

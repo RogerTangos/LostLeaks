@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_47ee44d43d15fe095571cd3c090a65fe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "24",
+                    "short_name": "24",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Liberty Street",
+                    "short_name": "Liberty St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Braintree",
+                    "short_name": "Braintree",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02184",
+                    "short_name": "02184",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5129",
+                    "short_name": "5129",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "24 Liberty St, Braintree, MA 02184, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2195999,
+                        "lng": -70.9775992
+                    },
+                    "southwest": {
+                        "lat": 42.21951060000001,
+                        "lng": -70.97778079999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2195553,
+                    "lng": -70.97769
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2209042302915,
+                        "lng": -70.9763410197085
+                    },
+                    "southwest": {
+                        "lat": 42.2182062697085,
+                        "lng": -70.9790389802915
+                    }
+                }
+            },
+            "place_id": "ChIJX5ReTedi44kR9vJKIQM0bGY",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "47ee44d43d15fe095571cd3c090a65fe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:13.676882",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

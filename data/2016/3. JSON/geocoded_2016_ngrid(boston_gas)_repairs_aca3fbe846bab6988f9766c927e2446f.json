@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_aca3fbe846bab6988f9766c927e2446f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Euclid Avenue",
+                    "short_name": "Euclid Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01904",
+                    "short_name": "01904",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2338",
+                    "short_name": "2338",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "150 Euclid Ave, Lynn, MA 01904, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4850984,
+                        "lng": -70.9513821
+                    },
+                    "southwest": {
+                        "lat": 42.4849656,
+                        "lng": -70.9515291
+                    }
+                },
+                "location": {
+                    "lat": 42.485032,
+                    "lng": -70.9514556
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4863809802915,
+                        "lng": -70.95010661970849
+                    },
+                    "southwest": {
+                        "lat": 42.4836830197085,
+                        "lng": -70.95280458029151
+                    }
+                }
+            },
+            "place_id": "ChIJ7W0W2dRs44kR99edoFuXzp4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "aca3fbe846bab6988f9766c927e2446f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:32.127335",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

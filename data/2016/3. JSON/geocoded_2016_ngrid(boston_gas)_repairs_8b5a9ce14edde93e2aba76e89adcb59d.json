@@ -1,0 +1,98 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8b5a9ce14edde93e2aba76e89adcb59d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "51",
+                    "short_name": "51",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hawthorne Street",
+                    "short_name": "Hawthorne St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "51 Hawthorne St, Roxbury, MA 02119, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.32411,
+                    "lng": -71.09298799999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3254589802915,
+                        "lng": -71.09163901970848
+                    },
+                    "southwest": {
+                        "lat": 42.3227610197085,
+                        "lng": -71.09433698029149
+                    }
+                }
+            },
+            "place_id": "ChIJS9Ulwit644kRRdHEPVodeOs",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8b5a9ce14edde93e2aba76e89adcb59d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:32.893397",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_bbddfaf19c95b9ad8bdfca0092699b77.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "11",
+                    "short_name": "11",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Paris Street",
+                    "short_name": "Paris St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marlborough",
+                    "short_name": "Marlboro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01752",
+                    "short_name": "01752",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "11 Paris St, Marlborough, MA 01752, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3440396,
+                        "lng": -71.55952839999999
+                    },
+                    "southwest": {
+                        "lat": 42.3440284,
+                        "lng": -71.55953939999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3440396,
+                    "lng": -71.55953939999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3453829802915,
+                        "lng": -71.55818491970848
+                    },
+                    "southwest": {
+                        "lat": 42.3426850197085,
+                        "lng": -71.5608828802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EicxMSBQYXJpcyBTdCwgTWFybGJvcm91Z2gsIE1BIDAxNzUyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "bbddfaf19c95b9ad8bdfca0092699b77",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:03:11.165597",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_4a090f311fe60683e243e4e0bca36dbe.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "970",
+                    "short_name": "970",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Main South",
+                    "short_name": "Main South",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01603",
+                    "short_name": "01603",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "970 Main St, Worcester, MA 01603, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2492463,
+                        "lng": -71.8240473
+                    },
+                    "southwest": {
+                        "lat": 42.2492352,
+                        "lng": -71.8240587
+                    }
+                },
+                "location": {
+                    "lat": 42.2492463,
+                    "lng": -71.8240587
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2505897302915,
+                        "lng": -71.8227040197085
+                    },
+                    "southwest": {
+                        "lat": 42.2478917697085,
+                        "lng": -71.82540198029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiU5NzAgTWFpbiBTdCwgV29yY2VzdGVyLCBNQSAwMTYwMywgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "4a090f311fe60683e243e4e0bca36dbe",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:09:50.450076",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

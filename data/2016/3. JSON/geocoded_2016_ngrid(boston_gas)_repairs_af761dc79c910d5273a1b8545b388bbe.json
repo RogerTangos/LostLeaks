@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_af761dc79c910d5273a1b8545b388bbe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Poplar Street",
+                    "short_name": "Poplar St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Danvers",
+                    "short_name": "Danvers",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01923",
+                    "short_name": "01923",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2229",
+                    "short_name": "2229",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Poplar St, Danvers, MA 01923, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.57073889999999,
+                        "lng": -70.94028639999999
+                    },
+                    "southwest": {
+                        "lat": 42.5705787,
+                        "lng": -70.9404801
+                    }
+                },
+                "location": {
+                    "lat": 42.5706588,
+                    "lng": -70.9403833
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5720077802915,
+                        "lng": -70.93903426970849
+                    },
+                    "southwest": {
+                        "lat": 42.5693098197085,
+                        "lng": -70.9417322302915
+                    }
+                }
+            },
+            "place_id": "ChIJk3OIpG8R44kRKn2J8SBqP6U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "af761dc79c910d5273a1b8545b388bbe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:05.470301",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

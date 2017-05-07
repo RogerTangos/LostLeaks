@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_6fb1fa6fb4f5be12e7ad6504d094c736.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "440",
+                    "short_name": "440",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Street",
+                    "short_name": "Washington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburn",
+                    "short_name": "Auburn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01501",
+                    "short_name": "01501",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "440 Washington St, Auburn, MA 01501, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1919359,
+                        "lng": -71.8256188
+                    },
+                    "southwest": {
+                        "lat": 42.1919269,
+                        "lng": -71.82563309999999
+                    }
+                },
+                "location": {
+                    "lat": 42.1919359,
+                    "lng": -71.82563309999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1932803802915,
+                        "lng": -71.82427696970849
+                    },
+                    "southwest": {
+                        "lat": 42.1905824197085,
+                        "lng": -71.8269749302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eig0NDAgV2FzaGluZ3RvbiBTdCwgQXVidXJuLCBNQSAwMTUwMSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6fb1fa6fb4f5be12e7ad6504d094c736",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:07:21.913619",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b58e831d62922e30c29a2ab6c5968f73.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "43",
+                    "short_name": "43",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Gray Cliff Road",
+                    "short_name": "Gray Cliff Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Centre",
+                    "short_name": "Newton Centre",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "43 Gray Cliff Rd, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3322795,
+                        "lng": -71.1862812
+                    },
+                    "southwest": {
+                        "lat": 42.3322722,
+                        "lng": -71.18629729999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3322722,
+                    "lng": -71.1862812
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3336248302915,
+                        "lng": -71.18494026970849
+                    },
+                    "southwest": {
+                        "lat": 42.3309268697085,
+                        "lng": -71.18763823029151
+                    }
+                }
+            },
+            "place_id": "Eic0MyBHcmF5IENsaWZmIFJkLCBOZXd0b24sIE1BIDAyNDU5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "b58e831d62922e30c29a2ab6c5968f73",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:31.364367",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

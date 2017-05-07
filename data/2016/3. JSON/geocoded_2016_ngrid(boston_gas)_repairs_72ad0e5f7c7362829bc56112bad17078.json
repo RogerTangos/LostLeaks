@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72ad0e5f7c7362829bc56112bad17078.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "99",
+                    "short_name": "99",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Street",
+                    "short_name": "North St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Salem",
+                    "short_name": "Salem",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01970",
+                    "short_name": "01970",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "99 North St, Salem, MA 01970, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5261143,
+                        "lng": -70.9005644
+                    },
+                    "southwest": {
+                        "lat": 42.5259552,
+                        "lng": -70.9008375
+                    }
+                },
+                "location": {
+                    "lat": 42.5260348,
+                    "lng": -70.900701
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5273837302915,
+                        "lng": -70.89935196970849
+                    },
+                    "southwest": {
+                        "lat": 42.5246857697085,
+                        "lng": -70.9020499302915
+                    }
+                }
+            },
+            "place_id": "ChIJH1fuznAU44kRrQyZt_FjyFs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "72ad0e5f7c7362829bc56112bad17078",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:08.485970",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

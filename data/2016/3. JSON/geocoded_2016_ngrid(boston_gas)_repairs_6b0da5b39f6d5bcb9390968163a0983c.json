@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6b0da5b39f6d5bcb9390968163a0983c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "627",
+                    "short_name": "627",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Acton",
+                    "short_name": "Acton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01720",
+                    "short_name": "01720",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "627 Massachusetts Ave, Acton, MA 01720, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.476948,
+                    "lng": -71.478135
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4782969802915,
+                        "lng": -71.4767860197085
+                    },
+                    "southwest": {
+                        "lat": 42.4755990197085,
+                        "lng": -71.4794839802915
+                    }
+                }
+            },
+            "place_id": "ChIJyagHZt-T44kRl_ODAqJMH3w",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6b0da5b39f6d5bcb9390968163a0983c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:45.317454",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_25d894dfc159b76d081e7a89f17c44f0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "125",
+                    "short_name": "125",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mercer Street",
+                    "short_name": "Mercer St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "125 Mercer St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3307297,
+                        "lng": -71.0501614
+                    },
+                    "southwest": {
+                        "lat": 42.3303924,
+                        "lng": -71.0505932
+                    }
+                },
+                "location": {
+                    "lat": 42.330561,
+                    "lng": -71.0503773
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3319100302915,
+                        "lng": -71.04902831970848
+                    },
+                    "southwest": {
+                        "lat": 42.3292120697085,
+                        "lng": -71.05172628029149
+                    }
+                }
+            },
+            "place_id": "ChIJmYRwjl9644kR-1pZdnK1HjI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "25d894dfc159b76d081e7a89f17c44f0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:29.140951",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

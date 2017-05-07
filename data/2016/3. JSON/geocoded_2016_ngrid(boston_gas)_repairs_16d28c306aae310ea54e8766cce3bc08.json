@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_16d28c306aae310ea54e8766cce3bc08.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "297",
+                    "short_name": "297",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Great Road",
+                    "short_name": "Great Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedford",
+                    "short_name": "Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01730",
+                    "short_name": "01730",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "297 Great Rd, Bedford, MA 01730, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.4856657,
+                    "lng": -71.26421049999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.48701468029149,
+                        "lng": -71.26286151970848
+                    },
+                    "southwest": {
+                        "lat": 42.4843167197085,
+                        "lng": -71.2655594802915
+                    }
+                }
+            },
+            "place_id": "ChIJXwZV3MGe44kR1cgrlMWgrEs",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "16d28c306aae310ea54e8766cce3bc08",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:20.919724",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

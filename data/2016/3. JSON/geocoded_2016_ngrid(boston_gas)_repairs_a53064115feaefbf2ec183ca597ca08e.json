@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_a53064115feaefbf2ec183ca597ca08e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oakland Avenue",
+                    "short_name": "Oakland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington Heights",
+                    "short_name": "Arlington Heights",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02476",
+                    "short_name": "02476",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5915",
+                    "short_name": "5915",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Oakland Ave, Arlington, MA 02476, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.42107730000001,
+                        "lng": -71.1783877
+                    },
+                    "southwest": {
+                        "lat": 42.4210726,
+                        "lng": -71.1784054
+                    }
+                },
+                "location": {
+                    "lat": 42.4210726,
+                    "lng": -71.1784054
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4224239302915,
+                        "lng": -71.1770475697085
+                    },
+                    "southwest": {
+                        "lat": 42.4197259697085,
+                        "lng": -71.17974553029151
+                    }
+                }
+            },
+            "place_id": "EigzMSBPYWtsYW5kIEF2ZSwgQXJsaW5ndG9uLCBNQSAwMjQ3NiwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "a53064115feaefbf2ec183ca597ca08e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:47.626853",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

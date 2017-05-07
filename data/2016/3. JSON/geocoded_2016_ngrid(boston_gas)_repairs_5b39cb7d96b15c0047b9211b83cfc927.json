@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5b39cb7d96b15c0047b9211b83cfc927.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "225",
+                    "short_name": "225",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West 2nd Street",
+                    "short_name": "W 2nd St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "225 W 2nd St, Boston, MA 02127, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3405376,
+                        "lng": -71.0495373
+                    },
+                    "southwest": {
+                        "lat": 42.3400574,
+                        "lng": -71.0502388
+                    }
+                },
+                "location": {
+                    "lat": 42.3402975,
+                    "lng": -71.04988809999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3416464802915,
+                        "lng": -71.0485390697085
+                    },
+                    "southwest": {
+                        "lat": 42.3389485197085,
+                        "lng": -71.0512370302915
+                    }
+                }
+            },
+            "place_id": "ChIJzVcJoGJ644kRf-w2DVPFV5A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5b39cb7d96b15c0047b9211b83cfc927",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:53.564152",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

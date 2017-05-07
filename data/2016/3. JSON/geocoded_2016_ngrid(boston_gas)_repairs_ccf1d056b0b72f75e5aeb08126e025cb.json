@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_ccf1d056b0b72f75e5aeb08126e025cb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Phillip Avenue",
+                    "short_name": "Phillip Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Burlington",
+                    "short_name": "Burlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01803",
+                    "short_name": "01803",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1110",
+                    "short_name": "1110",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Phillip Ave, Burlington, MA 01803, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.532466,
+                    "lng": -71.201223
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5338149802915,
+                        "lng": -71.19987401970849
+                    },
+                    "southwest": {
+                        "lat": 42.5311170197085,
+                        "lng": -71.20257198029151
+                    }
+                }
+            },
+            "place_id": "ChIJ39mbnQOg44kRibFu5vnxmpg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "ccf1d056b0b72f75e5aeb08126e025cb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:03.263984",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

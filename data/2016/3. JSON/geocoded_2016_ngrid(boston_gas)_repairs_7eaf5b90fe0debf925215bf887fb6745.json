@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7eaf5b90fe0debf925215bf887fb6745.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "20",
+                    "short_name": "20",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Glenoe Road",
+                    "short_name": "Glenoe Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chestnut Hill",
+                    "short_name": "Chestnut Hill",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brookline",
+                    "short_name": "Brookline",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02467",
+                    "short_name": "02467",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2305",
+                    "short_name": "2305",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "20 Glenoe Rd, Chestnut Hill, MA 02467, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.31932949999999,
+                        "lng": -71.16294669999999
+                    },
+                    "southwest": {
+                        "lat": 42.3193157,
+                        "lng": -71.1629483
+                    }
+                },
+                "location": {
+                    "lat": 42.3193157,
+                    "lng": -71.1629483
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3206715802915,
+                        "lng": -71.16159851970848
+                    },
+                    "southwest": {
+                        "lat": 42.3179736197085,
+                        "lng": -71.1642964802915
+                    }
+                }
+            },
+            "place_id": "EioyMCBHbGVub2UgUmQsIENoZXN0bnV0IEhpbGwsIE1BIDAyNDY3LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "7eaf5b90fe0debf925215bf887fb6745",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:12.099847",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

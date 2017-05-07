@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_23a55135564d7deef49a98f809ae8b07.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "9",
+                    "short_name": "9",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Newbury Street",
+                    "short_name": "Newbury St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Beverly",
+                    "short_name": "Beverly",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01915",
+                    "short_name": "01915",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3615",
+                    "short_name": "3615",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "9 Newbury St, Beverly, MA 01915, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5576461,
+                        "lng": -70.8705715
+                    },
+                    "southwest": {
+                        "lat": 42.5575827,
+                        "lng": -70.87070580000001
+                    }
+                },
+                "location": {
+                    "lat": 42.55761440000001,
+                    "lng": -70.87063859999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.55896338029149,
+                        "lng": -70.86928966970851
+                    },
+                    "southwest": {
+                        "lat": 42.5562654197085,
+                        "lng": -70.87198763029151
+                    }
+                }
+            },
+            "place_id": "ChIJV_lr8I8W44kRC2CPP3h_ErQ",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "23a55135564d7deef49a98f809ae8b07",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:39.379282",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

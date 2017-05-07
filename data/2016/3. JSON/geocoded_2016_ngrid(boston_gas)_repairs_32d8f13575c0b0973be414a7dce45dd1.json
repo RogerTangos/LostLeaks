@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_32d8f13575c0b0973be414a7dce45dd1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Fairview Street",
+                    "short_name": "Fairview St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roslindale",
+                    "short_name": "Roslindale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02131",
+                    "short_name": "02131",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Fairview St & Ashfield St, Boston, MA 02131, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2895642,
+                    "lng": -71.1298046
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2909131802915,
+                        "lng": -71.1284556197085
+                    },
+                    "southwest": {
+                        "lat": 42.2882152197085,
+                        "lng": -71.13115358029151
+                    }
+                }
+            },
+            "place_id": "EjBGYWlydmlldyBTdCAmIEFzaGZpZWxkIFN0LCBCb3N0b24sIE1BIDAyMTMxLCBVU0E",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "32d8f13575c0b0973be414a7dce45dd1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:11.338285",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

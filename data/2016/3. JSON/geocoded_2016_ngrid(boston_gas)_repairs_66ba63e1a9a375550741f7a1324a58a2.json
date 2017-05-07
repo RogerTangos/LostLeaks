@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_66ba63e1a9a375550741f7a1324a58a2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Monument Street",
+                    "short_name": "Monument St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01832",
+                    "short_name": "01832",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2528",
+                    "short_name": "2528",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "150 Monument St, Haverhill, MA 01832, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7878042,
+                        "lng": -71.1081509
+                    },
+                    "southwest": {
+                        "lat": 42.7877946,
+                        "lng": -71.1081643
+                    }
+                },
+                "location": {
+                    "lat": 42.7878042,
+                    "lng": -71.1081643
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7891483802915,
+                        "lng": -71.1068086197085
+                    },
+                    "southwest": {
+                        "lat": 42.7864504197085,
+                        "lng": -71.10950658029151
+                    }
+                }
+            },
+            "place_id": "EikxNTAgTW9udW1lbnQgU3QsIEhhdmVyaGlsbCwgTUEgMDE4MzIsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "66ba63e1a9a375550741f7a1324a58a2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:32.660358",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

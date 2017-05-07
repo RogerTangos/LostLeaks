@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_0970fbc0934baa78baeb3c5831ea227c.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "665",
+                    "short_name": "665",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Orchard Street",
+                    "short_name": "Orchard St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "New Bedford",
+                    "short_name": "New Bedford",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bristol County",
+                    "short_name": "Bristol County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02744",
+                    "short_name": "02744",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "665 Orchard St, New Bedford, MA 02744, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.6143222,
+                        "lng": -70.9302383
+                    },
+                    "southwest": {
+                        "lat": 41.6143195,
+                        "lng": -70.9302567
+                    }
+                },
+                "location": {
+                    "lat": 41.6143222,
+                    "lng": -70.9302567
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.61566983029149,
+                        "lng": -70.9288985197085
+                    },
+                    "southwest": {
+                        "lat": 41.6129718697085,
+                        "lng": -70.9315964802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eio2NjUgT3JjaGFyZCBTdCwgTmV3IEJlZGZvcmQsIE1BIDAyNzQ0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0970fbc0934baa78baeb3c5831ea227c",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:08:32.249816",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

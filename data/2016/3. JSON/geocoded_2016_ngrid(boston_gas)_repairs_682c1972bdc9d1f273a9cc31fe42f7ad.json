@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_682c1972bdc9d1f273a9cc31fe42f7ad.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27",
+                    "short_name": "27",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Windy Hill Road",
+                    "short_name": "Windy Hill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cohasset",
+                    "short_name": "Cohasset",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02025",
+                    "short_name": "02025",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1027",
+                    "short_name": "1027",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "27 Windy Hill Rd, Cohasset, MA 02025, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2616173,
+                        "lng": -70.83281690000001
+                    },
+                    "southwest": {
+                        "lat": 42.2614318,
+                        "lng": -70.8329739
+                    }
+                },
+                "location": {
+                    "lat": 42.2615246,
+                    "lng": -70.8328954
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2628735302915,
+                        "lng": -70.8315464197085
+                    },
+                    "southwest": {
+                        "lat": 42.2601755697085,
+                        "lng": -70.83424438029151
+                    }
+                }
+            },
+            "place_id": "ChIJxXG_gGxn44kR1qkpr8ySCzk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "682c1972bdc9d1f273a9cc31fe42f7ad",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:55.425541",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

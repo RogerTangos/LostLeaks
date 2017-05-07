@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2549556d11d056c11c3fb452d45b7c97.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "130",
+                    "short_name": "130",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5714",
+                    "short_name": "5714",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "130 Main St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4054245,
+                        "lng": -71.06166429999999
+                    },
+                    "southwest": {
+                        "lat": 42.4052422,
+                        "lng": -71.0618688
+                    }
+                },
+                "location": {
+                    "lat": 42.4053334,
+                    "lng": -71.06176649999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4066823302915,
+                        "lng": -71.06041756970849
+                    },
+                    "southwest": {
+                        "lat": 42.4039843697085,
+                        "lng": -71.0631155302915
+                    }
+                }
+            },
+            "place_id": "ChIJZXjzABJx44kR98KJdO21maM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2549556d11d056c11c3fb452d45b7c97",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:40.288146",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

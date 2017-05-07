@@ -1,0 +1,116 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8c57babde4eb302f8bcbfc9c2aa5c4bc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "15",
+                    "short_name": "15",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Glenhill Road",
+                    "short_name": "Glenhill Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Mattapan",
+                    "short_name": "Mattapan",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02126",
+                    "short_name": "02126",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2614",
+                    "short_name": "2614",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "15 Glenhill Rd, Mattapan, MA 02126, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.27820819999999,
+                        "lng": -71.0821957
+                    },
+                    "southwest": {
+                        "lat": 42.2780408,
+                        "lng": -71.0823587
+                    }
+                },
+                "location": {
+                    "lat": 42.2781245,
+                    "lng": -71.0822772
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.27947348029149,
+                        "lng": -71.0809282197085
+                    },
+                    "southwest": {
+                        "lat": 42.27677551970849,
+                        "lng": -71.0836261802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJJ3EAqwl844kRfFt3WG5JZ4c",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "8c57babde4eb302f8bcbfc9c2aa5c4bc",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:21.740654",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

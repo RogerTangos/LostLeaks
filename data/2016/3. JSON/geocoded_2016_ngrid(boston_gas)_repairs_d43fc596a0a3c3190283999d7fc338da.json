@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d43fc596a0a3c3190283999d7fc338da.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Atlantic Avenue",
+                    "short_name": "Atlantic Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3012",
+                    "short_name": "3012",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "150 Atlantic Ave, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4936026,
+                        "lng": -70.8622077
+                    },
+                    "southwest": {
+                        "lat": 42.4935,
+                        "lng": -70.86237799999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4935513,
+                    "lng": -70.8622929
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4949002802915,
+                        "lng": -70.8609438697085
+                    },
+                    "southwest": {
+                        "lat": 42.4922023197085,
+                        "lng": -70.86364183029151
+                    }
+                }
+            },
+            "place_id": "ChIJ0wTNnOEU44kRgGMLsKUc7Po",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "d43fc596a0a3c3190283999d7fc338da",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:30.920667",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

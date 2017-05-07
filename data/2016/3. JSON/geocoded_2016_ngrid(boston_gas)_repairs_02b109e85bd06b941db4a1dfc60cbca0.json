@@ -1,0 +1,91 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_02b109e85bd06b941db4a1dfc60cbca0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Bremen Street",
+                    "short_name": "Bremen St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Jeffries Point",
+                    "short_name": "Jeffries Point",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02128",
+                    "short_name": "02128",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Bremen St & Maverick St, Boston, MA 02128, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3697033,
+                    "lng": -71.0379519
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3710522802915,
+                        "lng": -71.03660291970849
+                    },
+                    "southwest": {
+                        "lat": 42.3683543197085,
+                        "lng": -71.03930088029149
+                    }
+                }
+            },
+            "place_id": "Ei5CcmVtZW4gU3QgJiBNYXZlcmljayBTdCwgQm9zdG9uLCBNQSAwMjEyOCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "02b109e85bd06b941db4a1dfc60cbca0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:17.477769",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_21b88a8c8bc3ff304e2daaca1fd63de5.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "328",
+                    "short_name": "328",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Savin Hill Avenue",
+                    "short_name": "Savin Hill Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester",
+                    "short_name": "Dorchester",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02125",
+                    "short_name": "02125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1056",
+                    "short_name": "1056",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "328 Savin Hill Ave, Dorchester, MA 02125, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3124188,
+                        "lng": -71.0488151
+                    },
+                    "southwest": {
+                        "lat": 42.3122692,
+                        "lng": -71.0489769
+                    }
+                },
+                "location": {
+                    "lat": 42.312344,
+                    "lng": -71.04889600000001
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31369298029149,
+                        "lng": -71.04754701970849
+                    },
+                    "southwest": {
+                        "lat": 42.3109950197085,
+                        "lng": -71.0502449802915
+                    }
+                }
+            },
+            "place_id": "ChIJ-3dxGwB744kRy5jAl60u73g",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "21b88a8c8bc3ff304e2daaca1fd63de5",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:01.801856",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

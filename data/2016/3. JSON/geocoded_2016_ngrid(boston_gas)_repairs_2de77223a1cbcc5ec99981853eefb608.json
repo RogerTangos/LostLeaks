@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2de77223a1cbcc5ec99981853eefb608.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "335",
+                    "short_name": "335",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "K Street",
+                    "short_name": "K St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4240",
+                    "short_name": "4240",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "335 K St, Boston, MA 02127, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3321529,
+                    "lng": -71.03754200000002
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3335018802915,
+                        "lng": -71.03619301970852
+                    },
+                    "southwest": {
+                        "lat": 42.3308039197085,
+                        "lng": -71.03889098029153
+                    }
+                }
+            },
+            "place_id": "ChIJLYoBfpJ644kRy3uy2XlVRu8",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2de77223a1cbcc5ec99981853eefb608",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:10.198447",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

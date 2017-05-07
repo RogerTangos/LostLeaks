@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e57b86443ef59a6b15f6627f0fc8973d.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "119",
+                    "short_name": "119",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Church Street",
+                    "short_name": "Church St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4726",
+                    "short_name": "4726",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "119 Church St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.36993400000001,
+                        "lng": -71.1818375
+                    },
+                    "southwest": {
+                        "lat": 42.3697923,
+                        "lng": -71.18202819999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3698631,
+                    "lng": -71.18193289999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3712121302915,
+                        "lng": -71.18058386970849
+                    },
+                    "southwest": {
+                        "lat": 42.3685141697085,
+                        "lng": -71.18328183029149
+                    }
+                }
+            },
+            "place_id": "ChIJ9wv3PwN444kRYPr7iIti03E",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "e57b86443ef59a6b15f6627f0fc8973d",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:07.912594",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

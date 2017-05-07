@@ -1,0 +1,123 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_cc18ecc8cc3fc7b6b33b280bf4027495.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Plain Street",
+                    "short_name": "Plain St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Clinton",
+                    "short_name": "Clinton",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01510",
+                    "short_name": "01510",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1211",
+                    "short_name": "1211",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Plain St, Clinton, MA 01510, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4257482,
+                        "lng": -71.6808628
+                    },
+                    "southwest": {
+                        "lat": 42.4257437,
+                        "lng": -71.6808805
+                    }
+                },
+                "location": {
+                    "lat": 42.4257482,
+                    "lng": -71.6808628
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4270949302915,
+                        "lng": -71.67952266970849
+                    },
+                    "southwest": {
+                        "lat": 42.4243969697085,
+                        "lng": -71.68222063029151
+                    }
+                }
+            },
+            "place_id": "EiIxIFBsYWluIFN0LCBDbGludG9uLCBNQSAwMTUxMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "cc18ecc8cc3fc7b6b33b280bf4027495",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:05.268825",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

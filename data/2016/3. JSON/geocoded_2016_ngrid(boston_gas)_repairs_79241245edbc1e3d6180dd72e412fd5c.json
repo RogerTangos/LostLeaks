@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_79241245edbc1e3d6180dd72e412fd5c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "60",
+                    "short_name": "60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pleasant Street",
+                    "short_name": "Pleasant St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3832",
+                    "short_name": "3832",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "60 Pleasant St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4803046,
+                        "lng": -71.093384
+                    },
+                    "southwest": {
+                        "lat": 42.4801582,
+                        "lng": -71.09354119999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4802314,
+                    "lng": -71.0934626
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4815803802915,
+                        "lng": -71.09211361970848
+                    },
+                    "southwest": {
+                        "lat": 42.4788824197085,
+                        "lng": -71.09481158029149
+                    }
+                }
+            },
+            "place_id": "ChIJx4Mx73xz44kRuW_w3RohoUg",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "79241245edbc1e3d6180dd72e412fd5c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:31.251597",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

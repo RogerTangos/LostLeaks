@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_7cf0171e681994b1d4b4393c807d85e4.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "23",
+                    "short_name": "23",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dean Road",
+                    "short_name": "Dean Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cochituate",
+                    "short_name": "Cochituate",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Wayland",
+                    "short_name": "Wayland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01778",
+                    "short_name": "01778",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5023",
+                    "short_name": "5023",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "23 Dean Rd, Wayland, MA 01778, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3203221,
+                        "lng": -71.34761780000001
+                    },
+                    "southwest": {
+                        "lat": 42.3201619,
+                        "lng": -71.3477502
+                    }
+                },
+                "location": {
+                    "lat": 42.320242,
+                    "lng": -71.347684
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3215909802915,
+                        "lng": -71.3463350197085
+                    },
+                    "southwest": {
+                        "lat": 42.3188930197085,
+                        "lng": -71.34903298029151
+                    }
+                }
+            },
+            "place_id": "ChIJXRsvsnCG44kRq5zKcKbed5o",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "7cf0171e681994b1d4b4393c807d85e4",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:58.938091",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

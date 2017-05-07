@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_6542d6ba12048b4e7d390397dbe48e1f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "985",
+                    "short_name": "985",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2011",
+                    "short_name": "2011",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "985 Main St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8036748,
+                        "lng": -71.0975787
+                    },
+                    "southwest": {
+                        "lat": 42.8036638,
+                        "lng": -71.0975899
+                    }
+                },
+                "location": {
+                    "lat": 42.8036748,
+                    "lng": -71.0975787
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.80501828029149,
+                        "lng": -71.09623531970851
+                    },
+                    "southwest": {
+                        "lat": 42.80232031970849,
+                        "lng": -71.09893328029152
+                    }
+                }
+            },
+            "place_id": "EiU5ODUgTWFpbiBTdCwgSGF2ZXJoaWxsLCBNQSAwMTgzMCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "6542d6ba12048b4e7d390397dbe48e1f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:07.281978",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

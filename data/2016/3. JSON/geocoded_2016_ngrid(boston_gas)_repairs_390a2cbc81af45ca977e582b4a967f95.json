@@ -1,0 +1,109 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_390a2cbc81af45ca977e582b4a967f95.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Farrington Avenue",
+                    "short_name": "Farrington Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Allston",
+                    "short_name": "Allston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02134",
+                    "short_name": "02134",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "4 Farrington Ave, Boston, MA 02134, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3543177,
+                        "lng": -71.1318674
+                    },
+                    "southwest": {
+                        "lat": 42.3543042,
+                        "lng": -71.1318714
+                    }
+                },
+                "location": {
+                    "lat": 42.3543177,
+                    "lng": -71.1318714
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3556599302915,
+                        "lng": -71.1305204197085
+                    },
+                    "southwest": {
+                        "lat": 42.3529619697085,
+                        "lng": -71.13321838029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Eic0IEZhcnJpbmd0b24gQXZlLCBCb3N0b24sIE1BIDAyMTM0LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "390a2cbc81af45ca977e582b4a967f95",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:01.230806",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

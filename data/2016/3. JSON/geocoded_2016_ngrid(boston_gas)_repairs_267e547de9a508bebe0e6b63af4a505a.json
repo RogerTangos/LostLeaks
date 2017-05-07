@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_267e547de9a508bebe0e6b63af4a505a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8",
+                    "short_name": "8",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Eileen Road",
+                    "short_name": "Eileen Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peabody",
+                    "short_name": "Peabody",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01960",
+                    "short_name": "01960",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2504",
+                    "short_name": "2504",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "8 Eileen Rd, Peabody, MA 01960, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5402977,
+                        "lng": -70.9809531
+                    },
+                    "southwest": {
+                        "lat": 42.5401369,
+                        "lng": -70.9811951
+                    }
+                },
+                "location": {
+                    "lat": 42.54021729999999,
+                    "lng": -70.9810741
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5415662802915,
+                        "lng": -70.97972511970849
+                    },
+                    "southwest": {
+                        "lat": 42.5388683197085,
+                        "lng": -70.9824230802915
+                    }
+                }
+            },
+            "place_id": "ChIJGXvYVmgS44kRlloqvwHBT2A",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "267e547de9a508bebe0e6b63af4a505a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:59.135298",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

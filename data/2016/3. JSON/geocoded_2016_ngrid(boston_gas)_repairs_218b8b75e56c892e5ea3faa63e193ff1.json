@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_218b8b75e56c892e5ea3faa63e193ff1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tileston Street",
+                    "short_name": "Tileston St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Everett",
+                    "short_name": "Everett",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02149",
+                    "short_name": "02149",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1908",
+                    "short_name": "1908",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Tileston St, Everett, MA 02149, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.405175,
+                        "lng": -71.0632909
+                    },
+                    "southwest": {
+                        "lat": 42.4051611,
+                        "lng": -71.06329149999999
+                    }
+                },
+                "location": {
+                    "lat": 42.405175,
+                    "lng": -71.06329149999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4065170302915,
+                        "lng": -71.06194221970848
+                    },
+                    "southwest": {
+                        "lat": 42.4038190697085,
+                        "lng": -71.06464018029149
+                    }
+                }
+            },
+            "place_id": "EiYzNSBUaWxlc3RvbiBTdCwgRXZlcmV0dCwgTUEgMDIxNDksIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "218b8b75e56c892e5ea3faa63e193ff1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:23.180345",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

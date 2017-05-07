@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9f3daa435f43f8e638410194dd4c6fe1.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "66",
+                    "short_name": "66",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North Street",
+                    "short_name": "North St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Leominster",
+                    "short_name": "Leominster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01453",
+                    "short_name": "01453",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "66 North St, Leominster, MA 01453, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.5650888,
+                    "lng": -71.7392381
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.56643778029149,
+                        "lng": -71.73788911970848
+                    },
+                    "southwest": {
+                        "lat": 42.5637398197085,
+                        "lng": -71.74058708029149
+                    }
+                }
+            },
+            "place_id": "ChIJkc-Ot5To44kRWajSKJkyBPQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9f3daa435f43f8e638410194dd4c6fe1",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:02.460228",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

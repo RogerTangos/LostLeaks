@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f09b52db96d68c1d3c337df0ebf95cb9.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "428",
+                    "short_name": "428",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadway",
+                    "short_name": "Broadway",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "428 Broadway, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3926091,
+                        "lng": -71.0349085
+                    },
+                    "southwest": {
+                        "lat": 42.39241820000001,
+                        "lng": -71.03513219999999
+                    }
+                },
+                "location": {
+                    "lat": 42.3925136,
+                    "lng": -71.0350204
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39386263029151,
+                        "lng": -71.0336713697085
+                    },
+                    "southwest": {
+                        "lat": 42.39116466970851,
+                        "lng": -71.0363693302915
+                    }
+                }
+            },
+            "place_id": "ChIJSSfAoLFx44kRjBItWO8q5cs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f09b52db96d68c1d3c337df0ebf95cb9",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:29.623868",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

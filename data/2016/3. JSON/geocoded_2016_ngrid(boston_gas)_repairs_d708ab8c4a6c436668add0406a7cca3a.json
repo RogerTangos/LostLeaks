@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d708ab8c4a6c436668add0406a7cca3a.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Broad Street",
+                    "short_name": "Broad St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weymouth",
+                    "short_name": "Weymouth",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02188",
+                    "short_name": "02188",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Broad St & Stetson St, Weymouth, MA 02188, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.21548,
+                    "lng": -70.96488
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2168289802915,
+                        "lng": -70.9635310197085
+                    },
+                    "southwest": {
+                        "lat": 42.2141310197085,
+                        "lng": -70.9662289802915
+                    }
+                }
+            },
+            "place_id": "Ei5Ccm9hZCBTdCAmIFN0ZXRzb24gU3QsIFdleW1vdXRoLCBNQSAwMjE4OCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "d708ab8c4a6c436668add0406a7cca3a",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:17.622920",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

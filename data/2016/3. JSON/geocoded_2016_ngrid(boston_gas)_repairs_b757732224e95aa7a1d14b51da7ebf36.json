@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b757732224e95aa7a1d14b51da7ebf36.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Cambridge Street",
+                    "short_name": "Cambridge St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02114",
+                    "short_name": "02114",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cambridge St & Lynde St, Boston, MA 02114, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3612652,
+                    "lng": -71.0643886
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.36261418029149,
+                        "lng": -71.0630396197085
+                    },
+                    "southwest": {
+                        "lat": 42.3599162197085,
+                        "lng": -71.06573758029151
+                    }
+                }
+            },
+            "place_id": "Ei5DYW1icmlkZ2UgU3QgJiBMeW5kZSBTdCwgQm9zdG9uLCBNQSAwMjExNCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "b757732224e95aa7a1d14b51da7ebf36",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:19.064243",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

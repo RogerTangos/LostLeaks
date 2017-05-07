@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_df226759e9e6bb62cdeb44c19dcba540.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Peter Tufts Road",
+                    "short_name": "Peter Tufts Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1414",
+                    "short_name": "1414",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Peter Tufts Rd, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4280285,
+                        "lng": -71.1719092
+                    },
+                    "southwest": {
+                        "lat": 42.427922,
+                        "lng": -71.1720945
+                    }
+                },
+                "location": {
+                    "lat": 42.4279752,
+                    "lng": -71.1720018
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4293242302915,
+                        "lng": -71.1706528697085
+                    },
+                    "southwest": {
+                        "lat": 42.4266262697085,
+                        "lng": -71.17335083029151
+                    }
+                }
+            },
+            "place_id": "ChIJkSWFMT5244kR98alHGjx50I",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "df226759e9e6bb62cdeb44c19dcba540",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:32.649370",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

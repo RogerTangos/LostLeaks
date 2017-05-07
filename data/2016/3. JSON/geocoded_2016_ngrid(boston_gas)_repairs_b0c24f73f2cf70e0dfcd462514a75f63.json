@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b0c24f73f2cf70e0dfcd462514a75f63.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "29",
+                    "short_name": "29",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Warren Street",
+                    "short_name": "Warren St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Stoneham",
+                    "short_name": "Stoneham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02180",
+                    "short_name": "02180",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2584",
+                    "short_name": "2584",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "29 Warren St, Stoneham, MA 02180, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.476041,
+                        "lng": -71.1019518
+                    },
+                    "southwest": {
+                        "lat": 42.4759284,
+                        "lng": -71.1021676
+                    }
+                },
+                "location": {
+                    "lat": 42.4759847,
+                    "lng": -71.1020597
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4773336802915,
+                        "lng": -71.10071071970849
+                    },
+                    "southwest": {
+                        "lat": 42.4746357197085,
+                        "lng": -71.1034086802915
+                    }
+                }
+            },
+            "place_id": "ChIJfe8634B044kRuLcKw00yOs8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b0c24f73f2cf70e0dfcd462514a75f63",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:17.125552",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

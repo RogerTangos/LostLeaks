@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_04003b2937e46c645297d21716b505d0.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "947",
+                    "short_name": "947",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1423",
+                    "short_name": "1423",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "947 Main St, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.436935,
+                        "lng": -71.0671795
+                    },
+                    "southwest": {
+                        "lat": 42.4368193,
+                        "lng": -71.0673719
+                    }
+                },
+                "location": {
+                    "lat": 42.4368772,
+                    "lng": -71.0672757
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4382261302915,
+                        "lng": -71.0659267197085
+                    },
+                    "southwest": {
+                        "lat": 42.4355281697085,
+                        "lng": -71.0686246802915
+                    }
+                }
+            },
+            "place_id": "ChIJMUKNgdtz44kRaUctAVMaNIo",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "04003b2937e46c645297d21716b505d0",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:44:58.223786",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

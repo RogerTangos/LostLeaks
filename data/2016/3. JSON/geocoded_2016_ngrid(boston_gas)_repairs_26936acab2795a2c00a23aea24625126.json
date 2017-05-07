@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_26936acab2795a2c00a23aea24625126.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Washington Avenue",
+                    "short_name": "Washington Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "50 Washington Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3948043,
+                        "lng": -71.0333974
+                    },
+                    "southwest": {
+                        "lat": 42.3945364,
+                        "lng": -71.0336524
+                    }
+                },
+                "location": {
+                    "lat": 42.3946704,
+                    "lng": -71.0335249
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.39601933029149,
+                        "lng": -71.03217591970851
+                    },
+                    "southwest": {
+                        "lat": 42.3933213697085,
+                        "lng": -71.03487388029151
+                    }
+                }
+            },
+            "place_id": "ChIJ6aMKlrBx44kRIHrbSEo2PM8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "26936acab2795a2c00a23aea24625126",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:27.262012",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

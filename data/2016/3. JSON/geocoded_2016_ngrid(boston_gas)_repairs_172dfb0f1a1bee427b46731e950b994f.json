@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_172dfb0f1a1bee427b46731e950b994f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "290",
+                    "short_name": "290",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Dudley Street",
+                    "short_name": "Dudley St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2634",
+                    "short_name": "2634",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "290 Dudley St, Boston, MA 02119, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3277656,
+                        "lng": -71.0774814
+                    },
+                    "southwest": {
+                        "lat": 42.3277553,
+                        "lng": -71.077494
+                    }
+                },
+                "location": {
+                    "lat": 42.3277656,
+                    "lng": -71.0774814
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3291094302915,
+                        "lng": -71.0761387197085
+                    },
+                    "southwest": {
+                        "lat": 42.3264114697085,
+                        "lng": -71.0788366802915
+                    }
+                }
+            },
+            "place_id": "EiQyOTAgRHVkbGV5IFN0LCBCb3N0b24sIE1BIDAyMTE5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "172dfb0f1a1bee427b46731e950b994f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:17.467949",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

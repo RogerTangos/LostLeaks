@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_8d5296f879e0bd48d3c7ca9659853b53.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "172",
+                    "short_name": "172",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hampden Street",
+                    "short_name": "Hampden St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Roxbury",
+                    "short_name": "Roxbury",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02119",
+                    "short_name": "02119",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2836",
+                    "short_name": "2836",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "172 Hampden St, Boston, MA 02119, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3273729,
+                        "lng": -71.0751679
+                    },
+                    "southwest": {
+                        "lat": 42.3273719,
+                        "lng": -71.0751866
+                    }
+                },
+                "location": {
+                    "lat": 42.3273719,
+                    "lng": -71.0751679
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3287213802915,
+                        "lng": -71.07382826970849
+                    },
+                    "southwest": {
+                        "lat": 42.32602341970851,
+                        "lng": -71.07652623029149
+                    }
+                }
+            },
+            "place_id": "EiUxNzIgSGFtcGRlbiBTdCwgQm9zdG9uLCBNQSAwMjExOSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "8d5296f879e0bd48d3c7ca9659853b53",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:18.883105",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

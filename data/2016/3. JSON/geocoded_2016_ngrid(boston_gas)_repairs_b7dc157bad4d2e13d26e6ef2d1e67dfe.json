@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_b7dc157bad4d2e13d26e6ef2d1e67dfe.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "113",
+                    "short_name": "113",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hamden Circle",
+                    "short_name": "Hamden Cir",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02170",
+                    "short_name": "02170",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2120",
+                    "short_name": "2120",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "113 Hamden Cir, Quincy, MA 02170, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2752548,
+                        "lng": -71.0159975
+                    },
+                    "southwest": {
+                        "lat": 42.2751028,
+                        "lng": -71.0162223
+                    }
+                },
+                "location": {
+                    "lat": 42.2751788,
+                    "lng": -71.0161099
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2765277802915,
+                        "lng": -71.0147609197085
+                    },
+                    "southwest": {
+                        "lat": 42.2738298197085,
+                        "lng": -71.0174588802915
+                    }
+                }
+            },
+            "place_id": "ChIJs5zlRlp744kRkjinSkCfmV4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "b7dc157bad4d2e13d26e6ef2d1e67dfe",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:56.675515",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

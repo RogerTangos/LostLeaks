@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_22f5c8d2bec25cd1283ecd28ec7e2cd2.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "40",
+                    "short_name": "40",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Woodside Road",
+                    "short_name": "Woodside Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Harvard",
+                    "short_name": "Harvard",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01451",
+                    "short_name": "01451",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1615",
+                    "short_name": "1615",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "40 Woodside Rd, Harvard, MA 01451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4750926,
+                        "lng": -71.59724860000001
+                    },
+                    "southwest": {
+                        "lat": 42.4748899,
+                        "lng": -71.5975675
+                    }
+                },
+                "location": {
+                    "lat": 42.4749913,
+                    "lng": -71.597408
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4763402302915,
+                        "lng": -71.5960590697085
+                    },
+                    "southwest": {
+                        "lat": 42.4736422697085,
+                        "lng": -71.59875703029151
+                    }
+                }
+            },
+            "place_id": "ChIJN_-rlRjt44kRaE_JsVIFRZs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "22f5c8d2bec25cd1283ecd28ec7e2cd2",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:40:12.978229",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_770b74512a137cde0fcec79fe0f202a3.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "143",
+                    "short_name": "143",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Franklin Avenue",
+                    "short_name": "Franklin Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2026",
+                    "short_name": "2026",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "143 Franklin Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.402163,
+                        "lng": -71.0335276
+                    },
+                    "southwest": {
+                        "lat": 42.4019678,
+                        "lng": -71.03379509999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4020654,
+                    "lng": -71.0336614
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.40341438029149,
+                        "lng": -71.03231236970849
+                    },
+                    "southwest": {
+                        "lat": 42.4007164197085,
+                        "lng": -71.0350103302915
+                    }
+                }
+            },
+            "place_id": "ChIJo4ppRrxx44kR4mgXizG7upc",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "770b74512a137cde0fcec79fe0f202a3",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:10.087305",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

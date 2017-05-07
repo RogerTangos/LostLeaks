@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_1364d282c4d7480b48564c1429ae615c.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Galen Street",
+                    "short_name": "Galen St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Watertown",
+                    "short_name": "Watertown",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02472",
+                    "short_name": "02472",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1 Galen St, Watertown, MA 02472, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3650186,
+                        "lng": -71.18531759999999
+                    },
+                    "southwest": {
+                        "lat": 42.3650062,
+                        "lng": -71.1853259
+                    }
+                },
+                "location": {
+                    "lat": 42.3650186,
+                    "lng": -71.1853259
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3663613802915,
+                        "lng": -71.18397276970849
+                    },
+                    "southwest": {
+                        "lat": 42.3636634197085,
+                        "lng": -71.1866707302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQxIEdhbGVuIFN0LCBXYXRlcnRvd24sIE1BIDAyNDcyLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1364d282c4d7480b48564c1429ae615c",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:28:00.151027",
+    "utility": "ngrid",
+    "year": 2016
+}

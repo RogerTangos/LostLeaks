@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_501d9484ae484a85047509597013e023.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "16",
+                    "short_name": "16",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Southwick Road",
+                    "short_name": "Southwick Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Waban",
+                    "short_name": "Waban",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02468",
+                    "short_name": "02468",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2223",
+                    "short_name": "2223",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "16 Southwick Rd, Waban, MA 02468, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3246226,
+                        "lng": -71.230209
+                    },
+                    "southwest": {
+                        "lat": 42.3246088,
+                        "lng": -71.23020980000001
+                    }
+                },
+                "location": {
+                    "lat": 42.3246226,
+                    "lng": -71.230209
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3259646802915,
+                        "lng": -71.22886041970851
+                    },
+                    "southwest": {
+                        "lat": 42.32326671970851,
+                        "lng": -71.23155838029152
+                    }
+                }
+            },
+            "place_id": "EiUxNiBTb3V0aHdpY2sgUmQsIFdhYmFuLCBNQSAwMjQ2OCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "501d9484ae484a85047509597013e023",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:56.333291",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e6b46db54787e355643b51bb51a03854.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "36",
+                    "short_name": "36",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ashton Street",
+                    "short_name": "Ashton St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Dorchester Center",
+                    "short_name": "Dorchester Center",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02124",
+                    "short_name": "02124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3121",
+                    "short_name": "3121",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "36 Ashton St, Dorchester Center, MA 02124, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.287254,
+                    "lng": -71.08903699999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.28860298029149,
+                        "lng": -71.08768801970848
+                    },
+                    "southwest": {
+                        "lat": 42.2859050197085,
+                        "lng": -71.0903859802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ07TtyPt744kR4ILiUVSA5_I",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e6b46db54787e355643b51bb51a03854",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:29.132045",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

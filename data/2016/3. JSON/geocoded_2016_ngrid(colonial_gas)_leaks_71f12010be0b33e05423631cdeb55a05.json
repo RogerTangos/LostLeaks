@@ -1,0 +1,92 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_71f12010be0b33e05423631cdeb55a05.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Green Street",
+                    "short_name": "Green St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Green Island",
+                    "short_name": "Green Island",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester",
+                    "short_name": "Worcester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01604",
+                    "short_name": "01604",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Green St & Winter St, Worcester, MA 01604, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.258503,
+                    "lng": -71.79809999999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.25985198029149,
+                        "lng": -71.79675101970848
+                    },
+                    "southwest": {
+                        "lat": 42.25715401970849,
+                        "lng": -71.7994489802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei5HcmVlbiBTdCAmIFdpbnRlciBTdCwgV29yY2VzdGVyLCBNQSAwMTYwNCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "71f12010be0b33e05423631cdeb55a05",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:10:28.303542",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

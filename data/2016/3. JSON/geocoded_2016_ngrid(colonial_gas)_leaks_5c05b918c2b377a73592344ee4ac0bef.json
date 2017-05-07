@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_leaks_5c05b918c2b377a73592344ee4ac0bef.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2667",
+                    "short_name": "2667",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Providence Road",
+                    "short_name": "Providence Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Northbridge",
+                    "short_name": "Northbridge",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01534",
+                    "short_name": "01534",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1036",
+                    "short_name": "1036",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "2667 Providence Rd, Northbridge, MA 01534, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1604063,
+                        "lng": -71.6597285
+                    },
+                    "southwest": {
+                        "lat": 42.1603942,
+                        "lng": -71.6597378
+                    }
+                },
+                "location": {
+                    "lat": 42.1603942,
+                    "lng": -71.6597378
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1617492302915,
+                        "lng": -71.6583841697085
+                    },
+                    "southwest": {
+                        "lat": 42.1590512697085,
+                        "lng": -71.6610821302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "Ei4yNjY3IFByb3ZpZGVuY2UgUmQsIE5vcnRoYnJpZGdlLCBNQSAwMTUzNCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5c05b918c2b377a73592344ee4ac0bef",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:05:49.914069",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

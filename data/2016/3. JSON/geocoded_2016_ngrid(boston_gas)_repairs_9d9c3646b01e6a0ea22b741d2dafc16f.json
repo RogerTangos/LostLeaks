@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9d9c3646b01e6a0ea22b741d2dafc16f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "136",
+                    "short_name": "136",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Winslow Road",
+                    "short_name": "Winslow Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton Highlands",
+                    "short_name": "Newton Highlands",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02461",
+                    "short_name": "02461",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "136 Winslow Rd, Newton, MA 02461, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3259423,
+                        "lng": -71.2182366
+                    },
+                    "southwest": {
+                        "lat": 42.32593730000001,
+                        "lng": -71.21825419999999
+                    }
+                },
+                "location": {
+                    "lat": 42.32593730000001,
+                    "lng": -71.2182366
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3272887802915,
+                        "lng": -71.21689641970849
+                    },
+                    "southwest": {
+                        "lat": 42.32459081970851,
+                        "lng": -71.2195943802915
+                    }
+                }
+            },
+            "place_id": "EiUxMzYgV2luc2xvdyBSZCwgTmV3dG9uLCBNQSAwMjQ2MSwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9d9c3646b01e6a0ea22b741d2dafc16f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:49.890163",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

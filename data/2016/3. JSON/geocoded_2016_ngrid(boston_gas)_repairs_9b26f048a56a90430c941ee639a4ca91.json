@@ -1,0 +1,97 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9b26f048a56a90430c941ee639a4ca91.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "358",
+                    "short_name": "358",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Water Street",
+                    "short_name": "Water St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6418",
+                    "short_name": "6418",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "358 Water St, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.2417276,
+                    "lng": -71.0129695
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.24307658029149,
+                        "lng": -71.01162051970849
+                    },
+                    "southwest": {
+                        "lat": 42.24037861970849,
+                        "lng": -71.01431848029151
+                    }
+                }
+            },
+            "place_id": "ChIJ2cP8mc9844kRIwBgPHu1mBQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "9b26f048a56a90430c941ee639a4ca91",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:28.563889",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

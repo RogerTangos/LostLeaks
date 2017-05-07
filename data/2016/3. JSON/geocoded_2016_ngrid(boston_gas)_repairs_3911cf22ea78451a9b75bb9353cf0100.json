@@ -1,0 +1,115 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3911cf22ea78451a9b75bb9353cf0100.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "31",
+                    "short_name": "31",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Green Street",
+                    "short_name": "Green St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West End",
+                    "short_name": "West End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Waltham",
+                    "short_name": "Waltham",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02451",
+                    "short_name": "02451",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1646",
+                    "short_name": "1646",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "31 Green St, Waltham, MA 02451, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3762186,
+                        "lng": -71.2677045
+                    },
+                    "southwest": {
+                        "lat": 42.37621499999999,
+                        "lng": -71.2677226
+                    }
+                },
+                "location": {
+                    "lat": 42.3762186,
+                    "lng": -71.2677226
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3775657802915,
+                        "lng": -71.26636456970849
+                    },
+                    "southwest": {
+                        "lat": 42.3748678197085,
+                        "lng": -71.2690625302915
+                    }
+                }
+            },
+            "place_id": "EiMzMSBHcmVlbiBTdCwgV2FsdGhhbSwgTUEgMDI0NTEsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "3911cf22ea78451a9b75bb9353cf0100",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:46.105015",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

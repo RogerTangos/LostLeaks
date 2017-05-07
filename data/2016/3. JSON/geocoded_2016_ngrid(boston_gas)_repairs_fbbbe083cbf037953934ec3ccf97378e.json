@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_fbbbe083cbf037953934ec3ccf97378e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "35",
+                    "short_name": "35",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fullers Lane",
+                    "short_name": "Fullers Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Milton",
+                    "short_name": "Milton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02186",
+                    "short_name": "02186",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4713",
+                    "short_name": "4713",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "35 Fullers Ln, Milton, MA 02186, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2513172,
+                        "lng": -71.05271669999999
+                    },
+                    "southwest": {
+                        "lat": 42.2512008,
+                        "lng": -71.0528954
+                    }
+                },
+                "location": {
+                    "lat": 42.251259,
+                    "lng": -71.0528061
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.25260798029149,
+                        "lng": -71.05145706970849
+                    },
+                    "southwest": {
+                        "lat": 42.24991001970849,
+                        "lng": -71.0541550302915
+                    }
+                }
+            },
+            "place_id": "ChIJZ4caKll844kR8yFOdEI0frk",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "fbbbe083cbf037953934ec3ccf97378e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:19.545237",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

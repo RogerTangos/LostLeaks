@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_551af52b51da21a63748d3f0b8752190.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "109",
+                    "short_name": "109",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Market Street",
+                    "short_name": "Market St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Amesbury",
+                    "short_name": "Amesbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01913",
+                    "short_name": "01913",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1244",
+                    "short_name": "1244",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "109 Market St, Amesbury, MA 01913, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.8632975,
+                        "lng": -70.92887
+                    },
+                    "southwest": {
+                        "lat": 42.8632357,
+                        "lng": -70.92914549999999
+                    }
+                },
+                "location": {
+                    "lat": 42.8632666,
+                    "lng": -70.9290077
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.8646155802915,
+                        "lng": -70.92765876970849
+                    },
+                    "southwest": {
+                        "lat": 42.8619176197085,
+                        "lng": -70.93035673029149
+                    }
+                }
+            },
+            "place_id": "ChIJs8mFbAvk4okR0jzoLk1bvec",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "551af52b51da21a63748d3f0b8752190",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:38.939501",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

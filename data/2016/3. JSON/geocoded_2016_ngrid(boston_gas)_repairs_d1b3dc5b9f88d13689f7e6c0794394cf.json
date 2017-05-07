@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_d1b3dc5b9f88d13689f7e6c0794394cf.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "48",
+                    "short_name": "48",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Burbank Street",
+                    "short_name": "Burbank St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Fenway/Kenmore",
+                    "short_name": "Fenway/Kenmore",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02115",
+                    "short_name": "02115",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "48 Burbank St, Boston, MA 02115, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.34440379999999,
+                        "lng": -71.0884038
+                    },
+                    "southwest": {
+                        "lat": 42.3443902,
+                        "lng": -71.08840760000001
+                    }
+                },
+                "location": {
+                    "lat": 42.3443902,
+                    "lng": -71.08840760000001
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3457459802915,
+                        "lng": -71.0870567197085
+                    },
+                    "southwest": {
+                        "lat": 42.3430480197085,
+                        "lng": -71.0897546802915
+                    }
+                }
+            },
+            "place_id": "EiQ0OCBCdXJiYW5rIFN0LCBCb3N0b24sIE1BIDAyMTE1LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "d1b3dc5b9f88d13689f7e6c0794394cf",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:04.648264",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

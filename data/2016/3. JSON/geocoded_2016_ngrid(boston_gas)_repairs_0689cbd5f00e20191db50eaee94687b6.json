@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_0689cbd5f00e20191db50eaee94687b6.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "23",
+                    "short_name": "23",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Evergreen Road",
+                    "short_name": "Evergreen Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sudbury",
+                    "short_name": "Sudbury",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01776",
+                    "short_name": "01776",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2712",
+                    "short_name": "2712",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "23 Evergreen Rd, Sudbury, MA 01776, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3708074,
+                        "lng": -71.4391934
+                    },
+                    "southwest": {
+                        "lat": 42.370794,
+                        "lng": -71.4391986
+                    }
+                },
+                "location": {
+                    "lat": 42.370794,
+                    "lng": -71.4391986
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3721496802915,
+                        "lng": -71.43784701970849
+                    },
+                    "southwest": {
+                        "lat": 42.3694517197085,
+                        "lng": -71.44054498029149
+                    }
+                }
+            },
+            "place_id": "EicyMyBFdmVyZ3JlZW4gUmQsIFN1ZGJ1cnksIE1BIDAxNzc2LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "0689cbd5f00e20191db50eaee94687b6",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:59.437534",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

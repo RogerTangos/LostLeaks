@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_455837751e3555659e3513f86c2d201e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "63",
+                    "short_name": "63",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oakdale Road",
+                    "short_name": "Oakdale Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02459",
+                    "short_name": "02459",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "63 Oakdale Rd, Newton, MA 02459, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3182906,
+                        "lng": -71.1972395
+                    },
+                    "southwest": {
+                        "lat": 42.3182767,
+                        "lng": -71.1972402
+                    }
+                },
+                "location": {
+                    "lat": 42.3182906,
+                    "lng": -71.1972395
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.31963263029149,
+                        "lng": -71.19589086970849
+                    },
+                    "southwest": {
+                        "lat": 42.3169346697085,
+                        "lng": -71.19858883029151
+                    }
+                }
+            },
+            "place_id": "EiQ2MyBPYWtkYWxlIFJkLCBOZXd0b24sIE1BIDAyNDU5LCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "455837751e3555659e3513f86c2d201e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:47.094289",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

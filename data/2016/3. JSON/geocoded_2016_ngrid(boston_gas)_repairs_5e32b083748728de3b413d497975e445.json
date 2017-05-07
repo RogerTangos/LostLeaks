@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5e32b083748728de3b413d497975e445.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "38",
+                    "short_name": "38",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lake Street",
+                    "short_name": "Lake St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Middleton",
+                    "short_name": "Middleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01949",
+                    "short_name": "01949",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "38 Lake St, Middleton, MA 01949, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.59493399999999,
+                    "lng": -71.020928
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5962829802915,
+                        "lng": -71.0195790197085
+                    },
+                    "southwest": {
+                        "lat": 42.5935850197085,
+                        "lng": -71.02227698029151
+                    }
+                }
+            },
+            "place_id": "ChIJaRFZiD4O44kRzqhy_3fs2Y0",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "5e32b083748728de3b413d497975e445",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:39:45.594642",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

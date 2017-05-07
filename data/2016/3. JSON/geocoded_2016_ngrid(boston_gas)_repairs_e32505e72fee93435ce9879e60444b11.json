@@ -1,0 +1,100 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_e32505e72fee93435ce9879e60444b11.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Tree Avenue",
+                    "short_name": "Pine Tree Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Malden",
+                    "short_name": "Malden",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02148",
+                    "short_name": "02148",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Pine Tree Ave, Malden, MA 02148, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4407995,
+                        "lng": -71.0490791
+                    },
+                    "southwest": {
+                        "lat": 42.4407856,
+                        "lng": -71.0490799
+                    }
+                },
+                "location": {
+                    "lat": 42.4407995,
+                    "lng": -71.0490799
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44214153029149,
+                        "lng": -71.0477305197085
+                    },
+                    "southwest": {
+                        "lat": 42.43944356970849,
+                        "lng": -71.0504284802915
+                    }
+                }
+            },
+            "place_id": "EiY1IFBpbmUgVHJlZSBBdmUsIE1hbGRlbiwgTUEgMDIxNDgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e32505e72fee93435ce9879e60444b11",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:21.326724",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

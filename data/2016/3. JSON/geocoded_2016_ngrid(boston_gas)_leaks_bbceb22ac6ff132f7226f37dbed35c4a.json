@@ -1,0 +1,79 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_bbceb22ac6ff132f7226f37dbed35c4a.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Commonwealth Avenue",
+                    "short_name": "Commonwealth Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Commonwealth Avenue, Boston, MA, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3539897,
+                        "lng": -71.07143359999999
+                    },
+                    "southwest": {
+                        "lat": 42.3379085,
+                        "lng": -71.1669749
+                    }
+                },
+                "location": {
+                    "lat": 42.351329,
+                    "lng": -71.1183064
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3539897,
+                        "lng": -71.07143359999999
+                    },
+                    "southwest": {
+                        "lat": 42.3379085,
+                        "lng": -71.1669749
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiRDb21tb253ZWFsdGggQXZlbnVlLCBCb3N0b24sIE1BLCBVU0E",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "row_id": "bbceb22ac6ff132f7226f37dbed35c4a",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:39:43.407227",
+    "utility": "ngrid",
+    "year": 2016
+}

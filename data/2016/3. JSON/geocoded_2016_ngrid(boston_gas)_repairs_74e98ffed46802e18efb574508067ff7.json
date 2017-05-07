@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_74e98ffed46802e18efb574508067ff7.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "102",
+                    "short_name": "102",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Glezen Lane",
+                    "short_name": "Glezen Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Wayland",
+                    "short_name": "Wayland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01778",
+                    "short_name": "01778",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1423",
+                    "short_name": "1423",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "102 Glezen Ln, Wayland, MA 01778, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3822965,
+                        "lng": -71.3594707
+                    },
+                    "southwest": {
+                        "lat": 42.3821111,
+                        "lng": -71.3597537
+                    }
+                },
+                "location": {
+                    "lat": 42.3822038,
+                    "lng": -71.3596122
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3835527802915,
+                        "lng": -71.35826321970849
+                    },
+                    "southwest": {
+                        "lat": 42.3808548197085,
+                        "lng": -71.36096118029151
+                    }
+                }
+            },
+            "place_id": "ChIJIxOg2WqF44kRoX_Dm0bwG_4",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "74e98ffed46802e18efb574508067ff7",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:24.369922",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

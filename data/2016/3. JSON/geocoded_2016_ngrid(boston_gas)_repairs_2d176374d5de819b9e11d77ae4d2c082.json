@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2d176374d5de819b9e11d77ae4d2c082.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "250",
+                    "short_name": "250",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Union Street",
+                    "short_name": "Union St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01901",
+                    "short_name": "01901",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1315",
+                    "short_name": "1315",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "250 Union St, Lynn, MA 01901, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4655166,
+                        "lng": -70.9429323
+                    },
+                    "southwest": {
+                        "lat": 42.465509,
+                        "lng": -70.942948
+                    }
+                },
+                "location": {
+                    "lat": 42.465509,
+                    "lng": -70.9429323
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4668617802915,
+                        "lng": -70.9415911697085
+                    },
+                    "southwest": {
+                        "lat": 42.4641638197085,
+                        "lng": -70.94428913029151
+                    }
+                }
+            },
+            "place_id": "EiEyNTAgVW5pb24gU3QsIEx5bm4sIE1BIDAxOTAxLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "2d176374d5de819b9e11d77ae4d2c082",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:37:35.899272",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

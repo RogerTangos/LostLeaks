@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_484608da81ef3f407e45880f8e006a65.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1113",
+                    "short_name": "1113",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main Street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Warren",
+                    "short_name": "Warren",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Warren",
+                    "short_name": "Warren",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01083",
+                    "short_name": "01083",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1113 Main St, Warren, MA 01083, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2134522,
+                        "lng": -72.1954203
+                    },
+                    "southwest": {
+                        "lat": 42.2134393,
+                        "lng": -72.19542729999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2134393,
+                    "lng": -72.19542729999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.2147947302915,
+                        "lng": -72.19407481970849
+                    },
+                    "southwest": {
+                        "lat": 42.2120967697085,
+                        "lng": -72.1967727802915
+                    }
+                }
+            },
+            "place_id": "EiMxMTEzIE1haW4gU3QsIFdhcnJlbiwgTUEgMDEwODMsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "484608da81ef3f407e45880f8e006a65",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:54.021690",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

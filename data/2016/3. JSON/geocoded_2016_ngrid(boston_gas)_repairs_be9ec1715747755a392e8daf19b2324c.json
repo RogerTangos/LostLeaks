@@ -1,0 +1,83 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_be9ec1715747755a392e8daf19b2324c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Washington Avenue",
+                    "short_name": "Washington Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Chelsea",
+                    "short_name": "Chelsea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02150",
+                    "short_name": "02150",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Washington Ave & Springvale Ave, Chelsea, MA 02150, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.407939,
+                    "lng": -71.030908
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4092879802915,
+                        "lng": -71.0295590197085
+                    },
+                    "southwest": {
+                        "lat": 42.4065900197085,
+                        "lng": -71.0322569802915
+                    }
+                }
+            },
+            "place_id": "EjdXYXNoaW5ndG9uIEF2ZSAmIFNwcmluZ3ZhbGUgQXZlLCBDaGVsc2VhLCBNQSAwMjE1MCwgVVNB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "row_id": "be9ec1715747755a392e8daf19b2324c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:45:50.680276",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

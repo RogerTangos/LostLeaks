@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid(colonial_gas)_repairs_e5a96140670d10cb3b9c3fb6c693c9fc.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "411",
+                    "short_name": "411",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Boston Providence Highway",
+                    "short_name": "Boston Providence Hwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Westwood",
+                    "short_name": "Westwood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02090",
+                    "short_name": "02090",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "411 Boston Providence Hwy, Westwood, MA 02090, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.2140723,
+                        "lng": -71.18221729999999
+                    },
+                    "southwest": {
+                        "lat": 42.2140678,
+                        "lng": -71.18223499999999
+                    }
+                },
+                "location": {
+                    "lat": 42.2140723,
+                    "lng": -71.18223499999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.21541903029149,
+                        "lng": -71.1808771697085
+                    },
+                    "southwest": {
+                        "lat": 42.21272106970849,
+                        "lng": -71.1835751302915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EjI0MTEgQm9zdG9uIFByb3ZpZGVuY2UgSHd5LCBXZXN0d29vZCwgTUEgMDIwOTAsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "e5a96140670d10cb3b9c3fb6c693c9fc",
+    "status": "OK",
+    "timestamp": "2017-05-01T17:21:34.984784",
+    "utility": "ngrid(colonial_gas)",
+    "year": 2016
+}

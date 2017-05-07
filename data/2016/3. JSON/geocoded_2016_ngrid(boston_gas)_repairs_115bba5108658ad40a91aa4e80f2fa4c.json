@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_115bba5108658ad40a91aa4e80f2fa4c.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "619",
+                    "short_name": "619",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts Avenue",
+                    "short_name": "Massachusetts Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South End",
+                    "short_name": "South End",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02118",
+                    "short_name": "02118",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "619 Massachusetts Ave, Boston, MA 02118, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3369474,
+                        "lng": -71.0776041
+                    },
+                    "southwest": {
+                        "lat": 42.3369381,
+                        "lng": -71.077618
+                    }
+                },
+                "location": {
+                    "lat": 42.3369381,
+                    "lng": -71.077618
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.33829173029149,
+                        "lng": -71.07626206970849
+                    },
+                    "southwest": {
+                        "lat": 42.3355937697085,
+                        "lng": -71.0789600302915
+                    }
+                }
+            },
+            "place_id": "Eiw2MTkgTWFzc2FjaHVzZXR0cyBBdmUsIEJvc3RvbiwgTUEgMDIxMTgsIFVTQQ",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "115bba5108658ad40a91aa4e80f2fa4c",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:42:39.417440",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

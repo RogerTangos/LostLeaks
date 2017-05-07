@@ -1,0 +1,99 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f180bccb75569fac4f0090790e7cb7ec.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hilltop Road",
+                    "short_name": "Hilltop Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Weston",
+                    "short_name": "Weston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02493",
+                    "short_name": "02493",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1646",
+                    "short_name": "1646",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Hilltop Rd, Weston, MA 02493, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3746742,
+                        "lng": -71.2940541
+                    },
+                    "southwest": {
+                        "lat": 42.3745275,
+                        "lng": -71.2943624
+                    }
+                },
+                "location": {
+                    "lat": 42.3746008,
+                    "lng": -71.2942083
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3759498302915,
+                        "lng": -71.29285926970849
+                    },
+                    "southwest": {
+                        "lat": 42.3732518697085,
+                        "lng": -71.29555723029151
+                    }
+                }
+            },
+            "place_id": "ChIJoV9EPaKE44kRbV6ZWKgJc_U",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "f180bccb75569fac4f0090790e7cb7ec",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:30.995983",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

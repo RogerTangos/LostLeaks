@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_9eb1488eaf20554dc7bed460ff7ff02b.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "5",
+                    "short_name": "5",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Swains Pond Avenue",
+                    "short_name": "Swains Pond Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melrose",
+                    "short_name": "Melrose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02176",
+                    "short_name": "02176",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "6322",
+                    "short_name": "6322",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "5 Swains Pond Ave, Melrose, MA 02176, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4426273,
+                        "lng": -71.0483909
+                    },
+                    "southwest": {
+                        "lat": 42.4424921,
+                        "lng": -71.0485264
+                    }
+                },
+                "location": {
+                    "lat": 42.4425597,
+                    "lng": -71.0484587
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.44390868029149,
+                        "lng": -71.0471096697085
+                    },
+                    "southwest": {
+                        "lat": 42.44121071970849,
+                        "lng": -71.04980763029151
+                    }
+                }
+            },
+            "place_id": "ChIJQ-vgwjRy44kR5tS-Gm2jGTI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "9eb1488eaf20554dc7bed460ff7ff02b",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:41:22.416844",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,105 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_891442d1352e53f5dc070988cfbedd80.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "141",
+                    "short_name": "141",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West 2nd Street",
+                    "short_name": "W 2nd St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "South Boston",
+                    "short_name": "South Boston",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boston",
+                    "short_name": "Boston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02127",
+                    "short_name": "02127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1152",
+                    "short_name": "1152",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "141 W 2nd St, Boston, MA 02127, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.3420954,
+                    "lng": -71.0527172
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.3434443802915,
+                        "lng": -71.05136821970851
+                    },
+                    "southwest": {
+                        "lat": 42.3407464197085,
+                        "lng": -71.05406618029151
+                    }
+                }
+            },
+            "place_id": "ChIJpzFzKn1644kRod9o-ZuZl4w",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "891442d1352e53f5dc070988cfbedd80",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:34:08.031984",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

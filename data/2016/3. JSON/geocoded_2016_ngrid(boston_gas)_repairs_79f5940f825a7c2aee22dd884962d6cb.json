@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_79f5940f825a7c2aee22dd884962d6cb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Middle Street",
+                    "short_name": "Middle St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gloucester",
+                    "short_name": "Gloucester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01930",
+                    "short_name": "01930",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3614",
+                    "short_name": "3614",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Middle St, Gloucester, MA 01930, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.61166170000001,
+                        "lng": -70.6671132
+                    },
+                    "southwest": {
+                        "lat": 42.6115197,
+                        "lng": -70.6672823
+                    }
+                },
+                "location": {
+                    "lat": 42.6115907,
+                    "lng": -70.6671977
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6129396802915,
+                        "lng": -70.66584876970849
+                    },
+                    "southwest": {
+                        "lat": 42.6102417197085,
+                        "lng": -70.66854673029151
+                    }
+                }
+            },
+            "place_id": "ChIJTTtC2B0l44kRxnIabZmJxFI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "79f5940f825a7c2aee22dd884962d6cb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:36:32.367771",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_3edd652ef15c7682671a1ebc2f2a1c2f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "7",
+                    "short_name": "7",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bass Rocks Road",
+                    "short_name": "Bass Rocks Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gloucester",
+                    "short_name": "Gloucester",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01930",
+                    "short_name": "01930",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3277",
+                    "short_name": "3277",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "7 Bass Rocks Rd, Gloucester, MA 01930, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.6154431,
+                        "lng": -70.6337307
+                    },
+                    "southwest": {
+                        "lat": 42.6152749,
+                        "lng": -70.6339489
+                    }
+                },
+                "location": {
+                    "lat": 42.615359,
+                    "lng": -70.63383979999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.6167079802915,
+                        "lng": -70.6324908197085
+                    },
+                    "southwest": {
+                        "lat": 42.6140100197085,
+                        "lng": -70.6351887802915
+                    }
+                }
+            },
+            "place_id": "ChIJUexAVHcl44kRGGtvZvrW6dE",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "3edd652ef15c7682671a1ebc2f2a1c2f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:16.263094",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

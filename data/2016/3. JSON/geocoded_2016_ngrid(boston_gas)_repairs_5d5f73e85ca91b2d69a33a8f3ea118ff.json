@@ -1,0 +1,108 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_5d5f73e85ca91b2d69a33a8f3ea118ff.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "180",
+                    "short_name": "180",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Melrose Street",
+                    "short_name": "Melrose St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Auburndale",
+                    "short_name": "Auburndale",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Newton",
+                    "short_name": "Newton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02466",
+                    "short_name": "02466",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "180 Melrose St, Auburndale, MA 02466, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.3504312,
+                        "lng": -71.24883620000001
+                    },
+                    "southwest": {
+                        "lat": 42.350333,
+                        "lng": -71.2490754
+                    }
+                },
+                "location": {
+                    "lat": 42.3503821,
+                    "lng": -71.24895579999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.35173108029149,
+                        "lng": -71.2476068197085
+                    },
+                    "southwest": {
+                        "lat": 42.34903311970849,
+                        "lng": -71.25030478029151
+                    }
+                }
+            },
+            "place_id": "ChIJm25ZYAaD44kRpTM2UAMwJak",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "5d5f73e85ca91b2d69a33a8f3ea118ff",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:35:34.888818",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

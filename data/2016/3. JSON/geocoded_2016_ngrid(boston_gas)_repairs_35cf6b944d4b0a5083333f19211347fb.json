@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_35cf6b944d4b0a5083333f19211347fb.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12",
+                    "short_name": "12",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Trevalley Road",
+                    "short_name": "Trevalley Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Revere",
+                    "short_name": "Revere",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Suffolk County",
+                    "short_name": "Suffolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02151",
+                    "short_name": "02151",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2758",
+                    "short_name": "2758",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "12 Trevalley Rd, Revere, MA 02151, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4109462,
+                        "lng": -71.007088
+                    },
+                    "southwest": {
+                        "lat": 42.4108566,
+                        "lng": -71.00723529999999
+                    }
+                },
+                "location": {
+                    "lat": 42.4109014,
+                    "lng": -71.0071616
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4122503802915,
+                        "lng": -71.00581266970849
+                    },
+                    "southwest": {
+                        "lat": 42.4095524197085,
+                        "lng": -71.0085106302915
+                    }
+                }
+            },
+            "place_id": "ChIJKR2Tu_xx44kRxu032BfceM8",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "35cf6b944d4b0a5083333f19211347fb",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:33:18.428617",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

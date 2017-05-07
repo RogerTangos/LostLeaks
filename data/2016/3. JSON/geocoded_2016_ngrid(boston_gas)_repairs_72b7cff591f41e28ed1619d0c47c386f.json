@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_72b7cff591f41e28ed1619d0c47c386f.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "100",
+                    "short_name": "100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Village Street",
+                    "short_name": "Village St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Marblehead",
+                    "short_name": "Marblehead",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01945",
+                    "short_name": "01945",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2235",
+                    "short_name": "2235",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "100 Village St, Marblehead, MA 01945, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.5029225,
+                        "lng": -70.867646
+                    },
+                    "southwest": {
+                        "lat": 42.5027936,
+                        "lng": -70.8678378
+                    }
+                },
+                "location": {
+                    "lat": 42.502858,
+                    "lng": -70.8677419
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.5042070302915,
+                        "lng": -70.86639291970849
+                    },
+                    "southwest": {
+                        "lat": 42.5015090697085,
+                        "lng": -70.86909088029151
+                    }
+                }
+            },
+            "place_id": "ChIJG7cKsPsU44kRkPCacp8QQGA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "72b7cff591f41e28ed1619d0c47c386f",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:20.358227",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

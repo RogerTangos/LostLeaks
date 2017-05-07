@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_2c01736a9439b66f094996b811babc44.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "69",
+                    "short_name": "69",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lawrence Street",
+                    "short_name": "Lawrence St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Haverhill",
+                    "short_name": "Haverhill",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Essex County",
+                    "short_name": "Essex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01830",
+                    "short_name": "01830",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4033",
+                    "short_name": "4033",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "69 Lawrence St, Haverhill, MA 01830, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.7873392,
+                        "lng": -71.07401279999999
+                    },
+                    "southwest": {
+                        "lat": 42.7872118,
+                        "lng": -71.074206
+                    }
+                },
+                "location": {
+                    "lat": 42.7872755,
+                    "lng": -71.0741094
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.7886244802915,
+                        "lng": -71.07276041970849
+                    },
+                    "southwest": {
+                        "lat": 42.7859265197085,
+                        "lng": -71.07545838029151
+                    }
+                }
+            },
+            "place_id": "ChIJORIAZT8C44kR-Ifww82kzRM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "row_id": "2c01736a9439b66f094996b811babc44",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:43:13.621436",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

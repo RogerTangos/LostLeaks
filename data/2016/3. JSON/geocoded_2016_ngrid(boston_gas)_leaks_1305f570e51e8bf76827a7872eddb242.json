@@ -1,0 +1,101 @@
+{
+    "filename": "geocoded_2016_ngrid_leaks_1305f570e51e8bf76827a7872eddb242.json",
+    "leaks_or_repairs": "leaks",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Main Street",
+                    "short_name": "E Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Webster",
+                    "short_name": "Webster",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Worcester County",
+                    "short_name": "Worcester County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "01570",
+                    "short_name": "01570",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "33 E Main St, Webster, MA 01570, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.0551646,
+                        "lng": -71.8758378
+                    },
+                    "southwest": {
+                        "lat": 42.05515219999999,
+                        "lng": -71.87584629999999
+                    }
+                },
+                "location": {
+                    "lat": 42.0551646,
+                    "lng": -71.87584629999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.0565073802915,
+                        "lng": -71.87449306970849
+                    },
+                    "southwest": {
+                        "lat": 42.0538094197085,
+                        "lng": -71.87719103029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EiQzMyBFIE1haW4gU3QsIFdlYnN0ZXIsIE1BIDAxNTcwLCBVU0E",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "1305f570e51e8bf76827a7872eddb242",
+    "status": "OK",
+    "timestamp": "2017-05-01T15:37:42.923786",
+    "utility": "ngrid",
+    "year": 2016
+}

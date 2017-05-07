@@ -1,0 +1,107 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_728bafd64d6ccd612d73b6f9694f596e.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32",
+                    "short_name": "32",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Fairmont Street",
+                    "short_name": "Fairmont St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arlington",
+                    "short_name": "Arlington",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Middlesex County",
+                    "short_name": "Middlesex County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02474",
+                    "short_name": "02474",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "8718",
+                    "short_name": "8718",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "32 Fairmont St, Arlington, MA 02474, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.4012815,
+                        "lng": -71.13934809999999
+                    },
+                    "southwest": {
+                        "lat": 42.4012712,
+                        "lng": -71.1393607
+                    }
+                },
+                "location": {
+                    "lat": 42.4012712,
+                    "lng": -71.13934809999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.4026253302915,
+                        "lng": -71.13800541970849
+                    },
+                    "southwest": {
+                        "lat": 42.3999273697085,
+                        "lng": -71.1407033802915
+                    }
+                }
+            },
+            "place_id": "EigzMiBGYWlybW9udCBTdCwgQXJsaW5ndG9uLCBNQSAwMjQ3NCwgVVNB",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "728bafd64d6ccd612d73b6f9694f596e",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:38:55.706098",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}

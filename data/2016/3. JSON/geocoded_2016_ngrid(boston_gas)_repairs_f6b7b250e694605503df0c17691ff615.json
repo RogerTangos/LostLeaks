@@ -1,0 +1,90 @@
+{
+    "filename": "geocoded_2016_ngrid(boston_gas)_repairs_f6b7b250e694605503df0c17691ff615.json",
+    "leaks_or_repairs": "repairs",
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1031",
+                    "short_name": "1031",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Sea Street",
+                    "short_name": "Sea St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Quincy",
+                    "short_name": "Quincy",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Norfolk County",
+                    "short_name": "Norfolk County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Massachusetts",
+                    "short_name": "MA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "02169",
+                    "short_name": "02169",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1031 Sea St, Quincy, MA 02169, USA",
+            "geometry": {
+                "location": {
+                    "lat": 42.266153,
+                    "lng": -70.95794099999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.26750198029149,
+                        "lng": -70.95659201970848
+                    },
+                    "southwest": {
+                        "lat": 42.2648040197085,
+                        "lng": -70.9592899802915
+                    }
+                }
+            },
+            "place_id": "ChIJI1RC_4Zk44kRhkjXTLxu4k4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "row_id": "f6b7b250e694605503df0c17691ff615",
+    "status": "OK",
+    "timestamp": "2017-05-01T16:32:28.564137",
+    "utility": "ngrid(boston_gas)",
+    "year": 2016
+}
