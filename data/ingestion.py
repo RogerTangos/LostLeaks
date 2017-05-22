@@ -32,11 +32,14 @@ def read_json_files(
             'location_type')
         timestamp = dateutil.parser.parse(text.get('timestamp'))
         record_type = text.get('leaks_or_repairs')
-        # record_date = needs to be fixed
+        record_date = dateutil.parser.parse(text.get('record_date'))
+        grade = text.get('grade')
+
+        print('foo')
 
 
 def main():
-    # read_json_files(2020)
+    read_json_files(2020)
     pass
 
 
